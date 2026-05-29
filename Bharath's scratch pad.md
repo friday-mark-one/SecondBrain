@@ -14,6 +14,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 ### TODO
 - [x] Auto push github repo every 10 minutes
 - [x] Setup gmail for agent
+- [ ] Add Mira to Friday bot
 - [ ] Obsidian
 	- [ ] Settings
 		- [ ] File links
