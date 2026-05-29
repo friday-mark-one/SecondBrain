@@ -2,6 +2,7 @@
 - [ ] Milk
 - [ ] Tomatoes
 - [ ] Potato
+- [ ] Glad frebreeze
 
 ## Fred Meyer
 - [ ] Bread
