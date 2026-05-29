@@ -1,6 +1,7 @@
 ## Costco
 - [ ] Milk
 - [ ] Tomatoes
+- [ ] Potato
 
 ## Fred Meyer
 - [ ] Bread
