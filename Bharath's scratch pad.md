@@ -1,0 +1,26 @@
+DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
+
+1. Installed Ollama with small LLM
+2. LiteLLM configured with Gemini 3 Flash, Ollama, OpenRouter, etc.
+	1. Check ~/litellm
+	2. LiteLLM runs as a launchdaemon
+3. Antigravity
+4. VSCode + Kilo
+5. OpenClaw in a separate mac account
+6. Obsidian
+7. Workspace agent .md files copy over to Obsidian through an fswatch script triggered by a launchagent
+
+
+### TODO
+- [ ] Auto push github repo every 10 minutes
+- [ ] Setup gmail for agent
+- [ ] Obsidian
+	- [ ] Settings
+		- [ ] File links
+		- [ ] Default location for new attachments
+		- [ ] Sync unsupported file types
+	- [ ] Plugins
+		- [ ] Data files editor
+		- [ ] HTML Reader
+- [ ] OpenClaw
+	- [ ] openclaw configure --web
