@@ -12,8 +12,8 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 
 
 ### TODO
-- [ ] Auto push github repo every 10 minutes
-- [ ] Setup gmail for agent
+- [x] Auto push github repo every 10 minutes
+- [x] Setup gmail for agent
 - [ ] Obsidian
 	- [ ] Settings
 		- [ ] File links
@@ -24,3 +24,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 		- [ ] HTML Reader
 - [ ] OpenClaw
 	- [ ] openclaw configure --web
+- [ ] LiteLLM
+	- [ ] Setup caching with redis
+	- [ ] centralized observability with a local solution like postgres
+	- [ ] Fallback from deep seek to Gemini for 429 or 500
