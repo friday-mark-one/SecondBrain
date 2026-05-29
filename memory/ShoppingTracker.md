@@ -5,6 +5,7 @@
 ## Fred Meyer
 - [ ] Bread
 - [ ] Onions
+- [ ] Cilantro
 
 ## Indian store
 - [ ] Idly maavu
