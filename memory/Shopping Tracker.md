@@ -1,14 +1,13 @@
 ## Costco
 - [ ] Staples
-	- [ ]  Milk
-	- [ ] Tomatoes
+	- [x]  Milk
+	- [x] Tomatoes
 	- [ ] Paneer
 - [ ] Tostitos
-- [ ] Pumpkin seeds
-- [ ] Tomatoes
+- [x] Pumpkin seeds
 - [ ] Glad frebreeze
-- [ ] Goyyakai
-- [ ] Kirkland Water
+- [x] Goyyakai
+- [x] Kirkland Water
 
 ## Fred Meyer
 - [ ] Staples
@@ -24,13 +23,12 @@
 ## Indian store
 - [ ] Staples
 	- [ ] Shredded coconut
-	- [ ] Roti
-- [ ] Idly maavu
-- [ ] Rice
-- [ ] Coffee
-- [ ] Makhana
+	- [x] Roti
+- [x] Idly maavu
+- [x] Rice
+- [x] Coffee
+- [x] Makhana
 - [ ] Low fat Paneer
-- [ ] Lemon
 
 ## Trader Joe's
 - [ ] 

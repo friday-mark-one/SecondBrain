@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent-protocol/HEARTBEAT.md",
-                "mode": "source",
+                "file": "memory/Shopping Tracker.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HEARTBEAT"
+              "title": "Shopping Tracker"
             }
           }
         ]
@@ -201,19 +201,19 @@
   },
   "active": "d9402c342d1fae96",
   "lastOpenFiles": [
-    "agent-protocol/IDENTITY.md",
-    "agent-protocol/HEARTBEAT.md",
+    "memory/Needs research before shopping.md",
+    "memory/Shopping Tracker.md",
+    "memory/Food menu.md",
     "agent-protocol/AGENTS.md",
+    "memory/MEMORY.md",
+    "memory/logs/05-31-26.md",
+    "memory/AI automation projects.md",
     "memory/Things to return.md",
     "Bharath's scratch pad.md",
-    "memory/logs/05-31-26.md",
     "memory/Todo.md",
-    "memory/Shopping Tracker.md",
-    "memory/Needs research before shopping.md",
-    "memory/MEMORY.md",
     "memory/Hobby projects.md",
-    "memory/Food menu.md",
-    "memory/AI automation projects.md",
+    "agent-protocol/HEARTBEAT.md",
+    "agent-protocol/IDENTITY.md",
     "memory/Untitled",
     "memory/Kitchen staples.md",
     "agent-protocol/USER.md",

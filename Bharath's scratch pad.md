@@ -9,6 +9,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 5. OpenClaw in a separate mac account
 6. Obsidian
 	1. With git sync to other devices
+	2. Obsidian sync paid so it syncs to mobile
 7. Workspace agent .md files copy over to Obsidian through an fswatch script triggered by a launchagent
 
 
