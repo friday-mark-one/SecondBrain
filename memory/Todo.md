@@ -1,0 +1,23 @@
+- [ ] Buy snoqualmie pass
+- [ ] Get birthday gift for Ajay
+- [ ] Check wedding album
+	- [ ] Select album pictures
+	- [ ] Photoshop photos
+- [ ] Book india flight
+- [ ] Mock interview for Mira
+- [ ] Investment
+	- [ ] 401k
+	- [ ] IRA
+	- [ ] Backdoor ROTH IRA
+- [ ] Hand casting setup
+- [ ] Clean chimney
+- [ ] Canada visa
+- [ ] Wash birkenstock sandal
+- [ ] Create a gmail alias
+- [ ] Organize google drive
+- [ ] Jailbreak Kindle
+- [ ] Make marinara and pesto sauce
+- [ ] Car
+	- [ ] Stick LA magnet
+	- [ ] Window tint
+- [ ] Create a DIY mini house

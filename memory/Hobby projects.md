@@ -1,0 +1,8 @@
+- [ ] Camera on roborock
+- [ ] Mic setup
+- [ ] Figure out the best browser
+	- [ ] Felou
+	- [ ] Comet
+	- [ ] Atlas
+	- [ ] Sigma
+- [ ] Lovable
