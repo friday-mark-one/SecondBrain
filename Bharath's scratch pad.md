@@ -29,5 +29,6 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] openclaw configure --web
 - [ ] LiteLLM
 	- [ ] Setup caching with redis
+		- [ ] https://gemini.google.com/app/e257d9d1a2368724
 	- [ ] centralized observability with a local solution like postgres
 	- [ ] Fallback from deep seek to Gemini for 429 or 500
