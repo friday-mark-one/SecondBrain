@@ -14,30 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/AI automation projects.md",
+                "file": "agent-protocol/AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI automation projects"
-            }
-          },
-          {
-            "id": "a4e7f32a01cf750b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memory/Things to return.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things to return"
+              "title": "AGENTS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ebe615f2d6c3eadc",
@@ -127,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memory/Things to return.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Things to return"
+              "title": "Backlinks"
             }
           },
           {
@@ -146,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memory/Things to return.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Things to return"
+              "title": "Outgoing links"
             }
           },
           {
@@ -189,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory/Things to return.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Things to return"
+              "title": "Outline"
             }
           }
         ]
@@ -217,17 +199,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4e7f32a01cf750b",
+  "active": "d9402c342d1fae96",
   "lastOpenFiles": [
-    "memory/AI automation projects.md",
-    "memory/Things to return.md",
-    "memory/Food menu.md",
-    "memory/Hobby projects.md",
-    "memory/Todo.md",
+    "memory/Shopping Tracker.md",
     "memory/Needs research before shopping.md",
-    "memory/Untitled",
-    "memory/ShoppingTracker.md",
     "memory/MEMORY.md",
+    "memory/Hobby projects.md",
+    "memory/Food menu.md",
+    "memory/AI automation projects.md",
+    "memory/Todo.md",
+    "memory/Things to return.md",
+    "memory/Untitled",
     "memory/Kitchen staples.md",
     "Bharath's scratch pad.md",
     "agent-protocol/USER.md",
