@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Things to return.md",
+                "file": "agent-protocol/HEARTBEAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to return"
+              "title": "HEARTBEAT"
             }
           }
         ]
@@ -201,16 +201,18 @@
   },
   "active": "d9402c342d1fae96",
   "lastOpenFiles": [
+    "agent-protocol/IDENTITY.md",
+    "agent-protocol/HEARTBEAT.md",
+    "agent-protocol/AGENTS.md",
+    "memory/Things to return.md",
+    "Bharath's scratch pad.md",
     "memory/logs/05-31-26.md",
     "memory/Todo.md",
-    "memory/Things to return.md",
     "memory/Shopping Tracker.md",
     "memory/Needs research before shopping.md",
     "memory/MEMORY.md",
     "memory/Hobby projects.md",
     "memory/Food menu.md",
-    "agent-protocol/AGENTS.md",
-    "Bharath's scratch pad.md",
     "memory/AI automation projects.md",
     "memory/Untitled",
     "memory/Kitchen staples.md",
@@ -219,8 +221,6 @@
     "memory",
     "agent-protocol/TOOLS.md",
     "agent-protocol/SOUL.md",
-    "agent-protocol/IDENTITY.md",
-    "agent-protocol/HEARTBEAT.md",
     "Welcome.md",
     "agent-protocol"
   ]
