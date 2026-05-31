@@ -6,7 +6,7 @@
       {
         "id": "d402fd8f3118ba92",
         "type": "tabs",
-        "dimension": 64.0552995391705,
+        "dimension": 54.93395493395493,
         "children": [
           {
             "id": "d9402c342d1fae96",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/MEMORY.md",
+                "file": "memory/Things to return.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MEMORY"
+              "title": "Things to return"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "ebe615f2d6c3eadc",
         "type": "tabs",
-        "dimension": 35.944700460829495,
+        "dimension": 45.06604506604507,
         "children": [
           {
             "id": "72689b1518d46e2d",
@@ -201,16 +201,16 @@
   },
   "active": "d9402c342d1fae96",
   "lastOpenFiles": [
-    "memory/Food menu.md",
-    "memory/MEMORY.md",
-    "memory/Shopping Tracker.md",
-    "memory/Things to return.md",
+    "memory/logs/05-31-26.md",
     "memory/Todo.md",
-    "Bharath's scratch pad.md",
-    "agent-protocol/AGENTS.md",
+    "memory/Things to return.md",
+    "memory/Shopping Tracker.md",
     "memory/Needs research before shopping.md",
     "memory/MEMORY.md",
     "memory/Hobby projects.md",
+    "memory/Food menu.md",
+    "agent-protocol/AGENTS.md",
+    "Bharath's scratch pad.md",
     "memory/AI automation projects.md",
     "memory/Untitled",
     "memory/Kitchen staples.md",

@@ -1,9 +1,9 @@
 ## Costco
-- [ ] Comforter
+- [x] Comforter
 
 ## Kohls
-- [ ] Stanley cup
-- [ ] Digital frame
+- [x] Stanley cup
+- [x] Digital frame
 
 ## Fedex
 - [ ] 
@@ -16,3 +16,6 @@
 
 ## Walmart
 - [ ] 
+
+
+[[Shopping Tracker]]

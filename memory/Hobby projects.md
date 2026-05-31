@@ -6,3 +6,4 @@
 	- [ ] Atlas
 	- [ ] Sigma
 - [ ] Lovable
+- [ ] [[AI automation projects]]
