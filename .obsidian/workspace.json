@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bharath's scratch pad.md",
+                "file": "memory/AI automation projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bharath's scratch pad"
+              "title": "AI automation projects"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "d9402c342d1fae96",
   "lastOpenFiles": [
+    "Bharath's scratch pad.md",
     "agent-protocol/HEARTBEAT.md",
     "memory/Todo.md",
     "memory/Things to return.md",
@@ -211,7 +212,6 @@
     "memory/MEMORY.md",
     "memory/logs/05-31-26.md",
     "memory/AI automation projects.md",
-    "Bharath's scratch pad.md",
     "memory/Hobby projects.md",
     "agent-protocol/IDENTITY.md",
     "memory/Untitled",
