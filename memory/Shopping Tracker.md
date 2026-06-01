@@ -18,12 +18,17 @@
 	- [ ] Green chilli
 	- [ ] Lemon
 	- [ ] Bread
-- [ ] 
+	- [ ] Raisins
+	- [ ] Chia seeds
+	- [ ] Salt
 
 ## Indian store
 - [ ] Staples
 	- [ ] Shredded coconut
 	- [x] Roti
+	- [ ] Tamarind paste
+	- [ ] Green chili
+	- [ ] Garlic
 - [x] Idly maavu
 - [x] Rice
 - [x] Coffee
