@@ -6,7 +6,7 @@
       {
         "id": "d402fd8f3118ba92",
         "type": "tabs",
-        "dimension": 54.93395493395493,
+        "dimension": 45.81607290803645,
         "children": [
           {
             "id": "d9402c342d1fae96",
@@ -14,12 +14,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bharath's scratch pad.md",
+                "file": "memory/MEMORY.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Bharath's scratch pad"
+              "title": "MEMORY"
             }
           }
         ]
@@ -27,7 +37,7 @@
       {
         "id": "ebe615f2d6c3eadc",
         "type": "tabs",
-        "dimension": 45.06604506604507,
+        "dimension": 54.18392709196355,
         "children": [
           {
             "id": "72689b1518d46e2d",
@@ -179,8 +189,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "cd2434390309a613",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,20 +220,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9402c342d1fae96",
+  "active": "72689b1518d46e2d",
   "lastOpenFiles": [
+    "memory/MEMORY.md",
+    "2026-05-31.md",
+    "memory/Hobby projects.md",
+    "memory/Needs research before shopping.md",
+    "memory/Shopping Tracker.md",
+    "memory/Things to return.md",
     "memory/AI automation projects.md",
+    "memory/Food menu.md",
+    "memory/Todo.md",
     "Bharath's scratch pad.md",
     "agent-protocol/HEARTBEAT.md",
-    "memory/Todo.md",
-    "memory/Things to return.md",
-    "memory/Shopping Tracker.md",
-    "memory/Needs research before shopping.md",
-    "memory/Food menu.md",
     "agent-protocol/AGENTS.md",
-    "memory/MEMORY.md",
     "memory/logs/05-31-26.md",
-    "memory/Hobby projects.md",
     "agent-protocol/IDENTITY.md",
     "memory/Untitled",
     "memory/Kitchen staples.md",
