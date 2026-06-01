@@ -25,6 +25,9 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] Plugins
 		- [ ] Data files editor
 		- [ ] HTML Reader
+		- [ ] excalidraw
+		- [ ] kanban
+		- [ ] soak
 - [ ] OpenClaw
 	- [ ] openclaw configure --web
 - [ ] LiteLLM
