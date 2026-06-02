@@ -25,7 +25,7 @@
 - [ ] Bread
 
 ## Indian store
-- [ ] Tamarind paste
+- [x] Tamarind paste
 - [ ] Green chili
 - [ ] Garlic
 - [x] Idly maavu
