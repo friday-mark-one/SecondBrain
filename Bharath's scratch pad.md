@@ -27,7 +27,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 		- [ ] HTML Reader
 		- [ ] excalidraw
 		- [ ] kanban
-		- [ ] soak
+		- [ ] slash commands
 - [ ] OpenClaw
 	- [ ] openclaw configure --web
 - [ ] LiteLLM
