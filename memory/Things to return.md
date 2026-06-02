@@ -17,5 +17,7 @@
 ## Walmart
 - [ ] 
 
+### Fabletics
+- [ ] t-shirt
 
 [[Shopping Tracker]]
