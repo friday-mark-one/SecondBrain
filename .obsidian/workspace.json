@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d402fd8f3118ba92",
+        "id": "ebe615f2d6c3eadc",
         "type": "tabs",
-        "dimension": 46.236559139784944,
         "children": [
           {
-            "id": "d9402c342d1fae96",
+            "id": "4c6043b159f08726",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,9 +34,8 @@
         ]
       },
       {
-        "id": "ebe615f2d6c3eadc",
+        "id": "21ae6e3745a06471",
         "type": "tabs",
-        "dimension": 53.76344086021505,
         "children": [
           {
             "id": "72689b1518d46e2d",
@@ -220,13 +218,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9402c342d1fae96",
+  "active": "4c6043b159f08726",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "memory/Shopping Tracker.md",
     "memory/MEMORY.md",
     "2026-05-31.md",
     "memory/Hobby projects.md",
     "memory/Needs research before shopping.md",
-    "memory/Shopping Tracker.md",
     "memory/Things to return.md",
     "memory/AI automation projects.md",
     "memory/Food menu.md",
