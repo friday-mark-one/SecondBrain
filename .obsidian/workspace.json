@@ -6,7 +6,7 @@
       {
         "id": "d402fd8f3118ba92",
         "type": "tabs",
-        "dimension": 45.81607290803645,
+        "dimension": 46.236559139784944,
         "children": [
           {
             "id": "d9402c342d1fae96",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/MEMORY.md",
+                "file": "memory/Shopping Tracker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MEMORY"
+              "title": "Shopping Tracker"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "ebe615f2d6c3eadc",
         "type": "tabs",
-        "dimension": 54.18392709196355,
+        "dimension": 53.76344086021505,
         "children": [
           {
             "id": "72689b1518d46e2d",
@@ -220,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72689b1518d46e2d",
+  "active": "d9402c342d1fae96",
   "lastOpenFiles": [
     "memory/MEMORY.md",
     "2026-05-31.md",

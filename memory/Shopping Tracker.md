@@ -1,31 +1,30 @@
 ## Costco
-- [ ] Staples
-	- [x]  Milk
-	- [x] Tomatoes
-	- [ ] Paneer
 - [ ] Tostitos
 - [x] Pumpkin seeds
 - [ ] Glad frebreeze
 - [x] Goyyakai
 - [x] Kirkland Water
 
+**Costco Staples
+- [x]  Milk
+- [x] Tomatoes
+- [ ] Paneer
+
 ## Fred Meyer
-- [ ] Staples
-	- [ ] Cilantro
-	- [ ] Onion
-	- [ ] Ginger
-	- [ ] Garlic
-	- [ ] Green chilli
-	- [ ] Lemon
-	- [ ] Bread
 - [ ] Raisins
 - [ ] Chia seeds
 - [ ] Salt
 
+**Fred Meyer Staples
+- [ ] Cilantro
+- [ ] Onion
+- [ ] Ginger
+- [ ] Garlic
+- [ ] Green chilli
+- [ ] Lemon
+- [ ] Bread
+
 ## Indian store
-- [ ] Staples
-	- [ ] Shredded coconut
-	- [x] Roti
 - [ ] Tamarind paste
 - [ ] Green chili
 - [ ] Garlic
@@ -34,6 +33,10 @@
 - [x] Coffee
 - [x] Makhana
 - [ ] Low fat Paneer
+
+ **Indian store staples
+- [ ] Shredded coconut
+- [x] Roti
 
 ## Trader Joe's
 - [ ] 
