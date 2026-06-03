@@ -11,9 +11,9 @@
 - [ ] Paneer
 
 ## Fred Meyer
-- [ ] Raisins
-- [ ] Chia seeds
-- [ ] Salt
+- [x] Raisins
+- [x] Chia seeds
+- [x] Salt
 
 **Fred Meyer Staples
 - [ ] Cilantro
