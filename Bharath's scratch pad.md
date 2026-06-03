@@ -21,11 +21,11 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] Settings
 		- [ ] File links
 		- [ ] Default location for new attachments
-		- [ ] Sync unsupported file types
+		- [x] Sync unsupported file types
 	- [ ] Plugins
-		- [ ] Data files editor
-		- [ ] HTML Reader
-		- [ ] excalidraw
+		- [x] Data files editor
+		- [x] HTML Reader
+		- [x] excalidraw
 		- [ ] kanban
 		- [ ] slash commands
 - [ ] OpenClaw
