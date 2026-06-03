@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "jobs": [
+    { 
+      "id": "323284e3-cc9b-47cc-89ba-f88b055635e6",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:8371966429",
+      "name": "Buy Snoqualmie pass",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1780454534619,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-06-03T04:41:00.000Z"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "⏰ Reminder: Buy Snoqualmie pass."
+      },
+      "state": {}
+    }
+  ]
+}

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Shopping Tracker.md",
+                "file": "agent-protocol/HEARTBEAT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping Tracker"
+              "title": "HEARTBEAT"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory/Shopping Tracker.md",
+                "file": "agent-protocol/HEARTBEAT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shopping Tracker"
+              "title": "Outline of HEARTBEAT"
             }
           },
           {
@@ -222,13 +222,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c6043b159f08726",
+  "active": "55e70203280d7844",
   "lastOpenFiles": [
+    "agent-protocol/cron/runs/8c19234a-ea94-4836-8524-84524c1eea05.jsonl",
+    "agent-protocol/cron/runs",
+    "agent-protocol/cron/jobs.json.bak",
+    "agent-protocol/cron/jobs.json",
+    "agent-protocol/cron/jobs-state.json",
+    "gateway/config-agents.md",
+    "agent-protocol/HEARTBEAT.md",
+    "gateway",
+    "memory/Shopping Tracker.md",
+    "agent-protocol/cron",
     "memory/Needs research before shopping.md",
     "Bharath's scratch pad.md",
     "Excalidraw/Drawing 2026-06-01 20.17.26.excalidraw.md",
     "Excalidraw",
-    "memory/Shopping Tracker.md",
     "Untitled.canvas",
     "memory/MEMORY.md",
     "2026-05-31.md",
@@ -237,7 +246,6 @@
     "memory/AI automation projects.md",
     "memory/Food menu.md",
     "memory/Todo.md",
-    "agent-protocol/HEARTBEAT.md",
     "agent-protocol/AGENTS.md",
     "memory/logs/05-31-26.md",
     "agent-protocol/IDENTITY.md",
@@ -248,7 +256,6 @@
     "memory",
     "agent-protocol/TOOLS.md",
     "agent-protocol/SOUL.md",
-    "Welcome.md",
-    "agent-protocol"
+    "Welcome.md"
   ]
 }
