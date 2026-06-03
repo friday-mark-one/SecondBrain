@@ -1,5 +1,5 @@
-- [ ] Buy snoqualmie pass
-- [ ] Get birthday gift for Ajay
+- [x] Buy snoqualmie pass
+- [x] Get birthday gift for Ajay
 - [ ] Check wedding album
 	- [ ] Select album pictures
 	- [ ] Photoshop photos
