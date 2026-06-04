@@ -15,8 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "memory/Active Shopping.md",
-                "mode": "source",
-                "source": true,
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -226,6 +226,7 @@
   "lastOpenFiles": [
     "memory/Shopping Tracker.md",
     "memory/Active Shopping.md",
+    "memory/AI automation projects.md",
     "Bharath's scratch pad.md",
     "agent-protocol/cron/jobs.json",
     "Untitled.canvas",
@@ -244,7 +245,6 @@
     "2026-05-31.md",
     "memory/Hobby projects.md",
     "memory/Things to return.md",
-    "memory/AI automation projects.md",
     "memory/Food menu.md",
     "memory/Todo.md",
     "agent-protocol/AGENTS.md",
