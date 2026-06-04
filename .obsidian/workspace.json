@@ -6,7 +6,7 @@
       {
         "id": "ebe615f2d6c3eadc",
         "type": "tabs",
-        "dimension": 57.437275985663085,
+        "dimension": 64.6057347670251,
         "children": [
           {
             "id": "4c6043b159f08726",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "memory/Active Shopping.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,7 +37,7 @@
       {
         "id": "21ae6e3745a06471",
         "type": "tabs",
-        "dimension": 42.562724014336915,
+        "dimension": 35.39426523297491,
         "children": [
           {
             "id": "72689b1518d46e2d",

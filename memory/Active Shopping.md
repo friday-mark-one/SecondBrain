@@ -1,16 +1,19 @@
-```TASK 
-FROM "Shopping-List.md"
+```dataview
+TASK 
+WHERE file.name = "Shopping Tracker"
 WHERE !completed
 GROUP BY store
 ```
 
-```TASK 
-FROM "Shopping-List.md"
-WHERE !completed AND type = "Staples"
+```dataview
+TASK 
+WHERE file.name = "Shopping Tracker"
+AND !completed AND type = "Staples"
 GROUP BY store
 ```
 
-```TASK 
-FROM "Shopping-List.md"
-WHERE !completed AND store = "Costco"
+```dataview
+TASK 
+WHERE file.name = "Shopping Tracker"
+AND !completed AND store = "Costco"
 ```
