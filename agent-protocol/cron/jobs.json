@@ -6,7 +6,7 @@
       "agentId": "main",
       "sessionKey": "agent:main:telegram:direct:8371966429",
       "name": "Reminder: Install Zed editor",
-      "enabled": true,
+      "enabled": false,
       "deleteAfterRun": true,
       "createdAtMs": 1780543887645,
       "schedule": {
