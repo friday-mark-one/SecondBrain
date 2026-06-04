@@ -1,4 +1,5 @@
 ```dataviewjs
+// 1. Target the exact new filename
 const page = dv.page("Shopping Tracker"); 
 
 if (!page) {
@@ -7,125 +8,164 @@ if (!page) {
     const allTasks = page.file.tasks;
     const allGrouped = allTasks.groupBy(t => t.section.subpath || "Uncategorized");
 
-    // Inject CSS silently
+    // 2. Helper function to assign dynamic graphic icons based on the store name
+    function getStoreIcon(name) {
+        const n = name.toLowerCase();
+        if (n.includes("costco")) return "🛒";
+        if (n.includes("fred meyer") || n.includes("grocery")) return "🥬";
+        if (n.includes("indian")) return "🌶️";
+        if (n.includes("trader joe")) return "🌺";
+        if (n.includes("amazon")) return "📦";
+        if (n.includes("sephora") || n.includes("makeup")) return "✨";
+        if (n.includes("hardware") || n.includes("home depot")) return "🔨";
+        return "🛍️"; // Default fallback icon
+    }
+
+    // 3. Inject the highly visual, app-like CSS
     dv.el("style", `
     .shopping-dashboard {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        gap: 1.5rem;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 2rem;
         padding: 1rem 0;
     }
     .store-card {
-        border-radius: 16px;
+        background: var(--background-secondary-alt);
+        border-radius: 24px;
         padding: 1.5rem;
-        background: var(--background-secondary);
-        border: 1px solid var(--background-modifier-border-hover);
-        box-shadow: 0 8px 16px rgba(0,0,0,0.04);
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        border: 1px solid var(--background-modifier-border);
     }
-    .store-card:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 12px 20px rgba(0,0,0,0.08);
-    }
-    .store-header {
-        font-size: 1.3em;
-        font-weight: 700;
-        color: var(--text-accent);
-        margin: 0 0 0.8rem 0;
+    
+    /* Graphic Headers */
+    .store-header-graphic {
         display: flex;
-        justify-content: space-between;
         align-items: center;
-        border-bottom: none;
-    }
-    .store-progress {
-        font-size: 0.7em;
-        color: var(--text-muted);
-        background: var(--background-primary);
-        padding: 0.2rem 0.6rem;
-        border-radius: 12px;
-        font-weight: 600;
-    }
-    .progress-bar-bg {
-        height: 6px;
-        background: var(--background-modifier-border);
-        border-radius: 4px;
+        gap: 16px;
         margin-bottom: 1.2rem;
-        overflow: hidden;
+        padding-bottom: 1rem;
+        border-bottom: 2px dashed var(--background-modifier-border-hover);
     }
-    .progress-bar-fill {
-        height: 100%;
-        background: var(--interactive-accent);
-        transition: width 0.4s ease;
+    .store-icon {
+        font-size: 2.2em;
+        background: var(--background-primary);
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 18px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     }
-    .task-list-item input[type=checkbox] {
-        transform: scale(1.3);
-        margin-right: 14px;
+    .store-title {
+        margin: 0 !important;
+        font-size: 1.5em;
+        font-weight: 800;
+        letter-spacing: -0.5px;
+        color: var(--text-normal);
+    }
+
+    /* Massive, Tap-Friendly List Items (The "Buttons") */
+    .shopping-dashboard .contains-task-list {
+        padding-left: 0 !important;
+        list-style: none !important;
+        margin: 0 !important;
+    }
+    .shopping-dashboard .task-list-item {
+        display: flex !important;
+        align-items: center;
+        background: var(--background-primary);
+        padding: 14px 18px !important;
+        margin-bottom: 12px;
+        border-radius: 16px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+        border: 1px solid var(--background-modifier-border-hover);
+        font-size: 1.15em;
+        font-weight: 600;
+        color: var(--text-normal);
+        transition: transform 0.1s ease, box-shadow 0.1s ease;
+    }
+    .shopping-dashboard .task-list-item:active {
+        transform: scale(0.97);
+        box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+    
+    /* Huge Checkboxes for Mobile */
+    .shopping-dashboard .task-list-item input[type=checkbox] {
+        width: 28px !important;
+        height: 28px !important;
+        margin-right: 18px !important;
         cursor: pointer;
-        accent-color: var(--interactive-accent);
+        border-radius: 8px !important;
+        border: 2px solid var(--text-muted);
+        transition: all 0.2s ease;
     }
-    .task-list-item {
-        padding: 0.3rem 0;
-        font-size: 1.05em;
+    .shopping-dashboard .task-list-item input[type=checkbox]:checked {
+        background-color: var(--interactive-accent);
+        border-color: var(--interactive-accent);
     }
+
+    /* Success Empty State */
     .all-done-msg {
         text-align: center;
-        padding: 3rem 1rem;
-        font-size: 1.2em;
-        color: var(--text-success);
+        padding: 4rem 2rem;
         background: var(--background-secondary);
-        border-radius: 16px;
-        border: 1px dashed var(--background-modifier-border);
+        border-radius: 24px;
+        border: 2px dashed var(--background-modifier-border);
+    }
+    .all-done-icon {
+        font-size: 4em;
+        margin-bottom: 1rem;
+        display: block;
+    }
+    .all-done-text {
+        font-size: 1.4em;
+        font-weight: 700;
+        color: var(--text-muted);
     }
     `);
 
-    // 1. Create the main grid container natively using the DOM
+    // 4. Create the main grid container natively to prevent leaks
     const gridContainer = dv.container.createEl("div", { cls: "shopping-dashboard" });
-    
-    // 2. Save the original Dataview container
     const originalContainer = dv.container;
 
     let totalPendingCount = 0;
 
     for (let group of allGrouped) {
         const tasks = group.rows;
-        const total = tasks.length;
-        const completed = tasks.filter(t => t.fullyCompleted).length;
         const pending = tasks.filter(t => !t.fullyCompleted);
-        const percent = Math.round((completed / total) * 100);
         
         if (pending.length > 0) {
             totalPendingCount += pending.length;
             
-            // 3. Create the card inside the grid container
             const card = gridContainer.createEl("div", { cls: "store-card" });
+            const icon = getStoreIcon(group.key);
             
-            // 4. Safely inject the header and progress bar HTML inside the card
+            // Inject the graphic header
             card.innerHTML = `
-                <h3 class="store-header">
-                    ${group.key}
-                    <span class="store-progress">${completed}/${total} Done</span>
-                </h3>
-                <div class="progress-bar-bg">
-                    <div class="progress-bar-fill" style="width: ${percent}%"></div>
+                <div class="store-header-graphic">
+                    <span class="store-icon">${icon}</span>
+                    <h3 class="store-title">${group.key}</h3>
                 </div>
             `;
             
-            // 5. The Magic Trick: Temporarily tell Dataview that "dv.container" is now this specific card
+            // Render tasks natively inside the card
             dv.container = card;
-            
-            // 6. Render the interactive checkboxes natively inside the card
             dv.taskList(pending, false); 
         }
     }
 
-    // 7. Restore the original container so Dataview doesn't break
+    // Restore container
     dv.container = originalContainer;
 
-    // Display empty state if everything is checked off
+    // Graphic Empty State
     if (totalPendingCount === 0) {
         dv.container.createEl("div", { 
             cls: "all-done-msg", 
-            innerHTML: "🎉 <strong>All done!</strong> Your shopping list is completely empty. Time to go home." 
+            innerHTML: `
+                <span class="all-done-icon">🛒✨</span>
+                <div class="all-done-text">All done! Your list is empty.</div>
+            `
         });
     }
 }
