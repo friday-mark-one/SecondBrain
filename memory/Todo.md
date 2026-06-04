@@ -21,3 +21,4 @@
 	- [ ] Stick LA magnet
 	- [ ] Window tint
 - [ ] Create a DIY mini house
+- [ ] Install Zed editor
