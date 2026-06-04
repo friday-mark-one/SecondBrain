@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bharath's scratch pad.md",
+                "file": "memory/Active Shopping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bharath's scratch pad"
+              "title": "Active Shopping"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bharath's scratch pad.md",
+                "file": "memory/Active Shopping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bharath's scratch pad"
+              "title": "Outline of Active Shopping"
             }
           },
           {
@@ -224,8 +224,10 @@
   },
   "active": "4c6043b159f08726",
   "lastOpenFiles": [
-    "agent-protocol/cron/jobs.json",
+    "memory/Shopping Tracker.md",
+    "memory/Active Shopping.md",
     "Bharath's scratch pad.md",
+    "agent-protocol/cron/jobs.json",
     "Untitled.canvas",
     "agent-protocol/HEARTBEAT.md",
     "agent-protocol/cron/runs/8c19234a-ea94-4836-8524-84524c1eea05.jsonl",
@@ -234,7 +236,6 @@
     "agent-protocol/cron/jobs-state.json",
     "gateway/config-agents.md",
     "gateway",
-    "memory/Shopping Tracker.md",
     "agent-protocol/cron",
     "memory/Needs research before shopping.md",
     "Excalidraw/Drawing 2026-06-01 20.17.26.excalidraw.md",
