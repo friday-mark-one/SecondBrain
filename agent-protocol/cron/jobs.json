@@ -1,4 +1,31 @@
 {
   "version": 1,
-  "jobs": []
+  "jobs": [
+    {
+      "id": "7f53ccee-7245-4919-ad74-dc794d500695",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:8371966429",
+      "name": "Reminder: Install Zed editor",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1780543887645,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-06-04T18:00:00.000Z"
+      },
+      "sessionTarget": "session:agent:main:telegram:direct:8371966429",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "⏰ Reminder: Install Zed editor!",
+        "timeoutSeconds": 30
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8371966429"
+      },
+      "state": {}
+    }
+  ]
 }
