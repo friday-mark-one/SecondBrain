@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Shopping Tracker.md",
+                "file": "memory/Active Shopping.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping Tracker"
+              "title": "Active Shopping"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory/Shopping Tracker.md",
+                "file": "memory/Active Shopping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shopping Tracker"
+              "title": "Outline of Active Shopping"
             }
           },
           {
@@ -224,8 +224,8 @@
   },
   "active": "4c6043b159f08726",
   "lastOpenFiles": [
-    "memory/Active Shopping.md",
     "memory/Shopping Tracker.md",
+    "memory/Active Shopping.md",
     "Bharath's scratch pad.md",
     "agent-protocol/cron/jobs.json",
     "Untitled.canvas",
