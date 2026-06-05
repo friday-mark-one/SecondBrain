@@ -1,3 +1,6 @@
+---
+cssclasses: shopping-app 
+---
 ## Costco
 - [ ] Tostitos
 - [x] Pumpkin seeds
