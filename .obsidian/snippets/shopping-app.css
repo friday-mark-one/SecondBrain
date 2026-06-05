@@ -1,0 +1,101 @@
+/* --- APP LAYOUT --- */
+.shopping-app .shopping-dashboard {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    padding: 1rem 0;
+}
+.shopping-app .store-card {
+    background: var(--background-secondary-alt);
+    border-radius: 24px;
+    padding: 1.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    border: 1px solid var(--background-modifier-border);
+}
+
+/* --- GRAPHIC HEADERS --- */
+.shopping-app .store-header-graphic {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 1.2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px dashed var(--background-modifier-border-hover);
+}
+.shopping-app .store-icon {
+    font-size: 2.2em;
+    background: var(--background-primary);
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+.shopping-app .store-title {
+    margin: 0 !important;
+    font-size: 1.5em;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: var(--text-normal);
+}
+
+/* --- MASSIVE MOBILE BUTTONS --- */
+.shopping-app .shopping-dashboard .contains-task-list {
+    padding-left: 0 !important;
+    list-style: none !important;
+    margin: 0 !important;
+}
+.shopping-app .shopping-dashboard .task-list-item {
+    display: flex !important;
+    align-items: center;
+    background: var(--background-primary);
+    padding: 14px 18px !important;
+    margin-bottom: 12px;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+    border: 1px solid var(--background-modifier-border-hover);
+    font-size: 1.15em;
+    font-weight: 600;
+    color: var(--text-normal);
+    transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+.shopping-app .shopping-dashboard .task-list-item:active {
+    transform: scale(0.97);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
+/* --- CHECKBOX SCALING --- */
+.shopping-app .shopping-dashboard .task-list-item input[type=checkbox] {
+    width: 28px !important;
+    height: 28px !important;
+    margin-right: 18px !important;
+    cursor: pointer;
+    border-radius: 8px !important;
+    border: 2px solid var(--text-muted);
+    transition: all 0.2s ease;
+}
+.shopping-app .shopping-dashboard .task-list-item input[type=checkbox]:checked {
+    background-color: var(--interactive-accent);
+    border-color: var(--interactive-accent);
+}
+
+/* --- EMPTY STATE --- */
+.shopping-app .all-done-msg {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: var(--background-secondary);
+    border-radius: 24px;
+    border: 2px dashed var(--background-modifier-border);
+}
+.shopping-app .all-done-icon {
+    font-size: 4em;
+    margin-bottom: 1rem;
+    display: block;
+}
+.shopping-app .all-done-text {
+    font-size: 1.4em;
+    font-weight: 700;
+    color: var(--text-muted);
+}
