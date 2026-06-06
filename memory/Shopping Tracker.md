@@ -1,3 +1,5 @@
+# Shopping list
+
 ## Costco
 - [ ] Tostitos
 - [x] Pumpkin seeds
@@ -66,3 +68,5 @@
 
 ## Misc
 - [ ] Huel
+
+# Archive
