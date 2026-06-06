@@ -1,5 +1,4 @@
 {
-  "enabledCssSnippets": [
-    "shopping-app"
-  ]
+  "enabledCssSnippets": [],
+  "cssTheme": "Minimal"
 }

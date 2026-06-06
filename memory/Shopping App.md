@@ -1,5 +1,8 @@
+---
+cssclasses: shopping-app
+---
 ```dataviewjs
-// 1. Fetch your tasks (Change to "Shopping-List" if your raw tasks are in a different file)
+// 1. Point this explicitly to your raw database file
 const page = dv.page("Shopping Tracker"); 
 
 if (!page) {
@@ -8,7 +11,6 @@ if (!page) {
     const allTasks = page.file.tasks;
     const allGrouped = allTasks.groupBy(t => t.section.subpath || "Uncategorized");
 
-    // 2. Icon Helper
     function getStoreIcon(name) {
         const n = name.toLowerCase();
         if (n.includes("costco")) return "🛒";
@@ -21,7 +23,6 @@ if (!page) {
         return "🛍️"; 
     }
 
-    // 3. Build the DOM Framework (No CSS injected here anymore!)
     const gridContainer = dv.container.createEl("div", { cls: "shopping-dashboard" });
     const originalContainer = dv.container;
 

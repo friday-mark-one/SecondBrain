@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Active Shopping.md",
+                "file": "memory/Shopping App.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Active Shopping"
+              "title": "Shopping App"
             }
           }
         ]
@@ -207,7 +207,8 @@
   "active": "4c6043b159f08726",
   "lastOpenFiles": [
     "memory/Shopping Tracker.md",
-    "memory/Active Shopping.md",
+    "memory/Shopping App.md",
+    "memory/MEMORY.md",
     "memory/AI automation projects.md",
     "Bharath's scratch pad.md",
     "agent-protocol/cron/jobs.json",
@@ -223,7 +224,6 @@
     "memory/Needs research before shopping.md",
     "Excalidraw/Drawing 2026-06-01 20.17.26.excalidraw.md",
     "Excalidraw",
-    "memory/MEMORY.md",
     "2026-05-31.md",
     "memory/Hobby projects.md",
     "memory/Things to return.md",
