@@ -1,4 +1,4 @@
-# Shopping List
+# Shopping list
 
 ## Costco
 - [ ] Tostitos
@@ -71,7 +71,7 @@
 # Archive
 
 ## Costco
-- [x] Kirkland Water
+- [ ] Kirkland Water
 
 ## Indian store
-- [x] Tamarind paste
+- [ ] Tamarind paste
