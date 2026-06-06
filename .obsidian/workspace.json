@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Shopping App.md",
-                "mode": "preview",
+                "file": "memory/AI automation projects.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping App"
+              "title": "AI automation projects"
             }
           }
         ]
@@ -206,9 +206,14 @@
   },
   "active": "4c6043b159f08726",
   "lastOpenFiles": [
-    "memory/Shopping Tracker.md",
-    "memory/Shopping App.md",
+    "memory/Food menu.md",
+    "memory/Hobby projects.md",
     "memory/MEMORY.md",
+    "memory/Needs research before shopping.md",
+    "memory/Shopping Tracker.md",
+    "memory/Things to return.md",
+    "memory/Todo.md",
+    "memory/Shopping App.md",
     "memory/AI automation projects.md",
     "Bharath's scratch pad.md",
     "agent-protocol/cron/jobs.json",
@@ -221,14 +226,9 @@
     "gateway/config-agents.md",
     "gateway",
     "agent-protocol/cron",
-    "memory/Needs research before shopping.md",
     "Excalidraw/Drawing 2026-06-01 20.17.26.excalidraw.md",
     "Excalidraw",
     "2026-05-31.md",
-    "memory/Hobby projects.md",
-    "memory/Things to return.md",
-    "memory/Food menu.md",
-    "memory/Todo.md",
     "agent-protocol/AGENTS.md",
     "memory/logs/05-31-26.md",
     "agent-protocol/IDENTITY.md",

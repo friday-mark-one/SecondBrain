@@ -1,6 +1,3 @@
----
-cssclasses: shopping-app 
----
 ## Costco
 - [ ] Tostitos
 - [x] Pumpkin seeds
@@ -8,7 +5,7 @@ cssclasses: shopping-app
 - [x] Goyyakai
 - [x] Kirkland Water
 
-**Costco Staples
+##### Costco Staples
 - [x]  Milk
 - [x] Tomatoes
 - [ ] Paneer
@@ -18,7 +15,7 @@ cssclasses: shopping-app
 - [x] Chia seeds
 - [x] Salt
 
-**Fred Meyer Staples
+##### Fred Meyer Staples
 - [ ] Cilantro
 - [ ] Onion
 - [ ] Ginger
@@ -37,7 +34,7 @@ cssclasses: shopping-app
 - [x] Makhana
 - [ ] Low fat Paneer
 
- **Indian store staples
+##### Indian store staples
 - [ ] Shredded coconut
 - [x] Roti
 
