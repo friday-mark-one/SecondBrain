@@ -1,9 +1,6 @@
 ## Costco
-- [x] Comforter
 
 ## Kohls
-- [x] Stanley cup
-- [x] Digital frame
 
 ## Fedex
 - [ ] 

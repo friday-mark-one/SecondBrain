@@ -1,5 +1,4 @@
 - [ ] Snowboard
-- [x] Ski gloves
 - [ ] Chef's sharp knife
 - [ ] Cilantro box
 - [ ] Budget app
