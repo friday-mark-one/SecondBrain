@@ -5,7 +5,7 @@
 - [x] Pumpkin seeds
 - [ ] Glad frebreeze
 - [x] Goyyakai
-- [x] Kirkland Water
+
 
 ##### Costco Staples
 - [x]  Milk
@@ -27,7 +27,6 @@
 - [ ] Bread
 
 ## Indian store
-- [x] Tamarind paste
 - [ ] Green chili
 - [ ] Garlic
 - [x] Idly maavu
@@ -70,3 +69,9 @@
 - [ ] Huel
 
 # Archive
+
+## Costco
+- [x] Kirkland Water
+
+## Indian store
+- [x] Tamarind paste

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Things to return.md",
+                "file": "memory/Shopping Tracker.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Things to return"
+              "title": "Shopping Tracker"
             }
           }
         ]
@@ -208,8 +208,8 @@
   "lastOpenFiles": [
     "apps/Shopping App.md",
     "memory/Shopping Tracker.md",
-    "apps",
     "memory/Things to return.md",
+    "apps",
     "memory/Food menu.md",
     "memory/AI automation projects.md",
     "memory/Todo.md",
