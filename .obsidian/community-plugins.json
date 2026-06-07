@@ -3,5 +3,6 @@
   "obsidian-excalidraw-plugin",
   "data-files-editor",
   "obsidian-html-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-linter"
 ]

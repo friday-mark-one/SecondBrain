@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Meal plan.md",
-                "mode": "source",
+                "file": "memory/Shopping Tracker.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meal plan"
+              "title": "Shopping Tracker"
             }
           }
         ]
@@ -182,12 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "memory/Shopping Tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Shopping Tracker"
             }
           },
           {
@@ -201,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,12 +222,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9672011bba9ac3dd",
+  "active": "4c6043b159f08726",
   "lastOpenFiles": [
+    "apps/Shopping App.md",
+    "Bharath's scratch pad.md",
     "memory/Meal plan.md",
     "memory/Food menu.md",
     "memory/Shopping Tracker.md",
-    "apps/Shopping App.md",
     "memory/logs/05-31-26.md",
     "memory/AI automation projects.md",
     "memory/MEMORY.md",
@@ -236,7 +238,6 @@
     "memory/Things to return.md",
     "apps",
     "memory/Shopping App.md",
-    "Bharath's scratch pad.md",
     "agent-protocol/cron/jobs.json",
     "Untitled.canvas",
     "agent-protocol/HEARTBEAT.md",
