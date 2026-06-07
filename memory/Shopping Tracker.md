@@ -1,10 +1,11 @@
 # Shopping list
 
+#ingredients 
 ## Costco
 - [ ] Tostitos
 - [ ] Glad frebreeze
 
-
+#ingredients 
 ##### Costco Staples
 - [x]  Milk
 - [x] Tomatoes

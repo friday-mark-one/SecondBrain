@@ -4,5 +4,6 @@
   "data-files-editor",
   "obsidian-html-plugin",
   "dataview",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-checklist-plugin"
 ]
