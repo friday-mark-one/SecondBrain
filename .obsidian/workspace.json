@@ -6,6 +6,7 @@
       {
         "id": "ebe615f2d6c3eadc",
         "type": "tabs",
+        "dimension": 58.87096774193549,
         "children": [
           {
             "id": "4c6043b159f08726",
@@ -13,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Shopping Tracker.md",
-                "mode": "preview",
+                "file": "memory/Meal plan.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping Tracker"
+              "title": "Meal plan"
             }
           }
         ]
@@ -36,6 +37,7 @@
       {
         "id": "c1936c9afc81e57c",
         "type": "tabs",
+        "dimension": 41.12903225806452,
         "children": [
           {
             "id": "9672011bba9ac3dd",
@@ -180,13 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory/Shopping Tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shopping Tracker"
+              "title": "Outline"
             }
           },
           {
@@ -220,8 +221,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c6043b159f08726",
+  "active": "9672011bba9ac3dd",
   "lastOpenFiles": [
+    "memory/Meal plan.md",
     "memory/Food menu.md",
     "memory/Shopping Tracker.md",
     "apps/Shopping App.md",
