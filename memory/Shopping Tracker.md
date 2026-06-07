@@ -2,9 +2,7 @@
 
 ## Costco
 - [ ] Tostitos
-- [x] Pumpkin seeds
 - [ ] Glad frebreeze
-- [x] Goyyakai
 
 
 ##### Costco Staples
@@ -13,9 +11,6 @@
 - [ ] Paneer
 
 ## Fred Meyer
-- [x] Raisins
-- [x] Chia seeds
-- [x] Salt
 
 ##### Fred Meyer Staples
 - [ ] Cilantro
@@ -29,10 +24,6 @@
 ## Indian store
 - [ ] Green chili
 - [ ] Garlic
-- [x] Idly maavu
-- [x] Rice
-- [x] Coffee
-- [x] Makhana
 - [ ] Low fat Paneer
 
 ##### Indian store staples
@@ -71,7 +62,18 @@
 # Archive
 
 ## Costco
+- [ ] Pumpkin seeds
+- [ ] Goyyakai
 - [ ] Kirkland Water
 
 ## Indian store
+- [ ] Idly maavu
+- [ ] Rice
+- [ ] Coffee
+- [ ] Makhana
 - [ ] Tamarind paste
+## Fred Meyer
+- [ ] Raisins
+- [ ] Chia seeds
+- [ ] Salt
+
