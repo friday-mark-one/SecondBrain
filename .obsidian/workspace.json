@@ -6,7 +6,7 @@
       {
         "id": "ebe615f2d6c3eadc",
         "type": "tabs",
-        "dimension": 58.87096774193549,
+        "dimension": 48.577235772357724,
         "children": [
           {
             "id": "4c6043b159f08726",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/recipes/Guacamole.md",
-                "mode": "source",
+                "file": "memory/MEMORY.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Guacamole"
+              "title": "MEMORY"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "c1936c9afc81e57c",
         "type": "tabs",
-        "dimension": 41.12903225806452,
+        "dimension": 51.42276422764228,
         "children": [
           {
             "id": "9672011bba9ac3dd",
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory/recipes/Guacamole.md",
+                "file": "memory/MEMORY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guacamole"
+              "title": "Outline of MEMORY"
             }
           },
           {
@@ -200,23 +200,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "2477a46ffab2cfe7",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,16 +224,16 @@
   },
   "active": "4c6043b159f08726",
   "lastOpenFiles": [
+    "memory/Cookbook.md",
+    "memory/AI automation projects.md",
+    "memory/recipes/Guacamole.md",
     "memory/recipes/Overnight Oats.md",
     "memory/Shopping Tracker.md",
-    "memory/recipes/Guacamole.md",
     "memory/recipes",
     "apps/Shopping App.md",
     "Bharath's scratch pad.md",
     "memory/Meal plan.md",
-    "memory/Food menu.md",
     "memory/logs/05-31-26.md",
-    "memory/AI automation projects.md",
     "memory/MEMORY.md",
     "memory/Hobby projects.md",
     "memory/Shopping research.md",
