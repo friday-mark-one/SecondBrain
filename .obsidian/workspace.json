@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/MEMORY.md",
+                "file": "memory/Recipes/Tomato Chutney.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MEMORY"
+              "title": "Tomato Chutney"
             }
           }
         ]
@@ -182,13 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory/MEMORY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MEMORY"
+              "title": "Outline"
             }
           },
           {
@@ -222,9 +221,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c6043b159f08726",
+  "active": "9672011bba9ac3dd",
   "lastOpenFiles": [
-    "memory/Cookbook.md",
+    "memory/Recipes/Tomato Chutney.md",
+    "memory/Items/Onion.md",
+    "memory/Items/Cilantro.md",
+    "memory/Syllabus.md",
+    "memory/Staples.md",
+    "memory/Recipes/Sambar.md",
+    "memory/Recipes",
+    "memory/untitled folder",
+    "memory/Meal Plan/Current.md",
+    "memory/Meal Plan",
+    "memory/Items/Tissue Paper.md",
+    "memory/Items/Tomato.md",
+    "memory/Items/Toor Dal.md",
+    "memory/_config.md",
+    "memory/Items/Tamarind.md",
+    "memory/Items",
+    "memory/Grocery List",
+    "memory/Archive/CLAUDE.md",
+    "memory/Archive/Cookbook.md",
+    "memory/Archive",
+    "memory/_templates/Item.md",
+    "memory/_templates/Recipe.md",
+    "memory/_templates",
+    "memory/_scripts/mealplan.js",
+    "memory/_scripts",
+    "memory/Meal plan.md",
+    "memory/MEMORY.md",
     "memory/AI automation projects.md",
     "memory/recipes/Guacamole.md",
     "memory/recipes/Overnight Oats.md",
@@ -232,34 +257,8 @@
     "memory/recipes",
     "apps/Shopping App.md",
     "Bharath's scratch pad.md",
-    "memory/Meal plan.md",
     "memory/logs/05-31-26.md",
-    "memory/MEMORY.md",
     "memory/Hobby projects.md",
-    "memory/Shopping research.md",
-    "memory/Todo.md",
-    "memory/Things to return.md",
-    "apps",
-    "memory/Shopping App.md",
-    "agent-protocol/cron/jobs.json",
-    "Untitled.canvas",
-    "agent-protocol/HEARTBEAT.md",
-    "agent-protocol/cron/runs/8c19234a-ea94-4836-8524-84524c1eea05.jsonl",
-    "agent-protocol/cron/runs",
-    "agent-protocol/cron/jobs.json.bak",
-    "agent-protocol/cron/jobs-state.json",
-    "gateway/config-agents.md",
-    "gateway",
-    "agent-protocol/cron",
-    "Excalidraw/Drawing 2026-06-01 20.17.26.excalidraw.md",
-    "Excalidraw",
-    "2026-05-31.md",
-    "agent-protocol/AGENTS.md",
-    "agent-protocol/IDENTITY.md",
-    "memory/Kitchen staples.md",
-    "agent-protocol/USER.md",
-    "agent-protocol/TOOLS.md",
-    "agent-protocol/SOUL.md",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
