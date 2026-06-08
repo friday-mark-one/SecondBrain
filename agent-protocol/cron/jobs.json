@@ -26,6 +26,32 @@
         "to": "8371966429"
       },
       "state": {}
+    },
+    {
+      "id": "5c413325-1114-4095-ab5a-c1596ca86b99",
+      "agentId": "main",
+      "sessionKey": "agent:main:telegram:direct:8371966429",
+      "name": "Wash water bottle reminder",
+      "enabled": true,
+      "deleteAfterRun": true,
+      "createdAtMs": 1780953899898,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-06-09T01:00:00.000Z"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Remind Bharath: time to wash your water bottle!",
+        "timeoutSeconds": 30
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8371966429"
+      },
+      "state": {}
     }
   ]
 }

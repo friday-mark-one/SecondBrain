@@ -20,3 +20,4 @@
 	- [ ] Window tint
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
+- [ ] Wash water bottle
