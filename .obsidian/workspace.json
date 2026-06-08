@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Recipes/Tomato Chutney.md",
+                "file": "memory/_templates/Recipe.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tomato Chutney"
+              "title": "Recipe"
             }
           }
         ]
@@ -182,12 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "memory/_templates/Recipe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Recipe"
             }
           },
           {
@@ -221,17 +222,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9672011bba9ac3dd",
+  "active": "55e70203280d7844",
   "lastOpenFiles": [
+    "memory/_scripts/test/mealplan.test.js",
+    "memory/_scripts/test/integration.test.js",
+    "memory/_scripts/test",
+    "memory/Cookbook.md",
+    "memory/CLAUDE.md",
+    "memory/_templates/Item.md",
+    "memory/_templates/Recipe.md",
+    "memory/Archive/Cookbook.md",
+    "memory/Meal Plan/Current.md",
+    "memory/Recipes/Sambar.md",
     "memory/Recipes/Tomato Chutney.md",
     "memory/Items/Onion.md",
     "memory/Items/Cilantro.md",
     "memory/Syllabus.md",
     "memory/Staples.md",
-    "memory/Recipes/Sambar.md",
     "memory/Recipes",
     "memory/untitled folder",
-    "memory/Meal Plan/Current.md",
     "memory/Meal Plan",
     "memory/Items/Tissue Paper.md",
     "memory/Items/Tomato.md",
@@ -241,24 +250,16 @@
     "memory/Items",
     "memory/Grocery List",
     "memory/Archive/CLAUDE.md",
-    "memory/Archive/Cookbook.md",
     "memory/Archive",
-    "memory/_templates/Item.md",
-    "memory/_templates/Recipe.md",
     "memory/_templates",
     "memory/_scripts/mealplan.js",
-    "memory/_scripts",
     "memory/Meal plan.md",
     "memory/MEMORY.md",
     "memory/AI automation projects.md",
     "memory/recipes/Guacamole.md",
     "memory/recipes/Overnight Oats.md",
     "memory/Shopping Tracker.md",
-    "memory/recipes",
     "apps/Shopping App.md",
-    "Bharath's scratch pad.md",
-    "memory/logs/05-31-26.md",
-    "memory/Hobby projects.md",
     "Untitled.canvas"
   ]
 }
