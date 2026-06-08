@@ -61,6 +61,70 @@
       "fileExistsBehavior": {
         "kind": "prompt"
       }
+    },
+    {
+      "id": "3dad54ed-fe76-4085-969b-c1fdd2f9f7d8",
+      "name": "Generate Grocery List",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Generate Grocery List",
+        "id": "3a8884d1-2f60-4add-b4f2-ae1256447c16",
+        "commands": [
+          {
+            "name": "mealplan",
+            "type": "UserScript",
+            "id": "796e5eea-5aaa-4452-b9c0-5870a19b03f5",
+            "path": "memory/_scripts/mealplan.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "8dfd4b9e-7e1d-42c4-8d67-4efaec975239",
+      "name": "Add Dish To Plan",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Add Dish To Plan",
+        "id": "c62c0cf1-1cdf-4033-948d-7c4ee22d225b",
+        "commands": [
+          {
+            "name": "mealplan",
+            "type": "UserScript",
+            "id": "50e95329-8bd7-456d-858e-494a30070304",
+            "path": "memory/_scripts/mealplan.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "45315eb6-e103-4200-bf39-4bba9dc76365",
+      "name": "New Weekly Plan",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "New Weekly Plan",
+        "id": "a9557c17-c245-446f-8920-aad88891c349",
+        "commands": []
+      }
+    },
+    {
+      "id": "dc702e2f-14a6-4b58-9baa-45eb19bab0d5",
+      "name": "Archive And Reset",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Archive And Reset",
+        "id": "f0d06816-af59-4920-894f-6b4d8cd7e9f4",
+        "commands": []
+      }
     }
   ],
   "inputPrompt": "single-line",
