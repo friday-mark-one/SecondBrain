@@ -32,7 +32,7 @@
       "agentId": "main",
       "sessionKey": "agent:main:telegram:direct:8371966429",
       "name": "Wash water bottle reminder",
-      "enabled": true,
+      "enabled": false,
       "deleteAfterRun": true,
       "createdAtMs": 1780953899898,
       "schedule": {

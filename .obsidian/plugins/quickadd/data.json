@@ -71,15 +71,7 @@
       "macro": {
         "name": "Generate Grocery List",
         "id": "3a8884d1-2f60-4add-b4f2-ae1256447c16",
-        "commands": [
-          {
-            "name": "mealplan",
-            "type": "UserScript",
-            "id": "796e5eea-5aaa-4452-b9c0-5870a19b03f5",
-            "path": "memory/_scripts/mealplan.js",
-            "settings": {}
-          }
-        ]
+        "commands": []
       }
     },
     {
