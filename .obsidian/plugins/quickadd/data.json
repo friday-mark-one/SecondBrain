@@ -71,7 +71,15 @@
       "macro": {
         "name": "Generate Grocery List",
         "id": "3a8884d1-2f60-4add-b4f2-ae1256447c16",
-        "commands": []
+        "commands": [
+          {
+            "name": "generate",
+            "type": "UserScript",
+            "id": "24a4fe2e-244d-4100-8bd4-8ec331de4682",
+            "path": "memory/_scripts/commands/generate.js",
+            "settings": {}
+          }
+        ]
       }
     },
     {
@@ -85,10 +93,10 @@
         "id": "c62c0cf1-1cdf-4033-948d-7c4ee22d225b",
         "commands": [
           {
-            "name": "mealplan",
+            "name": "add-dish",
             "type": "UserScript",
-            "id": "50e95329-8bd7-456d-858e-494a30070304",
-            "path": "memory/_scripts/mealplan.js",
+            "id": "c971a4bf-8910-45be-bddb-e9a9eba3e19a",
+            "path": "memory/_scripts/commands/add-dish.js",
             "settings": {}
           }
         ]
@@ -105,10 +113,10 @@
         "id": "a9557c17-c245-446f-8920-aad88891c349",
         "commands": [
           {
-            "name": "mealplan",
+            "name": "new-plan",
             "type": "UserScript",
-            "id": "103cfb17-b491-4925-b988-c301997203f2",
-            "path": "memory/_scripts/mealplan.js",
+            "id": "28ff8260-6962-4a59-a977-b3f227ebf58d",
+            "path": "memory/_scripts/commands/new-plan.js",
             "settings": {}
           }
         ]
@@ -125,10 +133,10 @@
         "id": "f0d06816-af59-4920-894f-6b4d8cd7e9f4",
         "commands": [
           {
-            "name": "mealplan",
+            "name": "archive",
             "type": "UserScript",
-            "id": "a6f5e2df-5bf7-4a0a-b636-c5e74d81ccce",
-            "path": "memory/_scripts/mealplan.js",
+            "id": "aec558ff-4daf-4a6a-9769-c0e7c3885100",
+            "path": "memory/_scripts/commands/archive.js",
             "settings": {}
           }
         ]

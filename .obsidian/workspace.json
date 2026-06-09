@@ -6,47 +6,17 @@
       {
         "id": "ebe615f2d6c3eadc",
         "type": "tabs",
-        "dimension": 48.577235772357724,
         "children": [
           {
             "id": "4c6043b159f08726",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "json",
               "state": {
-                "file": "memory/_templates/Recipe.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
+                "file": "agent-protocol/cron/jobs.json"
               },
               "icon": "lucide-file",
-              "title": "Recipe"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c1936c9afc81e57c",
-        "type": "tabs",
-        "dimension": 51.42276422764228,
-        "children": [
-          {
-            "id": "9672011bba9ac3dd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "jobs"
             }
           }
         ]
@@ -222,8 +192,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55e70203280d7844",
+  "active": "4c6043b159f08726",
   "lastOpenFiles": [
+    "memory/_templates/Recipe.md",
+    "memory/Meal Plan/Current.md",
     "memory/_scripts/build-commands.js",
     "memory/_scripts/commands/add-dish.js",
     "memory/_scripts/commands/archive.js",
@@ -237,16 +209,13 @@
     "memory/Cookbook.md",
     "memory/CLAUDE.md",
     "memory/_templates/Item.md",
-    "memory/_templates/Recipe.md",
     "memory/Archive/Cookbook.md",
-    "memory/Meal Plan/Current.md",
     "memory/Recipes/Sambar.md",
     "memory/Recipes/Tomato Chutney.md",
     "memory/Items/Onion.md",
     "memory/Items/Cilantro.md",
     "memory/Syllabus.md",
     "memory/Staples.md",
-    "memory/Recipes",
     "memory/Items/Tissue Paper.md",
     "memory/Items/Tomato.md",
     "memory/Items/Toor Dal.md",
