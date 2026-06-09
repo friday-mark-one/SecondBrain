@@ -4,7 +4,7 @@
       "id": "50394a53-95bc-4042-bc1d-df7fd6053d80",
       "name": "New Recipe",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "memory/_templates/Recipe.md",
       "fileNameFormat": {
         "enabled": true,
@@ -35,7 +35,7 @@
       "id": "9a595ecc-2b5c-4b20-8c80-069c48607e80",
       "name": "New Item",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "memory/_templates/Item.md",
       "fileNameFormat": {
         "enabled": true,
