@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Grocery List/Current.md",
-                "mode": "source",
+                "file": "memory/MEMORY.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current"
+              "title": "MEMORY"
             }
           }
         ],
@@ -255,13 +255,14 @@
   },
   "active": "855ebc06a8725673",
   "lastOpenFiles": [
-    "memory/Archive/2026-06-08 Meal Plan.md",
     "memory/Grocery List/Current.md",
+    "memory/Archive/2026-06-08 Staples Bought.md",
+    "memory/Archive/2026-06-08 Meal Plan.md",
+    "memory/Archive/2026-06-08 Grocery List.md",
+    "memory/Meal plan and grocery shopping Operating Manual.md",
     "memory/Cookbook.md",
     "memory/Recipes/Channa masala.md",
     "memory/Meal Plan/Current.md",
-    "memory/Archive/2026-06-08 Grocery List.md",
-    "memory/Archive/2026-06-08 Staples Bought.md",
     "memory/Staples.md",
     "memory/Items/Water pack.md",
     "memory/Items/Tissue Paper.md",
@@ -281,7 +282,6 @@
     "memory/_scripts/untitled folder",
     "memory/_scripts/test/mealplan.test.js",
     "memory/_scripts/test/integration.test.js",
-    "memory/CLAUDE.md",
     "memory/_templates/Item.md",
     "memory/Archive/Cookbook.md",
     "memory/Recipes/Sambar.md",

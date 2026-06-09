@@ -1,5 +1,3 @@
-# Vault Operating Manual (for Claude Code)
-
 This vault runs a deterministic meal-planning system, contained in the `memory/`
 folder. Follow these procedures exactly. Prefer exact paths over searching. When a
 request is ambiguous, STOP and ask — list the candidate files; never guess or
