@@ -75,7 +75,7 @@
           {
             "name": "generate",
             "type": "UserScript",
-            "id": "24a4fe2e-244d-4100-8bd4-8ec331de4682",
+            "id": "363aa674-47ca-43b5-aadd-3cdc3b95d671",
             "path": "memory/_scripts/commands/generate.js",
             "settings": {}
           }
@@ -95,7 +95,7 @@
           {
             "name": "add-dish",
             "type": "UserScript",
-            "id": "c971a4bf-8910-45be-bddb-e9a9eba3e19a",
+            "id": "db1f7c59-4eea-4c68-b904-8b5118deea9a",
             "path": "memory/_scripts/commands/add-dish.js",
             "settings": {}
           }
@@ -115,7 +115,7 @@
           {
             "name": "new-plan",
             "type": "UserScript",
-            "id": "28ff8260-6962-4a59-a977-b3f227ebf58d",
+            "id": "8f8d8c00-5fe6-498f-9e64-0700b5cfcd69",
             "path": "memory/_scripts/commands/new-plan.js",
             "settings": {}
           }
@@ -135,7 +135,7 @@
           {
             "name": "archive",
             "type": "UserScript",
-            "id": "aec558ff-4daf-4a6a-9769-c0e7c3885100",
+            "id": "3871ce48-c6f6-4378-af34-05bb7feb1a94",
             "path": "memory/_scripts/commands/archive.js",
             "settings": {}
           }

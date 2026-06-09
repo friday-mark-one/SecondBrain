@@ -9,6 +9,10 @@
 
 const WEEKDAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
+// Vault subfolder this system lives in. "" = vault root. Must end with "/".
+// Used only by the Obsidian adapters below (not by the pure helpers).
+const BASE = "memory/";
+
 // ---------- Pure helpers ----------
 
 function extractWikiLinks(text) {
@@ -192,7 +196,7 @@ function archiveStaplesSplit(staplesText, checkedSet) {
 // ---------- Obsidian adapters (run via QuickAdd; not unit-tested) ----------
 
 function readConfig() {
-  const f = app.vault.getAbstractFileByPath("_config.md");
+  const f = app.vault.getAbstractFileByPath(BASE + "_config.md");
   const fm = (f && app.metadataCache.getFileCache(f)?.frontmatter) || {};
   return {
     storeOrder: fm.store_order || ["Costco", "Fred Meyer", "Indian Store"],
@@ -204,7 +208,7 @@ function readConfig() {
 function buildStoreIndex() {
   const index = {};
   for (const f of app.vault.getMarkdownFiles()) {
-    if (!f.path.startsWith("Items/")) continue;
+    if (!f.path.startsWith(BASE + "Items/")) continue;
     const fm = app.metadataCache.getFileCache(f)?.frontmatter || {};
     if (fm.type !== "item") continue;
     index[f.basename] = { store: fm.store || "", category: fm.category || "" };
@@ -215,18 +219,18 @@ function buildStoreIndex() {
 async function generateGroceryList(params) {
   const cfg = readConfig();
   const A = app.vault.adapter;
-  const plan = await A.read("Meal Plan/Current.md");
+  const plan = await A.read(BASE + "Meal Plan/Current.md");
   const dishes = parsePlanDishes(plan);
 
   const rows = [];
   const unknownDishes = [];
   for (const dish of dishes) {
-    const path = `Recipes/${dish}.md`;
+    const path = `${BASE}Recipes/${dish}.md`;
     if (!(await A.exists(path))) { unknownDishes.push(dish); continue; }
     for (const ing of parseIngredients(await A.read(path))) rows.push({ ...ing, source: dish });
   }
-  if (await A.exists("Staples.md")) {
-    for (const s of parseItemLines(await A.read("Staples.md"))) rows.push({ ...s, source: "Staples" });
+  if (await A.exists(BASE + "Staples.md")) {
+    for (const s of parseItemLines(await A.read(BASE + "Staples.md"))) rows.push({ ...s, source: "Staples" });
   }
 
   const g = groupByStore(aggregate(rows), buildStoreIndex(), cfg.storeOrder);
@@ -236,7 +240,7 @@ async function generateGroceryList(params) {
     out += "\n## ⚠️ Unknown dish\n" + unknownDishes.map((d) => `- [ ] ${d}`).join("\n") + "\n";
   }
 
-  const listPath = "Grocery List/Current.md";
+  const listPath = BASE + "Grocery List/Current.md";
   const old = (await A.exists(listPath)) ? await A.read(listPath) : "";
   await A.write(listPath, preserveChecks(out, old));
   new Notice("Grocery list generated.");
@@ -246,7 +250,7 @@ async function addDishToPlan(params) {
   const dish = params?.variables?.dish;
   if (!dish) { new Notice("No dish provided."); return; }
   const A = app.vault.adapter;
-  const planPath = "Meal Plan/Current.md";
+  const planPath = BASE + "Meal Plan/Current.md";
   const plan = await A.read(planPath);
   const slots = listSlots(plan);
   if (!slots.length) { new Notice('No slots. Run "New Weekly Plan" first.'); return; }
@@ -262,7 +266,7 @@ async function newWeeklyPlan(params) {
   const daysStr = await params.quickAddApi.inputPrompt(`How many days? (default ${cfg.defaultDays})`);
   const days = parseInt(daysStr, 10) || cfg.defaultDays;
   const start = window.moment().format("YYYY-MM-DD");
-  await A.write("Meal Plan/Current.md", buildPlanSkeleton(start, days, cfg.mealSlots));
+  await A.write(BASE + "Meal Plan/Current.md", buildPlanSkeleton(start, days, cfg.mealSlots));
   new Notice("New weekly plan created.");
 }
 
@@ -270,22 +274,22 @@ async function archiveAndReset(params) {
   const cfg = readConfig();
   const A = app.vault.adapter;
   const date = window.moment().format("YYYY-MM-DD");
-  const listPath = "Grocery List/Current.md";
-  const planPath = "Meal Plan/Current.md";
+  const listPath = BASE + "Grocery List/Current.md";
+  const planPath = BASE + "Meal Plan/Current.md";
 
   const listText = (await A.exists(listPath)) ? await A.read(listPath) : "";
   const checked = extractCheckedItems(listText);
 
-  if (await A.exists("Staples.md")) {
-    const { bought, kept } = archiveStaplesSplit(await A.read("Staples.md"), checked);
+  if (await A.exists(BASE + "Staples.md")) {
+    const { bought, kept } = archiveStaplesSplit(await A.read(BASE + "Staples.md"), checked);
     if (bought.length) {
-      await A.write(`Archive/${date} Staples Bought.md`, `# Staples bought — ${date}\n\n` + bought.join("\n") + "\n");
+      await A.write(`${BASE}Archive/${date} Staples Bought.md`, `# Staples bought — ${date}\n\n` + bought.join("\n") + "\n");
     }
-    await A.write("Staples.md", kept.join("\n").replace(/\s+$/, "") + "\n");
+    await A.write(BASE + "Staples.md", kept.join("\n").replace(/\s+$/, "") + "\n");
   }
 
-  if (await A.exists(planPath)) await A.write(`Archive/${date} Meal Plan.md`, await A.read(planPath));
-  if (listText) await A.write(`Archive/${date} Grocery List.md`, listText);
+  if (await A.exists(planPath)) await A.write(`${BASE}Archive/${date} Meal Plan.md`, await A.read(planPath));
+  if (listText) await A.write(`${BASE}Archive/${date} Grocery List.md`, listText);
   if (await A.exists(listPath)) await A.remove(listPath);
 
   const start = window.moment().format("YYYY-MM-DD");

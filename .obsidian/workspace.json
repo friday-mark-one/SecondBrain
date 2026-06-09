@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe615f2d6c3eadc",
+        "id": "8e3ab217a72f3946",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6043b159f08726",
+            "id": "ed5d5d5b3daac424",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "markdown",
               "state": {
-                "file": "agent-protocol/cron/jobs.json"
+                "file": "memory/Items/Cilantro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "jobs"
+              "title": "Cilantro"
             }
           }
         ]
@@ -192,10 +204,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c6043b159f08726",
+  "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
-    "memory/_templates/Recipe.md",
+    "memory/Items/Tamarind.md",
+    "memory/Items/Onion.md",
+    "memory/Items/Cilantro.md",
+    "memory/Items/Toor Dal.md",
+    "memory/Items/Tomato.md",
+    "memory/Items/Tissue Paper.md",
+    "memory/Staples.md",
+    "memory/Grocery List/Current.md",
+    "memory/Cookbook.md",
     "memory/Meal Plan/Current.md",
+    "agent-protocol/cron/jobs.json",
+    "memory/_templates/Recipe.md",
     "memory/_scripts/build-commands.js",
     "memory/_scripts/commands/add-dish.js",
     "memory/_scripts/commands/archive.js",
@@ -205,22 +227,13 @@
     "memory/_scripts/untitled folder",
     "memory/_scripts/test/mealplan.test.js",
     "memory/_scripts/test/integration.test.js",
-    "memory/_scripts/test",
-    "memory/Cookbook.md",
     "memory/CLAUDE.md",
     "memory/_templates/Item.md",
     "memory/Archive/Cookbook.md",
     "memory/Recipes/Sambar.md",
     "memory/Recipes/Tomato Chutney.md",
-    "memory/Items/Onion.md",
-    "memory/Items/Cilantro.md",
     "memory/Syllabus.md",
-    "memory/Staples.md",
-    "memory/Items/Tissue Paper.md",
-    "memory/Items/Tomato.md",
-    "memory/Items/Toor Dal.md",
     "memory/_config.md",
-    "memory/Items/Tamarind.md",
     "memory/Archive/CLAUDE.md",
     "memory/Meal plan.md",
     "memory/MEMORY.md",

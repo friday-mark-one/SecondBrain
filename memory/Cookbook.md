@@ -5,7 +5,7 @@ it to this week's plan. (View this note in Reading mode so the buttons work.)
 
 ```dataviewjs
 const qa = app.plugins.plugins.quickadd?.api;
-const recipes = dv.pages('"Recipes"').where((p) => p.type === "recipe");
+const recipes = dv.pages('"memory/Recipes"').where((p) => p.type === "recipe");
 const groups = {};
 for (const p of recipes) {
   const meals = Array.isArray(p.meal) ? p.meal : (p.meal ? [p.meal] : ["(untagged)"]);
