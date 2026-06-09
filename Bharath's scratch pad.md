@@ -26,7 +26,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 		- [x] Data files editor
 		- [x] HTML Reader
 		- [x] excalidraw
-		- [ ] kanban
+		- [x] kanban
 		- [ ] slash commands
 - [ ] OpenClaw
 	- [ ] openclaw configure --web
@@ -36,3 +36,4 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] centralized observability with a local solution like postgres
 	- [ ] Fallback from deep seek to Gemini for 429 or 500
 - [ ] Telegram unofficial apps
+- [ ] Move skills and most agent .md files to Obsidian

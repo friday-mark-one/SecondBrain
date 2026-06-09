@@ -59,24 +59,10 @@
             "id": "855ebc06a8725673",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "memory/MEMORY.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MEMORY"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -255,6 +241,10 @@
   },
   "active": "855ebc06a8725673",
   "lastOpenFiles": [
+    "memory/AI automation projects.md",
+    "Bharath's scratch pad.md",
+    "memory/Todo.md",
+    "memory/MEMORY.md",
     "memory/Grocery List/Current.md",
     "memory/Archive/2026-06-08 Staples Bought.md",
     "memory/Archive/2026-06-08 Meal Plan.md",
@@ -287,10 +277,6 @@
     "memory/Recipes/Sambar.md",
     "memory/Recipes/Tomato Chutney.md",
     "memory/Syllabus.md",
-    "memory/_config.md",
-    "memory/Archive/CLAUDE.md",
-    "memory/Meal plan.md",
-    "memory/MEMORY.md",
     "Untitled.canvas"
   ]
 }
