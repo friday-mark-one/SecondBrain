@@ -37,3 +37,9 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] Fallback from deep seek to Gemini for 429 or 500
 - [ ] Telegram unofficial apps
 - [ ] Move skills and most agent .md files to Obsidian
+- [ ] Meal plan
+	- [ ] Add recipes
+	- [ ] Add items
+		- [ ] Define tags
+	- [ ] Build cookbook
+	- [ ] Refer SOP in openclaw
