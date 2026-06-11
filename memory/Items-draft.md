@@ -1,0 +1,185 @@
+# Items draft — review me, then I generate Items/*.md
+
+Edit freely: move lines between stores, delete junk, fix names. Each kept
+line becomes `memory/Items/<Name>.md` with that store. Lines under ⚠️/🚫
+are NOT generated until you move them under a store heading.
+
+
+## Costco
+- Almonds
+- Cascade complete dishwasher pods
+- Dates
+- Ghee
+- Ginger garlic paste
+- Glad febreeze
+- Goyyakai
+- Greek Yogurt
+- Gulab jamun
+- Kleenex facial tissue
+- Milk
+- Oats
+- Spinach
+- Paneer
+- Paper towel
+- Nurri
+- Peanut butter
+- Pista
+- Pumpkin seeds
+- Salted butter
+- Mandarins
+- Mush
+- Sanitary napkins
+- Clorox
+- Cashews
+- Tomato
+- Toor dhal
+- Tide pods
+- Tostitos
+- Water
+- Premier protein
+- Yakisoba noodles
+- Raisin bran
+- Orgain protein
+- Curd
+- Zipfizz
+- Humm
+- Avocado
+- Blueberry
+
+## Fred Meyer
+- Baking soda
+- Basil leaves
+- Beans
+- Black sesame seeds
+- Bok choy
+- Bread
+- Press and seal
+- Baby bella mushrooms
+- Capsicum
+- Parchment paper
+- Cauliflower
+- Tomato ketchup
+- Chia seeds
+- Chilli garlic oil
+- Cilantro
+- Spray oil
+- Corn flour
+- Chayote
+- Cheese
+- Chilli flakes
+- Fresh Cream
+- Onion
+- Crispy onion
+- Cucumber
+- Dried mango
+- Extra firm tofu
+- Frozen cauliflower
+- Frozen corn
+- Frozen cut beans
+- Frozen okra
+- Frozen peas
+- Ghost protein cereal
+- Ginger
+- Ginger ale
+- Gochujang
+- Guan miao noodles
+- Heavy whipping cream
+- Honey
+- Shiitake Mushroom
+- Perforated parchment paper
+- Red chilli sauce
+- Shiitake mushrooms
+- Spring onion
+- Sugar
+- Tahini
+- Toothpick
+- Veg stock
+- Wet tissues
+- White pepper powder
+- Eggs
+- Italian seasoning
+- Carrot
+- Lemon
+- Foil
+- Bananas
+- Potato
+- Hand sanitizer
+
+## Indian Store
+- Amchur powder
+- Asafotida
+- Bajji milakai
+- Beetroot
+- Coriander seeds
+- Bhindi
+- Elaichi full
+- Jaggery
+- Maida
+- Kallu uppu
+- Black urad dal
+- Fenugreek
+- Raisins
+- Mustard
+- Raw banana
+- Sambar powder
+- Rajma
+- Blanched peanuts
+- Brinjal
+- Sesame seeds
+- Semiya
+- Caraway seeds
+- Channa
+- Sunflower oil
+- Channa masala
+- Chapati
+- Potato Chips
+- Coconut
+- Cumin seeds
+- Curry leaves
+- Coffee
+- Dosa batter
+- Garam masala
+- Peeled Garlic
+- Green chilli
+- Groundnut oil
+- Horlicks
+- Idli batter
+- Channa dal
+- Kasuri methi
+- Kopparai
+- Kovakkai
+- Lamp oil
+- Low fat paneer
+- Makhana
+- Methi
+- Mint leaves
+- Mixture
+- Moong dal
+- Odachakadalai
+- Pani poori
+- Pav
+- Pearl onions
+- Pepper powder
+- Poppy seeds
+- Red chilli powder
+- Crystal sona masoori rice
+- Basmati rice
+- Roti
+- Shredded coconut
+- Soya chunks
+- Star anise
+- Tamarind paste
+- Turmeric
+- Vazhakkai
+
+## Trader Joes
+- Coconut oil
+- Orange juice
+- Baby corn
+- Breakfast potato
+- Edamame
+- Frozen Indian food
+- Ravioli
+
+## Bath & Body works
+- Hand wash
