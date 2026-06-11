@@ -323,4 +323,4 @@ async function archiveAndReset(params) {
   new Notice("Archived and reset.");
 }
 
-module.exports = addDishToPlan;
+module.exports = toggleGroceryDetail;

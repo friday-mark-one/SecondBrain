@@ -141,6 +141,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "835809ac-cc77-4e83-af41-fe1681fadf3f",
+      "name": "Toggle grocery detail",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Toggle grocery detail",
+        "id": "39d1824d-3116-485a-9f94-c4def2e40c9d",
+        "commands": [
+          {
+            "name": "toggle-detail",
+            "type": "UserScript",
+            "id": "7c0d6815-d29f-4cb1-a725-b50b09917eb4",
+            "path": "memory/_scripts/commands/toggle-detail.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

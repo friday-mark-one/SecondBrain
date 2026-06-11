@@ -87,23 +87,24 @@ function groupByStore(items, storeIndex, storeOrder) {
   return { grouped, stores, missingItemNote, needsStore };
 }
 
-function renderGroceryList({ date, grouped, stores, missingItemNote, needsStore }) {
+function renderGroceryList({ date, grouped, stores, missingItemNote, needsStore, detail = "full" }) {
+  const fmt = (it) => detail === "off"
+    ? `- [ ] ${it.item}`
+    : `- [ ] ${it.item} — ${renderBreakdown(it.sources)}`;
   const lines = [`# Grocery List — ${date}`, ""];
   for (const store of stores) {
     lines.push(`## ${store}`);
-    for (const it of grouped[store]) {
-      lines.push(`- [ ] ${it.item} — ${renderBreakdown(it.sources)}`);
-    }
+    for (const it of grouped[store]) lines.push(fmt(it));
     lines.push("");
   }
   if (needsStore.length) {
     lines.push("## ⚠️ Needs a store assigned");
-    for (const it of needsStore) lines.push(`- [ ] ${it.item} — ${renderBreakdown(it.sources)}`);
+    for (const it of needsStore) lines.push(fmt(it));
     lines.push("");
   }
   if (missingItemNote.length) {
     lines.push("## ⚠️ Missing item note");
-    for (const it of missingItemNote) lines.push(`- [ ] ${it.item} — ${renderBreakdown(it.sources)}`);
+    for (const it of missingItemNote) lines.push(fmt(it));
     lines.push("");
   }
   return lines.join("\n").trimEnd() + "\n";
@@ -112,7 +113,7 @@ function renderGroceryList({ date, grouped, stores, missingItemNote, needsStore 
 function extractCheckedItems(listText) {
   const set = new Set();
   for (const raw of (listText || "").split("\n")) {
-    const m = raw.match(/^- \[x\]\s+(.+?)\s+—/i);
+    const m = raw.match(/^- \[x\]\s+(.+?)(?:\s+—.*)?\s*$/i);
     if (m) set.add(m[1].trim());
   }
   return set;
@@ -121,7 +122,7 @@ function extractCheckedItems(listText) {
 function preserveChecks(newText, oldText) {
   const checked = extractCheckedItems(oldText);
   return newText.split("\n").map((line) => {
-    const m = line.match(/^- \[ \]\s+(.+?)\s+—/);
+    const m = line.match(/^- \[ \]\s+(.+?)(?:\s+—.*)?\s*$/);
     if (m && checked.has(m[1].trim())) return line.replace("- [ ]", "- [x]");
     return line;
   }).join("\n");
@@ -216,7 +217,13 @@ function buildStoreIndex() {
   return index;
 }
 
-async function generateGroceryList(params) {
+// Read grocery_detail straight from the _config.md text (robust right after a
+// toggle write, when metadataCache may still be stale). Defaults to "full".
+function detailFromConfigText(text) {
+  return (text.match(/^grocery_detail:\s*(\w+)/m) || [, "full"])[1];
+}
+
+async function buildAndWriteList(detail) {
   const cfg = readConfig();
   const A = app.vault.adapter;
   const plan = await A.read(BASE + "Meal Plan/Current.md");
@@ -235,7 +242,7 @@ async function generateGroceryList(params) {
 
   const g = groupByStore(aggregate(rows), buildStoreIndex(), cfg.storeOrder);
   const date = window.moment().format("YYYY-MM-DD");
-  let out = renderGroceryList({ date, ...g });
+  let out = renderGroceryList({ date, ...g, detail });
   if (unknownDishes.length) {
     out += "\n## ⚠️ Unknown dish\n" + unknownDishes.map((d) => `- [ ] ${d}`).join("\n") + "\n";
   }
@@ -243,7 +250,26 @@ async function generateGroceryList(params) {
   const listPath = BASE + "Grocery List/Current.md";
   const old = (await A.exists(listPath)) ? await A.read(listPath) : "";
   await A.write(listPath, preserveChecks(out, old));
+}
+
+async function generateGroceryList(params) {
+  const text = await app.vault.adapter.read(BASE + "_config.md");
+  await buildAndWriteList(detailFromConfigText(text));
   new Notice("Grocery list generated.");
+}
+
+// Flip grocery_detail between "full" and "off", then regenerate (checkmarks kept).
+async function toggleGroceryDetail(params) {
+  const A = app.vault.adapter;
+  const p = BASE + "_config.md";
+  let text = await A.read(p);
+  const next = detailFromConfigText(text) === "off" ? "full" : "off";
+  text = /^grocery_detail:/m.test(text)
+    ? text.replace(/^grocery_detail:.*$/m, `grocery_detail: ${next}`)
+    : text.replace(/^---\n/, `---\ngrocery_detail: ${next}\n`);
+  await A.write(p, text);
+  await buildAndWriteList(next);
+  new Notice(`Grocery detail: ${next.toUpperCase()}`);
 }
 
 async function addDishToPlan(params) {

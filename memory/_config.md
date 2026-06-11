@@ -1,7 +1,15 @@
 ---
-store_order: [Costco, Fred Meyer, Indian Store, Trader Joes, Bath & Body works]
-meal_slots: [Lunch, Dinner]
+store_order:
+  - Costco
+  - Fred Meyer
+  - Indian Store
+  - Trader Joes
+  - Bath & Body works
+meal_slots:
+  - Lunch
+  - Dinner
 default_plan_days: 7
+grocery_detail: full
 ---
 
 # Config
