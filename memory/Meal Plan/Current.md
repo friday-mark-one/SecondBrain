@@ -12,19 +12,24 @@
 
 ## Fri 06-12
 ### Lunch
+- [[Rasam]]
 ### Dinner
+- [[Dal Makhani]]
 
 ## Sat 06-13
 ### Lunch
 ### Dinner
+- [[Dal Makhani]]
 
 ## Sun 06-14
 ### Lunch
 ### Dinner
+- [[Vegetable Pulao]]
 
 ## Mon 06-15
 ### Lunch
 ### Dinner
+- [[Vegetable Pulao]]
 
 ## Tue 06-16
 ### Lunch
