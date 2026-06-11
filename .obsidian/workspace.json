@@ -54,19 +54,9 @@
               "icon": "lucide-file",
               "title": "Cookbook"
             }
-          },
-          {
-            "id": "855ebc06a8725673",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,8 +229,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "855ebc06a8725673",
+  "active": "29ae2d15acab74ab",
   "lastOpenFiles": [
+    "memory/Recipes/Masala Vada.md",
     "memory/Hobby projects.md",
     "memory/Cooking References.md",
     "memory/Cookbook.md",
@@ -266,7 +257,6 @@
     "memory/Recipes/Creamy Mushroom.md",
     "memory/Recipes/Palak Paneer.md",
     "memory/Recipes/Morkuzhambu.md",
-    "memory/Recipes/Paruppu Usili.md",
     "memory/_scripts/build-recipes.js",
     "memory/_scripts/build-items.js",
     "memory/build-commands.js",
