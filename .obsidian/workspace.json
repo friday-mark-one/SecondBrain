@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Meal Plan/Current.md",
+                "file": "memory/MEMORY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current"
+              "title": "MEMORY"
             }
           }
         ]
@@ -206,17 +206,20 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Grocery List/Current.md",
+    "memory/Meal Plan/Current.md",
+    "memory/Items/Milk.md",
+    "memory/Items/Hanger.md",
+    "Hangers.md",
     "memory/Cookbook.md",
     "memory/Archive/2026-06-10 Meal Plan.md",
     "memory/Recipes/Akki Usili.md",
     "memory/Recipes/Tomato Chutney.md",
-    "memory/Meal Plan/Current.md",
     "memory/Archive/2026-06-10 Grocery List.md",
     "memory/Items/Cilantro.md",
     "memory/Archive/2026-06-08 Meal Plan.md",
     "memory/Archive/2026-06-08 Grocery List.md",
     "memory/Archive/2026-06-08 Staples Bought.md",
-    "memory/Grocery List/Current.md",
     "memory/Recipes/Masala Vada.md",
     "memory/Hobby projects.md",
     "memory/Cooking References.md",
@@ -229,9 +232,6 @@
     "memory/Todo.md",
     "memory/Recipes/Bisibelebath.md",
     "memory/Recipes/Brinjal Gojju.md",
-    "memory/Recipes/Kadai Paneer.md",
-    "memory/Recipes/Peanut Chutney.md",
-    "memory/Recipes/Dal Makhani.md",
     "memory/_scripts/build-recipes.js",
     "memory/_scripts/build-items.js",
     "memory/build-commands.js",

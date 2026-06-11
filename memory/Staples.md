@@ -5,3 +5,4 @@ Bought items (checked on the grocery list) are removed by "Archive And Reset";
 unbought ones stay for next time.
 
 - [[Water pack]] | 1
+- [[Hanger]] | 1
