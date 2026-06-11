@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Archive/2026-06-11 Meal Plan.md",
+                "file": "memory/Meal plan instructions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-11 Meal Plan"
+              "title": "Meal plan instructions"
             }
           }
         ]
@@ -204,13 +204,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed5d5d5b3daac424",
+  "active": "55e70203280d7844",
   "lastOpenFiles": [
+    "memory/Items-draft.md",
+    "memory/Todo.md",
+    "memory/Meal plan instructions.md",
+    "memory/Archive/2026-06-11 Meal Plan.md",
     "memory/Archive/2026-06-11 Grocery List.md",
     "memory/_templates/Recipe.md",
     "memory/Meal Plan/Current.md",
     "memory/Grocery List/Current.md",
-    "memory/Archive/2026-06-11 Meal Plan.md",
     "memory/MEMORY.md",
     "memory/_config.md",
     "memory/_scripts/commands/toggle-detail.js",
@@ -230,9 +233,6 @@
     "memory/Hobby projects.md",
     "memory/Cooking References.md",
     "memory/AI automation projects.md",
-    "memory/Recipes/Vegetable Pulao.md",
-    "memory/Recipes/Sesame Noodles.md",
-    "memory/Recipes/Mint Chutney.md",
     "memory/_scripts/build-recipes.js",
     "memory/_scripts/build-items.js",
     "memory/build-commands.js",
