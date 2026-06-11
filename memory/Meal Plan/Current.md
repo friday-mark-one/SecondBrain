@@ -3,10 +3,12 @@
 ## Wed 06-10
 ### Lunch
 ### Dinner
+- [[Akki Usili]]
 
 ## Thu 06-11
 ### Lunch
 ### Dinner
+- [[Akki Usili]]
 
 ## Fri 06-12
 ### Lunch
