@@ -1,9 +1,4 @@
-# Meal Plan — week of 2026-06-08
-
-## Tue 06-09
-### Lunch
-- [[Tomato Chutney]]
-### Dinner
+# Meal Plan — week of 2026-06-10
 
 ## Wed 06-10
 ### Lunch
@@ -22,5 +17,13 @@
 ### Dinner
 
 ## Sun 06-14
+### Lunch
+### Dinner
+
+## Mon 06-15
+### Lunch
+### Dinner
+
+## Tue 06-16
 ### Lunch
 ### Dinner
