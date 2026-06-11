@@ -1,13 +1,16 @@
-# Items draft — review me, then I generate Items/*.md
+# Inventory — canonical item list (grouped by store)
 
-Edit freely: move lines between stores, delete junk, fix names. Each kept
-line becomes `memory/Items/<Name>.md` with that store. Lines under ⚠️/🚫
-are NOT generated until you move them under a store heading.
+Generated from Items/. Each line is a memory/Items/<Name>.md note.
 
 
 ## Costco
 - Almonds
+- Avocado
+- Blueberry
 - Cascade complete dishwasher pods
+- Cashews
+- Clorox
+- Curd
 - Dates
 - Ghee
 - Ginger garlic paste
@@ -15,64 +18,62 @@ are NOT generated until you move them under a store heading.
 - Goyyakai
 - Greek Yogurt
 - Gulab jamun
+- Humm
 - Kleenex facial tissue
+- Mandarins
 - Milk
+- Mush
+- Nurri
 - Oats
-- Spinach
+- Olive oil
+- Orgain protein
 - Paneer
 - Paper towel
-- Nurri
+- Pasta
 - Peanut butter
 - Pista
+- Premier protein
 - Pumpkin seeds
+- Raisin bran
 - Salted butter
-- Mandarins
-- Mush
 - Sanitary napkins
-- Clorox
-- Cashews
+- Spinach
+- Tide pods
 - Tomato
 - Toor dhal
-- Tide pods
 - Tostitos
 - Water
-- Premier protein
 - Yakisoba noodles
-- Raisin bran
-- Orgain protein
-- Curd
 - Zipfizz
-- Humm
-- Avocado
-- Blueberry
 
 ## Fred Meyer
+- Baby bella mushrooms
 - Baking soda
+- Bananas
 - Basil leaves
 - Beans
 - Black sesame seeds
+- Black vinegar
 - Bok choy
 - Bread
-- Press and seal
-- Baby bella mushrooms
 - Capsicum
-- Parchment paper
+- Carrot
 - Cauliflower
-- Tomato ketchup
-- Chia seeds
-- Chilli garlic oil
-- Cilantro
-- Spray oil
-- Corn flour
 - Chayote
 - Cheese
+- Chia seeds
 - Chilli flakes
-- Fresh Cream
-- Onion
+- Chilli garlic oil
+- Chilli oil
+- Cilantro
+- Corn flour
 - Crispy onion
 - Cucumber
 - Dried mango
+- Eggs
 - Extra firm tofu
+- Foil
+- Fresh Cream
 - Frozen cauliflower
 - Frozen corn
 - Frozen cut beans
@@ -83,102 +84,117 @@ are NOT generated until you move them under a store heading.
 - Ginger ale
 - Gochujang
 - Guan miao noodles
+- Hand sanitizer
 - Heavy whipping cream
 - Honey
-- Shiitake Mushroom
+- Italian seasoning
+- Lemon
+- Lo mein noodles
+- Onion
+- Parchment paper
+- Parmesan cheese
 - Perforated parchment paper
+- Potato
+- Press and seal
 - Red chilli sauce
-- Shiitake mushrooms
+- Sesame oil
+- Shiitake Mushroom
+- Soy sauce
+- Spray oil
 - Spring onion
 - Sugar
 - Tahini
+- Tomato ketchup
 - Toothpick
 - Veg stock
 - Wet tissues
 - White pepper powder
-- Eggs
-- Italian seasoning
-- Carrot
-- Lemon
-- Foil
-- Bananas
-- Potato
-- Hand sanitizer
 
 ## Indian Store
 - Amchur powder
 - Asafotida
 - Bajji milakai
+- Basmati rice
+- Bay leaf
 - Beetroot
-- Coriander seeds
 - Bhindi
-- Elaichi full
-- Jaggery
-- Maida
-- Kallu uppu
 - Black urad dal
-- Fenugreek
-- Raisins
-- Mustard
-- Raw banana
-- Sambar powder
-- Rajma
 - Blanched peanuts
 - Brinjal
-- Sesame seeds
-- Semiya
 - Caraway seeds
 - Channa
-- Sunflower oil
+- Channa dal
 - Channa masala
 - Chapati
-- Potato Chips
+- Cinnamon
+- Cloves
 - Coconut
+- Coffee
+- Coriander powder
+- Coriander seeds
+- Crystal sona masoori rice
+- Cumin powder
 - Cumin seeds
 - Curry leaves
-- Coffee
 - Dosa batter
+- Drumstick
+- Dry red chilli
+- Elaichi full
+- Fennel seeds
+- Fenugreek seeds
 - Garam masala
-- Peeled Garlic
+- Garlic
 - Green chilli
 - Groundnut oil
 - Horlicks
 - Idli batter
-- Channa dal
+- Jaggery
+- Kallu uppu
 - Kasuri methi
 - Kopparai
 - Kovakkai
 - Lamp oil
 - Low fat paneer
+- Maida
 - Makhana
-- Methi
 - Mint leaves
 - Mixture
 - Moong dal
-- Odachakadalai
+- Mustard
 - Pani poori
 - Pav
+- Pav bhaji masala
 - Pearl onions
+- Pepper jeera powder
 - Pepper powder
+- Peppercorns
 - Poppy seeds
+- Potato Chips
+- Raisins
+- Rajma
+- Raw banana
 - Red chilli powder
-- Crystal sona masoori rice
-- Basmati rice
+- Roasted gram
 - Roti
+- Sambar powder
+- Semiya
+- Sesame seeds
 - Shredded coconut
 - Soya chunks
 - Star anise
+- Sunflower oil
 - Tamarind paste
 - Turmeric
+- Urad dal
 - Vazhakkai
 
 ## Trader Joes
-- Coconut oil
-- Orange juice
 - Baby corn
 - Breakfast potato
+- Coconut oil
 - Edamame
 - Frozen Indian food
+- Orange juice
 - Ravioli
 
 ## Bath & Body works
