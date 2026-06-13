@@ -21,4 +21,9 @@
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
 - [ ] Wash water bottle
-- [ ] call Citi Bank
+- [ ] Airbnb background check
+- [ ] Robinhood deposit 
+- [ ] Time ticket
+- [ ] Grocery shopping
+- [ ] Resume prep
+Inbox cleanup
