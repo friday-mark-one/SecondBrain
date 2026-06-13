@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Meal plan instructions.md",
+                "file": "memory/Meal Plan/Current.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meal plan instructions"
+              "title": "Current"
             }
           }
         ]
@@ -204,23 +204,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55e70203280d7844",
+  "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
-    "memory/Items-draft.md",
-    "memory/Todo.md",
-    "memory/Meal plan instructions.md",
+    "memory/_templates/Item.md",
+    "memory/Archive/2026-06-12 Grocery List.md",
+    "memory/Archive/2026-06-12 Meal Plan.md",
     "memory/Archive/2026-06-11 Meal Plan.md",
     "memory/Archive/2026-06-11 Grocery List.md",
-    "memory/_templates/Recipe.md",
-    "memory/Meal Plan/Current.md",
+    "memory/Buy List.md",
     "memory/Grocery List/Current.md",
+    "memory/Cookbook.md",
+    "memory/Meal Plan/Current.md",
+    "memory/Meal plan instructions.md",
+    "memory/Items-draft.md",
+    "memory/Todo.md",
+    "memory/_templates/Recipe.md",
     "memory/MEMORY.md",
     "memory/_config.md",
     "memory/_scripts/commands/toggle-detail.js",
     "memory/Items/Milk.md",
     "memory/Items/Hanger.md",
     "Hangers.md",
-    "memory/Cookbook.md",
     "memory/Archive/2026-06-10 Meal Plan.md",
     "memory/Recipes/Akki Usili.md",
     "memory/Recipes/Tomato Chutney.md",
@@ -229,10 +233,6 @@
     "memory/Archive/2026-06-08 Meal Plan.md",
     "memory/Archive/2026-06-08 Grocery List.md",
     "memory/Archive/2026-06-08 Staples Bought.md",
-    "memory/Recipes/Masala Vada.md",
-    "memory/Hobby projects.md",
-    "memory/Cooking References.md",
-    "memory/AI automation projects.md",
     "memory/_scripts/build-recipes.js",
     "memory/_scripts/build-items.js",
     "memory/build-commands.js",
