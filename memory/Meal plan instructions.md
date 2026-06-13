@@ -13,9 +13,14 @@ directly — `Items/` frontmatter, `Recipes/` ingredients, `Buy List.md`,
 notes is what the grocery list reflects.
 
 ## Layout
-- `memory/Items/<Name>.md` — one note per ingredient/staple. Frontmatter:
+- `memory/Items/<Name>.md` — one note per ingredient/staple/buy list. Frontmatter:
   `type: item`, `store: <Costco|Fred Meyer|Indian Store|Trader Joes|Bath & Body works>`,
   optional `category`. The note name IS the `[[wikilink]]` recipes use.
+  - Optional expiry fields (opt-in, perishables only): `shelf_life_days` (int —
+    its presence is what makes the item tracked), `heads_up_days` (int, days
+    before expiry to start warning; absent ⇒ 0 = warn on expiry day only), and
+    `expires` (`YYYY-MM-DD`, **engine-stamped** at Archive & Reset — never
+    hand-edit). Items with no `shelf_life_days` are not tracked.
 - `memory/Recipes/<Dish>.md` — `type: recipe` + `meal`/`cuisine`/`protein_heavy`/
   `fodmap_friendly` + a `## Ingredients` section of `- [[Item]] | amount` lines +
   `## Directions`.
@@ -30,6 +35,8 @@ notes is what the grocery list reflects.
     reset on Archive & Reset. Bought regulars are NOT removed or archived.
   - (If neither heading exists, the whole file is treated as One-off.)
 - `memory/Cookbook.md` — DataviewJS browse + ➕ buttons.
+- `memory/Expiring Soon.md` — DataviewJS view of tracked items inside their
+  heads-up window, soonest first (read-only; just reads `expires`).
 - `memory/Cooking References.md` — rice/upma ratios, Instapot timings (NOT recipes).
 - `memory/_config.md` — `store_order`, `meal_slots`, `default_plan_days`,
   `grocery_detail` (`full` | `off`).
@@ -52,6 +59,9 @@ notes is what the grocery list reflects.
 - **Add a recurring item to the menu:** append `- [ ] [[Item]] | amount` under
   `## Regulars` in `Buy List.md` (unticked). To include it a given week, tick it.
 - For either, if the item note is missing, ask before creating `Items/<Item>.md`.
+- **Track an item's expiry:** add `shelf_life_days` (and optionally
+  `heads_up_days`) to that perishable's `Items/<Name>.md`. Don't set `expires` by
+  hand — it's stamped when you check the item off at Archive & Reset.
 - **Bulk edit items/recipes:** transform the actual notes in place (read
   `Items/`/`Recipes/`, edit, write back). NEVER regenerate notes from a separate
   source file — that path caused drift and has been removed.
@@ -83,6 +93,18 @@ notes is what the grocery list reflects.
 - Regenerating the list preserves existing checkmarks.
 - Missing item note / blank store / unknown dish surface in ⚠️ sections,
   never silently dropped.
+- Archive & Reset stamps `expires = today + shelf_life_days` on every **checked**
+  grocery-list item that has a `shelf_life_days`. Unchecked/untracked items are
+  left alone — so re-buying resets expiry, not re-buying keeps it.
+
+## Expiry notifier (mini-only, outside the engine)
+- `memory/_scripts/notify-expiring.js` is a Node cron script that runs **only on
+  the Mac mini** (not mobile), so it may use `require`/`fs`/`fetch`. It reuses the
+  engine's tested `expiringSoon` helper and POSTs a Telegram message for items in
+  their heads-up window. It is NOT a QuickAdd command and is NOT regenerated.
+- Telegram credentials live OUTSIDE the vault at `~/.openclaw/telegram.json`
+  (`{ "bot_token", "chat_id" }`) so the secret never syncs to the phone. Setup
+  steps are in the script's header comment.
 
 ## Ambiguity rule
 "Remove onion" is ambiguous (delete the item note? remove from a recipe? from

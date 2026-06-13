@@ -6,6 +6,7 @@ unbought ones stay for next time.
 
 - [[Water pack]] | 1
 - [[Hanger]] | 1
+- [[Chair]] | 1
 
 ## Regulars
 - [ ] [[Milk]]
