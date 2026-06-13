@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Meal plan instructions.md",
+                "file": "agent-protocol/HEARTBEAT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meal plan instructions"
+              "title": "HEARTBEAT"
             }
           }
         ]
@@ -206,6 +206,14 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "agent-protocol/TOOLS.md",
+    "agent-protocol/USER.md",
+    "agent-protocol/SOUL.md",
+    "agent-protocol/IDENTITY.md",
+    "agent-protocol/cron/jobs.json",
+    "agent-protocol/HEARTBEAT.md",
+    "agent-protocol/AGENTS.md",
+    "memory/Meal plan instructions.md",
     "memory/_config.md",
     "memory/AI automation projects.md",
     "memory/Buy List.md",
@@ -213,11 +221,9 @@
     "memory/Cooking References.md",
     "memory/Expiring Soon.md",
     "memory/Hobby projects.md",
-    "memory/Meal plan instructions.md",
     "memory/Shopping research.md",
     "memory/MEMORY.md",
     "memory/Shopping Tracker.md",
-    "agent-protocol/HEARTBEAT.md",
     "Untitled.base",
     "memory/Items/Beans.md",
     "memory/Items/Bay leaf.md",
@@ -228,17 +234,11 @@
     "memory/Items/Bajji milakai.md",
     "memory/Items/Baby corn.md",
     "memory/Items/Baby bella mushrooms.md",
-    "memory/Items/Avocado.md",
-    "memory/Items/Asafotida.md",
-    "memory/Items/Amchur powder.md",
-    "memory/Items/Almonds.md",
-    "memory/_templates/Item.md",
     "memory/_scripts/notify-expiring.js",
     "memory/_scripts/commands/toggle-detail.js",
     "memory/_scripts/build-recipes.js",
     "memory/_scripts/build-items.js",
     "memory/build-commands.js",
-    "agent-protocol/cron/jobs.json",
     "memory/_scripts/build-commands.js",
     "memory/_scripts/commands/add-dish.js",
     "memory/_scripts/commands/archive.js",
