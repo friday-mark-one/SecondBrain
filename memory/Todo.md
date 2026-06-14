@@ -25,3 +25,4 @@
 - [ ] Grocery shopping
 - [ ] Clean balcony
 - [ ] Inbox cleanup
+- [ ] best buy gift card use
