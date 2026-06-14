@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent-protocol/HEARTBEAT.md",
+                "file": "memory/Buy List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HEARTBEAT"
+              "title": "Buy List"
             }
           }
         ]
@@ -206,9 +206,10 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "agent-protocol/HEARTBEAT.md",
+    "memory/Items/Frozen cauliflower.md",
     "memory/_scripts/vault_sweeper.py",
     "Bharath's scratch pad.md",
-    "agent-protocol/HEARTBEAT.md",
     "agent-protocol/TOOLS.md",
     "agent-protocol/USER.md",
     "agent-protocol/SOUL.md",
@@ -241,7 +242,6 @@
     "memory/build-commands.js",
     "memory/_scripts/build-commands.js",
     "memory/_scripts/commands/add-dish.js",
-    "memory/_scripts/commands/archive.js",
     "Untitled.canvas"
   ]
 }
