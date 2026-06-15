@@ -43,3 +43,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 		- [x] Define tags
 	- [x] Build cookbook
 	- [x] Refer SOP in openclaw
+	- [ ] allow one item multiple store
+	- [ ] more recipes
+	- [ ] start date from next day
+	- [ ] 
