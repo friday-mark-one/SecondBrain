@@ -206,6 +206,8 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/EXPIRY_RUN_STATE.md",
+    "memory/_expiry_notifier_log.md",
     "memory/Capture instructions.md",
     "agent-protocol/HEARTBEAT.md",
     "agent-protocol/AGENTS.md",
@@ -230,8 +232,6 @@
     "memory/Lists/Midnight ideas.md",
     "memory/Lists/Protein rich foods.md",
     "memory/Lists/Nothing to do list.md",
-    "memory/Lists/Gift ideas.md",
-    "memory/Lists/Kodi addons.md",
     "memory/Checklists",
     "memory/Reference",
     "memory/Lists",
