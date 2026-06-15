@@ -9,12 +9,8 @@ import datetime
 # 1. Shopping Tracker File
 SHOPPING_FILE = "/Users/openclaw/SecondBrain/memory/Shopping Tracker.md"
 
-# 2. Specific Checklist Files to Sweep
-CHECKLIST_FILES = [
-    "/Users/openclaw/SecondBrain/memory/Shopping research.md",
-    "/Users/openclaw/SecondBrain/memory/Things to return.md",
-    "/Users/openclaw/SecondBrain/memory/Todo.md"
-]
+# 2. Vault root to scan for checklist notes (frontmatter: type: checklist)
+VAULT_ROOT = "/Users/openclaw/SecondBrain/memory"
 
 # 3. The Hidden Log File
 TRASH_LOG_FILE = "/Users/openclaw/SecondBrain/memory/logs/.swept_tasks_log.md"
@@ -124,11 +120,28 @@ def sweep_shopping_list():
 # ==========================================
 # GENERAL CHECKLIST SWEEP LOGIC
 # ==========================================
+EXCLUDE_DIRS = {"_scripts", "_templates", "logs", "Archive", "Items", "Recipes", "Meal Plan"}
+
+def find_checklist_notes(root):
+    found = []
+    for dirpath, dirnames, filenames in os.walk(root):
+        dirnames[:] = [d for d in dirnames if d not in EXCLUDE_DIRS and not d.startswith(".")]
+        for name in filenames:
+            if not name.endswith(".md"):
+                continue
+            path = os.path.join(dirpath, name)
+            with open(path, "r") as f:
+                head = f.read(400)
+            fm = re.match(r"^---\n(.*?)\n---", head, re.S)
+            if fm and re.search(r"^type:\s*checklist\s*$", fm.group(1), re.M):
+                found.append(path)
+    return found
+
 def sweep_checklists():
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     swept_items_total = []
 
-    for filepath in CHECKLIST_FILES:
+    for filepath in find_checklist_notes(VAULT_ROOT):
         if not os.path.exists(filepath):
             continue
 

@@ -11,3 +11,5 @@
     - If the script fails or throws an exception, immediately send a message to me on Telegram saying: "🚨 **Pantry Alert:** The background shopping sweeper script encountered an error" and include the raw error output.
 - [x] **Expiry Notifier:** Once per day, in the evening after 19:00 local time, run the Node script at `~/SecondBrain/memory/_scripts/notify-expiring.js` with `node`. Run it **at most once per calendar day** — if you have already run it today, skip this task for the rest of the day's cycles.
 	- If the script fails or throws an exception, immediately send a message to me on Telegram saying: "🚨 **Expiry Alert:** The expiry notifier script encountered an error" and include the raw error output.
+- [x] **Inbox Sweep:** During each heartbeat, if `~/SecondBrain/memory/Inbox.md` has any non-comment, non-empty lines, run the capture sweep per `~/SecondBrain/memory/Capture instructions.md` (`node ~/SecondBrain/memory/_scripts/capture.js inbox-take`, then route + file each line). Stay silent if Inbox is empty.
+    - If `capture.js` errors, send Telegram: "🚨 **Capture Alert:** the Inbox sweep hit an error" with the raw output.

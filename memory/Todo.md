@@ -1,3 +1,10 @@
+---
+type: checklist
+category: Tasks
+hint: general todo list
+pinned: true
+---
+
 - [ ] Check wedding album
 	- [ ] Select album pictures
 	- [ ] Photoshop photos

@@ -1,3 +1,10 @@
+---
+type: checklist
+category: Buy
+hint: things to research before buying
+pinned: true
+---
+
 - [ ] Snowboard
 - [ ] Chef's sharp knife
 - [ ] Cilantro box
