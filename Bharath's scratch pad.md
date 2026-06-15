@@ -46,4 +46,3 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] allow one item multiple store
 	- [ ] more recipes
 	- [ ] start date from next day
-	- [ ] 
