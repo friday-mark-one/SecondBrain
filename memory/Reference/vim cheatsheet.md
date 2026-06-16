@@ -1,0 +1,68 @@
+---
+type: reference
+category: Reference
+hint: vim command reference
+pinned: false
+---
+
+- h, j, k, l - left, down, up , right directions
+- w, e - move one word forward
+- b - one word backward
+- f, t - jump to specific character in a line (; - next occur , - prev occur)
+- F, T - same as previous but do search to the left of cursor position
+- /string - search for occurrence of string in file (iterate using n for next)
+- (N for prev)
+- ?string - search occurrence to the left of cursor position
+- cw - change word from the cursor position to end of word.
+- ci" - to delete everything within double quotes (also works for {,[,(,',",<)
+- dw, di" - same as above except it doesn't go to edit mode.
+- dt; - delete characters till the first appearance of ; (use c to go to insert mode after deleting)
+- D/C - to delete/change all words from cursor position till the end of line
+- dd/cc - to delete/change the entire line
+- v - visual mode ( to select text)
+- o - to move to the other end of marked text
+- y, c, p, d - yank, cut, paste, delete
+- ~ - switch case
+- >, < - shift right or left the selected text
+- H, M, L - move to top, middle, bottom of the screen
+- $ - move to end of line
+- 0 - move to start of line
+- gg - move to the beginning of file
+- G - move to the end of file
+- 10G - goto line 10
+- 75% - goto 75th percent of the file
+- zz - make current curson position centre of screen
+- ctrl-d - move down 1/2 screen
+- ctrl-u - move up 1/2 screen
+- ctrl-f - move 1 full screen forward
+- ctrl-b - move 1 full screen backward
+- ctrl-e - scroll one line down
+- ctrl-y - scroll one line up
+- a - insert after the cursor
+- o - insert a new line after the cursor and go to edit mode
+- O - insert a new line before the cursor and go to edit mode
+- e: filename - open a new file in another buffer
+- :bn, :bp - go to next / previous buffer
+- r - replace a single character
+- x - delete a single characte
+- J - join below line to the current one
+- s - delete character and substitute text
+- u - undo
+- ctrl-r - redo
+- . - repeat last command
+- yy - copy a line
+- 5yy - copy 5 lines
+- dd - delete (Cut) a line
+- 7dd - delete 7 lines
+- :%s/old/new/g - replace old with new throughout the file
+- :%s/old/new/gc - same as before but with confirmation
+- :#,#s/old/new/g - substitute in the given range of lines
+- ctrl-g - location in the file (percent and line number)
+- ctrl-o  - to go back where you came from
+- ctrl-i - to go back to prev position where you came from
+- :! <command> - to execute an external command
+- :r <filename> - to retrieve contents of file to the current cursor position
+- :set ic - to ignore case while searching
+- :set noic - to toggle ignore case again
+- :set hls - to highlight search
+- ma - to bookmark with label a (single character marking)

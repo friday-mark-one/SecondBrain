@@ -5,3 +5,56 @@ hint: template checklist to copy before any trip
 pinned: false
 ---
 
+- [ ] Take out trash
+- [ ] Empty water bottle
+- [ ] Check baggage requirements for airline
+- [ ] Dopp kit
+- [ ] Multivitamin tablets
+- [ ] Gifts / Chocolates?
+- [ ] Earpod
+- [ ] Lightning cable
+- [ ] Indian rupees
+- [ ] I-79
+- [ ] Passport
+- [ ] Pen
+- [ ] Masks
+- [ ] Kerchief
+- [ ] Phone charger
+- [ ] Watch
+- [ ] USB cable
+- [ ] Clean out fridge
+- [ ] Start dishwasher
+- [ ] Wash clothes
+- [ ] Plug bathroom sinkholes
+- [ ] Charge laptop
+- [ ] Flight entertainment downloads
+- [ ] Belt
+- [ ] Outdoor wear
+- [ ] Indoor wear
+- [ ] Socks
+- [ ] Shoes
+- [ ] Vests
+- [ ] Neck rest
+- [ ] Compression sock
+- [ ] Eye mask
+- [ ] Check mailbox
+- [ ] Cooling glass
+- [ ] Cap
+- [ ] Towel
+- [ ] Gloves
+- [ ] Mac mini remote setup
+- [ ] Formal shirt and pant
+- [ ] Swim shorts
+- [ ] Plastic bag for old clothes
+- [ ] Travel tips
+  - [ ] Plan for food and water if remote place
+  - [ ] Change of clothes for night, extra pair of socks, toiletries
+  - [ ] Proper shoe
+  - [ ] Correct layering based on weather
+  - [ ] Download Google maps offline
+  - [ ] Spotify offline
+  - [ ] Dopp kit in backpack so it is easy to take things
+  - [ ] Hiking shoe also
+  - [ ] Coolers
+  - [ ] Toiletries refill
+  - [ ] Sandals when staying at hostel

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent-protocol/AGENTS.md",
-                "mode": "source",
-                "source": false,
+                "file": "memory/MOC.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "MOC"
             }
           }
         ]
@@ -206,33 +206,34 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Capture instructions.md",
+    "memory/Reference/Finance debate.md",
+    "memory/Reference/Fancy things.md",
+    "memory/Reference/Crazy things my wife says.md",
+    "memory/Reference/Blood tests taken.md",
+    "memory/Reference/Before a trip.md",
+    "memory/Reference/Apartment addresses.md",
+    "memory/Checklists/Washington DC to do.md",
+    "memory/Checklists/Vegas to do.md",
+    "memory/Checklists/Portland trip.md",
+    "memory/Checklists/India trip.md",
+    "memory/Checklists/Honorlock test prep.md",
+    "memory/Checklists/Flight booking tips.md",
+    "memory/Checklists/Car exploration.md",
+    "agent-protocol/AGENTS.md",
+    "memory/_scripts/migrate-keep.js",
+    "memory/Reference/vim cheatsheet.md",
+    "memory/Reference/screen cheatsheet.md",
+    "memory/Reference/Random notes.md",
+    "memory/Reference/Public speaking notes.md",
+    "memory/Reference/Laptop research.md",
+    "memory/Lists/Tech to watch.md",
+    "memory/Lists/Gems.md",
+    "memory/Lists/Cold remedies.md",
+    "memory/Lists/Adventure bucket list.md",
     "memory/Todo.md",
     "memory/_scripts/sync_workspace.sh",
     "memory/Grocery List/Current.md",
-    "memory/EXPIRY_RUN_STATE.md",
-    "memory/_expiry_notifier_log.md",
-    "memory/Capture instructions.md",
-    "agent-protocol/HEARTBEAT.md",
-    "agent-protocol/AGENTS.md",
-    "memory/Buy List.md",
-    "memory/Checklists/India trip.md",
-    "memory/Checklists/Portland trip.md",
-    "memory/Reference/Apartment addresses.md",
-    "memory/Reference/Referral codes.md",
-    "memory/Reference/Life goals.md",
-    "memory/Reference/Before a trip.md",
-    "memory/Reference/Personal facts.md",
-    "memory/Reference/Crazy things my wife says.md",
-    "memory/Reference/Ideal day.md",
-    "memory/Lists/Gyms to try.md",
-    "memory/Lists/Home automation.md",
-    "memory/Lists/Scents to try.md",
-    "memory/Lists/Movie & TV watchlist.md",
-    "memory/Lists/Claude Code things to try.md",
-    "memory/Lists/Project ideas.md",
-    "memory/Lists/Backpacks.md",
-    "memory/Lists/Black Friday buy.md",
-    "memory/Lists/Midnight ideas.md",
     "memory/Checklists",
     "memory/Reference",
     "memory/Lists",
@@ -241,7 +242,6 @@
     "memory/_scripts/vault_sweeper.py",
     "agent-protocol/cron/jobs.json",
     "Untitled.base",
-    "memory/_scripts/notify-expiring.js",
     "Untitled.canvas"
   ]
 }
