@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Todo.md",
+                "file": "agent-protocol/AGENTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "AGENTS"
             }
           }
         ]
@@ -206,6 +206,8 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Todo.md",
+    "memory/_scripts/sync_workspace.sh",
     "memory/Grocery List/Current.md",
     "memory/EXPIRY_RUN_STATE.md",
     "memory/_expiry_notifier_log.md",
@@ -231,7 +233,6 @@
     "memory/Lists/Backpacks.md",
     "memory/Lists/Black Friday buy.md",
     "memory/Lists/Midnight ideas.md",
-    "memory/Lists/Protein rich foods.md",
     "memory/Checklists",
     "memory/Reference",
     "memory/Lists",
@@ -241,7 +242,6 @@
     "agent-protocol/cron/jobs.json",
     "Untitled.base",
     "memory/_scripts/notify-expiring.js",
-    "memory/_scripts/commands/toggle-detail.js",
     "Untitled.canvas"
   ]
 }
