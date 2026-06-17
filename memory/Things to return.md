@@ -8,6 +8,7 @@ pinned: true
 ## Costco
 
 ## Kohls
+- [ ] Hestra gloves
 
 ## Fedex
 - [ ] 
