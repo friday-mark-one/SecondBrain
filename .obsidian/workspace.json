@@ -206,6 +206,8 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/timestamps/expiry-notifier.txt",
+    "memory/timestamps",
     "memory/_scripts/expiry_last_run.txt",
     "memory/MOC.md",
     "memory/Capture instructions.md",
@@ -240,8 +242,6 @@
     "memory/_scripts/capture.js",
     "memory/_scripts/notify-expiring.lastrun",
     "memory/_scripts/vault_sweeper.py",
-    "agent-protocol/cron/jobs.json",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }
