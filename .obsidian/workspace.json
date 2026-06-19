@@ -206,6 +206,9 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/_scripts/meta/expiry_notifier_last_run",
+    "memory/_scripts/meta",
+    "memory/_scripts/expiry-run-log.txt",
     "memory/timestamps/expiry-notifier.txt",
     "memory/timestamps",
     "memory/_scripts/expiry_last_run.txt",
@@ -239,9 +242,6 @@
     "memory/Checklists",
     "memory/Reference",
     "memory/Lists",
-    "memory/_scripts/capture.js",
-    "memory/_scripts/notify-expiring.lastrun",
-    "memory/_scripts/vault_sweeper.py",
     "Untitled.canvas"
   ]
 }
