@@ -206,6 +206,7 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/_scripts/expiry-notifier-tracker.txt",
     "memory/_scripts/meta/expiry_notifier_last_run",
     "memory/_scripts/meta",
     "memory/_scripts/expiry-run-log.txt",
@@ -241,7 +242,6 @@
     "memory/_scripts/sync_workspace.sh",
     "memory/Checklists",
     "memory/Reference",
-    "memory/Lists",
     "Untitled.canvas"
   ]
 }
