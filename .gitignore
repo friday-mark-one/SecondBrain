@@ -1,0 +1,4 @@
+# Expiry-notifier runtime state — written daily by notify-expiring.js, local to
+# each machine. Not source; keeping it untracked avoids daily commit churn and
+# keeps it from syncing to the phone.
+memory/_scripts/.expiry_last_run

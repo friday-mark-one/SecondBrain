@@ -5,6 +5,8 @@ hint: template checklist to copy before any trip
 pinned: false
 ---
 
+### Ultimate travel checklist
+
 - [ ] Take out trash
 - [ ] Empty water bottle
 - [ ] Check baggage requirements for airline
@@ -46,6 +48,10 @@ pinned: false
 - [ ] Formal shirt and pant
 - [ ] Swim shorts
 - [ ] Plastic bag for old clothes
+- [ ] Download offline google maps
+- [ ] Offline spotify
+
+
 - [ ] Travel tips
   - [ ] Plan for food and water if remote place
   - [ ] Change of clothes for night, extra pair of socks, toiletries

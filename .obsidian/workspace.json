@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bharath's scratch pad.md",
+                "file": "memory/Reference/Before a trip.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bharath's scratch pad"
+              "title": "Before a trip"
             }
           }
         ]
@@ -206,6 +206,8 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/MOC.md",
+    "Bharath's scratch pad.md",
     "memory/last-expiry-run.txt",
     "memory/expiry-tracking.txt",
     "memory/_scripts/expiry-notifier-tracker.txt",
@@ -215,7 +217,6 @@
     "memory/timestamps/expiry-notifier.txt",
     "memory/timestamps",
     "memory/_scripts/expiry_last_run.txt",
-    "memory/MOC.md",
     "memory/Capture instructions.md",
     "memory/Reference/Finance debate.md",
     "memory/Reference/Fancy things.md",
@@ -241,7 +242,6 @@
     "memory/Lists/Gems.md",
     "memory/Lists/Cold remedies.md",
     "memory/Lists/Adventure bucket list.md",
-    "memory/_scripts/sync_workspace.sh",
     "Untitled.canvas"
   ]
 }
