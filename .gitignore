@@ -2,3 +2,7 @@
 # each machine. Not source; keeping it untracked avoids daily commit churn and
 # keeps it from syncing to the phone.
 memory/_scripts/.expiry_last_run
+
+
+.DS_Store
+._.DS_Store
