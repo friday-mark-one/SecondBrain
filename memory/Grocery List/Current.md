@@ -1,6 +1,7 @@
 # Grocery List — 2026-06-22
 
 ## Costco
+- [ ] Tomato
 - [ ] Cashews
 - [ ] Ginger garlic paste
 - [ ] Curd
@@ -10,6 +11,7 @@
 ## Fred Meyer
 - [ ] Cauliflower
 - [ ] Potato
+- [ ] Tomato
 - [ ] Onion
 - [x] Cilantro
 - [x] Hanger
@@ -28,6 +30,3 @@
 - [ ] Garam masala
 - [ ] Kasuri methi
 - [x] Asafotida
-
-## [Costco, Fred Meyer]
-- [ ] Tomato

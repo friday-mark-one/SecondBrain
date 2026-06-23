@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Items/Tomato.md",
-                "mode": "source",
-                "source": false,
+                "file": "memory/Things to return.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tomato"
+              "title": "Things to return"
             }
           }
         ],
@@ -231,12 +231,13 @@
   },
   "active": "57d23d955f52e168",
   "lastOpenFiles": [
+    "memory/Items/Spinach.md",
+    "memory/Items/Tomato.md",
     "memory/Grocery List/Current.md",
     "memory/Cookbook.md",
     "memory/Meal Plan/Current.md",
     "memory/_config.md",
     "memory/Items/Baby bella mushrooms.md",
-    "memory/Items/Tomato.md",
     "memory/Lists/Movie & TV watchlist.md",
     "memory/MOC.md",
     "memory/Reference/Before a trip.md",
@@ -266,7 +267,6 @@
     "agent-protocol/AGENTS.md",
     "memory/_scripts/migrate-keep.js",
     "memory/Reference/vim cheatsheet.md",
-    "memory/Reference/screen cheatsheet.md",
     "Untitled.canvas"
   ]
 }
