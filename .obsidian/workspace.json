@@ -231,6 +231,7 @@
   },
   "active": "57d23d955f52e168",
   "lastOpenFiles": [
+    "memory/_scripts/notify-returns.js",
     "memory/Items/Spinach.md",
     "memory/Items/Tomato.md",
     "memory/Grocery List/Current.md",
@@ -266,7 +267,6 @@
     "memory/Checklists/Car exploration.md",
     "agent-protocol/AGENTS.md",
     "memory/_scripts/migrate-keep.js",
-    "memory/Reference/vim cheatsheet.md",
     "Untitled.canvas"
   ]
 }

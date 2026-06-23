@@ -4,5 +4,4 @@
 memory/_scripts/.expiry_last_run
 
 
-.DS_Store
-._.DS_Store
+**/.DS_Store

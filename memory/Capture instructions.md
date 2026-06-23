@@ -8,6 +8,9 @@ Engine: `memory/_scripts/capture.js`. You classify; the engine does all file wri
 2. Decide the destination:
    - Grocery / recipe / meal items → use the meal-plan flow (see
      `memory/Meal plan instructions.md`), NOT capture.js.
+   - Returns → `memory/Things to return.md`, under the store/carrier heading, as
+     `- [ ] <item> @YYYY-MM-DD` (the last day it can be returned). Compute the absolute
+     date if I give a window ("bought today, 30-day return").
    - Otherwise pick the best existing note. Only create a new one when nothing fits.
 4. File it:
    - Existing: `node memory/_scripts/capture.js file --note "<Note>" --item "<text>"`
