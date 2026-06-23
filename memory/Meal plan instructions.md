@@ -1,4 +1,4 @@
-# Vault Operating Manual
+# Operating Manual
 
 This vault runs a deterministic meal-planning + grocery system, contained in the
 `memory/` folder. There is no separate database or import file. Follow these procedures 

@@ -5,11 +5,7 @@ Bought items (checked on the grocery list) are removed by "Archive And Reset";
 unbought ones stay for next time.
 
 - [[Water pack]] | 1
-- [[Hanger]] | 1
 - [[Chair]] | 1
-- [[Asafotida]] | 1
-- [[Sugar]] | 1
-- [[Frozen cauliflower]] | 1
 
 ## Regulars
 - [ ] [[Milk]]
