@@ -1,12 +1,16 @@
-# Grocery List — 2026-06-15
+# Grocery List — 2026-06-22
 
 ## Costco
-- [ ] Toor dhal
+- [ ] Cashews
+- [ ] Ginger garlic paste
+- [ ] Curd
 - [ ] Water pack
 - [ ] Chair
 
 ## Fred Meyer
-- [x] Carrot
+- [ ] Cauliflower
+- [ ] Potato
+- [ ] Onion
 - [x] Cilantro
 - [x] Hanger
 - [x] Sugar
@@ -14,12 +18,16 @@
 
 ## Indian Store
 - [ ] Groundnut oil
-- [ ] Mustard
+- [ ] Cumin seeds
+- [ ] Cinnamon
+- [ ] Cloves
+- [ ] Turmeric
+- [ ] Red chilli powder
+- [ ] Cumin powder
+- [ ] Coriander powder
+- [ ] Garam masala
+- [ ] Kasuri methi
 - [x] Asafotida
-- [ ] Fenugreek seeds
-- [ ] Curry leaves
-- [x] Bhindi
-- [ ] Brinjal
-- [x] Pearl onions
-- [ ] Drumstick
-- [ ] Tamarind paste
+
+## [Costco, Fred Meyer]
+- [ ] Tomato

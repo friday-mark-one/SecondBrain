@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/MOC.md",
+                "file": "memory/Grocery List/Current.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Current"
+            }
+          },
+          {
+            "id": "57d23d955f52e168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memory/Items/Tomato.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tomato"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +229,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed5d5d5b3daac424",
+  "active": "57d23d955f52e168",
   "lastOpenFiles": [
-    "memory/Reference/Before a trip.md",
+    "memory/Grocery List/Current.md",
+    "memory/Cookbook.md",
+    "memory/Meal Plan/Current.md",
+    "memory/_config.md",
+    "memory/Items/Baby bella mushrooms.md",
+    "memory/Items/Tomato.md",
+    "memory/Lists/Movie & TV watchlist.md",
     "memory/MOC.md",
+    "memory/Reference/Before a trip.md",
     "Bharath's scratch pad.md",
     "memory/last-expiry-run.txt",
     "memory/expiry-tracking.txt",
@@ -235,13 +267,6 @@
     "memory/_scripts/migrate-keep.js",
     "memory/Reference/vim cheatsheet.md",
     "memory/Reference/screen cheatsheet.md",
-    "memory/Reference/Random notes.md",
-    "memory/Reference/Public speaking notes.md",
-    "memory/Reference/Laptop research.md",
-    "memory/Lists/Tech to watch.md",
-    "memory/Lists/Gems.md",
-    "memory/Lists/Cold remedies.md",
-    "memory/Lists/Adventure bucket list.md",
     "Untitled.canvas"
   ]
 }

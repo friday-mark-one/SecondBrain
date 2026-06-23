@@ -12,6 +12,9 @@ All paths below are relative to the vault root `~/SecondBrain/`
   `type: item`, `store: <Costco|Fred Meyer|Indian Store|Trader Joes|Bath & Body works>`
   (or any new store mentioned other than these), optional `category`. 
   The note name IS the `[[wikilink]]` recipes or buy list items use.
+  - `store` may be a single value OR a list, e.g. `store: [Fred Meyer, Costco]`, for
+    an item sold at several stores. It then appears under EACH of those stores on the
+    grocery list, so you can pick it up at whichever store you visit.
   - Optional expiry fields (opt-in, perishables only): `shelf_life_days` (int —
     its presence is what makes the item tracked), `heads_up_days` (int, days
     before expiry to start warning; absent ⇒ 0 = warn on expiry day only).
@@ -28,7 +31,8 @@ All paths below are relative to the vault root `~/SecondBrain/`
 
 ## Procedures
 - **Add an item:** Create `Items/<Title Case Name>.md` from `_templates/Item.md`; set its `store`.
-- **Change an item's store:** edit only that one `Items/<Name>.md` `store` field.
+- **Change an item's store(s):** edit only that one `Items/<Name>.md` `store` field
+  (a single store, or a `[A, B]` list for an item sold at several).
 - **Add / edit a recipe:** Edit the `Recipes/<Dish>.md` note directly. 
   Ingredients are `- [[Item]] | amount` lines; create any missing item note first so the link resolves.
 - **Buy a one-off item this week:** append `- [[Item]] | amount` under

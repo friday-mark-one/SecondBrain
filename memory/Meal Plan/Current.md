@@ -1,30 +1,30 @@
-# Meal Plan — week of 2026-06-14
+# Meal Plan — week of 2026-06-23
 
-## Sun 06-14
+## Tue 06-23
+### Lunch
+- [[Aloo Gobi]]
+### Dinner
+
+## Wed 06-24
 ### Lunch
 ### Dinner
 
-## Mon 06-15
-### Lunch
-- [[Sambar]]
-### Dinner
-
-## Tue 06-16
+## Thu 06-25
 ### Lunch
 ### Dinner
 
-## Wed 06-17
+## Fri 06-26
 ### Lunch
 ### Dinner
 
-## Thu 06-18
+## Sat 06-27
 ### Lunch
 ### Dinner
 
-## Fri 06-19
+## Sun 06-28
 ### Lunch
 ### Dinner
 
-## Sat 06-20
+## Mon 06-29
 ### Lunch
 ### Dinner
