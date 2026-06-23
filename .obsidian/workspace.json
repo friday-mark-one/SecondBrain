@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Reference/Before a trip.md",
+                "file": "memory/MOC.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Before a trip"
+              "title": "MOC"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Reference/Before a trip.md",
     "memory/MOC.md",
     "Bharath's scratch pad.md",
     "memory/last-expiry-run.txt",
@@ -222,7 +223,6 @@
     "memory/Reference/Fancy things.md",
     "memory/Reference/Crazy things my wife says.md",
     "memory/Reference/Blood tests taken.md",
-    "memory/Reference/Before a trip.md",
     "memory/Reference/Apartment addresses.md",
     "memory/Checklists/Washington DC to do.md",
     "memory/Checklists/Vegas to do.md",
