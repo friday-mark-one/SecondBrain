@@ -28,4 +28,5 @@ pinned: false
 	- [ ] Blood test
 	- [ ] Food chart
 	- [ ] Protein sources
-- [ ] 
+- [ ] Accessories shopping
+	- [ ] Floral hair clips - https://youtube.com/shorts/N8_o-mxNDVE?is=iUfv-oknnamm_h9R
