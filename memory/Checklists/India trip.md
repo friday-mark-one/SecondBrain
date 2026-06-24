@@ -24,3 +24,8 @@ pinned: false
 - [ ] Stick file or file folder for documents
 - [ ] Tender coconut for Mira
 - [ ] CTCI book
+- [ ] Mira parents
+	- [ ] Blood test
+	- [ ] Food chart
+	- [ ] Protein sources
+- [ ] 
