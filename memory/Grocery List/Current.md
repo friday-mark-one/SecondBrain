@@ -13,11 +13,11 @@
 
 ## Fred Meyer
 - [x] Cauliflower
-- [ ] Potato
+- [x] Potato
 - [x] Tomato
-- [ ] Onion
-- [ ] Cilantro
-- [ ] Ginger
+- [x] Onion
+- [x] Cilantro
+- [x] Ginger
 - [ ] Beans
 - [x] Frozen peas
 - [x] Carrot
@@ -37,9 +37,9 @@
 - [x] Coriander powder
 - [x] Garam masala
 - [x] Kasuri methi
-- [ ] Mint leaves
-- [ ] Garlic
-- [ ] Green chilli
+- [x] Mint leaves
+- [x] Garlic
+- [x] Green chilli
 - [x] Elaichi full
 - [x] Fennel seeds
 - [x] Bay leaf
