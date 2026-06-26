@@ -28,6 +28,8 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 		- [x] excalidraw
 		- [x] kanban
 		- [ ] slash commands
+	- [ ] Redesign with inspiration from
+		- [ ] https://github.com/TheMickeyMouse/Obsidian-Vault-Template
 - [ ] OpenClaw
 	- [ ] openclaw configure --web
 - [ ] LiteLLM
