@@ -4,7 +4,7 @@
 - [x] Tomato
 - [x] Cashews
 - [x] Ginger garlic paste
-- [ ] Curd
+- [x] Curd
 - [x] Ghee
 - [x] Paneer
 - [x] Salted butter
@@ -18,13 +18,13 @@
 - [x] Onion
 - [x] Cilantro
 - [x] Ginger
-- [ ] Beans
+- [x] Beans
 - [x] Frozen peas
 - [x] Carrot
 - [x] Capsicum
-- [ ] Lemon
+- [x] Lemon
 - [x] Sugar
-- [ ] Fresh Cream
+- [x] Fresh Cream
 
 ## Indian Store
 - [x] Groundnut oil
@@ -46,7 +46,7 @@
 - [x] Peppercorns
 - [x] Basmati rice
 - [x] Channa
-- [ ] Channa masala
+- [x] Channa masala
 - [x] Black urad dal
 - [x] Rajma
 - [x] Asafotida
