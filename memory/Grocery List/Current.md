@@ -1,27 +1,27 @@
 # Grocery List — 2026-06-25
 
 ## Costco
-- [ ] Tomato
+- [x] Tomato
 - [x] Cashews
 - [x] Ginger garlic paste
 - [ ] Curd
 - [x] Ghee
-- [ ] Paneer
+- [x] Paneer
 - [x] Salted butter
 - [ ] Water pack
-- [ ] Chair
+- [x] Chair
 
 ## Fred Meyer
 - [x] Cauliflower
 - [ ] Potato
-- [ ] Tomato
+- [x] Tomato
 - [ ] Onion
 - [ ] Cilantro
 - [ ] Ginger
 - [ ] Beans
 - [x] Frozen peas
 - [x] Carrot
-- [ ] Capsicum
+- [x] Capsicum
 - [ ] Lemon
 - [x] Sugar
 - [ ] Fresh Cream
