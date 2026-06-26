@@ -6,6 +6,12 @@ unbought ones stay for next time.
 
 - [[Water pack]] | 1
 - [[Chair]] | 1
+- [[Tofu]] | 1
+- [[Tempeh]] | 1
+- [[Seitan]] | 1
+- [[Cabbage]] | 1
+- [[Anaheim peppers]] | 1
+- [[Cucumber]] | 1
 
 ## Regulars
 - [ ] [[Milk]]

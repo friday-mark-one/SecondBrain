@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Hobby projects.md",
+                "file": "memory/Buy List.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hobby projects"
+              "title": "Buy List"
             }
           }
         ]
@@ -206,10 +206,25 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Items/Tofu.md",
+    "memory/Cookbook.md",
+    "memory/Hobby projects.md",
+    "memory/Items/Rice sevai.md",
+    "memory/Items/Rava.md",
+    "memory/Recipes/Dosa.md",
+    "memory/Recipes/Idly.md",
+    "memory/Recipes/Lemon Sevai.md",
+    "memory/Recipes/Coconut Sevai.md",
+    "memory/Recipes/Rava Upma.md",
+    "memory/Items/Tempeh.md",
+    "memory/Items/Seitan.md",
+    "memory/Items/Cabbage.md",
+    "memory/Items/Anaheim peppers.md",
+    "memory/Grocery List/Current.md",
+    "Shopping Tracker.md",
     "memory/Reference/I will remember this.md",
     "memory/Expiring Soon.md",
     "memory/Meal Plan/Current.md",
-    "memory/Cookbook.md",
     "memory/Archive/2026-06-22 Grocery List.md",
     "memory/Archive/2026-06-22 Meal Plan.md",
     "memory/Archive/2026-06-22 Buy List Bought.md",
@@ -217,23 +232,8 @@
     "memory/logs/05-31-26.md",
     "agent-protocol/AGENTS.md",
     "memory/Capture instructions.md",
-    "memory/AI automation projects.md",
-    "memory/Buy List.md",
-    "memory/Cooking References.md",
-    "memory/Hobby projects.md",
-    "memory/Inbox.md",
-    "memory/Meal plan instructions.md",
-    "memory/MOC.md",
-    "memory/Shopping research.md",
-    "memory/Syllabus.md",
     "agent-protocol/cron/jobs.json",
-    "memory/Things to return.md",
     "memory/_scripts/notify-returns.js",
-    "memory/Items/Spinach.md",
-    "memory/Items/Tomato.md",
-    "memory/Grocery List/Current.md",
-    "memory/_config.md",
-    "memory/Items/Baby bella mushrooms.md",
     "memory/last-expiry-run.txt",
     "memory/expiry-tracking.txt",
     "memory/_scripts/expiry-notifier-tracker.txt",
