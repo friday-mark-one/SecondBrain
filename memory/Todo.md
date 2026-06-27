@@ -29,7 +29,7 @@ pinned: true
 - [ ] Install Zed editor
 - [ ] Wash water bottle
 - [ ] Time ticket
-- [ ] Clean balcony
 - [ ] Inbox cleanup
 - [ ] best buy gift card use
+- [ ] ognutrition menu copy
 
