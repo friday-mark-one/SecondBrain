@@ -6,9 +6,7 @@ pinned: true
 ---
 
 - [ ] Check wedding album
-	- [ ] Select album pictures
 	- [ ] Photoshop photos
-- [ ] Book india flight
 - [ ] Mock interview for Mira
 - [ ] Investment
 	- [ ] 401k
@@ -28,7 +26,6 @@ pinned: true
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
 - [ ] Wash water bottle
-- [ ] Time ticket
 - [ ] Inbox cleanup
 - [ ] best buy gift card use
 - [ ] ognutrition menu copy
