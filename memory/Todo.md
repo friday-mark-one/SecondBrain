@@ -29,4 +29,4 @@ pinned: true
 - [ ] Inbox cleanup
 - [ ] best buy gift card use
 - [ ] ognutrition menu copy
-
+- [ ] remove nail

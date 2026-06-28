@@ -8,7 +8,6 @@ pinned: true
 ## Costco
 
 ## Kohls
-- [ ] Yeti Rambler @2026-06-26
 
 ## Fedex
 - [ ] 
