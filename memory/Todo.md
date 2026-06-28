@@ -29,5 +29,4 @@ pinned: true
 - [ ] Inbox cleanup
 - [ ] best buy gift card use
 - [ ] ognutrition menu copy
-- [x] remove nail
 - [ ] dietician with kaiser
