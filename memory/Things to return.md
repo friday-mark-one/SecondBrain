@@ -16,7 +16,6 @@ pinned: true
 - [ ] 
 
 ## UPS
-- [ ] 
 
 ## Walmart
 - [ ] 
