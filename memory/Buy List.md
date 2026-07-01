@@ -11,6 +11,7 @@ unbought ones stay for next time.
 - [[Cabbage]] | 1
 - [[Anaheim peppers]] | 1
 - [[Cucumber]] | 1
+- [[Ghost protein cereal]] | 1
 
 ## Regulars
 - [ ] [[Milk]]
