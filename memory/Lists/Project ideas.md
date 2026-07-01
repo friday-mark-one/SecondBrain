@@ -29,6 +29,10 @@ pinned: false
   - Smartphone-based HUD for car
   - Location based assist
 - QoL ideas
+  - A cron job that reminds me what needs to be done to improve my performance at work in a cheap way possible
+	  - split PRs
+	  - create visibility in slack
+	  - pump up metrics so it shows in a 🏠 gh per
   - AI that knows everything about me - Jarvis with home integration and rag llm
   - Science backed knowledge of ancient practices
   - DoctorGPT
