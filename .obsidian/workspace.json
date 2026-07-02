@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Buy List.md",
+                "file": "memory/Recipes/Cut Mirchi.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Buy List"
+              "title": "Cut Mirchi"
             }
           }
         ]
@@ -206,6 +206,14 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Items/Corn starch.md",
+    "memory/Recipes/Cut Mirchi.md",
+    "memory/Items/Corn flour.md",
+    "memory/Buy List.md",
+    "memory/Items/Ajwain.md",
+    "memory/Items/Besan.md",
+    "memory/Items/Chaat masala.md",
+    "memory/Items/Rice flour.md",
     "memory/logs/06-29-26.md",
     "Mario Kart.md",
     "memory/logs/06-28-26.md",
@@ -224,14 +232,6 @@
     "memory/Recipes/Coconut Sevai.md",
     "memory/Recipes/Rava Upma.md",
     "memory/Items/Tempeh.md",
-    "memory/Items/Seitan.md",
-    "memory/Items/Cabbage.md",
-    "memory/Items/Anaheim peppers.md",
-    "memory/Grocery List/Current.md",
-    "Shopping Tracker.md",
-    "memory/Reference/I will remember this.md",
-    "memory/Expiring Soon.md",
-    "memory/Meal Plan/Current.md",
     "agent-protocol/cron/jobs.json",
     "memory/_scripts/notify-returns.js",
     "memory/last-expiry-run.txt",
