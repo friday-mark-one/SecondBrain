@@ -51,4 +51,4 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] buy list one off item don't need quantity by default
 - [ ] Fix game buy list flow
 	- [ ] doesn't create checklist
-	- [ ] each item gets created as a more unnecessarily 
+	- [ ] each item gets created as a note unnecessarily 
