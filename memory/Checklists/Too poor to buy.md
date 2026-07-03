@@ -1,2 +1,8 @@
 - [ ] Chocolates from Fran's chocolate in UW village
-	- [ ] 
+- [ ] Clothes from stores in UW village
+- [ ] Buying flight tickets to India at a shirt notice
+- [ ] First class or business class tickets
+- [ ] Personal trainer
+- [ ] Spa membership
+- [ ] House in Magnolia and Beverly hills
+- [ ] Wimbledon or FIFA world cup tickets
