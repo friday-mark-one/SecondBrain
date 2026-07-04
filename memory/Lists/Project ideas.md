@@ -42,7 +42,7 @@ pinned: true
   - AI that talks like me - Train on my WhatsApp chats
   - Automate ticket booking with AI clicking buttons on the browser by visually looking at it
   - Notification logger
-  - Food logger app
+  - Food journal app
 - AI wrapper
   - Convert bad quality to good quality images using ml. input - poor photo. Output - good photo
   - Convert diagram from paper to digital
