@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/logs/05-31-26.md",
+                "file": "memory/Deals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "05-31-26"
+              "title": "Deals"
             }
           }
         ]
@@ -204,8 +204,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55e70203280d7844",
+  "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/logs/07-05-26.md",
+    "memory/logs/05-31-26.md",
     "memory/Deals.md",
     "memory/logs/06-28-26.md",
     "memory/logs/06-29-26.md",
@@ -232,8 +234,6 @@
     "memory/Items/Besan.md",
     "memory/Items/Ajwain.md",
     "memory/Lists/Games to buy.md",
-    "memory/Grocery List/Current.md",
-    "memory/Lists/Movie & TV watchlist.md",
     "agent-protocol/cron/jobs.json",
     "memory/_scripts/notify-returns.js",
     "memory/last-expiry-run.txt",
