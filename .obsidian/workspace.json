@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Deal triage instructions.md",
+                "file": "memory/logs/05-31-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deal triage instructions"
+              "title": "05-31-26"
             }
           }
         ]
@@ -204,9 +204,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed5d5d5b3daac424",
+  "active": "55e70203280d7844",
   "lastOpenFiles": [
     "memory/Deals.md",
+    "memory/logs/06-28-26.md",
+    "memory/logs/06-29-26.md",
     "memory/Deal triage instructions.md",
     "memory/Shopping research.md",
     "memory/_scripts/deals.js",
@@ -229,11 +231,9 @@
     "memory/Items/Chaat masala.md",
     "memory/Items/Besan.md",
     "memory/Items/Ajwain.md",
-    "memory/logs/06-29-26.md",
     "memory/Lists/Games to buy.md",
     "memory/Grocery List/Current.md",
     "memory/Lists/Movie & TV watchlist.md",
-    "memory/Lists/Kodi addons.md",
     "agent-protocol/cron/jobs.json",
     "memory/_scripts/notify-returns.js",
     "memory/last-expiry-run.txt",
