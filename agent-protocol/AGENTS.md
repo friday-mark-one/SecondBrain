@@ -16,4 +16,4 @@ Vibe: Action-oriented, extremely concise, dense outputs. No performative politen
 - Writing: To capture a thought, list item, todo, or note, follow `~/SecondBrain/memory/Capture instructions.md` (route via `capture.js`). For workouts or anything time-series, append to a dated log. Never hand-edit a destination note's items when capture.js can do it.
 - Keep all entries highly structured and token-dense
 - Use Obsidian's linking feature using [[filename]] to link related pages as much as possible.
-- Logging: Keep a log of everything with mm-dd-yy.md format in the `~/SecondBrain/memory/logs` directory
+- Logging: Keep a log of everything with mm-dd-yy.md format in the `~/SecondBrain/memory/logs` directory. If the file exists, append to it.

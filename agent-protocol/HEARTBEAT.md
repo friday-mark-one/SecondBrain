@@ -20,4 +20,4 @@
 - [x] **News Digest:** During each heartbeat cycle, run the procedure in `~/SecondBrain/memory/News digest instructions.md`, starting with `node ~/SecondBrain/memory/_scripts/email-state.js claim news 10`. The `claim` gate self-limits to once per calendar day at/after 10:00 — do **NOT** track the time yourself or decide whether it "already ran today".
 	- If any script or the AgentMail skill errors, immediately send a message to me on Telegram saying: "🚨 **News Digest Alert:** the news digest hit an error" and include the raw error output.
 
-For all the operations above, make a log with mm-dd-yy.md format in the `~/SecondBrain/memory/logs` directory.
+For all the operations above, make a log with mm-dd-yy.md format in the `~/SecondBrain/memory/logs` directory. If the file exists, append to it.
