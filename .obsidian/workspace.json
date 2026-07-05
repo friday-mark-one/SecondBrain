@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Shopping research.md",
+                "file": "memory/Deal triage instructions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping research"
+              "title": "Deal triage instructions"
             }
           }
         ]
@@ -206,8 +206,11 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
-    "Shopping Tracker.md",
     "memory/Shopping research.md",
+    "memory/_scripts/deals.js",
+    "memory/_scripts/email-state.js",
+    "memory/Deal triage instructions.md",
+    "Shopping Tracker.md",
     "agent-protocol/AGENTS.md",
     "memory/Items/Blueberry.md",
     "memory/Checklists/Too poor to buy.md",
@@ -230,8 +233,6 @@
     "memory/Grocery List/Current.md",
     "memory/Lists/Movie & TV watchlist.md",
     "memory/Lists/Kodi addons.md",
-    "memory/Lists/Gyms to try.md",
-    "memory/Lists/Black Friday buy.md",
     "agent-protocol/cron/jobs.json",
     "memory/_scripts/notify-returns.js",
     "memory/last-expiry-run.txt",
@@ -240,8 +241,6 @@
     "memory/_scripts/meta/expiry_notifier_last_run",
     "memory/_scripts/meta",
     "memory/_scripts/expiry-run-log.txt",
-    "memory/timestamps/expiry-notifier.txt",
-    "memory/timestamps",
     "Untitled.canvas"
   ]
 }

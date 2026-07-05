@@ -1,0 +1,50 @@
+// memory/_scripts/email-state.js
+"use strict";
+const fs = require("node:fs");
+const path = require("node:path");
+
+function shouldRunDaily({ today, lastRun }) {
+  return lastRun !== today;
+}
+
+function filterUnseen(seenIds, ids) {
+  const seen = new Set(seenIds);
+  const out = [];
+  const added = new Set();
+  for (const id of ids) {
+    if (seen.has(id) || added.has(id)) continue;
+    added.add(id);
+    out.push(id);
+  }
+  return out;
+}
+
+// ---- state files (beside this script) ----
+function lastRunPath(tag) { return path.join(__dirname, `.${tag}_last_run`); }
+function seenPath(tag) { return path.join(__dirname, `.${tag}_seen`); }
+function todayISO() {
+  const d = new Date();
+  const mm = String(d.getMonth() + 1).padStart(2, "0");
+  const dd = String(d.getDate()).padStart(2, "0");
+  return `${d.getFullYear()}-${mm}-${dd}`;
+}
+function readLastRun(tag) { try { return fs.readFileSync(lastRunPath(tag), "utf8").trim() || null; } catch { return null; } }
+function writeLastRun(tag, today) { fs.writeFileSync(lastRunPath(tag), today + "\n"); }
+function readSeen(tag) { try { return fs.readFileSync(seenPath(tag), "utf8").split("\n").map((s) => s.trim()).filter(Boolean); } catch { return []; } }
+function appendSeen(tag, ids) { if (ids.length) fs.appendFileSync(seenPath(tag), ids.join("\n") + "\n"); }
+
+if (require.main === module) {
+  const [cmd, tag, ...ids] = process.argv.slice(2);
+  if (!cmd || !tag) { console.error("usage: email-state.js claim|unseen|seen <tag> [ids...]"); process.exit(1); }
+  if (cmd === "claim") {
+    const today = todayISO();
+    if (!shouldRunDaily({ today, lastRun: readLastRun(tag) })) { console.log(JSON.stringify({ open: false })); }
+    else { writeLastRun(tag, today); console.log(JSON.stringify({ open: true })); }
+  } else if (cmd === "unseen") {
+    console.log(JSON.stringify(filterUnseen(readSeen(tag), ids)));
+  } else if (cmd === "seen") {
+    appendSeen(tag, ids);
+  } else { console.error(`unknown command: ${cmd}`); process.exit(1); }
+}
+
+module.exports = { shouldRunDaily, filterUnseen };
