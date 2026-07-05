@@ -5,3 +5,5 @@ memory/_scripts/.expiry_last_run
 
 
 **/.DS_Store
+memory/_scripts/.*_last_run
+memory/_scripts/.*_seen

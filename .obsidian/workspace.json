@@ -11,10 +11,24 @@
             "id": "ed5d5d5b3daac424",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "memory/Shopping research.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Shopping research"
             }
           }
         ]
@@ -192,6 +206,10 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "Shopping Tracker.md",
+    "memory/Shopping research.md",
+    "agent-protocol/AGENTS.md",
+    "memory/Items/Blueberry.md",
     "memory/Checklists/Too poor to buy.md",
     "memory/Lists/Tech to watch.md",
     "Mario Kart.md",
@@ -214,10 +232,6 @@
     "memory/Lists/Kodi addons.md",
     "memory/Lists/Gyms to try.md",
     "memory/Lists/Black Friday buy.md",
-    "memory/Lists/Backpacks.md",
-    "memory/Lists/Adventure bucket list.md",
-    "memory/Items/Shiitake mushrooms.md",
-    "memory/Items/Frozen cut beans.md",
     "agent-protocol/cron/jobs.json",
     "memory/_scripts/notify-returns.js",
     "memory/last-expiry-run.txt",
