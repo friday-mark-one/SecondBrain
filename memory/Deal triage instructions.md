@@ -3,8 +3,8 @@ the AgentMail skill and the summarizing/matching; the helper scripts own timing 
 
 ## Once per heartbeat
 1. `node memory/_scripts/email-state.js claim deals` → if `{"open":false}`, stop (already ran today).
-2. Via the AgentMail skill, list inbox messages and keep those whose recipient alias is
-   `+deals`. Collect their message IDs.
+2. Via the AgentMail skill, list **unread** inbox messages (filter by the `unread` label)
+   and keep those whose recipient alias is `+deals`. Collect their message IDs.
 3. `node memory/_scripts/email-state.js unseen deals <ids…>` → the new IDs to process.
 4. For each new message (read it via the skill), one at a time:
    a. Write one bullet:
@@ -14,6 +14,7 @@ the AgentMail skill and the summarizing/matching; the helper scripts own timing 
    c. `node memory/_scripts/deals.js add "<bullet>"`.
    d. If it matched, send me a Telegram message (store + offer + which list it matched).
    e. `node memory/_scripts/email-state.js seen deals <this message's id>` — **mark it seen immediately, before moving to the next message**, so a mid-run error never re-posts or re-pings the ones already done.
+   f. Mark it processed in AgentMail — remove the `unread` label and add a `processed` label (via the AgentMail skill, or a PATCH to that message). This clears the inbox and is the durable dedup; the local `seen` file in (e) is the backup.
 
 Keep bullets short and glanceable. Never guess a fake expiry — write "no date" if unknown.
 If one message can never be read/parsed and re-errors every day, mark it seen manually
