@@ -7,6 +7,11 @@ function shouldRunDaily({ today, lastRun }) {
   return lastRun !== today;
 }
 
+function shouldRunDailyAt({ hour, gateHour, today, lastRun }) {
+  if (lastRun === today) return false;
+  return gateHour == null || hour >= gateHour;
+}
+
 function filterUnseen(seenIds, ids) {
   const seen = new Set(seenIds);
   const out = [];
@@ -28,6 +33,7 @@ function todayISO() {
   const dd = String(d.getDate()).padStart(2, "0");
   return `${d.getFullYear()}-${mm}-${dd}`;
 }
+function nowHour() { return new Date().getHours(); }
 function readLastRun(tag) { try { return fs.readFileSync(lastRunPath(tag), "utf8").trim() || null; } catch { return null; } }
 function writeLastRun(tag, today) { fs.writeFileSync(lastRunPath(tag), today + "\n"); }
 function readSeen(tag) { try { return fs.readFileSync(seenPath(tag), "utf8").split("\n").map((s) => s.trim()).filter(Boolean); } catch { return []; } }
@@ -38,8 +44,13 @@ if (require.main === module) {
   if (!cmd || !tag) { console.error("usage: email-state.js claim|unseen|seen <tag> [ids...]"); process.exit(1); }
   if (cmd === "claim") {
     const today = todayISO();
-    if (!shouldRunDaily({ today, lastRun: readLastRun(tag) })) { console.log(JSON.stringify({ open: false })); }
-    else { writeLastRun(tag, today); console.log(JSON.stringify({ open: true })); }
+    const gateHour = ids[0] != null ? Number(ids[0]) : null; // e.g. `claim news 10`
+    if (shouldRunDailyAt({ hour: nowHour(), gateHour, today, lastRun: readLastRun(tag) })) {
+      writeLastRun(tag, today);
+      console.log(JSON.stringify({ open: true }));
+    } else {
+      console.log(JSON.stringify({ open: false }));
+    }
   } else if (cmd === "unseen") {
     console.log(JSON.stringify(filterUnseen(readSeen(tag), ids)));
   } else if (cmd === "seen") {
@@ -47,4 +58,4 @@ if (require.main === module) {
   } else { console.error(`unknown command: ${cmd}`); process.exit(1); }
 }
 
-module.exports = { shouldRunDaily, filterUnseen };
+module.exports = { shouldRunDaily, shouldRunDailyAt, filterUnseen };

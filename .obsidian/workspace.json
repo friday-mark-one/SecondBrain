@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Deals.md",
+                "file": "memory/News digest instructions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deals"
+              "title": "News digest instructions"
             }
           }
         ]
@@ -206,9 +206,12 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "agent-protocol/HEARTBEAT.md",
+    "memory/News digest instructions.md",
+    "memory/_scripts/news.js",
+    "memory/Deals.md",
     "memory/logs/07-05-26.md",
     "memory/logs/05-31-26.md",
-    "memory/Deals.md",
     "memory/logs/06-28-26.md",
     "memory/logs/06-29-26.md",
     "memory/Deal triage instructions.md",
@@ -232,8 +235,6 @@
     "memory/Items/Corn starch.md",
     "memory/Items/Chaat masala.md",
     "memory/Items/Besan.md",
-    "memory/Items/Ajwain.md",
-    "memory/Lists/Games to buy.md",
     "agent-protocol/cron/jobs.json",
     "memory/_scripts/notify-returns.js",
     "memory/last-expiry-run.txt",
@@ -241,7 +242,6 @@
     "memory/_scripts/expiry-notifier-tracker.txt",
     "memory/_scripts/meta/expiry_notifier_last_run",
     "memory/_scripts/meta",
-    "memory/_scripts/expiry-run-log.txt",
     "Untitled.canvas"
   ]
 }
