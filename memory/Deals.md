@@ -1,5 +1,8 @@
 # Deals
 
+## 2026-07-06
+- Fabletics — % off sitewide ends tonight — expires 7/6 — clothing, activewear, scrubs, Washington Square Portland
+
 ## 2026-07-05
 - Kohl's — 20% off + earn Kohl's Cash — expires 7/5 — summer finds, qualifying brands
 - Macy's — Gym gear up to 40% off — no date
@@ -10,3 +13,4 @@
 - Michaels Rewards — exclusive weekly offers — Rewards members earn 3-9% back — no date
 - NOMATIC - Up to 40% off - ends midnight 7/5 - bags, luggage, travel gear
 - Macy's - 60-70% off men's designer blazers (Michael Kors) - July 4th sale - no date
+ - no date
