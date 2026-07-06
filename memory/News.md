@@ -2,39 +2,41 @@
 
 ## 2026-07-05
 
-### AI & Models
+## AI & Models
 
-- [Meta's Watermelon Matches GPT-5.5 Benchmarks](https://letsdatascience.com/news/metas-watermelon-matches-gpt-55-benchmarks-76a9460e) — Meta's upcoming model codenamed Watermelon has reportedly caught up with OpenAI's GPT-5.5 on key benchmarks, using an order of magnitude more compute than Muse Spark; still in training with no timeline given. (TLDR AI)
-- [Anthropic Exploring a Samsung Chip Partnership](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/) — Anthropic discussed collaborating with Samsung on a custom AI chip to diversify its compute stack, though chips from Google, Amazon, and Nvidia remain central. (TLDR AI, TLDR)
-- [Zuckerberg tells staff AI agents haven't progressed as quickly as he'd hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) — At an internal town hall, Zuck said recent job cuts weren't as clean as they should have been and AI-driven improvements should materialize in 3–6 months. (TLDR)
-- [Introducing Laguna XS 2.1](https://poolside.ai/blog/introducing-laguna-xs-2-1) — A 33B MoE model optimized for agentic coding, with a 5.4-point SWE-bench Multilingual improvement to 63.1%, available on Hugging Face. (TLDR AI)
-- [Devin Security Swarm](https://threadreaderapp.com/thread/2072368168182432109.html) — Cognition's new architecture uses Agentic MapReduce to fan out agents over codebase shards for whole-codebase vulnerability detection, then verifies findings in isolated sandboxes. (TLDR AI)
-- [Seed2.0 Model Card](https://arxiv.org/abs/2607.00248) — A 72-minute read covering long-tail knowledge, complex instruction following, and evaluation-driven development for real-world AI tasks. (TLDR AI)
+- [Meta's "Watermelon" matches GPT-5.5 benchmarks](https://tldr.tech/ai) — Meta's superintelligence chief says Watermelon has caught up with GPT-5.5 on benchmarks. Still in training, uses 10x more compute than Muse Spark. No timeline given. (TLDR AI)
+- [Zuckerberg: AI agents haven't progressed as quickly as hoped](https://tldr.tech) — Told staff at internal town hall that the pace of AI agent development isn't accelerating as expected. Expects improvements from AI investments in 3-6 months. Also noted earlier job cuts "weren't as clean" as they should have been. (TLDR)
+- [Residual Context Diffusion improves dLLM accuracy](https://tldr.tech/ai) — Module recycles discarded token representations from block-wise Diffusion LLMs, injecting contextual residuals back for the next denoising step. Consistently improves frontier dLLMs with minimal overhead. (TLDR AI)
 
-### Autonomous AI & Developer Workflow
+## AI Hardware
 
-- [The Short Leash AI Coding Method](https://blog.okturtles.org/2026/07/02/short-leash-ai-method/) — Expert developers should keep AI agents on a short leash: review every change, intervene frequently, commit often, and never let AI work unsupervised. (TLDR Dev)
-- [The primary purpose of code review is to find hard-to-maintain code](https://mathstodon.xyz/@mjd/115096720350507897) — Not bug-catching, but identifying code that will be difficult to maintain. (TLDR Dev)
-- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html) — Understanding code that agents write is crucial for verifying correctness and enabling humans to participate creatively. (TLDR)
-- [Building an Intern](https://cra.mr/building-an-intern/) — 'Junior', an AI intern in Slack developed over four months; full source available. (TLDR)
-- [Autoresearch, Claude, and Constrained Optimization](https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/) — Auto-research loop style works for problems with a clear, measurable, well-constrained metric, but finding such problems is tricky. (TLDR AI)
-- [Agent-Assisted SGLang Development](https://www.lmsys.org/blog/2026-07-02-agent-assisted-sglang-development) — SGLang team turns agent workflows into reusable SKILL.md files, benchmark contracts, and review loops. (TLDR AI)
+- [Anthropic exploring Samsung custom AI chip partnership](https://tldr.tech/ai) — Discussed a custom AI chip collaboration with Samsung to diversify compute stack. Chips from Google, Amazon, and Nvidia remain central. (TLDR AI)
 
-### Developer Tools & Platforms
+## AI Coding & Developer Tools
 
-- [Introducing Safari MCP Server for Web Developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) — Apple's new MCP server lets AI coding agents connect to a local Safari browser to inspect DOM, console, network, and performance. (TLDR Dev)
-- [How OpenAI delivers Low Latency Voice AI for 900M Users](https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice) — Splits WebRTC stack into a stateless edge relay and a stateful transceiver, encoding routing metadata into the ICE ufrag to avoid port exhaustion. (TLDR Dev)
-- [Cloudflare sets deadline to block AI crawlers](https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446) — AI crawlers have until September to separate search indexing from training data harvesting or be blocked on ad-carrying pages. (TLDR)
-- [Flow](https://apple.github.io/foundationdb/flow.html) — FoundationDB's custom C++ extension adding actor-based concurrency via Future/Promise/wait() primitives. (TLDR Dev)
+- [The Short Leash AI Coding Method](https://tldr.tech/dev) — Expert devs should review every AI-proposed change, intervene frequently, commit often, and never let AI code unsupervised. Use AI as reviewer alongside human review. (TLDR Dev)
+- [Understanding is the new bottleneck](https://tldr.tech) — It's still critical to understand AI-generated code to verify correctness. Discusses techniques for building human understanding when moving fast with AI agents. (TLDR)
+- [Building an Intern — AI in Slack](https://tldr.tech) — "Junior" is an AI agent in Slack that users can task, review, and steer. Development took 4+ months; full source available. (TLDR)
+- [OmniRoute — open-source AI routing gateway](https://github.com/OmniRoute) — Connect Claude Code, Codex, Cursor, and Cline to 237+ AI providers (90+ free) through one OpenAI-compatible endpoint. Auto failover, cost optimization, quota management. (TLDR Dev)
+- [Valmis — cloud platform for AI agent workflows](https://github.com/Valmis) — Build and deploy AI agents across 100+ integrations. Emphasizes security via isolated containers so AI can't access credentials or local files directly. (TLDR Dev)
+- [Devin Security Swarm — whole-codebase vulnerability finding](https://tldr.tech/ai) — New Agentic MapReduce architecture maps signals across a repo, fans out focused agents over shards, reduces findings to report, verifies in isolated sandboxes. (TLDR AI)
+- [Laguna XS 2.1 — 33B MoE model for agentic coding](https://tldr.tech/ai) — 5.4-point improvement on SWE-bench Multilingual to 63.1%. Supports multiple platforms, three quantized checkpoints. (TLDR AI)
+- [Agent-Assisted SGLang Development](https://tldr.tech/ai) — SGLang team frames agent value around procedural engineering knowledge — reusable SKILL.md files, benchmark contracts, review loops, debugging playbooks. (TLDR AI)
+- [Autoresearch and constrained optimization](https://tldr.tech/ai) — AI auto-research loops work well for problems with robust, measurable, well-constrained metrics to optimize — but finding such problems is often tricky. (TLDR AI)
+- [How Expensify uses Agent-Device for mobile bug evidence](https://tldr.tech/dev) — Gives AI agents "hands and eyes" on real devices via structured accessibility trees. Used for automated bug reproduction, Sentry span measurement, and one-prompt React profiling. (TLDR Dev)
 
-### EVs & Transport
+## Infrastructure
 
-- [Tesla Model Y Long Wheelbase](https://threadreaderapp.com/thread/2072739795810525522.html) — The 3-row, 6-seat Model Y LWB is now available in the US and Puerto Rico with ample headroom and legroom. (TLDR)
-- [FAA proposal: Quiet supersonic airliners could fly over US cities](https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/) — Sonic boom overpressure must stay below 0.11 PSF; critics say loudness isn't addressed. (TLDR)
+- [How OpenAI delivers low-latency Voice AI for 900M users](https://tldr.tech/dev) — Splits WebRTC stack into stateless edge relay + stateful transceiver on K8s. Routes first packet via ICE ufrag without DB lookup, avoiding port-exhaustion and state-stickiness. (TLDR Dev)
+- [Flow — FoundationDB's C++ actor-based concurrency](https://tldr.tech/dev) — Custom C++ language extension adding efficient async actor model with Future/Promise, streams, and choose/when, compiling to native C++. (TLDR Dev)
+- [China Quant Funds draw billions as AI trounces human traders](https://tldr.tech) — Quant AUM in China doubled to 2.6 trillion yuan in under a year, fueled by AI adoption covering thousands of stocks. (TLDR)
 
-### Business & Finance
+## Safety & Security
 
-- [China Quant Funds Draw Billions as AI Trounces Human Traders](https://links.tldrnewsletter.com/90Bu2b) — AUM for Chinese quant funds doubled to over 2.6 trillion yuan in under a year, fueled by AI adoption. (TLDR)
-- [Microsoft unveils $2.5B 'Frontier Company' to embed AI engineers inside customers](https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/) — Will embed engineers to build and run AI systems directly for clients. (TLDR)
-- [Meta's Inevitable Cloud](https://spyglass.org/meta-cloud/) — Meta's newly announced cloud service aims to diversify beyond ads, supercharged by AI. (TLDR)
-- [Tesla caps employee AI spending at $200/week except Grok](https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/) — A sign that even AI-first companies struggle to control costs. (TLDR)
+- [Fable 5's cyber safeguards and jailbreak framework](https://tldr.tech/dev) — Anthropic redeploys Fable 5 with stricter cybersecurity classifiers. Cyber Jailbreak Severity scale rates jailbreaks by capability gain, breadth, weaponization, discoverability. (TLDR Dev)
+- [The primary purpose of code review](https://tldr.tech/dev) — Goal is not catching bugs but identifying code that will be hard to maintain. (TLDR Dev)
+
+## Transportation
+
+- [Tesla Model Y Long Wheelbase (6-seat) now available](https://tldr.tech) — 3-row, 6-seat configuration available in US and Puerto Rico. Headroom/legroom for all passengers, trunk fits 28"+20" suitcases, frunk holds another 20". (TLDR)
+- [FAA proposes quiet supersonic airliners over US cities](https://tldr.tech) — New rule would allow commercial supersonic flights if sonic boom overpressure <0.11 psf at surface. Critics say rule doesn't consider loudness or annoyance. (TLDR)
