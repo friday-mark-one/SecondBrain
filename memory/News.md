@@ -1,5 +1,71 @@
 # News
 
+## 2026-07-07
+
+## AI & Models
+
+- [A Global Workspace in Language Models](https://assets.anthropic.com/research/global-workspace) — Anthropic's research introduces "J-space": internal neural patterns that emerge during training and serve as a mental workspace for deliberate reasoning, multi-step problem-solving, and monitoring AI misbehavior. Offers insights into distinguishing conscious from automatic processing in LLMs. (Source: TLDR AI, TLDR Dev)
+
+- [Hy3](https://huggingface.co/Tencent/Hy3) — Tencent released a 295-billion-parameter Mixture-of-Experts model with 21B active parameters and 3.8B MTP layer parameters. Outperforms similar-sized models and rivals flagship open-source models with 2-5x more parameters. Free on OpenRouter until July 21. (Source: TLDR AI)
+
+- [Everyone Is Wrong About Open Source AI in the Enterprise](https://decagon.ai/blog/open-source-enterprise-ai) — Decagon runs ~90% of workloads on open-source models, arguing that small, heavily fine-tuned models deliver better latency and task-specific performance for customer service. As deployments mature, production workloads will likely migrate from closed models to specialized open-source alternatives. (Source: TLDR AI)
+
+- [Alibaba's AI Is a Hit, But Hard to Turn into a Moneymaker](https://www.reuters.com/technology/alibaba-ai-profit-2026-07-07/) — Alibaba's open-source models are much cheaper than proprietary systems from US competitors. Global popularity hasn't translated into profitability yet. (Source: TLDR)
+
+- [How We Taught a Small LLM to Throw Away 68% of Our RAG Context](https://blog.llm-rag-pruning.com) — A small, cost-effective LLM prunes retrieved context chunks for QA systems, discarding 68% of unnecessary chunks while maintaining 96% recall. Addresses the cost-vs-recall tradeoff in complex knowledge bases. (Source: TLDR Dev)
+
+## Hardware & Infrastructure
+
+- [Nvidia's Next-Gen AI Rack System Delayed to 2028 on Manufacturing Snags](https://www.bloomberg.com/news/articles/2026-07-07/nvidia-kyber-delay) — Nvidia's Kyber rack-scale architecture (designed to house 144 Rubin Ultra chips as one giant computer) delayed 12+ months due to manufacturing difficulties with a key circuit board. Signals collision between Nvidia's breakneck annual cadence and manufacturing limits. (Source: TLDR)
+
+- [Broadcom, Apple Extend Tie-Up to 2031 with New Custom Chips](https://www.reuters.com/technology/broadcom-apple-extend-partnership-2026-07-07/) — Extended partnership through 2031 to develop ASIC silicon across multiple Apple product generations. ASIC chips are increasingly vital for AI processing. Apple plans advanced AI servers as early as 2027. (Source: TLDR AI)
+
+- [A Stargate for Data](https://stargate-data.com) — AI labs projected to spend over $100B/year on data by 2030 as the bottleneck shifts from compute to data. High-quality private datasets become scarce as public internet data is exhausted. Data positioned as a strategic asset rivaling major compute investments. (Source: TLDR AI, TLDR Dev)
+
+- [Bringing PyTorch Monarch to AMD GPUs: Distributed Training on ROCm](https://pytorch.org/blog/amd-rocm-monarch) — Training state-of-the-art LLMs with billions of parameters requires distributed training across hundreds/thousands of GPUs. Guide on single-controller distributed training using PyTorch Monarch on AMD's ROCm software stack. (Source: TLDR AI)
+
+## Agentic Systems & Engineering
+
+- [Continual Learning for Agents](https://blog.replit.com/continual-learning-agents) — Since most production agents run on closed frontier models (no weight updates), Replit built ViBench (evaluates functional app-building from natural-language specs) and Telescope (automated clustering of production failure traces into actionable issues). (Source: TLDR AI)
+
+- [Getting Started with Loops](https://docs.anthropic.com/claude-code/loops) — Agents that repeat work cycles until a stop condition. Covers trigger types, stop conditions, Claude Code primitives, and maintaining code quality while managing token usage. (Source: TLDR AI)
+
+- [What the New 100x Agentic Engineer Looks Like in the Era of Fable & GPT 5.6](https://agentic-engineering.com/100x-engineer) — The 100x software engineer is an order of magnitude more productive through tacit knowledge, experience, and technical prowess. Agentic coding doesn't normalize productivity — engineering with agents is a skill with a high ceiling. (Source: TLDR)
+
+- [Not Everything Should Cost a Token: The Case for Deterministic AI](https://deterministic-ai.com/essay) — Using AI models for routine tasks creates unnecessary costs. Delegating deterministic work to app-level processes optimizes performance and expenses. (Source: TLDR Dev)
+
+## Development & Tools
+
+- [I Let React Compiler Handle Memoization — Here's What Actually Broke](https://react-dev-tools-blog.com/compiler-memoization) — The React compiler automates memoization, but establishes that the DevTools memoization badge doesn't guarantee successful optimizations. Need lint rules first, then enable the compiler. (Source: TLDR Dev)
+
+- [Getting Started with Anchor Positioning](https://developer.chrome.com/blog/anchor-positioning-api) — The Anchor Positioning API simplifies positioning UI elements (tooltips, dropdowns) relative to each other without JavaScript, with fallback options and viewport-based conditions. (Source: TLDR Dev)
+
+- [Learning to Code Is Still Worthwhile](https://learningtocode-stillworthwhile.com) — Coding remains valuable not just vocationally but as a means to understand mathematics, improve problem-solving, and as a creative outlet comparable to literature or music. (Source: TLDR Dev)
+
+- [Price Per 1M Tokens Is Meaningless](https://ai-cost-comparison.com) — Comparing AI models by price per 1M tokens is misleading since tokenization varies across models. Evaluate by effectiveness and cost per task completed instead. (Source: TLDR Dev)
+
+- [OfficeCLI](https://github.com/officecli/officecli) — Open-source, AI-friendly CLI for creating, editing, and automating Word, Excel, and PowerPoint documents without external Office installations. (Source: TLDR Dev)
+
+- [Otari](https://github.com/otari/otari) — Open-source, OpenAI-compatible LLM gateway for managing API keys, enforcing budgets, and tracking usage across 40+ providers through a single endpoint. (Source: TLDR Dev)
+
+- [Mapcn](https://mapcn.dev) — Free, customizable map components for React, built on MapLibre and styled with Tailwind. (Source: TLDR Dev)
+
+- [env.style](https://env.style) — Tool to style development environments with colors or custom tabs, preview updates live, and set custom icons for any environment. (Source: TLDR)
+
+## Tech Industry
+
+- [Apple's iPhone Ultra Will Be Double the Price of the iPhone 17 Pro Max](https://www.bloomberg.com/news/articles/2026-07-07/iphone-ultra-pricing) — Foldable iPhone Ultra announced September alongside iPhone 18 Pro/Pro Max, estimated ~$2,400. Expected to sell out immediately with delays through December. (Source: TLDR)
+
+- [Microsoft Is Cutting More Than 3,000 Jobs in Xbox Division](https://www.theverge.com/2026/7/7/microsoft-xbox-layoffs) — Cuts represent about a fifth of the division's total head count. (Source: TLDR)
+
+- [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wired.com/story/big-tech-ai-jobs-flip) — Tech CEOs changed stance on AI wiping out jobs over the past year. Industry appears to have underestimated the value of keeping people at the center. Workers keep jobs with productivity boosts — unclear if this is genuine or a PR move. (Source: TLDR)
+
+- [The Robots Are Here](https://robotics-essay.com/robots-gpt) — Robots decouple capital from human labor, making production capacity tied to manufacturing capability. Interview with robotics experts on Unitree, China's edge, hardware supply chain limits, and what the US should do next. (Source: TLDR)
+
+- [Egypt Is Building a New Nile](https://www.reuters.com/world/africa/egypt-new-delta-water-project-2026-07-07/) — Egypt's New Delta project aims to create a new agricultural landscape by recycling water across the desert. Satellite images show rapid progress, but sustainability is questioned as irrigation relies heavily on underground aquifers that aren't easily replenished. (Source: TLDR)
+
+- [How to Sequence Your Own DNA at Home](https://diy-genetics.com/sequence-at-home) — Walkthrough of collecting DNA from a swab, prepping, and sequencing. (Source: TLDR)
+
 ## 2026-07-06
 
 ## AI & ML
