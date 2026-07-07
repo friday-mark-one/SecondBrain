@@ -19,6 +19,7 @@ Engine: `memory/_scripts/capture.js`. You classify; the engine does all file wri
    `✓ filed → [[Gyms to try]]. reply 'no' to move it`.
    - On `duplicate`, say it's already there. On `created`, mention the new note.
 1. If you cannot confidently classify: do NOT guess. Ask one short question.
+2. Don't create a new note for each item in a checklist or list unless explicitly mentioned.
 
 ## Undo
 If I reply "no" to your last confirmation, re-file that item to the corrected
