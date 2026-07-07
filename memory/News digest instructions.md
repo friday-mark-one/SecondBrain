@@ -15,7 +15,7 @@ the extract/dedup/summarize; the helpers own timing and delivery.
    - **Dedup**: merge the same story across newsletters into one bullet listing all sources; drop intra-source repeats.
    - Group by topic (choose topics from the content). Format each bullet:
      `- [headline](link) — tldr  (Source A, Source B)`. Use the source's own headline+blurb
-     as-is when it has one; keep each tldr **< 7 lines**. Omit the link if none. No `📰`/date
+     as-is when it has one; keep each tldr **between 3 & 10 lines**. Omit the link if none. No `📰`/date
      title line — `publish` adds those.
 5. If there is at least one story: `node memory/_scripts/news.js publish /tmp/news-digest.md`.
    (Zero stories after filtering → skip publish; no empty digest.)
