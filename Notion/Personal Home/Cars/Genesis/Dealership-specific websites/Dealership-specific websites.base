@@ -1,0 +1,52 @@
+# Dealership-specific websites
+
+filters:
+  and:
+    - note["base"] == link("Dealership-specific websites.base")
+properties:
+  file.name:
+    displayName: URL
+  Trim:
+    displayName: Trim
+  Year:
+    displayName: Year
+  Location / Dealer:
+    displayName: Location / Dealer
+  Status:
+    displayName: Status
+  Accident:
+    displayName: Accident
+  Number:
+    displayName: Number
+  Mileage:
+    displayName: Mileage
+  Package:
+    displayName: Package
+  Int. Color:
+    displayName: Int. Color
+  Owner:
+    displayName: Owner
+  Ext. Color:
+    displayName: Ext. Color
+  Price:
+    displayName: Price
+  Usage Type:
+    displayName: Usage Type
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Trim
+      - Year
+      - Location / Dealer
+      - Status
+      - Accident
+      - Number
+      - Mileage
+      - Package
+      - Int. Color
+      - Owner
+      - Ext. Color
+      - Price
+      - Usage Type

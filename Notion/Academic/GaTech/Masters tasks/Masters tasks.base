@@ -1,0 +1,19 @@
+# Masters tasks
+
+filters:
+  and:
+    - note["base"] == link("Masters tasks.base")
+properties:
+  file.name:
+    displayName: Name
+  Status:
+    displayName: Status
+  Assign:
+    displayName: Assign
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Status
+      - Assign

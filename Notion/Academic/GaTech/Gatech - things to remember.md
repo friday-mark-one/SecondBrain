@@ -1,0 +1,14 @@
+---
+notion-id: 6aaccc62-8e44-4964-ac4f-b8f74c15ce69
+---
+- Finish foundational course requirement within one year with grade B or above in at least 2 courses
+- 30 credit hours = 10 courses
+- 15 - 18 hours of specialization; > B on all courses
+- 12 - 15 hours of electives; > C on all courses
+- GPA > 3.0
+- Complete in 6 years
+- Summer max 5 hours
+- Fall/spring max 7 hours
+- Canvas to check for classes
+- 12 hours after notification sent to join a waitlisted class
+- 

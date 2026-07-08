@@ -1,0 +1,17 @@
+---
+notion-id: 51cda616-fdbb-48e0-9bc4-e6272d5a20bc
+---
+- [ ] Conforms with ross hook
+- [ ] Verify basic criteria
+    - [ ] Price > $20
+    - [ ] Volume > 1M
+    - [ ] Float > $50M
+    - [ ] Trending stock in the news
+- [ ] Verify major trend lines
+    - [ ] Support and resistance
+    - [ ] SMA 100, 200
+    - [ ] EMA 3, 8
+- [ ] Check analyst ratings for Strong Buy
+- [ ] Recent earnings report
+- [ ] Check the news once
+- [ ] Capitol hill tracker

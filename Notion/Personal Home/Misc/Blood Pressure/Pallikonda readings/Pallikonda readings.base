@@ -1,0 +1,22 @@
+# Pallikonda readings
+
+filters:
+  and:
+    - note["base"] == link("Pallikonda readings.base")
+properties:
+  file.name:
+    displayName: Position
+  Diastolic:
+    displayName: Diastolic
+  Systolic:
+    displayName: Systolic
+  Time:
+    displayName: Time
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Diastolic
+      - Systolic
+      - Time

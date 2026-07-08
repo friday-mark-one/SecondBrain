@@ -1,0 +1,172 @@
+---
+notion-id: 1df02d25-148c-8065-88c4-c9d219b8e26f
+---
+
+- [x] [https://leetcode.com/problems/alien-dictionary/](https://leetcode.com/problems/alien-dictionary/)
+- [x] [https://leetcode.com/problems/strobogrammatic-number/](https://leetcode.com/problems/strobogrammatic-number/)
+- [x] Given a grayscale image copy to a rectangular region
+- [x] [https://leetcode.com/discuss/interview-question/553454/facebook-phone-](https://leetcode.com/discuss/interview-question/553454/facebook-phone-)
+- [x] Return all palindromes instead of just the count - [https://leetcode.com/problems/palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)
+- [x] Binary tree left and right side view
+- [x] [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [https://leetcode.com/discuss/post/633689/facebook-phonevideo-find-cheese-by-romar-ku70/](https://leetcode.com/discuss/post/633689/facebook-phonevideo-find-cheese-by-romar-ku70/)
+- [x] [https://leetcode.com/problems/friends-of-appropriate-ages/](https://leetcode.com/problems/friends-of-appropriate-ages/)
+- [x] [https://stackoverflow.com/questions/58900647/swift-how-to-make-a-set-with-multiplicity-multiset](https://stackoverflow.com/questions/58900647/swift-how-to-make-a-set-with-multiplicity-multiset)
+- [x] [https://www.geeksforgeeks.org/find-m-th-smallest-value-in-k-sorted-arrays/](https://www.geeksforgeeks.org/find-m-th-smallest-value-in-k-sorted-arrays/)
+- [x] [https://leetcode.com/problems/sum-root-to-leaf-numbers/](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [x] [https://leetcode.com/problems/basic-calculator-ii/](https://leetcode.com/problems/basic-calculator-ii/)
+- [ ] Trip planner (flight roundtrip cost as 2 arrays - inbound and outbound) - similar to best time to buy and sell stock
+- [x] [https://leetcode.com/problems/course-schedule/](https://leetcode.com/problems/course-schedule/)
+- [x] [https://leetcode.com/problems/kth-largest-element-in-an-array/](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x]  [https://leetcode.com/problems/nested-list-weight-sum/description/](https://leetcode.com/problems/nested-list-weight-sum/description/)
+- [x] [https://leetcode.com/problems/binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [x] [https://leetcode.com/problems/valid-word-abbreviation](https://leetcode.com/problems/valid-word-abbreviation)
+- [x] [https://leetcode.com/discuss/post/124616/facebook-merge-two-interval-lists-by-eva-th6a/](https://leetcode.com/discuss/post/124616/facebook-merge-two-interval-lists-by-eva-th6a/)
+- [x] [https://leetcode.com/problems/powx-n/](https://leetcode.com/problems/powx-n/)
+- [x] [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)
+- [x] First element greater than k in a sorted array
+- [x] Prefix subset [food, foo, bar, baz, foodie] → [foo, bar, baz]
+    1. output strings should be in the input
+- [x] [https://leetcode.com/problems/clone-graph/](https://leetcode.com/problems/clone-graph/)
+- [x] [https://leetcode.com/problems/valid-palindrome-ii/](https://leetcode.com/problems/valid-palindrome-ii/)
+- [x] Design a simple json serializer and deserializer
+- [x] Add 2 large floating point numbers represented as strings
+- [ ] find duplication inside subarray of size k
+- [x] [https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
+- [x] [https://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/](https://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/)
+- [ ] Stock price tracker 
+    1. Add & remove prices for a given stock ticker and date
+    2. Look up the price based on stock ticker and date
+    3. Return all prices for a given stock ticker sorted in ascending order by date
+- [x] [https://leetcode.com/problems/random-pick-with-weight/](https://leetcode.com/problems/random-pick-with-weight/)
+- [x] Find the size of the largest island you can add
+- [x] [https://leetcode.com/discuss/post/1654939/metafb-onsite-find-common-ancestor-in-da-r0h0/](https://leetcode.com/discuss/post/1654939/metafb-onsite-find-common-ancestor-in-da-r0h0/)
+- [x] [https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)
+- [x] Given a list L and integer k, select k elements from L without replacement
+- [x] kth missing number in increasing integer sequence
+- [x] [https://leetcode.com/problems/closest-binary-search-tree-value/](https://leetcode.com/problems/closest-binary-search-tree-value/)
+- [x] Minesweeper
+- [x] [https://leetcode.com/problems/exclusive-time-of-functions/](https://leetcode.com/problems/exclusive-time-of-functions/)
+- [x] [https://leetcode.com/problems/range-sum-of-bst/](https://leetcode.com/problems/range-sum-of-bst/)
+- [x] [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)
+- [x] Maze walking
+    1. Write a function to determine how many squares on the board represent dead-ends
+    2. design algo to find path from top left to bottom right
+    3. Variations - shortest path → bfs, shortest path with edge cost → dijkstra
+- [x] Given a binary tree check if each node is the average of all its descendants
+- [x] [https://leetcode.com/problems/remove-nth-node-from-end-of-list/](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] Simple tally service → bump and query
+- [x] Sorted integer array → check if 2 numbers whose difference equal to k exists
+- [x] [https://leetcode.com/problems/rank-transform-of-an-array/](https://leetcode.com/problems/rank-transform-of-an-array/)
+- [x] Find parent of a given node in a view tree
+- [x] Implement a queue with a max API
+- [x] Write a function that generates permutation of characters in a string
+- [x] [https://leetcode.com/problems/find-median-from-data-stream/](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] [https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/](https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/)
+- [x] [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)
+- [x] Product of K most recent integers
+- [x] Check if element occurs at least n/4 times in a sorted array of size n
+- [x] Given a tree (w/ more than 2 edges) with specific nodes that are marked, how much time does it take to visit them all? The cost to travel an edge is 1.
+- [x] [https://leetcode.com/problems/shortest-bridge](https://leetcode.com/problems/shortest-bridge)
+- [x] Given a sorted array with duplicates, count number of unique values
+    1. What if num of unique elements in very less - do binary search
+- [x] [https://leetcode.com/problems/set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)
+- [ ] Find k pairs that have the largest product formed from 2 sorted positive integer array
+- [x] [https://leetcode.com/problems/accounts-merge/](https://leetcode.com/problems/accounts-merge/)
+- [x] [https://leetcode.com/problems/single-threaded-cpu/](https://leetcode.com/problems/single-threaded-cpu/)
+- [x] [https://leetcode.com/problems/can-place-flowers/](https://leetcode.com/problems/can-place-flowers/)
+- [x] All root to leaf paths sum
+- [x] [https://leetcode.com/problems/copy-list-with-random-pointer/](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- [x] Crossword clue number, direction and length metadata constructor given the crossword grid of black and white cells
+- [ ] Length of the shortest substring with n different characters
+- [x] [https://leetcode.com/problems/binary-tree-vertical-order-traversal/](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+- [x] Print all unique paths in an  M x N grid starting from top left to bottom right by only going right or down
+- [x] [https://leetcode.com/problems/sliding-window-maximum/](https://leetcode.com/problems/sliding-window-maximum/)
+- [ ] Truck carry packages [[num_packages_i, pickup_i, dropoff_i], […]], capacity of truck
+- [x] Find root node given a vector of tree nodes
+
+
+
+- [x] Destruct all bridges. Once bulldozer goes over a bridge it gets destroyed
+- [x] Local minimum in an array in O(logn)
+- [x] [https://leetcode.com/problems/moving-average-from-data-stream/](https://leetcode.com/problems/moving-average-from-data-stream/)
+- [ ] Skip list search - I found this - [https://leetcode.com/discuss/post/4506645/skip-list-implementation-search-insert-d-n60u/](https://leetcode.com/discuss/post/4506645/skip-list-implementation-search-insert-d-n60u/)
+- [x] [https://leetcode.com/problems/next-permutation/](https://leetcode.com/problems/next-permutation/)
+- [x] [https://leetcode.com/problems/check-completeness-of-a-binary-tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)
+- [x] Kanji backspace problem
+- [ ] Vector mutation
+    - [ ] ELement smaller than neighbor → increment
+    - [ ] Smaller than neighbor → decrement
+    - [ ] firs tna dlast element never change
+    - [ ] changes in the current round of mutation is not observed by other elements in that round
+- [x] [https://leetcode.com/problems/custom-sort-string/](https://leetcode.com/problems/custom-sort-string/)
+- [x] Find parent node of a given node in a general tree represeented by a bbinary tree
+- [x] Implement a “Median Filter” image processing algorithm
+- [x] [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)
+- [x] Implement Battleship game
+- [x] Decode string → 2a3b2c - aabbbcc
+- [x] [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [x] Is binary tree a max heap
+- [x] Move non-negative elements of the array to the left and return that count
+- [x] Check if an integer is a palindrome
+- [x] [https://leetcode.com/problems/maximum-swap/](https://leetcode.com/problems/maximum-swap/)
+- [x] First n rows of pascal’s triangle
+- [x] [https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [x] [https://leetcode.com/problems/frog-position-after-t-seconds/](https://leetcode.com/problems/frog-position-after-t-seconds/)
+- [x] [https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+- [x] [https://leetcode.com/problems/dot-product-of-two-sparse-vectors/](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)
+- [x] [https://leetcode.com/problems/shortest-distance-from-all-buildings/](https://leetcode.com/problems/shortest-distance-from-all-buildings/)
+- [x] [https://leetcode.com/problems/merge-sorted-array/](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [https://leetcode.com/discuss/post/345744/google-onsite-merge-k-sorted-iterators-b-mmr7/](https://leetcode.com/discuss/post/345744/google-onsite-merge-k-sorted-iterators-b-mmr7/)
+- [x] [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)
+- [ ] Given a quack data structure → behaves like a queue for pushing, pop will return randomly from front or back, size() returns size, Given a sorted list inserted into quack, use this data structure to return the original input
+- [x] Given an array of integer, return the index of an element having the largest value. If there are multiple such elements, the index must be chosen uniformly at random
+- [x] [https://leetcode.com/discuss/post/346342/facebook-onsite-matrix-antidiagonal-trav-iqp9/](https://leetcode.com/discuss/post/346342/facebook-onsite-matrix-antidiagonal-trav-iqp9/)
+- [x] Implement UIView recursive description
+- [x] Given root of a view tree and touch event with coordinates, find the first view that should handle the touch
+- [x] Find all combinations that sum up to 100 → 123456789 insert +/- between digits to sum up to 100
+    - [ ] Eg. 123 - 45 - 67 + 89
+- [x] [https://leetcode.com/problems/word-break](https://leetcode.com/problems/word-break)
+- [ ] List all prime numbers up to a given number N
+- [x] [https://leetcode.com/problems/decode-ways](https://leetcode.com/problems/decode-ways)
+- [x] Try to guess the 4 digit security code - master mind game
+- [x] [https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)
+- [x] [https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
+- [x] [https://leetcode.com/problems/binary-search-tree-iterator/](https://leetcode.com/problems/binary-search-tree-iterator/)
+- [x] [https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+- [x] [https://leetcode.com/problems/valid-number/](https://leetcode.com/problems/valid-number/)
+- [x] [https://leetcode.com/problems/subarray-sum-equals-k/](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [https://leetcode.com/problems/buildings-with-an-ocean-view/](https://leetcode.com/problems/buildings-with-an-ocean-view/)
+- [x] [https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)
+- [x] Implement LRU cache but with a different question story
+- [x] [https://leetcode.com/discuss/post/4571159/meta-phone-screen-e4-by-anonymous_user-cdch/](https://leetcode.com/discuss/post/4571159/meta-phone-screen-e4-by-anonymous_user-cdch/)
+- [x] [https://leetcode.com/problems/k-closest-points-to-origin/](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [x] [https://www.geeksforgeeks.org/nearly-sorted-algorithm/](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
+- [x] [https://leetcode.com/discuss/interview-question/286446/representation-and-dot-product-of-two-vectors](https://leetcode.com/discuss/interview-question/286446/representation-and-dot-product-of-two-vectors)
+- [x] [https://leetcode.com/discuss/post/395045/facebook-phone-screen-caesar-cipher-by-a-85v6/](https://leetcode.com/discuss/post/395045/facebook-phone-screen-caesar-cipher-by-a-85v6/)
+- [ ] Implement ordered set with add, remove, contains, toArray APIs
+- [x] Find influencers from a social network in O(n) time
+- [x] [https://leetcode.com/problems/design-tic-tac-toe/description/](https://leetcode.com/problems/design-tic-tac-toe/description/)
+- [x] Merge 3 sorted integer arrays
+
+
+- [x] [https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/)
+- [x] Binary tree right side view
+- [x] [https://leetcode.com/problems/longest-increasing-path-in-a-matrix/](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+- [x] [https://leetcode.com/discuss/interview-question/354854/Facebook-or-Phone-Screen-or-Cut-Wood](https://leetcode.com/discuss/interview-question/354854/Facebook-or-Phone-Screen-or-Cut-Wood)
+- [x] Draw a circle
+- [ ] Transfer parantheses patterned string to a tree
+- [x] [https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [x] [https://leetcode.com/problems/swim-in-rising-water/](https://leetcode.com/problems/swim-in-rising-water/)
+- [x] [https://leetcode.com/problems/missing-ranges/description/](https://leetcode.com/problems/missing-ranges/description/)
+- [x] [https://leetcode.com/discuss/post/1833775/meta-london-9th-march-by-sankalp256-seaa/](https://leetcode.com/discuss/post/1833775/meta-london-9th-march-by-sankalp256-seaa/)
+- [x] [https://leetcode.com/problems/string-to-integer-atoi/](https://leetcode.com/problems/string-to-integer-atoi/)
+- [x] [https://www.geeksforgeeks.org/equilibrium-index-of-an-array/](https://www.geeksforgeeks.org/equilibrium-index-of-an-array/)
+- [x] [https://leetcode.com/problems/longest-valid-parentheses/](https://leetcode.com/problems/longest-valid-parentheses/)
+- [x] [https://leetcode.com/problems/contains-duplicate-ii/](https://leetcode.com/problems/contains-duplicate-ii/)
+- [x] [https://leetcode.com/discuss/post/380650/bloomberg-phone-candy-crush-1d-by-suprit-r11f/](https://leetcode.com/discuss/post/380650/bloomberg-phone-candy-crush-1d-by-suprit-r11f/)
+- [x] Diameter of a binary tree
+- [x] Maximum sum of 2 non-adjacent elements
+- [x] [https://leetcode.com/problems/partition-array-according-to-given-pivot/](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
+- [x] Find the second highest number by rearranging an array of digits
+- [x] [https://www.geeksforgeeks.org/reservoir-sampling/](https://www.geeksforgeeks.org/reservoir-sampling/)

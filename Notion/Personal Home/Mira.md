@@ -1,0 +1,29 @@
+---
+notion-id: 1f702d25-148c-80a8-9428-cdc234416fef
+---
+- [ ] Celebration paithiyam
+- [ ] Plushies
+- [ ] Crochet kit
+- [ ] Cinnabon chocolate roll
+- [ ] Panchathanthiram paithiyam
+- [ ] No cream on cake is better
+- [ ] Doesn’t like sticky dates
+- [ ] Cooks paneer masala
+- [ ] Dates, peanut butter, dark chocolate legiyam
+- [ ] Likes to draw
+- [ ] Mawa cake
+- [ ] Weak hero
+- [ ] Doesn't like godhuma Rava upma because of the texture 
+- [ ] Likes upma with curd
+- [ ] Dal rice with poriyal
+- [ ] Kootu pudikadhu
+- [ ] Needs hug daily morning
+- [ ] Calendar date / anniversary paithiyam
+- [ ] Pastel colors - baby pink, pista green
+- [ ] Onion tomato garlic chutney only
+- [ ] Pepsodent
+- [ ] Nallaa dhan iruku is not a compliment
+- [ ] Idiyappam thenga paal
+- [ ] White chutney doesn't like
+- [ ] Shoe size 7
+- [ ] Sunset Korean series ringtone 

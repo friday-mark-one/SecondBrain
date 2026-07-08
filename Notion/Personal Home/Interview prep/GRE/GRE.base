@@ -1,0 +1,22 @@
+# GRE
+
+filters:
+  and:
+    - note["base"] == link("GRE.base")
+properties:
+  file.name:
+    displayName: Name
+  Updated:
+    displayName: Updated
+  Tags:
+    displayName: Tags
+  Created:
+    displayName: Created
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Updated
+      - Tags
+      - Created

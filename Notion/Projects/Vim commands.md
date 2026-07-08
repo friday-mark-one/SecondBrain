@@ -1,0 +1,147 @@
+---
+notion-id: c453fb5e-699c-4d05-aab7-b0bc3315b754
+---
+- Basics
+    - ZZ - alternative to :wq
+    - :sav <filename> - save as new file and open the new buffer
+    - :w <filename> - save as new file and continue editing in the old file
+    - Option + Cmd <click & drag> - for box selection in terminal
+    - :%retab! - convert spaces to tabs - useful for python copy-pastes
+    - Ctrl-V -> select range of lines -> Shift-I -> Esc -> Esc - to comment range of lines
+    - Ctrl-V -> select range of lines -> d / x - to uncomment range of lines
+- Edit commands
+    - i - insert text at cursor
+    - I - insert text in the beginning of the line
+    - a - insert text after cursor
+    - A - insert text at the end of the line
+    - o - insert newline after cursor
+    - O - insert newline before cursor
+    - s - remove current character and go to insert mode
+    - S - remove entire line and go to insert mode
+    - cc - same as S
+    - D/C - to delete/change all words from cursor position till the end of line
+    - r - replace current character with another character
+    - R - replace character continuously after the cursor
+    - J - removing \n from the end of current line (i.e. joining current and next line)
+    - d2w, ci", dt{, ya' - examples of sentences
+    - f{character} - move to the next occurrence of the character (F moves backward)
+    - t{character} - same as f but one position before
+    - ; - go to the next instance of the jump (eg. ft - will take to 't' and ';' will take to next 't'. ',' for backwards)
+    - ~ - change case of character under cursor or on selection
+    - . - repeat last command (eg. dw and then 5. will delete 5 more words)
+- Navigation
+    - 0 - move to start of line
+    - $ - move to end of line
+    - ^ - move to first character of the current line
+    - ) ( - move forward / backward one sentence
+    - } { - move forward / backward one paragraph
+    - Ctrl + f - page down
+    - Ctrl + b - page up
+    - Ctrl + d - half-page down
+    - Ctrl + u - half-page up
+    - Ctrl + e - scroll down
+    - Ctrl + y - scroll up
+    - H / M / L - move cursor to top / middle / bottom of the page
+    - :0 - move to start of file (same as gg)
+    - :$ - move to end of file (same as G)
+    - :n - move to the nth line in file
+    - Ctrl + o - jump back to previous position
+    - Ctrl + i - jump back to next position
+    - zz - recenter view on cursor
+    - g; - jump to next change (in a change list of edits done so far)
+    - g, - jump to prev change
+    - [m ]m - jump to next/prev function
+- Cut-copy-paste
+    - x - cut character from cursor position
+    - X - cut character before cursor position
+    - y - yank character from cursor position
+    - Y - yank entire line (same as yy)
+    - y$ - yank from current character till end of line
+    - p - paste character after cursor position
+    - P - paste character before cursor position
+    - dw - delete word
+    - D - cut till end of line (same as d$)
+    - dd - cut entire line
+    - 3dw, 3dd, 3Y - for operations on range of lines (in this example for 3 lines)
+    - Ctrl-R " - will paste the last yank/delete (paste from " register) while in INSERT MODE
+- Undo-redo
+    - u - undo
+    - U - bulk undo for the current line
+    - Ctrl + r - redo
+    - 3u, 3Ctrl+r - for bulk undo/redo
+- Search
+    - :set incsearch - incremental search
+    - :set hlsearch - highlight search
+    - / or ? - search in forward or backward direction
+    - n or N - next or previous occurrence
+    - / # - highlight all occurrence of current word
+    - :vim[grep] print **/*.py - to search for word in multiple files
+    - :cn / :cN - to navigate between the searches
+    - :cw - list all results
+- Find & replace
+    - :%s/foo/bar/g - change foo to bar on every line
+    - :s/foo/bar/g - change foo to bar on current line
+- Visual mode
+    - v - character based
+    - V - line based
+    - Ctrl-v - paragraphs
+    - o - to move to the other end of marked text
+    - vi), vi[ - select text inside the braces
+- Multiple files
+    - :e filename - to edit a file (hit tab for suggestion)
+    - :bn or :bN - to navigate between opened buffers
+    - :badd filename - add to buffer but don't switch to that file
+    - :buffers - list all opened files / buffers
+    - :bfirst / blast - go to first / last buffer
+    - :bd - to unload current buffer
+    - :bd3 - to close buffer ID 3
+    - :tabnew filename - open file in new tab
+    - :gt / :gT || :tabnext / :tabprevious - navigate between tabs
+    - :tabfirst / :tablast - go to first / last tab
+    - :new filename - create a new split window horizontally
+    - :vnew filename - create a new split window vertically
+    - Ctrl + w followed by w to rotate between open windows
+    - Ctrl + w followed by h j k l to move to a particular direction
+    - Ctrl + w followed by H J K L to drag window to a particular direction
+    - Ctrl-w, s (or) :sp - split current window horizontally
+    - Ctrl-w, v (or) :vsp - split current window vertically
+- Bookmark
+    - m{character} - to create a bookmark with given character
+    - :marks - list all bookmarks
+    - `{character} - to go to that particular line of the bookmark
+    - '{character} - to go to the file containing the bookmark
+    - :delmarks {character} - to delete bookmark for the given character
+    - y`a / d`a - yank / delete all characters from current position till the mark
+- Macro
+    - q{character} - start recording with character as name
+    - press q again to stop recording
+    - :registers - to list all recordings
+    - @{character} - to play recording
+    - n@{character} - to play the recording n times
+- Register
+    - "{character}yy - to store yanked text in given register
+    - "{character}p - to paste contents from given register
+- Folding
+    - :set foldenable
+    - :set setfolmethod=indent
+    - zc - close fold
+    - zo - open fold
+    - zR - open all fold
+    - zM - close all fold
+- vimdiff
+    - vimdiff file1 file2 - diff between two files
+    - :set scrollbind - to scroll both diff windows together
+    - [c - to previous diff block
+    - ]c - to next diff block
+    - :diffget - apply diff from adjacent window to current window
+    - :diffput - apply diff from current window to adjacent window
+- IDE
+    - :syntax on
+    - :set autoindent
+    - :set smartindent
+    - :set number
+    - :colorscheme <tab>
+    - % - to navigate between curly braces, parantheses
+    - Ctrl-x + Ctrl-n - word completion
+    - Ctrl-x + Ctrl-l - line completion
+    - Ctrl-x + Ctrl-f - file name completion

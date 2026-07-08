@@ -1,0 +1,38 @@
+---
+notion-id: 20b02d25-148c-80e4-a9af-c2c5a7de0dd0
+---
+### Features
+
+- [x] List all notifications
+- [x] Retain only trailing 7 days
+- [x] Request and listen for notification settings approval
+- [x] Avoid duplicate notifications
+- [x] Search functionality
+- [x] Filter app
+- [x] Delete all notifications
+    - [x] with a confirmation
+- [x] Long press multi-select to delete individual ones
+- [x] Separate tab for dismissed notifications
+    - [x] Avoid system dismissed notification
+- [x] Scroll bar
+- [x] List grouped by date 
+- [x] Scrolling on one tab messes the state of the scroll on the other tab
+- [x] Make the filter text clickable
+- [x] Ignore case alphabetical app filter
+- [x] Don’t listen to certain notifications
+    - [x] entire app
+    - [x] specific notifications of an app
+    - [x] Edit an already created rule
+    - [x] Delete all rules with another confirmation
+- [x] Improve tab switching and scrolling performance
+- [x] Back button should not close the app when in selection mode
+- [x] Scroll bar won’t fully hit the bottom
+- [x] Keyboard doesn't open automatically on search
+- [x] Make search text field modern
+- [x] Fix missing notifications bug
+- [x] Dismissed notification sorted by dismissed time
+- [ ] Dismissed tab is still buggy
+- [ ] Make it github ready
+    - [ ] Github pages
+    - [ ] Automate deployments
+- [ ] Publish to app store

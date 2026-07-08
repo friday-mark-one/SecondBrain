@@ -1,0 +1,72 @@
+---
+notion-id: fa3b19a4-9ea0-4ed8-a618-19970c7d1a53
+---
+- [x] First Tech ATM locations
+- [x] Call SSA office for appointment - [https://www.ssa.gov/ssnumber/](https://www.ssa.gov/ssnumber/) , [https://www.ssa.gov/forms/ss-5.pdf](https://www.ssa.gov/forms/ss-5.pdf), [https://secure.ssa.gov/ICON/ic001.action#officeResults](https://secure.ssa.gov/ICON/ic001.action#officeResults)
+- [x] Enroll in benefits
+- [x] Call US CBP office for I-94 correction
+- [x] UHCP Portability policy completion
+- [x] Send I-94 to Fragomen
+- [x] Graebel reimburse
+    - [x] Ajay car pickup
+    - [x] 2 days meal
+    - [x] RT-PCR test
+- [x] Update bank account details in ADP portal?
+- [x] Update bank account in Zerodha
+- [x] Update address
+    - [x] Goto post office for change of address
+    - [x] First tech change address
+    - [x] Update address in PeoplePortal
+    - [x] Warning -- Address Change. (30000,527)
+You are receiving this email because your address was recently changed in PeoplePortal employee database. The following is for stock-eligible employees only: Changing your address using this form will automatically update your Restricted Stock Unit account with your broker, but you will need to update the address on your online W-9 or W-8BEN tax form. To update your W-9 or W-8BEN tax form, go to your broker through the Amazon Stock portal.
+    - [x] AR11 form
+- [x] Update SSN here
+    - [x] [https://tt.amazon.com/E337707874](https://tt.amazon.com/E337707874)
+    - [x] [https://tt.amazon.com/E337708504](https://tt.amazon.com/E337708504)
+    - [x] Update in PeoplePortal for 401k
+    - [x] Revise i9 - personal email
+- [x] Select WA Long Term Care plan
+- [x] Explore MyCommute website - [https://amazon-slu.luum.com/commute](https://amazon-slu.luum.com/commute)
+- [x] Collect ORCA card from office
+- [x] Follow-up on health insurance card
+- [x] Zipcar membership
+    - [x] Send mail with required documents
+    - [x] Follow-up on zipcard
+    - [x] Check mailbox for zipcard
+- [x] Driving license
+    - [x] Take mock test
+    - [x] Book knowledge test
+    - [x] Book training course - [https://www.idadriving.com/services/](https://www.idadriving.com/services/)
+    - [x] ~~Get learner's permit from licensing office~~
+- [x] 401(k)
+- [x] State card for Identity proof
+- [x] Account recovery for 2FA enabled sites
+- [x] Leave encashment follow-up
+- [x] Trustmark LTC follow-up mail
+- [x] To buy
+    - [x] Winter jacket
+    - [x] Casual shoe
+    - [x] Hiking shoe
+    - [x] Sweatpants
+- [x] Buy AT&T prepaid plan
+    - [x] Talk to customer care
+    - [x] Find out Ultra mobile account number and PIN
+    - [x] Activate new SIM card
+    - [x] Setup eSIM
+- [x] Correct name in SSN
+    - [x] Call SSA office
+    - [x] Follow-up with SSA office
+    - [x] Watch out for new SS card in mail
+- [x] Switch Whatsapp to Pixel 4
+- [x] Switch from LastPass to Bitwarden
+- [x] Premera Blue Cross 
+    - [x] ID card received via mail?
+    - [x] Revisit open enrollment Oct -20 deadline
+    - [x] How does it work?
+    - [x] Experian IdentityWorks for credit monitoring and theft protection
+        - [x] [https://member.premera.com/identity-protection](https://member.premera.com/identity-protection)
+- [x] Send mail to rajasek@
+- [x] Online banking and credit card
+- [x] Paypal - close India account and open US account
+- [x] Google Play store - change country
+

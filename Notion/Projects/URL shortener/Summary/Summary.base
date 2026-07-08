@@ -1,0 +1,16 @@
+# Summary
+
+filters:
+  and:
+    - note["base"] == link("Summary.base")
+properties:
+  file.name:
+    displayName: Parameter
+  Value:
+    displayName: Value
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Value

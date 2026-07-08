@@ -1,0 +1,27 @@
+---
+notion-id: 1c01d7c6-7515-4d7d-bc17-5b9782e72c0f
+---
+- [x] Amazon people portal
+- [ ] Amazon care
+- [ ] AT&T
+- [x] Bank of America
+- [ ] Coinbase
+- [ ] Delta dental
+- [ ] DOL
+- [ ] Evergreen health
+- [ ] Fidelity
+- [ ] First tech fed
+- [ ] Fragomen
+- [x] Google Maps
+- [ ] Lifetime
+- [ ] Macy’s
+- [ ] Paypal
+- [ ] PwC
+- [ ] Robinhood
+- [ ] Uber
+- [ ] USCIS - Form-AR11 - [https://egov.uscis.gov/coa/displayCOAForm.do](https://egov.uscis.gov/coa/displayCOAForm.do)
+Your confirmation number is: **AR-11: COA05422000041**
+- [ ] USPS
+- [ ] Wealthfront
+- [ ] Zoomcare
+- [ ] Morgan Stanley

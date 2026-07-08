@@ -1,0 +1,33 @@
+---
+notion-id: 1e102d25-148c-801b-8e53-ca441a314218
+---
+- [x] Game scoreboard
+- [ ] Static image manager
+- [x] Design doordash
+    - [ ] [https://archive.is/FgJA6](https://archive.is/FgJA6)
+- [x] Realtime aggregator of ads impression streams
+- [x] Design news feed for android
+- [x] Proximity service
+- [ ] Contacts app with presence
+- [ ] Cluster debugging
+- [x] Ticketmaster
+- [ ] Crowd sourced street view system
+- [x] Design an auction system so instagram users can buy items from others
+- [x] Botnet crawl (webscraping wikipedia)
+- [x] Design camelcamelcamel.com
+- [ ] Design a system to play chess at scale
+- [ ] Invoice calculation of text messages sent
+- [x] Airline reservation app
+- [x] Photo messaging app
+- [ ] Status search (twitter search on grokking)
+    - [ ] How to build a distributed GUID service
+- [x] Design dropbox
+- [ ] Privacy data model - Public, Friends, FoF, only me
+- [x] Live comments
+- [x] Design netflix
+- [x] Top 10 listens in the last 7 days
+- [x] Move big files around a fleet of servers
+- [x] Instagram - photos feed app
+- [ ] Trending Facebook hashtags
+- [x] Design messenger 
+- [ ] Ephemeral photo stream - insta stories

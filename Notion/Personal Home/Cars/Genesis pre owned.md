@@ -1,0 +1,6 @@
+---
+notion-id: 2ca02d25-148c-80bb-af22-c6b99d3de261
+---
+[https://www.hyundaiofeverett.com/certified/Genesis/2025-Genesis-GV70-5NMMCDTC1SH026292.htm?utm_source=google&utm_medium=cpc&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5clJ-OUyNmfgPusDUUwdPR4awSLpLPRbpPWUaf5op0LiBjdNf6eqgxoCkyoQAvD_BwE&store=ljhye982475&jdp_digadprov=foundationdirect&jdp_channel=pmax&jdp_campaign_platform=google&jdp_cid=22808216542&jdp_adid=&jdp_campaign=new-vehicleads-supplemental_new_hyundai_other_a&gad_source=1&gad_campaignid=22804506899&gbraid=0AAAAA9kDbxD8xHO4Px2MIJmE-xKi-I6vJ](https://www.hyundaiofeverett.com/certified/Genesis/2025-Genesis-GV70-5NMMCDTC1SH026292.htm?utm_source=google&utm_medium=cpc&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5clJ-OUyNmfgPusDUUwdPR4awSLpLPRbpPWUaf5op0LiBjdNf6eqgxoCkyoQAvD_BwE&store=ljhye982475&jdp_digadprov=foundationdirect&jdp_channel=pmax&jdp_campaign_platform=google&jdp_cid=22808216542&jdp_adid=&jdp_campaign=new-vehicleads-supplemental_new_hyundai_other_a&gad_source=1&gad_campaignid=22804506899&gbraid=0AAAAA9kDbxD8xHO4Px2MIJmE-xKi-I6vJ)
+
+[https://www.hyundaiofeverett.com/used-inventory/index.htm?make=Genesis&model=GV70&normalBodyStyle=SUV&year=2024-2026&trim=3.5T Sport](https://www.hyundaiofeverett.com/used-inventory/index.htm?make=Genesis&model=GV70&normalBodyStyle=SUV&year=2024-2026&trim=3.5T%20Sport)

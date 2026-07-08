@@ -1,0 +1,28 @@
+# Apartments (1)
+
+filters:
+  and:
+    - note["base"] == link("Apartments (1).base")
+properties:
+  file.name:
+    displayName: Name
+  Link:
+    displayName: Link
+  Size:
+    displayName: Size
+  Tags:
+    displayName: Tags
+  Price:
+    displayName: Price
+  Comment:
+    displayName: Comment
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Link
+      - Size
+      - Tags
+      - Price
+      - Comment

@@ -1,0 +1,22 @@
+# New laptop setup
+
+filters:
+  and:
+    - note["base"] == link("New laptop setup.base")
+properties:
+  file.name:
+    displayName: Name
+  Comments:
+    displayName: Comments
+  Tags:
+    displayName: Tags
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Comments
+      - Tags
+      - Status

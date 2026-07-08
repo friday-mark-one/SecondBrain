@@ -1,0 +1,49 @@
+# Genesis generic website
+
+filters:
+  and:
+    - note["base"] == link("Genesis generic website.base")
+properties:
+  file.name:
+    displayName: URL
+  Owner:
+    displayName: Owner
+  Trim:
+    displayName: Trim
+  Usage Type:
+    displayName: Usage Type
+  Accident:
+    displayName: Accident
+  Year:
+    displayName: Year
+  Package:
+    displayName: Package
+  Int. Color:
+    displayName: Int. Color
+  Price:
+    displayName: Price
+  Status:
+    displayName: Status
+  Mileage:
+    displayName: Mileage
+  Location / Dealer:
+    displayName: Location / Dealer
+  Ext. Color:
+    displayName: Ext. Color
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Owner
+      - Trim
+      - Usage Type
+      - Accident
+      - Year
+      - Package
+      - Int. Color
+      - Price
+      - Status
+      - Mileage
+      - Location / Dealer
+      - Ext. Color

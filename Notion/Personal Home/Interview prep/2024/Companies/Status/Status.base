@@ -1,0 +1,22 @@
+# Status
+
+filters:
+  and:
+    - note["base"] == link("Status.base")
+properties:
+  file.name:
+    displayName: Name
+  Date:
+    displayName: Date
+  Status:
+    displayName: Status
+  Assign:
+    displayName: Assign
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Date
+      - Status
+      - Assign

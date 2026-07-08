@@ -1,0 +1,40 @@
+# Media
+
+filters:
+  and:
+    - note["base"] == link("Media.base")
+properties:
+  file.name:
+    displayName: Name
+  Score /5:
+    displayName: Score /5
+  Type:
+    displayName: Type
+  Publisher:
+    displayName: Publisher
+  Summary:
+    displayName: Summary
+  Publishing/Release Date:
+    displayName: Publishing/Release Date
+  Link:
+    displayName: Link
+  Status:
+    displayName: Status
+  ASIN:
+    displayName: ASIN
+  Author:
+    displayName: Author
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Score /5
+      - Type
+      - Publisher
+      - Summary
+      - Publishing/Release Date
+      - Link
+      - Status
+      - ASIN
+      - Author

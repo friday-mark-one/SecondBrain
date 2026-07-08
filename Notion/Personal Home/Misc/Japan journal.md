@@ -1,0 +1,29 @@
+---
+notion-id: 40cf1d79-6e54-46e8-8514-1d3200c9f899
+---
+- Perfectly arranged trees
+- Neat roads
+- Almost all of them are cute
+- Very nice people
+- Vegetarian problem is real
+- Grass is super bright green
+- Houses look extremely traditional
+- Punctuality is at its peak
+- You are on a train. Sudden boom of transition when you look at the window. Vaa maa minnal maari opposite la one train crosses. It crosses even before you realize it.
+- Landslides are prevented by something that looks like a tar road and a car tyre combined
+- You need serious skills to take good photos in a Japanese train
+- Even people who clean toilets have happiness in their faces unlike India
+- The Japanese scent
+- Excitement at post office
+- The elder man at the metro train
+- Amazingly planned railway system (JR line, metro line, subway lines)
+- Careful consideration for people with disabilities everywhere
+- Extremely tourist friendly especially for any english speaking traveler
+- Best education system for school children
+- Discipline in escalator
+- Not so socializing but helping attitude
+- Locals enjoy the weekend
+- Chopsticks are difficult at first but then it is extremely easy once you practice
+- 200 flavors of kitkat
+- School kids at airport
+- I saw a school kid read chemistry from a textbook written in English while traveling in a bus

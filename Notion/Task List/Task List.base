@@ -1,0 +1,22 @@
+# Task List
+
+filters:
+  and:
+    - note["base"] == link("Task List.base")
+properties:
+  file.name:
+    displayName: Name
+  Date Created:
+    displayName: Date Created
+  Status:
+    displayName: Status
+  Property:
+    displayName: Property
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Date Created
+      - Status
+      - Property
