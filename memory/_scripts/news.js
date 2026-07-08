@@ -61,16 +61,20 @@ function splitForTelegram(text, limit = TELEGRAM_LIMIT) {
 }
 
 function mdLinksToTelegramHtml(text) {
+  const B = "@@B@@", CB = "@@/B@@";
   const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  // Convert ## and ### headings to bold (use sentinels to survive esc())
+  text = text.replace(/^##\s+(.+)$/gm, B + "$1" + CB);
+  text = text.replace(/^###\s+(.+)$/gm, B + "$1" + CB);
   let out = "", last = 0, m;
-  const re = /\[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g; // URL may contain one level of balanced parens (e.g. Wikipedia)
+  const re = /\[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g;
   while ((m = re.exec(text)) !== null) {
     out += esc(text.slice(last, m.index));
     const url = m[2].replace(/&/g, "&amp;").replace(/"/g, "&quot;");
     out += `<a href="${url}">${esc(m[1])}</a>`;
     last = m.index + m[0].length;
   }
-  return out + esc(text.slice(last));
+  return (out + esc(text.slice(last))).replace(/@@B@@/g, "<b>").replace(/@@\/B@@/g, "</b>");
 }
 
 // ---- I/O + CLI ----
