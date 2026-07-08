@@ -10,7 +10,7 @@ the AgentMail skill and the summarizing/matching; the helper scripts own timing 
    a. Write one bullet:
       `<Store> — <offer> — expires <when or "no date"> — <quick info: code / limits / link>`.
    b. Judge whether it matches `[[Buy List]]`, `[[Black Friday buy]]`, or `[[Gift ideas]]`.
-      If it plausibly matches, append ` 🔔 [[<matched note>]]` to the bullet.
+      If it plausibly matches (has to be same category or product), append ` 🔔 [[<matched note>]]` to the bullet.
    c. `node memory/_scripts/deals.js add "<bullet>"`.
    d. If it matched, send me a Telegram message (store + offer + which list it matched).
    e. `node memory/_scripts/email-state.js seen deals <this message's id>` — **mark it seen immediately, before moving to the next message**, so a mid-run error never re-posts or re-pings the ones already done.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/News.md",
+                "file": "memory/Deal triage instructions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "News"
+              "title": "Deal triage instructions"
             }
           }
         ]
@@ -201,12 +201,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Deals.md",
+    "agent-protocol/AGENTS.md",
+    "memory/News.md",
     "Notion/Work/Work.md",
     "Notion/Work/Snap/Snap.md",
     "Notion/Work/Snap/H1B transfer/H1B transfer.md",
@@ -237,9 +239,6 @@
     "Notion/Work/Amazon/Neo/KUX migration/KUX migration.md",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/Selection-Highlight reflowable.md",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/border Image border width is not consistent.md",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/border Check how selection works for vertical content now.md",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/border Is KVG content treated as image.md",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/icon click feedback (invert color).md",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/New database.base",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable",

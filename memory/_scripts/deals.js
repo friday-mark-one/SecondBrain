@@ -10,7 +10,7 @@ function parseDeals(noteText) {
   const sections = [];
   let cur = null;
   for (const raw of (noteText || "").split("\n")) {
-    const h = raw.match(/^##\s+(.+?)\s*$/);
+    const h = raw.match(/^##\s+(\d{4}-\d{2}-\d{2})\s*$/); // only ISO-date headers, so a stray `## X` line can't masquerade as a dated section
     if (h) { cur = { date: h[1].trim(), bullets: [] }; sections.push(cur); continue; }
     const b = raw.match(/^-\s+(.*\S)\s*$/);
     if (b && cur) cur.bullets.push(b[1]);
