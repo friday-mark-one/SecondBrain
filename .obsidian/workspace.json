@@ -11,24 +11,13 @@
             "id": "ed5d5d5b3daac424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "memory/Deal triage instructions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Notion/Personal Home/Interview prep/2024/Companies/Status/Status.base",
+                "viewName": "Table View"
               },
-              "icon": "lucide-file",
-              "title": "Deal triage instructions"
+              "icon": "lucide-table",
+              "title": "Status"
             }
           }
         ]
@@ -206,6 +195,7 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Deal triage instructions.md",
     "memory/Deals.md",
     "agent-protocol/AGENTS.md",
     "memory/News.md",
@@ -238,7 +228,6 @@
     "Notion/Work/Amazon/Neo/Neo.md",
     "Notion/Work/Amazon/Neo/KUX migration/KUX migration.md",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/Selection-Highlight reflowable.md",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/border Image border width is not consistent.md",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/New database.base",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable",
