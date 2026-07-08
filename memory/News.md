@@ -1,5 +1,55 @@
 # News
 
+## 2026-07-08
+
+## AI Models & Releases
+
+- [GPT-5.6 Sol, Terra, and Luna Launching Publicly This Thursday](https://tldr.tech/ai) — OpenAI is releasing GPT-5.6 Sol (flagship), Terra (balanced model for everyday work, competitive with GPT‑5.5 at 2x cheaper), and Luna (fast and affordable, lowest cost). Preview access is expanding globally. (TLDR AI)
+
+- [Claude Cowork on Mobile and Web](https://tldr.tech/ai) — Anthropic announced Claude Cowork sessions and files are now accessible across web and mobile, allowing long-running tasks to continue without an open computer. Beta rolling out to Max users first. (TLDR AI)
+
+- [Meta Enters AI Image Model Race with Muse Image](https://tldr.tech) — Meta released Muse Image, a new AI model for creating images, available for free via Meta AI app, WhatsApp, and Instagram Stories. Will also power advertiser image-generation tools via Advantage+. (TLDR)
+
+- [Microsoft Replacing OpenAI, Anthropic with Own AI in Some Apps](https://tldr.tech/ai) — Microsoft is starting to replace third-party models with its own in Excel and Outlook, showing progress in building competitive AI at lower cost as its discount token deals are set to expire. (TLDR AI)
+
+- [Facing US Export Controls, China's DeepSeek Plans to Make Its Own Chips](https://tldr.tech/ai) — DeepSeek is planning to enter the silicon business, focusing on data center chips for inference, likely to reduce reliance on both Huawei and Nvidia. (TLDR AI)
+
+## AI Engineering & Agents
+
+- [Harness Engineering for Self-Improvement](https://tldr.tech/ai) — Recursive self-improvement focuses on building AI systems that upgrade their own capabilities. A "harness" is the system surrounding a base model that orchestrates execution, tool use, context management, and evaluation. Covers design patterns for workflow automation, persistent memory, and sub-agents. (TLDR AI, TLDR Dev)
+
+- [MiniMax M3: How Sparse Attention Makes Long-Horizon Agents Practical](https://tldr.tech/ai) — MiniMax Sparse Attention changes what the model reads at each step, resulting in predictable cost at any length and cheap long context, making it practical for iterative systems that need to keep state over time. (TLDR AI)
+
+- [Not All Model Upgrades Are Upgrades](https://tldr.tech/dev) — A comparison of Claude Sonnet 4.6 and Claude Sonnet 5 showed the newer model can incur higher costs and produce inferior output in certain tasks despite cheaper token pricing. (TLDR Dev)
+
+- [Why Is ChatGPT for Mac So Good?](https://tldr.tech/dev) — ChatGPT for Mac has established itself as the best desktop AI app by prioritizing native UX, while competitors like Claude and Microsoft 365 Copilot remain primarily web-based with less polish. (TLDR Dev)
+
+## Tech Industry
+
+- [Behind Xbox's Big Layoffs, a Streaming Strategy That Failed](https://tldr.tech) — Xbox announced 3,200 layoffs and closed five game studios, resetting after overspending on studios and games that didn't resonate. Plans to focus more on franchises like Minecraft. (TLDR)
+
+- [How Tech Workers Are Feeling in 2026: A Workforce Splitting in Two](https://tldr.tech) — Tech workers are either amplified by AI or shaken by it. Burnout is surging, optimism fading. While productivity is up, quality is questionable and many believe the industry is in chaos. (TLDR)
+
+- [SpaceX Launched the First-Ever Nuclear-Powered Commercial Satellite](https://tldr.tech) — The BOHR satellite by City Labs uses a NanoTritium betavoltaic micropower source, harnessing beta particles from tritium decay to generate electricity, providing continuous power without reliance on solar energy. (TLDR)
+
+- [Tesla Cybercab Includes More Powerful FSD Hardware](https://tldr.tech) — Production Cybercab units run a more powerful Full Self-Driving computer with increased onboard memory, enabling SAE Level 4 Autonomous Mode (no steering wheel or pedals). Testing began on public roads in Austin. (TLDR)
+
+## Development & Tools
+
+- [Why We Built Yet Another PostgreSQL Connection Pooler](https://tldr.tech/dev) — PgDog is a new connection pooler designed to handle session state, SET commands, and LISTEN/NOTIFY better than existing tools, using a built-in SQL parser with a multithreaded Rust/Tokio architecture. (TLDR Dev)
+
+- [Theory of Constraints, AI, and Code Review](https://tldr.tech/dev) — Hypergrowth startups producing more code with AI aren't shipping faster because the bottleneck is code review. Long review times leave teams overwhelmed with PRs, offsetting individual productivity gains. (TLDR Dev)
+
+- [Fortress — Stealth Chromium Engine](https://github.com) — Open-source Chromium engine designed to prevent scrapers and browser agents from being blocked by correcting browser fingerprints within the engine, modifying over thirty detection surfaces. (TLDR Dev)
+
+- [Davit — Run Linux Containers on Apple Silicon](https://davit.app) — Free, open-source macOS app that runs Linux containers without Docker Desktop, featuring a native interface and direct communication with Apple's container daemon. (TLDR Dev)
+
+- [Herdr — Agent Multiplexer for the Terminal](https://github.com) — Terminal-based agent multiplexer that provides a view of every agent at a glance, survives restarts, and supports a pure socket API with plugins. (TLDR, TLDR Dev)
+
+- [Rowboat — Open-Source AI Coworker](https://github.com) — AI coworker that organizes and indexes work into a dynamic knowledge graph. (TLDR Dev)
+
+- [98% Isn't Very Much](https://tldr.tech/dev) — Reliance on a 98% success rate in systems can be misleading, often overlooking the huge impact on the 2% negatively affected. (TLDR Dev)
+
 ## 2026-07-07
 
 ## AI & Models
