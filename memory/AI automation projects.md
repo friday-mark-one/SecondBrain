@@ -1,11 +1,12 @@
 - [ ] Second brain
-	- [ ] Shopping list tracker
+	- [x] Shopping list tracker
 	- [ ] Workout tracker
-	- [ ] Todo list
-	- [ ] Food inventory and expiration
-	- [ ] Meal planning
-- [ ] Summarize news from my email
-- [ ] Summarize promotion and advertisement emails
+	- [x] Todo list
+	- [x] Food inventory and expiration
+	- [x] Meal planning
+	- [ ] Nutrition tracking
+- [x] Summarize news from my email
+- [x] Summarize promotion and advertisement emails
 - [ ] Dump every dream and identify patterns
 - [ ] Periodically crawl websites
 	- [ ] For mac mini / studio availability
