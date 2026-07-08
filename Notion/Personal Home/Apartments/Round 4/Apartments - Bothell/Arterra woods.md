@@ -1,5 +1,4 @@
 ---
-notion-id: f91f721e-098c-4dfb-87f2-2273329b0c89
 base: "[[Apartments - Bothell.base]]"
 Link: https://www.arterrawoods-bothell.com/floorplans
 Size: 687

@@ -1,5 +1,4 @@
 ---
-notion-id: 3c9dcf66-a46d-4017-8c7e-bbe5a34d0e33
 base: "[[Bills.base]]"
 Quantity: "1"
 Comments: ""

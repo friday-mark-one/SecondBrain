@@ -1,5 +1,4 @@
 ---
-notion-id: c6f75b24-b8bd-4c99-8f05-ebc9327e55b7
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Prologis

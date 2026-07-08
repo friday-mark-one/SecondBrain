@@ -1,5 +1,5 @@
 ---
-notion-id: 40cf1d79-6e54-46e8-8514-1d3200c9f899
+
 ---
 - Perfectly arranged trees
 - Neat roads

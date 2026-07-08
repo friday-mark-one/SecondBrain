@@ -1,5 +1,5 @@
 ---
-notion-id: 23a02d25-148c-8010-8b91-e2e3f25a5116
+
 ---
 - [x] Ceiling vortex possible?
 - [x] Alternative sofa

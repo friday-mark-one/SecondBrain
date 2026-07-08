@@ -1,5 +1,5 @@
 ---
-notion-id: fa3b19a4-9ea0-4ed8-a618-19970c7d1a53
+
 ---
 - [x] First Tech ATM locations
 - [x] Call SSA office for appointment - [https://www.ssa.gov/ssnumber/](https://www.ssa.gov/ssnumber/) , [https://www.ssa.gov/forms/ss-5.pdf](https://www.ssa.gov/forms/ss-5.pdf), [https://secure.ssa.gov/ICON/ic001.action#officeResults](https://secure.ssa.gov/ICON/ic001.action#officeResults)

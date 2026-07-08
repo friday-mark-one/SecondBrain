@@ -1,5 +1,4 @@
 ---
-notion-id: 470a267c-9ca6-481d-99a6-b93b11a223a1
 base: "[[GRE.base]]"
 Updated: 2017-07-12T20:09:00
 Tags: []

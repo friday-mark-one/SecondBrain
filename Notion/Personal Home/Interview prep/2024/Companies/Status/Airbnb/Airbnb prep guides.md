@@ -1,5 +1,5 @@
 ---
-notion-id: 24102d25-148c-8075-b0e4-ce70be9d7232
+
 ---
 I got into Airbnb recently as a G9 (senior). Not going to share any specific questions but will share my prep which obviously worked out.
 

@@ -1,5 +1,5 @@
 ---
-notion-id: 17402d25-148c-80e4-93ba-ce08c17aa113
+
 ---
 **Capital One - Venture X**
 

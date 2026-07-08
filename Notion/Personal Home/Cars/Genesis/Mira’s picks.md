@@ -1,5 +1,5 @@
 ---
-notion-id: 2d202d25-148c-80a7-b999-cf2a72de6331
+
 ---
 Genesis of South Bay
 

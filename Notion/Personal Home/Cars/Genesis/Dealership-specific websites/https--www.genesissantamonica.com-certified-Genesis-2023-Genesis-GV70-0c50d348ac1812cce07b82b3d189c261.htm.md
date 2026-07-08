@@ -1,5 +1,4 @@
 ---
-notion-id: 2cf02d25-148c-80c8-ac08-ed498e2d72dd
 base: "[[Dealership-specific websites.base]]"
 Trim: 2.5T
 Year: "2023"

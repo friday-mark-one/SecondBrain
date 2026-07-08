@@ -1,5 +1,5 @@
 ---
-notion-id: 22a02d25-148c-809a-a3e0-fe2e62ab98f5
+
 ---
 - [x] Passport
 - [x] DS160 confirmation

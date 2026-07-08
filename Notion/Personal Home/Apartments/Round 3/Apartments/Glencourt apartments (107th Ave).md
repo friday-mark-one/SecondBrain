@@ -1,5 +1,4 @@
 ---
-notion-id: d9e5f831-4466-49e2-8ca2-da03071d4431
 base: "[[Apartments.base]]"
 Link: https://www.zillow.com/homedetails/126-107th-Ave-SE-Bellevue-WA-98004/2079500305_zpid/?
 Size: "500"

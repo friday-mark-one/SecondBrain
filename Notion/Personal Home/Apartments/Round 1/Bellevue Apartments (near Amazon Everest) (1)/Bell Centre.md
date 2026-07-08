@@ -1,5 +1,4 @@
 ---
-notion-id: f799b8d9-26c1-447c-82a3-0c012964eff4
 base: "[[Bellevue Apartments (near Amazon Everest) (1).base]]"
 Date added: 2023-01-15T11:38:00
 URL: https://www.essexapartmenthomes.com/apartments/bellevue/bellcentre/floor-plans-and-pricing

@@ -1,5 +1,5 @@
 ---
-notion-id: 2a502d25-148c-800b-a270-f8a95afdbb92
+
 ---
 
 Electric vs Gas calculator - [https://www.nytimes.com/interactive/2025/upshot/ev-vs-gas-calculator.html](https://www.nytimes.com/interactive/2025/upshot/ev-vs-gas-calculator.html)

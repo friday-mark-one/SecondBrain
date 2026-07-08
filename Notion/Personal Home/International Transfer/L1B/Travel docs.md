@@ -1,5 +1,5 @@
 ---
-notion-id: 7dc16b36-0e25-462e-8b07-92fd127d6055
+
 ---
 1. NIE approval 2. I797 3. RTPCR 4. Passport copy 5. Visa
 

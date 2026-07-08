@@ -1,5 +1,5 @@
 ---
-notion-id: 1df02d25-148c-8065-88c4-c9d219b8e26f
+
 ---
 
 - [x] [https://leetcode.com/problems/alien-dictionary/](https://leetcode.com/problems/alien-dictionary/)

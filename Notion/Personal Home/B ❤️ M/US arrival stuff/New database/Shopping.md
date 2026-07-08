@@ -1,5 +1,4 @@
 ---
-notion-id: 26102d25-148c-809e-9078-d588e361e47d
 base: "[[New database.base]]"
 Status: In progress
 Assign: []

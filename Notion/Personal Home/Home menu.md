@@ -1,5 +1,5 @@
 ---
-notion-id: 62c2da41-b4df-471f-af31-95f45a8343b0
+
 ---
 ~~Apple~~
 

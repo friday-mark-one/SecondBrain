@@ -1,5 +1,5 @@
 ---
-notion-id: a34341a0-d57e-44e6-9f70-d89f62a5785b
+
 ---
 **Lycopodium**
 

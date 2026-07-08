@@ -1,5 +1,5 @@
 ---
-notion-id: 73ec2912-2928-4ad9-bdb1-adc7731b46aa
+
 ---
 Mother hen and 4 little cute chickens are playing in the yard, Paul Cézanne style
 

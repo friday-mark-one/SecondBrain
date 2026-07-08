@@ -1,5 +1,5 @@
 ---
-notion-id: c168a99a-62df-4aa6-b7d8-6f9f0a45cfd7
+
 ---
 
 Load Cell + HX711 - [https://www.amazon.com/Bridge-Digital-Amplifier-Arduino-DIYmalls/dp/B086ZHXNJH](https://www.amazon.com/Bridge-Digital-Amplifier-Arduino-DIYmalls/dp/B086ZHXNJH)

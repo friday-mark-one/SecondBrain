@@ -1,5 +1,5 @@
 ---
-notion-id: db06528b-f586-418a-9332-d8f5b35122e4
+
 ---
 Do dynamic stretches instead of static stretches
 

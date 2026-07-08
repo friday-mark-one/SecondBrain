@@ -1,5 +1,5 @@
 ---
-notion-id: 28e02d25-148c-8048-bc19-d66ba140e535
+
 ---
 ```javascript
 #include <cmath>

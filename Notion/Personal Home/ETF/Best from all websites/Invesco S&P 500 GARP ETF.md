@@ -1,5 +1,4 @@
 ---
-notion-id: f424efe7-db21-4076-b721-08456aa3614c
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Vertex Pharma

@@ -1,5 +1,5 @@
 ---
-notion-id: 42bc87a2-3e26-4a30-bc28-295d92e53338
+
 ---
 +4 Learn to ask clarifying questions, questions are often undersfpecified
 

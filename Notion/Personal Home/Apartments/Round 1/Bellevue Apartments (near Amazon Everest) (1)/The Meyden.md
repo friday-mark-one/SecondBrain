@@ -1,5 +1,4 @@
 ---
-notion-id: 9b8130e0-7184-4b2c-a3ac-714893fadee2
 base: "[[Bellevue Apartments (near Amazon Everest) (1).base]]"
 Date added: 2023-01-15T11:38:00
 URL: https://www.rentcafe.com/apartments/wa/bellevue/the-meyden/default.aspx

@@ -1,5 +1,5 @@
 ---
-notion-id: 22a02d25-148c-80b9-9087-cc632a82fb19
+
 ---
 Unnecessary gang
 

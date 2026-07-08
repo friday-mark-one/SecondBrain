@@ -1,5 +1,4 @@
 ---
-notion-id: 93176290-57cc-4b7f-a718-f8dc3279490e
 base: "[[Home inventory.base]]"
 Date Created: 2022-03-01T19:36:00
 Location: 6,1

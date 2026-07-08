@@ -1,5 +1,5 @@
 ---
-notion-id: 40a1af93-6c19-4850-98bd-5e26ed07d072
+
 ---
 
 https://grad.gatech.edu/checklist

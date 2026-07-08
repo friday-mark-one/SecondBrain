@@ -1,5 +1,5 @@
 ---
-notion-id: bf6d470a-f1c7-4dda-a850-212edc423982
+
 ---
 [[Fitness together]]
 

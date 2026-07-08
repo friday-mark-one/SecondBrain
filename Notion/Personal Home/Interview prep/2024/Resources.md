@@ -1,5 +1,5 @@
 ---
-notion-id: 10902d25-148c-809f-b703-c6b045357bf8
+
 ---
 
 [https://www.1point3acres.com/en](https://www.1point3acres.com/en) 

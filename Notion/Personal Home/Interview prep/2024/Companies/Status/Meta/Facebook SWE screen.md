@@ -1,5 +1,5 @@
 ---
-notion-id: 1a902d25-148c-8051-bf18-c00eef787744
+
 ---
 - [x] [**CGRectEqualsRect, CGRectContainsRect**](https://developer.apple.com/documentation/coregraphics/1454186-cgrectcontainsrect)** **
     - [x] [https://leetcode.com/problems/rectangle-overlap/description/](https://leetcode.com/problems/rectangle-overlap/description/) (partially)

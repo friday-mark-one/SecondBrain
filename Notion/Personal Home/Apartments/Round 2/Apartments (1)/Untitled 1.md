@@ -1,5 +1,4 @@
 ---
-notion-id: 554e879c-b576-4b8f-b067-00f1c0c59a08
 base: "[[Apartments (1).base]]"
 Link: https://seattle.craigslist.org/est/apa/d/bellevue-8-month-lease-beautiful-bed/7364799494.html
 Size: 1017

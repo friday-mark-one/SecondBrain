@@ -1,5 +1,4 @@
 ---
-notion-id: 18002d25-148c-808b-8c65-d388a391422a
 base: "[[Status.base]]"
 Status: Waiting
 Assign: []

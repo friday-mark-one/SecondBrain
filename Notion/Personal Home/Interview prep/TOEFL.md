@@ -1,5 +1,5 @@
 ---
-notion-id: cfd17e1d-4b0a-4309-9d9d-513bac11c5bb
+
 ---
 
 Reading section 3 - 4 passage 54 - 72 mintues

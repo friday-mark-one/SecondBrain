@@ -1,5 +1,4 @@
 ---
-notion-id: 17e02d25-148c-807e-8531-ccf0eb247d9c
 base: "[[Status.base]]"
 Status: Todo
 Assign: []

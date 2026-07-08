@@ -1,5 +1,5 @@
 ---
-notion-id: e76a3d81-465c-4b77-8c6e-0960f1b2285b
+
 ---
 Share mouse and keyboard across different physical machines. These machines can belong to any operating system.
 

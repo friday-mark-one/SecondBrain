@@ -1,5 +1,5 @@
 ---
-notion-id: 882151af-55ed-48df-a096-e4d698507990
+
 ---
 REVISIT EVERYTHING YOU STUDIED from time-to-time
 

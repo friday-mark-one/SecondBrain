@@ -1,5 +1,4 @@
 ---
-notion-id: 19beb9bd-f8ee-4a97-ab6e-5299b7baf495
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Procter & Gamble

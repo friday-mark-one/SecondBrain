@@ -1,5 +1,5 @@
 ---
-notion-id: 6d946e79-dc28-4db6-80e4-1873be9d155b
+
 ---
 
 Find a good scanner

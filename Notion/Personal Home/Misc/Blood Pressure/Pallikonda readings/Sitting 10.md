@@ -1,5 +1,4 @@
 ---
-notion-id: f67e2400-1461-4eeb-804d-9886df067e24
 base: "[[Pallikonda readings.base]]"
 Diastolic: 78
 Systolic: 129

@@ -1,5 +1,5 @@
 ---
-notion-id: 50924a6d-d5f9-41df-b453-a7179197ec5e
+
 ---
 # Long term goals
 

@@ -1,5 +1,4 @@
 ---
-notion-id: b06f568f-1aeb-4b45-a56a-398b26b466fa
 base: "[[Bills.base]]"
 Quantity: 20 lb
 Comments: ""

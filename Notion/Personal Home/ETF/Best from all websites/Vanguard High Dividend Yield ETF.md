@@ -1,5 +1,4 @@
 ---
-notion-id: a92a70a0-99c6-47e7-8dd2-a4cc14306196
 base: "[[Best from all websites.base]]"
 Top holdings:
   - J & J

@@ -1,5 +1,5 @@
 ---
-notion-id: 1e102d25-148c-801b-8e53-ca441a314218
+
 ---
 - [x] Game scoreboard
 - [ ] Static image manager

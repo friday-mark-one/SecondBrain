@@ -1,5 +1,5 @@
 ---
-notion-id: 1f602d25-148c-809c-aa07-cb43ab6c850d
+
 ---
 ### **Amazon - Kindle Rendering Engine*** | 2021 - Present*
 

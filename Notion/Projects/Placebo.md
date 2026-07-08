@@ -1,5 +1,5 @@
 ---
-notion-id: 60e733f0-d5c3-478f-80c6-ffa85092a839
+
 ---
 1. Stomach ache cured on the way to see Dr. Arulalan
 2. Homeopathy works for cold, sinus, B12 deficiency (what?), IBS

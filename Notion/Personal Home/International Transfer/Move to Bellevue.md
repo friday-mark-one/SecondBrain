@@ -1,5 +1,5 @@
 ---
-notion-id: f3e11587-0630-4ab6-a825-555729a071fa
+
 ---
 - [ ] Items to sell
     - [ ] Piano

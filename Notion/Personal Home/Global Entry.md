@@ -1,5 +1,5 @@
 ---
-notion-id: 041f6b72-6977-4b31-a06a-dcf236400a59
+
 ---
 
 ## Documents to bring

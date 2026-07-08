@@ -1,5 +1,5 @@
 ---
-notion-id: 025ee1dd-1840-4a92-8577-4774c9699aae
+
 ---
 
 [[Notion/Projects/Project ideas]]

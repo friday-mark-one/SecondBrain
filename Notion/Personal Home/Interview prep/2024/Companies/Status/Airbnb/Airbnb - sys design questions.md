@@ -1,5 +1,5 @@
 ---
-notion-id: 28902d25-148c-8033-a195-ea847de40ef9
+
 ---
 - [x] Slot Booking system and a lots of followups
 - [x] Create a group chat. Create an inbox, load the top 10 group chats that have the most recent messages for the user. Send a message to the group chat. Show messages of a group chat

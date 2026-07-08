@@ -1,5 +1,4 @@
 ---
-notion-id: 1d476833-d32d-43e3-a3c6-efaa402c00eb
 base: "[[Apartments.base]]"
 Link: https://www.zillow.com/homedetails/10109-NE-12th-St-4-Bellevue-WA-98004/2067103497_zpid/
 Size: "825"

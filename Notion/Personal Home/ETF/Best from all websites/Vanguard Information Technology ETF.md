@@ -1,5 +1,4 @@
 ---
-notion-id: fcb29e10-8d6e-47be-8075-991a3c21e9b8
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Microsoft

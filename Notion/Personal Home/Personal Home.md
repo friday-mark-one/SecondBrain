@@ -1,5 +1,4 @@
 ---
-notion-id: 1a39257a-0dca-4607-8b72-f33482eddd19
 cover: "[[Personal Home.jpeg]]"
 ---
 Organize everything in your life in one place.

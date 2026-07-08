@@ -1,5 +1,5 @@
 ---
-notion-id: 5c053452-cc7f-4b8f-a29a-d18451377342
+
 ---
 > [!note] 📚
 > The modern day reading list includes more than just books. We've created a dashboard to help you track books, articles, podcasts, and videos. **Each** **media type** has its own view based on the **Type** property. 

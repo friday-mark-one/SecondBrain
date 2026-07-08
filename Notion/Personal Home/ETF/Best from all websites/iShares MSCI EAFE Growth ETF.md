@@ -1,5 +1,4 @@
 ---
-notion-id: 8d3f80c4-4b83-4fac-9ba5-7b65ba67cfad
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Nestle SA

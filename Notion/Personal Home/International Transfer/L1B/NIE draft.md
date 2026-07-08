@@ -1,5 +1,5 @@
 ---
-notion-id: 13759745-509e-46d9-8438-adbfaccae34c
+
 ---
 From: personal mail
 

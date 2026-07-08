@@ -1,5 +1,4 @@
 ---
-notion-id: bf61be17-3b27-4235-9d84-741cf45f45b8
 base: "[[Media.base]]"
 Type: Book
 Summary: ""

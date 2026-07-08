@@ -1,5 +1,5 @@
 ---
-notion-id: 1f202d25-148c-806b-ae0c-c8442239d4fb
+
 ---
 
 |   | Artist Name & Followers  (LINK) | Contact number | Months to book earlier | Advance to pay | Per event charge | 4 events makeup + saree draping overall charge | Guest additional saree draping charge | Guest makeup additional charges | Is it available on Jun 26, 27 | Do they need stay and travel?Mention stay/ travel/ both | Can trail session be within 20th? | Rating based on IG (Rate out of 10) | Comments |

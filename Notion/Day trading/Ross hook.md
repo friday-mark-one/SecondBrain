@@ -1,5 +1,5 @@
 ---
-notion-id: cd49a5f6-14f7-4d42-99fc-bce05528c3e4
+
 ---
 
 ### Major entry signals

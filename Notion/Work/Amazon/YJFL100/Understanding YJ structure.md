@@ -1,0 +1,282 @@
+---
+
+---
+## Comics structure
+
+```bash
+AmazonDigitalBook
+metadata::{
+  reading_orders:[
+    {
+      reading_order_name:default,
+      sections:[
+        c0,
+        c8,
+        c2P,
+        c4D
+      ]
+    }
+  ]
+}
+document_data::{
+  direction:ltr,
+  writing_mode:horizontal_tb,
+  'yj.comic_panel_view_mode':'yj.guided_view',
+  max_id:1155,
+  pan_zoom:enabled,
+  spacing_percent_base:width,
+  auxiliary_data:{
+    'yj.conversion':d128
+  },
+  reading_orders:[
+    {
+      reading_order_name:default,
+      sections:[
+        c0,
+        c8,
+        c2P,
+        c4D
+      ]
+    }
+  ]
+}
+content_features::{
+  kfx_id:content_features,
+  features:[
+    {
+      namespace:"com.amazon.yjconversion",
+      key:"yj_double_page_spread",
+      version_info:{
+        version:{
+          major_version:1,
+          minor_version:0
+        }
+      }
+    },
+    {
+      namespace:"com.amazon.yjconversion",
+      key:"yj_non_pdf_fixed_layout",
+      version_info:{
+        version:{
+          major_version:2,
+          minor_version:0
+        }
+      }
+    },
+    {
+      namespace:"com.amazon.yjconversion",
+      key:"yj_publisher_panels",
+      version_info:{
+        version:{
+          major_version:2,
+          minor_version:0
+        }
+      }
+    }
+	]
+}
+book_metadata::{
+  categorised_metadata:[
+		{
+		  category:"kindle_capability_metadata",
+		  metadata:[
+		    {
+		      key:"yj_double_page_spread",
+		      value:1
+		    },
+		    {
+		      key:"yj_publisher_panels",
+		      value:1
+		    },
+		    {
+		      key:"yj_fixed_layout",
+		      value:1
+		    },
+		    {
+		      key:"continuous_popup_progression",
+		      value:0
+		    }
+		  ]
+		}
+	]
+}
+style::{
+  text_color:4278190080,
+  style_name:sZ,
+  fill_color:4294967295
+}
+style::{
+  width:1988e0,
+  sizing_bounds:content_bounds,
+  language:"en-us",
+  style_name:sJ,
+  fill_color:4279440147
+}
+style::{
+  width:1988e0,
+  height:3056e0,
+  top:0e0,
+  sizing_bounds:content_bounds,
+  left:0e0,
+  style_name:sG
+}
+external_resource::{
+  format:jpg,
+  mime:"image/jpg",
+  location:"resource/rsrc129",
+  'yj.conversion.source_resource_filename':"0001.jpg",
+  resource_width:1249,
+  thumbnails:'e6-thumb',
+  resource_height:1920,
+  resource_name:e6
+}
+external_resource::{
+  format:jpg,
+  mime:"image/jpg",
+  location:"resource/rsrc12A",
+  resource_width:333,
+  resource_name:'e6-thumb',
+  resource_height:512
+}
+}
+storyline::{
+  story_name:lC,
+  content_list:[
+    {
+      id:871,
+      kfx_id:y12A,
+      font_size:16e0,
+      direction:ltr,
+      writing_mode:horizontal_tb,
+      fixed_width:1988,
+      fixed_height:3056,
+      layout:scale_fit,
+      float:center,
+      style:sZ,
+      type:container,
+      content_list:[
+        {
+          id:858,
+          kfx_id:y12B,
+          'yj.conversion.html_name_index':1,
+          'yj.conversion.offset_map':[
+            {
+              'yj.conversion.line_no':9,
+              'yj.conversion.amzn_src_id':7,
+              'yj.conversion.offset':0
+            }
+          ],
+          layout:vertical,
+          style:sJ,
+          type:container,
+          content_list:[
+            {
+              id:854,
+              kfx_id:y12C,
+              'yj.conversion.html_name_index':1,
+              'yj.conversion.offset_map':[
+                {
+                  'yj.conversion.line_no':11,
+                  'yj.conversion.amzn_src_id':9,
+                  'yj.conversion.offset':0
+                }
+              ],
+              'yj.conversion.source_style_width':"1988px",
+              alt_text:"",
+              'yj.conversion.source_style_height':"3056px",
+              style:sG,
+              type:image,
+              resource_name:eE
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+storyline::{
+	...
+}
+section::{
+  'yj.conversion.html_name':[
+    "page-0028.xhtml",
+    "page-0029.xhtml"
+  ],
+  section_name:c11C,
+  page_templates:[
+    {
+      id:1912,
+      kfx_id:y1PE,
+      story_name:l11G,
+      layout:page_spread,
+      type:container
+    }
+  ]
+}
+section::{
+  'yj.conversion.html_name':[
+    "page-0009.xhtml",
+    "page-0010.xhtml"
+  ],
+  section_name:c8B,
+  page_templates:[
+    {
+      id:1111,
+      kfx_id:y1P3,
+      story_name:l8F,
+      layout:page_spread,
+      type:container
+    }
+  ]
+}
+location_map::[
+  {
+    locations:[
+      {
+        id:844,
+        offset:0
+      },
+      {
+        id:871,
+        offset:0
+      }
+		]
+	}
+}
+position_map::[
+  {
+    section_name:cE8,
+    contains:[
+      1316,
+      1317,
+      1319,
+		]
+	},
+	{
+	  section_name:cFU,
+	  contains:[
+	    1358,
+	    1360,
+	    1362,
+		]
+	}
+]
+position_id_map::[
+  {
+    pid:0,
+    eid:844
+  },
+  {
+    pid:1,
+    eid:846
+  },
+]
+```
+
+## YJFF from Epub3FL
+
+Same as above except
+
+- External resource is all PDF
+- No style markups
+- storyline contains image containers pointing to pdf resources and a messed up alt_text

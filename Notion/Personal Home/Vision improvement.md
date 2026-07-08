@@ -1,5 +1,5 @@
 ---
-notion-id: 29a77c3b-6334-4539-9bd7-30e1b645b73f
+
 ---
 
 ### Eye exercises

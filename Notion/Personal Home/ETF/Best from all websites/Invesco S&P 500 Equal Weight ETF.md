@@ -1,5 +1,4 @@
 ---
-notion-id: 7e456028-6a2d-4f6f-9ec7-a55d5ecf67c3
 base: "[[Best from all websites.base]]"
 Top holdings:
   - EPAM

@@ -1,5 +1,5 @@
 ---
-notion-id: 4205756a-d778-4c63-895f-1f5bd9a9ebdb
+
 ---
 
 1. Which visa type

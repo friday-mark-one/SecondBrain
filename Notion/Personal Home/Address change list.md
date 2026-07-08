@@ -1,5 +1,5 @@
 ---
-notion-id: 1c01d7c6-7515-4d7d-bc17-5b9782e72c0f
+
 ---
 - [x] Amazon people portal
 - [ ] Amazon care

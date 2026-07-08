@@ -1,5 +1,5 @@
 ---
-notion-id: 6aaccc62-8e44-4964-ac4f-b8f74c15ce69
+
 ---
 - Finish foundational course requirement within one year with grade B or above in at least 2 courses
 - 30 credit hours = 10 courses

@@ -1,5 +1,5 @@
 ---
-notion-id: 10802d25-148c-809c-a539-db2c52ff939a
+
 ---
 Have always used Blind to get great insights into my industry, wanted to share my recent job search results and materials I used for studying.
 

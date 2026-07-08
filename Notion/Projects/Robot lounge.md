@@ -1,5 +1,5 @@
 ---
-notion-id: 1fc02d25-148c-806b-be26-d3a59098dcd4
+
 ---
 # Goal
 

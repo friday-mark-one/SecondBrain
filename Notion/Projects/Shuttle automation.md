@@ -1,5 +1,5 @@
 ---
-notion-id: 36b17ba1-3848-425b-b3df-6cf6d0776bd5
+
 ---
 ### Linux setup
 

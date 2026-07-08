@@ -1,5 +1,5 @@
 ---
-notion-id: 19e02d25-148c-80cb-a277-d3e53ee184a4
+
 ---
 I recently had inquiries about my interview journey and how I managed to secure Amazon's SDE2 position. To assist you in your preparation, here are some valuable resources:
 

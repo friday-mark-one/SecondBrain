@@ -1,5 +1,5 @@
 ---
-notion-id: 16302d25-148c-8024-ac5a-e87461f83a2b
+
 ---
 - [x] Sliding window
 - [ ] KMP string search algorithm

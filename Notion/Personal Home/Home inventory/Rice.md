@@ -1,5 +1,4 @@
 ---
-notion-id: a4dffd4d-53cf-4da5-b874-014c9e47c41d
 base: "[[Home inventory.base]]"
 Date Created: 2022-03-01T20:25:00
 Location: 3,2 & 3,3

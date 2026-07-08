@@ -1,5 +1,5 @@
 ---
-notion-id: df070d07-e6db-4c54-858a-a678165b5b14
+
 ---
 - [x] Laptop backpack 
 - [x] ON shoe 

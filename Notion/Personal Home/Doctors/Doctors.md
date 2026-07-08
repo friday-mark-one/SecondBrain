@@ -1,5 +1,5 @@
 ---
-notion-id: 477f7f92-af3a-4434-ab71-454cf942dbea
+
 ---
 ![[Top doctors.base]]
 

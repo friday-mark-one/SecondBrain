@@ -1,5 +1,5 @@
 ---
-notion-id: 51cda616-fdbb-48e0-9bc4-e6272d5a20bc
+
 ---
 - [ ] Conforms with ross hook
 - [ ] Verify basic criteria

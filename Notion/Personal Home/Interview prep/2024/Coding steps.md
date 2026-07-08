@@ -1,5 +1,5 @@
 ---
-notion-id: 19e02d25-148c-80cd-93b5-ca9e0e86b70c
+
 ---
 1. Understand the question
 2. Ask follow-up clarification questions

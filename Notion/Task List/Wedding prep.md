@@ -1,5 +1,4 @@
 ---
-notion-id: 25302d25-148c-80b1-938b-f856b1182a32
 base: "[[Task List.base]]"
 Date Created: 2025-08-18T02:21:00
 Status: Done 🙌

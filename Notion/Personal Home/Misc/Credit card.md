@@ -1,5 +1,5 @@
 ---
-notion-id: cd0ea3f5-0061-462c-98ec-6e81a1aa0d4b
+
 ---
 
 ### Chase sapphire preferred

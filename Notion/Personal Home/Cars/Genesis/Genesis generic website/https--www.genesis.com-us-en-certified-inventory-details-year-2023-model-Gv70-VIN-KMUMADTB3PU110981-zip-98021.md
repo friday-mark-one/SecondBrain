@@ -1,5 +1,4 @@
 ---
-notion-id: 2ce02d25-148c-80f0-b6b6-c15b797b4f94
 base: "[[Genesis generic website.base]]"
 Owner: "1"
 Trim: 2.5T

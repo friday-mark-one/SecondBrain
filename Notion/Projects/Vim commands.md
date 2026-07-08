@@ -1,5 +1,5 @@
 ---
-notion-id: c453fb5e-699c-4d05-aab7-b0bc3315b754
+
 ---
 - Basics
     - ZZ - alternative to :wq

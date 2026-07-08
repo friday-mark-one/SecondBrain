@@ -1,5 +1,5 @@
 ---
-notion-id: ebdade24-c817-423c-b6f0-704436e18fae
+
 ---
 Frequent places
 

@@ -1,5 +1,4 @@
 ---
-notion-id: ca754b78-c1cb-4e6c-89c4-c0413a0090e7
 base: "[[Bills.base]]"
 Quantity: 1 dabba
 Comments: ""

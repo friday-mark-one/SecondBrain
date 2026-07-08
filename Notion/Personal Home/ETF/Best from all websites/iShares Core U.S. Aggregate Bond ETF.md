@@ -1,5 +1,4 @@
 ---
-notion-id: 40d5502b-371f-4a4d-8d52-d31582e2fd65
 base: "[[Best from all websites.base]]"
 Top holdings:
   - United States Treasury

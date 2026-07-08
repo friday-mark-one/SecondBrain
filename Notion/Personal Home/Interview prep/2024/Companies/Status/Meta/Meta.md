@@ -1,5 +1,4 @@
 ---
-notion-id: 17302d25-148c-80eb-aab7-c9bb90d00f22
 base: "[[Status.base]]"
 Status: Rejected
 Assign: []

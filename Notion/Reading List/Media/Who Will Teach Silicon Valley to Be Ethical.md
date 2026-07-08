@@ -1,5 +1,4 @@
 ---
-notion-id: 5fff5f6c-8bf1-4ce5-8fe1-51c6c10a0c80
 base: "[[Media.base]]"
 Type: Article
 Publisher: NYT

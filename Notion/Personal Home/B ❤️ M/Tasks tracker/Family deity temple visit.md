@@ -1,5 +1,4 @@
 ---
-notion-id: 24002d25-148c-807f-b373-f80a10a8085b
 base: "[[Tasks tracker.base]]"
 Description: ""
 Due date: 2025-08-24

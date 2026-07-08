@@ -1,5 +1,4 @@
 ---
-notion-id: 00c17074-a706-48c6-96f3-050b0aae3dac
 base: "[[Bellevue Apartments (near Amazon Everest) (1).base]]"
 Date added: 2023-01-15T11:38:00
 URL: https://www.zillow.com/homedetails/342-102nd-Ave-SE-Bellevue-WA-98004/48854870_zpid/

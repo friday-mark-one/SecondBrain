@@ -1,5 +1,4 @@
 ---
-notion-id: ea72ab77-9bf3-4fcf-ae4b-86ba7eae13c4
 base: "[[Best from all websites.base]]"
 Top holdings:
   - mix of iShares ETF

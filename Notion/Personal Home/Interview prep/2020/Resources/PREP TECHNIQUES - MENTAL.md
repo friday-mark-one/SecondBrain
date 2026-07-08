@@ -1,5 +1,5 @@
 ---
-notion-id: 9b10f61f-5a1d-4391-b5e8-152ecd51476b
+
 ---
 - Hard work beats talent.
 - Polish your ability till it becomes your skill.

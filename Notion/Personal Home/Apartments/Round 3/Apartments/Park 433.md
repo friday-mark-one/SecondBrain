@@ -1,5 +1,4 @@
 ---
-notion-id: 8250a153-da28-4e15-8062-dec66c05e101
 base: "[[Apartments.base]]"
 Link: https://www.trulia.com/c/wa/bellevue/park-433-433-bellevue-way-se-bellevue-wa-98004--2118305955
 Size: "1000"

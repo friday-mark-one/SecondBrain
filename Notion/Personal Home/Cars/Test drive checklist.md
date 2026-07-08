@@ -1,5 +1,5 @@
 ---
-notion-id: 2c502d25-148c-8012-987b-c947aa71db01
+
 ---
 
 | Checklist | Genesis GV70 | Genesis G70 | Lexus ES350h | NX | RX |

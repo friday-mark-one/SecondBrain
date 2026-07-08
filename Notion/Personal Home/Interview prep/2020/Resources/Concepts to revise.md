@@ -1,5 +1,5 @@
 ---
-notion-id: 9366dd53-3bc1-4fb6-a5f3-298ed9767959
+
 ---
 - System design ultimate resource - [https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review)/
 - Segment tree - [https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation](https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation)/

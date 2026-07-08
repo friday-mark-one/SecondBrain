@@ -1,5 +1,4 @@
 ---
-notion-id: b5a7a348-497f-4eee-882d-e5339460b05f
 base: "[[Best from all websites.base]]"
 Top holdings:
   - LPL Financial

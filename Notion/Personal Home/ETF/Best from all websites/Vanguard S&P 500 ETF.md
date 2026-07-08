@@ -1,5 +1,4 @@
 ---
-notion-id: 25c31da5-2466-487a-b86c-b903dfee4ddd
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Apple

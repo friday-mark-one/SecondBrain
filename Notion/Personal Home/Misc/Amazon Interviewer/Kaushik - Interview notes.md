@@ -1,5 +1,5 @@
 ---
-notion-id: b6904d03-f1ea-4d78-816f-1a8daf80e9c2
+
 ---
 
 9.36: Given question : Path to file with ENV vars

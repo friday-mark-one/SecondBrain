@@ -1,5 +1,5 @@
 ---
-notion-id: 20e02d25-148c-801a-981f-f69e40d9cdd6
+
 ---
 
 12.03: Started late by 3 minutes

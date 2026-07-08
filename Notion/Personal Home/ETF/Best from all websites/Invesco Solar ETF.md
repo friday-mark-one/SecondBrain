@@ -1,5 +1,4 @@
 ---
-notion-id: 17a8ede0-071f-4fed-a47d-2fe2847d407b
 base: "[[Best from all websites.base]]"
 Top holdings:
   - emphase

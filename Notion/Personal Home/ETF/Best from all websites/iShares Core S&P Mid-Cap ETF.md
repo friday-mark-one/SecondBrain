@@ -1,5 +1,4 @@
 ---
-notion-id: e54a446d-a9a1-45cb-ad30-b58b8f29f9ec
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Targa Resources

@@ -1,5 +1,4 @@
 ---
-notion-id: d2c3c4fd-0cad-4ce2-b149-4bde8c954292
 base: "[[Apartments.base]]"
 Link: https://www.forrent.com/wa/bellevue/heights-at-meydenbauer/4kw3npj
 Size: "808"

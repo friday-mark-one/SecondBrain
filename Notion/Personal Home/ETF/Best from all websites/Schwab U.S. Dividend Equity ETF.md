@@ -1,5 +1,4 @@
 ---
-notion-id: 049e700c-2cd2-49f6-8fc4-f8d97c0c1649
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Merck

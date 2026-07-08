@@ -1,5 +1,4 @@
 ---
-notion-id: f0c32796-8b4f-4409-8fc1-32e53ba2c3c4
 base: "[[Best from all websites.base]]"
 Top holdings:
   - Gold trust
