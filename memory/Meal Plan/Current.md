@@ -41,23 +41,18 @@ Ramen
 - [[Rasam]]
 - capsicum
 ### Dinner
+- [[Channa masala]]
 
 ## Thu 07-16
 ### Lunch
 - [[Rasam]]
 - capsicum
 ### Dinner
+- [[Channa masala]]
 
 ## Fri 07-17
 ### Lunch
 - [[Rasam]]
 - cabbage
 ### Dinner
-
-## Sat 07-18
-### Lunch
-### Dinner
-
-## Sun 07-19
-### Lunch
-### Dinner
+Restaurant
