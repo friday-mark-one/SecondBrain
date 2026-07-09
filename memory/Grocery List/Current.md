@@ -1,0 +1,79 @@
+# Grocery List — 2026-07-08
+
+## Costco
+- [x] Toor dhal
+- [ ] Tomato
+- [x] Ghee
+- [x] Cashews
+- [x] Peanut butter
+- [x] Ginger garlic paste
+- [ ] Water pack
+
+## Fred Meyer
+- [ ] Onion
+- [ ] Carrot
+- [x] Potato
+- [ ] Frozen peas
+- [x] Beans
+- [x] Tomato
+- [x] Sesame oil
+- [x] Ginger
+- [ ] Cilantro
+- [ ] Tofu
+- [x] Corn flour
+- [ ] Bok choy
+- [ ] Shiitake Mushroom
+- [ ] Broccoli
+- [ ] Spring onion
+- [ ] Gochujang
+- [ ] Chilli garlic oil
+- [ ] Veg stock
+- [ ] Soy sauce
+- [ ] Guan miao noodles
+- [ ] Lemon
+- [ ] Tempeh
+- [ ] Seitan
+- [ ] Cabbage
+- [ ] Anaheim peppers
+- [ ] Cucumber
+- [ ] Ghost protein cereal
+- [ ] Avocado oil spray
+
+## Indian Store
+- [ ] Coriander seeds
+- [ ] Channa dal
+- [ ] Urad dal
+- [ ] Cumin seeds
+- [ ] Fenugreek seeds
+- [ ] Sesame seeds
+- [ ] Poppy seeds
+- [ ] Peppercorns
+- [ ] Elaichi full
+- [ ] Cinnamon
+- [ ] Cloves
+- [ ] Dry red chilli
+- [ ] Kopparai
+- [ ] Turmeric
+- [ ] Asafotida
+- [ ] Crystal sona masoori rice
+- [ ] Groundnut oil
+- [ ] Mustard
+- [ ] Blanched peanuts
+- [ ] Tamarind paste
+- [ ] Red chilli powder
+- [ ] Idli batter
+- [ ] Moong dal
+- [ ] Pepper powder
+- [ ] Curry leaves
+- [ ] Brinjal
+- [ ] Black urad dal
+- [ ] Coconut
+- [ ] Green chilli
+- [ ] Jaggery
+- [ ] Garlic
+- [ ] Coconut milk
+- [ ] Sambar powder
+- [ ] Pepper jeera powder
+- [ ] Channa
+- [ ] Bay leaf
+- [ ] Channa masala

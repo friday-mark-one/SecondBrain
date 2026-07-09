@@ -14,10 +14,10 @@ fodmap_friendly: false
 - [[Vegetables]] | cut, of choice
 - [[Salt]] | to taste
 - [[Curry powder]] | as required
-- [[Cabbage]] | 1
+- [[Capsicum]] | 1
 
 ## Directions
 1. Heat groundnut oil in a pan. Add mustard seeds, chana dal, asafoetida, and green or dry chili to temper; let the seeds splutter.
-2. Add the cut cabbage and sauté.
+2. Add the cut capsicum and sauté.
 3. Add some salt and cook till the vegetable is done.
 4. Add any required curry powder, mix well, and remove from heat.

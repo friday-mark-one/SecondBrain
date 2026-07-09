@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/Recipes/Cabbage poriyal.md",
+                "file": "memory/Cookbook.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cabbage poriyal"
+              "title": "Cookbook"
             }
           }
         ]
@@ -236,8 +236,18 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
-    "memory/Recipes/Sambar.md",
     "memory/Recipes/Cabbage poriyal.md",
+    "memory/Recipes/Capsicum poriyal.md",
+    "memory/Recipes/Cabbage poriyal copy.md",
+    "memory/Items/Cabbage copy.md",
+    "memory/Grocery List/Current.md",
+    "memory/Grocery List",
+    "memory/untitled folder",
+    "memory/List",
+    "memory/Grocery",
+    "List",
+    "Grocery",
+    "memory/Recipes/Sambar.md",
     "memory/_templates/List.md",
     "memory/_templates/Item.md",
     "memory/_templates/Checklist.md",
@@ -261,17 +271,7 @@
     "Notion/Work/Amazon/Bye/Bye.md",
     "InvestingAtAmazon.pdf",
     "Notion/Work/Amazon/Bye/Laptop setup.md",
-    "Notion/Work/Amazon/Bye",
     "Notion/Work/Amazon/Time-off policy.md",
-    "Notion/Work/Amazon/Gap analysis SDE3.md",
-    "Notion/Work/Amazon/Work summary.md",
-    "Notion/Work/Amazon/My Projects.md",
-    "Notion/Work/Amazon/Helpful resources.md",
-    "adb-fix.diff",
-    "aae.diff",
-    "Notion/Work/Amazon/Ka11y",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/New database.base",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database",
     "image-1682813995895.jpg6640269332611358638.jpg",
     "image-1654757751304.jpg1796082842096553027.jpg",
     "image-1653463911446.jpg7981968474968070746.jpg",
