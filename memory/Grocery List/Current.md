@@ -2,7 +2,7 @@
 
 ## Costco
 - [x] Toor dhal
-- [ ] Tomato
+- [x] Tomato
 - [x] Ghee
 - [x] Cashews
 - [x] Peanut butter
@@ -10,34 +10,34 @@
 - [ ] Water pack
 
 ## Fred Meyer
-- [ ] Onion
-- [ ] Carrot
+- [x] Onion
+- [x] Carrot
 - [x] Potato
-- [ ] Frozen peas
+- [x] Frozen peas
 - [x] Beans
 - [x] Tomato
 - [x] Sesame oil
 - [x] Ginger
-- [ ] Cilantro
-- [ ] Tofu
+- [x] Cilantro
+- [x] Tofu
 - [x] Corn flour
-- [ ] Bok choy
-- [ ] Shiitake Mushroom
-- [ ] Broccoli
-- [ ] Spring onion
-- [ ] Gochujang
-- [ ] Chilli garlic oil
-- [ ] Veg stock
-- [ ] Soy sauce
+- [x] Bok choy
+- [x] Shiitake Mushroom
+- [x] Broccoli
+- [x] Spring onion
+- [x] Gochujang
+- [x] Chilli garlic oil
+- [x] Veg stock
+- [x] Soy sauce
 - [ ] Guan miao noodles
-- [ ] Lemon
-- [ ] Tempeh
-- [ ] Seitan
-- [ ] Cabbage
-- [ ] Anaheim peppers
-- [ ] Cucumber
-- [ ] Ghost protein cereal
-- [ ] Avocado oil spray
+- [x] Lemon
+- [x] Tempeh
+- [x] Seitan
+- [x] Cabbage
+- [x] Anaheim peppers
+- [x] Cucumber
+- [x] Ghost protein cereal
+- [x] Avocado oil spray
 
 ## Indian Store
 - [ ] Coriander seeds
