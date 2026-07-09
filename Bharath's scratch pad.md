@@ -51,3 +51,4 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] buy list one off item don't need quantity by default
 - [ ] Move notion notes
 	- [ ] Restaurant journal
+- [ ] Trading agent 
