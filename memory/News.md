@@ -1,5 +1,67 @@
 # News
 
+## 2026-07-09
+
+## AI Models & Launches
+
+- [GPT-LIVE](https://links.tldrnewsletter.com/fTsYWo) — OpenAI introduced a full-duplex voice model for ChatGPT that can listen and speak simultaneously, handle natural conversational cues, delegate complex tasks to GPT-5.5, and maintain conversation flow for at least an hour. (TLDR, TLDR Dev, TLDR AI)
+
+- [SpaceXAI Releases Grok 4.5](https://links.tldrnewsletter.com/TvQ3yK) — Described as an "Opus-class model" with 2× token efficiency over leading models. Trained alongside Cursor. Priced at $2/M input tokens, $6/M output tokens. Excels at coding, agentic tasks, and knowledge work. (TLDR, TLDR Dev, TLDR AI)
+
+- [SWE-1.7: Frontier Intelligence at a Fraction of the Cost](https://links.tldrnewsletter.com) — Cognition's new model reaches frontier-level intelligence at much lower cost via improvements across RL pipeline, infrastructure, training stability, and data quality. Available in Devin on web, desktop, and CLI. (TLDR AI)
+
+- [ByteDance Debuts Seedream 5.0 Pro](https://links.tldrnewsletter.com) — Multimodal image-creation model with precise edits, multilingual support (10+ languages), and advanced production-design features. Targeted at creators, designers, marketers. (TLDR AI)
+
+- [Meta Launches Muse Image Across Its Apps](https://links.tldrnewsletter.com) — Image-generation model now in Meta AI app, Instagram Stories, and WhatsApp. Supports multi-reference composition, room redesigns, and can draw from public Instagram photos when tagged. Includes invisible watermarking. (TLDR AI)
+
+## Programming & Dev Tools
+
+- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) — After Anthropic's acquisition, Bun has been rewritten from Zig to Rust to address stability issues from manual memory management (use-after-free, double-free bugs). A developer experiment using Anthropic's models to drive the rewrite resulted in a runtime that's faster, smaller, and uses less memory. ~33 min read covers lessons from agentic development. (TLDR, TLDR Dev)
+
+- [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/) — Native port built in Go brings 8–12× speedups on full builds via shared memory multithreading. Tested across large-scale projects. (TLDR, TLDR Dev)
+
+- [Introducing Meerkat: Global Consensus at Cloudflare](https://blog.cloudflare.com/meerkat-introduction/) — Experimental consensus service using the QuePaxa algorithm (instead of Raft) allowing all replicas to write simultaneously while maintaining strong consistency and fault tolerance across Cloudflare's global data centers. (TLDR, TLDR Dev)
+
+- [GitLost: Tricking GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) — Noma Labs found an indirect prompt injection vulnerability in GitHub's Agentic Workflows that let attackers extract data from private repos via public GitHub issues. (TLDR Dev)
+
+- [Entire: A Git Hosting Network for the Vibe Coding Age](https://links.tldrnewsletter.com) — Former GitHub CEO launches a competitor designed for AI agents and their human overseers. (TLDR quick links)
+
+## AI Safety & Research
+
+- [An Off Switch for Dual Use Knowledge in AI Models](https://www.anthropic.com/research/off-switch-dual-use) — Anthropic's GRAM (Gradient-Routed Auxiliary Modules) gives models dedicated, removable compartments for different categories of dual-use knowledge, allowing parts of the model's knowledge to be deleted after training. Promising results in isolating and controlling dual-use capabilities. (TLDR Dev, TLDR AI)
+
+- [Auditing the Reliability of Coding Benchmarks](https://links.tldrnewsletter.com/IARtyA) — Anthropic audit found ~30% of SWE-Bench Pro tasks are broken due to overly strict tests, underspecified prompts, and misleading instructions. Recommendation to adopt SWE-Bench Pro has been retracted. OpenAI confirmed similar findings. (TLDR Dev, TLDR AI)
+
+- [A Taxonomy of Self-Evolving Agents](https://links.tldrnewsletter.com) — Shilong Liu proposes classifying self-evolving agents into three categories: artifact optimization, harness self-improvement, and model learning — providing a common language for emerging agent research. (TLDR AI)
+
+- [Data for Agents](https://links.tldrnewsletter.com) — NVIDIA on the importance of open and synthetic data for developing robust AI agents, highlighting Nemotron datasets for enhancing reasoning and tool use. (TLDR AI)
+
+## Hardware & Space
+
+- [Blue Origin Valued at $130B in First Outside Fundraising Round](https://links.tldrnewsletter.com) — Jeff Bezos contributing $2B. Company suffered setback when New Glenn rocket exploded in late May; aims to return to flight by year-end. (TLDR)
+
+- [City Labs Achieves First Commercial Nuclear Power in Space](https://links.tldrnewsletter.com) — BOHR satellite launched on SpaceX ride-share, powered by electricity from tritium decay (betavoltaic). First commercial nuclear-powered satellite, though power output is far too small for smartphones or spacecraft. (TLDR)
+
+## AI Industry & Economy
+
+- [SambaNova Hits $11B Valuation](https://links.tldrnewsletter.com) — Raised $1B for its inference chip business. Strongly considering IPO in 2027. (TLDR AI)
+
+- [OpenAI Buys Northslope](https://links.tldrnewsletter.com) — Acquisition of applied-AI firm adds hundreds of forward-deployed engineers to OpenAI's ranks. (TLDR AI)
+
+- ['Hysteria' Grips SF Housing Market as AI Wealth Pours In](https://links.tldrnewsletter.com) — Homeowners accepting offers for OpenAI/Anthropic shares as payment. Properties closing at $1M+ over asking. Landlords evicting tenants to sell into the hot market. (TLDR)
+
+- [Meta Prototypes Always-On Recording Smart Glasses](https://links.tldrnewsletter.com) — No LED indicator when recording. Internal debate about whether data should train AI. Battery and other challenges remain. (TLDR)
+
+- [Data at the Edge](https://links.tldrnewsletter.com) — AI unlocking physical-world datasets via cheaper sensors, robotics, and multimodal models. New data flywheels around infrastructure, healthcare, and industrial automation. (TLDR AI)
+
+## Opinion & Perspective
+
+- [Own the Outer Loop](https://links.tldrnewsletter.com) — Engineers must be accountable for AI agent outputs — the scarce resource is human judgment informed by quality signals. Humans still required in the constraints, sampling, audit, and ownership loops. (TLDR)
+
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) — Frequent LLM use for coding leads to burnout from repetitive, flawed outputs with false assumptions and stylistic quirks. Despite productivity gains, the monotony is tiresome. (TLDR Dev)
+
+- [Experiences with Local Models for Coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html) — Local models handle straightforward coding tasks effectively but performance varies significantly with task complexity and hardware. (TLDR Dev)
+
 ## 2026-07-08
 
 ## AI Models & Releases
