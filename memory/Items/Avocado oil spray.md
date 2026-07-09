@@ -1,5 +1,5 @@
 ---
 type: item
-store: Costco
+store: Fred Meyer
 category:
 ---

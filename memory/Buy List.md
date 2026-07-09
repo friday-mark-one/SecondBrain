@@ -12,6 +12,7 @@ unbought ones stay for next time.
 - [[Anaheim peppers]] | 1
 - [[Cucumber]] | 1
 - [[Ghost protein cereal]] | 1
+- [[Avocado oil spray]] | 1
 
 ## Regulars
 - [ ] [[Milk]]

@@ -11,13 +11,54 @@
             "id": "ed5d5d5b3daac424",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Notion/Personal Home/Interview prep/2024/Companies/Status/Status.base",
-                "viewName": "Table View"
+                "file": "memory/Recipes/Cabbage poriyal.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Status"
+              "icon": "lucide-file",
+              "title": "Cabbage poriyal"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6216f1893e0e05e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe06e00c38d0499f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memory/Recipes/Sambar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sambar"
             }
           }
         ]
@@ -195,6 +236,17 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "memory/Recipes/Sambar.md",
+    "memory/Recipes/Cabbage poriyal.md",
+    "memory/_templates/List.md",
+    "memory/_templates/Item.md",
+    "memory/_templates/Checklist.md",
+    "memory/Recipes/Ramen.md",
+    "memory/Items/Coconut oil.md",
+    "Notion/Personal Home/Interview prep/2024/Companies/Status/Status.base",
+    "memory/Items/Broccoli.md",
+    "memory/Items/Coconut milk.md",
+    "memory/Items/Avocado oil spray.md",
     "memory/Deal triage instructions.md",
     "memory/Deals.md",
     "agent-protocol/AGENTS.md",
@@ -215,22 +267,11 @@
     "Notion/Work/Amazon/Work summary.md",
     "Notion/Work/Amazon/My Projects.md",
     "Notion/Work/Amazon/Helpful resources.md",
-    "Notion/Work/Amazon/Han  Bharath.md",
-    "Notion/Work/Amazon/Oncall.md",
-    "Notion/Work/Amazon/Generic doubts.md",
-    "Notion/Work/Amazon/Rendering doubts.md",
-    "Notion/Work/Amazon/OPW.md",
-    "Notion/Work/Amazon/Ka11y/Ka11y.md",
-    "Notion/Work/Amazon/Ka11y/A11y automation.md",
     "adb-fix.diff",
     "aae.diff",
     "Notion/Work/Amazon/Ka11y",
-    "Notion/Work/Amazon/Neo/Neo.md",
-    "Notion/Work/Amazon/Neo/KUX migration/KUX migration.md",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/Selection-Highlight reflowable.md",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/New database.base",
     "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database",
-    "Notion/Work/Amazon/Neo/KUX migration/Selection-Highlight reflowable",
     "image-1682813995895.jpg6640269332611358638.jpg",
     "image-1654757751304.jpg1796082842096553027.jpg",
     "image-1653463911446.jpg7981968474968070746.jpg",

@@ -28,13 +28,14 @@ Priya
 ### Lunch
 - [[Vangi Bath]]
 ### Dinner
-Ramen
+- [[Ramen]]
 
 ## Tue 07-14
 ### Lunch
 - [[Vangi Bath]]
 ### Dinner
-Ramen
+- [[Ramen]]
+
 
 ## Wed 07-15
 ### Lunch
