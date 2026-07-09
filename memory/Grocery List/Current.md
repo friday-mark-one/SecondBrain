@@ -7,7 +7,7 @@
 - [x] Cashews
 - [x] Peanut butter
 - [x] Ginger garlic paste
-- [ ] Water pack
+- [x] Water pack
 
 ## Fred Meyer
 - [x] Onion
@@ -29,7 +29,7 @@
 - [x] Chilli garlic oil
 - [x] Veg stock
 - [x] Soy sauce
-- [ ] Guan miao noodles
+- [x] Guan miao noodles
 - [x] Lemon
 - [x] Tempeh
 - [x] Seitan
@@ -40,40 +40,40 @@
 - [x] Avocado oil spray
 
 ## Indian Store
-- [ ] Coriander seeds
-- [ ] Channa dal
-- [ ] Urad dal
-- [ ] Cumin seeds
-- [ ] Fenugreek seeds
-- [ ] Sesame seeds
-- [ ] Poppy seeds
-- [ ] Peppercorns
-- [ ] Elaichi full
-- [ ] Cinnamon
-- [ ] Cloves
-- [ ] Dry red chilli
-- [ ] Kopparai
-- [ ] Turmeric
-- [ ] Asafotida
-- [ ] Crystal sona masoori rice
-- [ ] Groundnut oil
-- [ ] Mustard
-- [ ] Blanched peanuts
+- [x] Coriander seeds
+- [x] Channa dal
+- [x] Urad dal
+- [x] Cumin seeds
+- [x] Fenugreek seeds
+- [x] Sesame seeds
+- [x] Poppy seeds
+- [x] Peppercorns
+- [x] Elaichi full
+- [x] Cinnamon
+- [x] Cloves
+- [x] Dry red chilli
+- [x] Kopparai
+- [x] Turmeric
+- [x] Asafotida
+- [x] Crystal sona masoori rice
+- [x] Groundnut oil
+- [x] Mustard
+- [x] Blanched peanuts
 - [ ] Tamarind paste
-- [ ] Red chilli powder
+- [x] Red chilli powder
 - [ ] Idli batter
-- [ ] Moong dal
-- [ ] Pepper powder
-- [ ] Curry leaves
-- [ ] Brinjal
-- [ ] Black urad dal
-- [ ] Coconut
-- [ ] Green chilli
-- [ ] Jaggery
-- [ ] Garlic
-- [ ] Coconut milk
-- [ ] Sambar powder
-- [ ] Pepper jeera powder
-- [ ] Channa
-- [ ] Bay leaf
-- [ ] Channa masala
+- [x] Moong dal
+- [x] Pepper powder
+- [x] Curry leaves
+- [x] Brinjal
+- [x] Black urad dal
+- [x] Coconut
+- [x] Green chilli
+- [x] Jaggery
+- [x] Garlic
+- [x] Coconut milk
+- [x] Sambar powder
+- [x] Pepper jeera powder
+- [x] Channa
+- [x] Bay leaf
+- [x] Channa masala
