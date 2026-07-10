@@ -61,3 +61,23 @@
 - Michaels Rewards - exclusive weekly offers - Rewards members earn 3-9% back - no date
 - NOMATIC - Up to 40% off - ends midnight 7/5 - bags, luggage, travel gear
 - Macy's - 60-70% off men's designer blazers (Michael Kors) - July 4th sale - no date
+
+## 2026-07-10
+- Kohl's — Save an extra 30% + earn Kohl's Cash — expires no date — no code
+- Kohl's — Save 30% + Score Kohl's Cash — expires no date — no code
+- H&M — 25% off flash sale — expires no date — no code
+- Going Flight Deals — 🇨🇭 Switzerland — $493 (Oct-Dec) — expires no date — no code — $493
+- Going Flight Deals — 🐐 Morocco — $790 (Mar) — expires no date — no code — $790
+- Going — *mistake fare* Valencia, Spain Business Class — $1,525 (Jan-Apr) — expires no date — no code — $1,525
+- PointsYeah — 33% off Premium, code PYTHREE — expires Jul 12 — code PYTHREE
+- Bath & Body Works — buy 1, get 1 free — expires no date — no code 🔔 [[Gift ideas]] — self care/gifts
+- evo — up to 50% off past season ski & snowboard gear — expires no date — no code 🔔 [[Snowboard research & buy]] — snow gear
+- evo — 4th of July Sale Ends Today — expires Jul 10 (today) — no code 🔔 [[Snowboard research & buy]] — snow gear
+- ID.me Shop — Mid-Summer Student discounts: Vrbo, Oura Ring, Tommy Hilfiger, Merrell — expires no date — no code
+- Fabletics — Platinum Collection Access unlocked — expires no date — no code
+- Fabletics — Malbon, Round Two golf collection — expires no date — no code
+- Kohl's — Save 30% Exclusive Cardholder Event — expires no date — no code
+- Kohl's — HOURS LEFT for 30% off every brand — expires Jul 10 — no code
+- Bath & Body Works — ending soon: fall picks at a price — expires no date — no code 🔔 [[Gift ideas]] — self care/gifts
+- Going Flight Deals — 🌍 Europe — $386 to $593 (Sep-May) — expires no date — no code — $386+$593
+- point.me — 7K pts to London / 11K to the Maldives — expires no date — no code
