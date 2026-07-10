@@ -1,5 +1,40 @@
 # News
 
+## 2026-07-10
+
+**AI Models & Launches**
+- [GPT-5.6: OpenAI Launches Sol, Terra, and Luna](https://www.testingcatalog.com/openai-launches-gpt-5-6-sol-terra-and-luna-on-apps-and-api/) — OpenAI released its new frontier model family across ChatGPT Work, Codex, and the API. The three tiers are: Sol (flagship, first to win ARC-AGI-3), Terra (everyday work), and Luna (fastest/cheapest). Features include higher intelligence per token, lower costs, and a new "ultra" setting for multi-agent parallel processing. Sol outperforms competitors like Claude Fable 5 across coding, cybersecurity, and science. (TLDR main, TLDR Dev, TLDR AI)
+- [Muse Spark 1.1 — Meta's Pay-to-Use AI](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/) — Meta launched Muse Spark 1.1 with improved tool use, coding, computer interaction, and multimodal reasoning. A new paid tier for developers is priced roughly 25% of competing models. Mark Zuckerberg described it as having state-of-the-art agentic reasoning. A public preview of the Meta Model API opened. (TLDR main, TLDR Dev, TLDR AI)
+- [ChatGPT Work Launches](https://links.tldrnewsletter.com/8sPsm3) — A new GPT-5.6-powered workspace that gathers context from team tools and acts across files and desktop applications. Designed to turn fragmented project materials into finished documents, spreadsheets, and presentations. (TLDR Dev, TLDR AI)
+- [OpenAI Shuts Down Atlas Browser](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/) — OpenAI retired its standalone Atlas browser, shifting agentic browsing features into ChatGPT's desktop app and a Chrome extension as part of reducing side projects. (TLDR AI)
+- [Fable 5 vs Opus 4.8: Outcomes-Based Assessments Are a Warning for Frontier AI Labs](https://vinvashishta.substack.com/p/fable-5-vs-opus-48-outcomes-based) — Advanced AI models score zero on real-world business outcomes like improving website conversion rates despite strong artifact metrics. Companies like Eli Lilly are choosing smaller, purpose-built models over frontier AI. (TLDR Dev)
+
+**AI Infrastructure & Economics**
+- [Ways to Think About Token Pricing](https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing) — A supply crunch in the AI market is affecting token pricing. Future demand remains uncertain; frontier models may either maintain sustainable pricing or devolve into low-margin commodity infrastructure. The balance of supply, demand, and pricing dynamics is expected to shift over coming years. (TLDR main, TLDR Dev)
+- [What's Really Slowing Down the AI Buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid) — The Stargate project in Texas faces challenges from the electric grid's outdated interconnection process. Despite abundant generation potential, a first-come, first-served queuing system causes delays and raises costs. (TLDR Dev)
+- [Meta's New AI Chips Begin Production in September](https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/) — Netta and Broadcom are designing the chip, with TSMC to manufacture. (TLDR AI)
+- [Mercor in Talks for $20B Valuation](https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/) — AI training startup Mercor seeks to double its valuation from $10B to $20B. (TLDR AI)
+
+**Engineering & Development**
+- [Interesting AI Coding Stats from Cursor](https://newsletter.pragmaticengineer.com/p/the-pulse-interesting-ai-coding-stats) — Top 1% power users generate up to 40,000 lines of code per week vs. the median user's 700 lines. Input tokens make up ~90% of AI token usage during coding, suggesting developers spend more time reading code than writing it. (TLDR Dev)
+- [Stop Being the Code Review Bottleneck](https://newsletter.posthog.com/p/code-review-tips) — Agents write code faster than humans can review. PostHog shares power workflow changes for reviewing AI-generated code fast without losing quality by putting humans outside the review loop. (TLDR main)
+- [How GitHub Gave Every Repository a Durable Owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/) — GitHub had 14,000+ repos across its internal org; less than half had clear ownership. In under 45 days, they gave every active repo a validated owner and archived the rest. (TLDR main)
+- [Serving Sub-Second Ideogram V4 Without Quality Loss](https://blog.fal.ai/serving-sub-second-ideogram-v4-without-quality-loss/) — Image generation reduced from 2.75s to 0.44s using FP4 computation, epilogue fusion, and quantization-aware distillation to maintain quality. (TLDR Dev)
+- [What 900,000 Lines of AI-Built Code Taught Me](https://leadershiplighthouse.substack.com/p/what-900000-lines-of-ai-built-code) — The biggest lesson was the importance of reassessing AI tool effectiveness and maintaining human oversight in architectural decisions. (TLDR Dev)
+
+**AI Safety, Ethics & Policy**
+- [Brown University AI Cheating Scandal](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/) — A professor suspecting AI cheating switched to an in-person final. 18 students dropped the course, 9 more skipped the exam. Of those 27, 22 had scored perfectly on the midterm. Average scores plunged from 96 to 48. (TLDR main)
+- [OpenAI May Have Made a Fatal Misstep in Copyright Fight](https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/) — A privacy engineer revealed OpenAI misled the court for two years about its ability to search ChatGPT logs, having already conducted such searches before litigation began. (TLDR AI)
+- [Anthropic Appoints Ben Bernanke to Independent Trust](https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html) — Former Fed Chair joins Anthropic's Long-Term Benefit Trust to help navigate AI's economic impacts. (TLDR AI)
+
+**Science & Future Tech**
+- [Humanoid Robots Perform World-First Surgery on Live Pigs](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/) — Surgeons teleoperated Unitree G1 humanoid robots ($13,500) to remove gallbladders from living pigs. The approach takes less space than traditional operating rooms and could eventually help smaller hospitals lacking resources for expensive surgical robots. (TLDR main)
+- [Apple Exploring Running Larger AI Models on iPhones](https://www.macrumors.com/2026/07/09/apple-prismml-larger-on-device-ai-models/) — Apple met with PrismML about using their tech to shrink a 27B-parameter model to run entirely on an iPhone Pro, enabling more on-device Apple Intelligence features and improved privacy. (TLDR main)
+
+**Industry News**
+- [OpenAI's No. 2 Executive Fidji Simo to Step Down](https://links.tldrnewsletter.com/T3eOve) — She will become a part-time adviser after an extended medical leave for a worsening neuroimmune condition. Her responsibilities will be divided among Greg Brockman, Sarah Friar, and Jason Kwon. (TLDR AI)
+- [Netflix Exploring Live TV and Bundles](https://links.tldrnewsletter.com/4p0Zq2) — Subscriber engagement is declining; shares are down 40%+ over the past 12 months. Executives are discussing adding live channels and more sports events. (TLDR main)
+
 ## 2026-07-09
 
 ## AI Models & Launches
