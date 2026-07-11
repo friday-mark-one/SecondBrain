@@ -1,0 +1,18 @@
+{
+  "todo": "01-Tasks/Todo.md",
+  "inbox": "01-Tasks/Inbox.md",
+  "captureStaging": { "list": "01-Tasks/Lists", "checklist": "01-Tasks/Checklists", "reference": "01-Tasks/Reference" },
+  "logs": "80-LifeOS/logs",
+  "recipes": "08-Food/Recipes",
+  "mealPlan": "08-Food/Meal Plan",
+  "items": "08-Food/Items",
+  "buyList": "08-Food/Buy List.md",
+  "expiringSoon": "08-Food/Expiring Soon.md",
+  "deals": "09-Shopping/Deals.md",
+  "shoppingResearch": "09-Shopping/Shopping research.md",
+  "returns": "09-Shopping/Things to return.md",
+  "shoppingTracker": "09-Shopping/Shopping Tracker.md",
+  "news": "02-Personal/Media/News.md",
+  "scanExclude": ["00-Dashboard", "80-LifeOS", "90-Archive", "99-Meta"],
+  "scanSkipDirs": ["_scripts", "_templates", "logs", "Archive", "Items", "Recipes", "Meal Plan"]
+}
