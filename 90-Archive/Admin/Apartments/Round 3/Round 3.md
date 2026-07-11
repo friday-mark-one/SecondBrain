@@ -10,10 +10,10 @@
     - Appointment Sunday 11:30 am
 - ~~Heights at Meydenbauer~~
 
-![[Apartments.base]]
+![[90-Archive/Admin/Apartments/Round 3/Apartments/Apartments]]
 
 
-![[Apartments.base]]
+![[90-Archive/Admin/Apartments/Round 3/Apartments/Apartments]]
 
 vaccine card
 

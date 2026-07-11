@@ -1,4 +1,4 @@
 ---
 
 ---
-![[07-Projects/Fintwit-bot/New database/New database.base]]
+![[07-Projects/Fintwit-bot/New database/New database]]

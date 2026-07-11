@@ -1,7 +1,7 @@
 ---
 
 ---
-![[03-Career/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/New database.base]]
+![[03-Career/Amazon/Neo/KUX migration/Selection-Highlight reflowable/New database/New database]]
 
 Questions to PM & UX
 

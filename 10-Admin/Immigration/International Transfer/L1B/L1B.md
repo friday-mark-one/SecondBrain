@@ -33,7 +33,7 @@
 
 [[Reimbursement]]
 
-![[New laptop setup.base]]
+![[10-Admin/Immigration/International Transfer/L1B/New laptop setup/New laptop setup]]
 
 [[Parents Health Insurance]]
 
@@ -70,7 +70,7 @@ Offer letter - [https://tt.amazon.com/E329659881](https://tt.amazon.com/E3296598
 
 Documents backup - [https://drive.google.com/drive/folders/1hUScqVjL33WQ-rwfOwRiRyJPLgAoIVG2](https://drive.google.com/drive/folders/1hUScqVjL33WQ-rwfOwRiRyJPLgAoIVG2)
 
-![[Timeline of events.base]]
+![[10-Admin/Immigration/International Transfer/L1B/Timeline of events/Timeline of events]]
 
 ### Offer letter
 

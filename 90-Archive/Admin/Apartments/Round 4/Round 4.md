@@ -23,10 +23,10 @@ Frequent places
 
 
 
-![[Apartments - Totem Lake.base]]
+![[90-Archive/Admin/Apartments/Round 4/Apartments - Totem Lake/Apartments - Totem Lake]]
 
 
-![[Apartments - Bothell.base]]
+![[90-Archive/Admin/Apartments/Round 4/Apartments - Bothell/Apartments - Bothell]]
 
 
 17. Upfront costs (application fees, security deposit)

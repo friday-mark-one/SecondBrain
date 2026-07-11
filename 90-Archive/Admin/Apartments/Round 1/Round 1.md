@@ -3,10 +3,10 @@
 ---
 
 
-![[Bellevue Apartments (near Amazon Everest) (1).base]]
+![[90-Archive/Admin/Apartments/Round 1/Bellevue Apartments (near Amazon Everest) (1)/Bellevue Apartments (near Amazon Everest) (1)]]
 
 
-![[Seattle Apartments (1).base]]
+![[90-Archive/Admin/Apartments/Round 1/Seattle Apartments (1)/Seattle Apartments (1)]]
 
 ### Filters
 

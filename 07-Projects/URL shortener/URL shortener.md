@@ -32,7 +32,7 @@
 
 # Capacity estimation
 
-![[Summary.base]]
+![[07-Projects/URL shortener/Summary/Summary]]
 
 > [!note]+ **Detailed estimation**
 > ### Traffic estimates
@@ -108,7 +108,7 @@
 > [!note]+ Security & Privacy
 
 
-![[Tasks.base]]
+![[07-Projects/URL shortener/Tasks/Tasks]]
 
 # Repository
 

@@ -1,5 +1,5 @@
 ---
-base: "[[Tasks.base]]"
+base: "[[07-Projects/URL shortener/Tasks/Tasks]]"
 Assign: []
 Property: ""
 Status: Partial

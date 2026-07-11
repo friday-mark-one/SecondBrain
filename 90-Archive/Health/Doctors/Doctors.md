@@ -1,7 +1,7 @@
 ---
 
 ---
-![[Top doctors.base]]
+![[05-Health/Top doctors/Top doctors]]
 
 ### Things to ask
 
@@ -10,7 +10,7 @@
 - Accepting new patients?
 - Next available appointment for annual physical
 
-![[New database.base]]
+![[90-Archive/Health/Doctors/Doctors (table)]]
 
 15 min check-in
 

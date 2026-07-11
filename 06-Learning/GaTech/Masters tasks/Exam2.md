@@ -1,5 +1,5 @@
 ---
-base: "[[Masters tasks.base]]"
+base: "[[06-Learning/GaTech/Masters tasks/Masters tasks]]"
 Status: ML4T - Fall '24
 Assign: []
 ---

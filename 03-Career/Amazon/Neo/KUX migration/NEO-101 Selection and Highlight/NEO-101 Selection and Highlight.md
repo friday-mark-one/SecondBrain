@@ -51,7 +51,7 @@ Background info from **Stanton**:
 
 
 
-![[Selection Tasks.base]]
+![[03-Career/Amazon/Neo/KUX migration/NEO-101 Selection and Highlight/Selection Tasks/Selection Tasks]]
 
 ### Rough workflow
 

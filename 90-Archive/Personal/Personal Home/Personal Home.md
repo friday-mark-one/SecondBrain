@@ -21,7 +21,7 @@ Organize everything in your life in one place.
 
 [[QOL improvement]]
 
-![[Home inventory.base]]
+![[90-Archive/Admin/Home inventory/Home inventory]]
 
 [[Home menu]]
 
@@ -39,7 +39,7 @@ Organize everything in your life in one place.
 
 [[International Transfer]]
 
-![[Bills.base]]
+![[90-Archive/Finance/Bills/Bills]]
 
 [[Referrals]]
 

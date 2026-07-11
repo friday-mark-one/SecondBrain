@@ -10,6 +10,6 @@
 
 [[Gatech - things to remember]]
 
-![[Masters tasks.base]]
+![[06-Learning/GaTech/Masters tasks/Masters tasks]]
 
 [[Intro]]

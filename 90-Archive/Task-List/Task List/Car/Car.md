@@ -1,5 +1,5 @@
 ---
-base: "[[Task List.base]]"
+base: "[[90-Archive/Task-List/Task List/Task List]]"
 Date Created: 2022-05-11T17:09:00
 Status: Archive
 Property: ""
@@ -40,7 +40,7 @@ Property: ""
 - Seat and mirror memory
 - Adaptive suspension
 
-![[90-Archive/Task-List/Task List/Car/Car.base]]
+![[90-Archive/Task-List/Task List/Car/Car (table)]]
 
 SUV coupe
 

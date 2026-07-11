@@ -1,4 +1,4 @@
 ---
 
 ---
-![[90-Archive/Personal/Outfits/Outfits.base]]
+![[90-Archive/Personal/Outfits/Outfits (table)]]

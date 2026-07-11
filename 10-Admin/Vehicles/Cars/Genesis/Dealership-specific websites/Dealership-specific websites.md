@@ -1,0 +1,33 @@
+# Dealership-specific websites
+
+> Consolidated from 27 Notion database rows (was `Dealership-specific websites.base`). 27 data-only rows + 0 with short notes folded into this table.
+
+| Name | Trim | Year | Location / Dealer | Status | Accident | Number | Mileage | Package | Int. Color | Owner | Ext. Color | Price | Usage Type |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| https--genesiscfl.com-inventory-Used-2026-Genesis-GV70-2_5T_Advanced-5NMMBDTB0TH039515 | 2.5T | 2026 | Central Florida | Didn’t start email yet | No | 28 | 4314 | Advanced | Gray/Brown | 1 | Black | 50.3 | Personal |
+| https--www.genesisofbraintree.com-inventory-certified-used-2023-genesis-gv70-2-5t-awd-sport-utility-kmumadtb3pu130146- | 2.5T | 2023 | Braintree | Didn’t start email yet | No | 26 | 24210 | Advanced | Black | 1 | Green | 39 | Personal |
+| https--www.genesisofbraintree.com-inventory-certified-used-2024-genesis-gv70-2-5t-awd-sport-utility-5nmmadtb9rh010719- | 2.5T | 2024 | Braintree | Didn’t start email yet | No | 27 | 27729 | Advanced | Burgundy | 1 | Gray | 41 | Personal |
+| https--www.genesisofcerritos.com-inventory-certified-used-2023-genesis-gv70-2-5t-awd-sport-utility-kmumadtb9pu098738- | 2.5T | 2023 | Cerritos | Available with price | No | 4 | 30279 | Advanced | Burgundy | 1 | Burgundy | 33.65 | Personal |
+| https--www.genesisofcharlotte.com-inventory-certified-used-2026-genesis-gv70-2-5t-advanced-awd-4d-sport-utility-5nmmbdtb2th041024- | 2.5T | 2026 | Charlotte |  | No | 20 | 6105 | Advanced | Gray/Brown | 1 | Black | 50.5 | Personal |
+| https--www.genesisofharlingen.com-inventory-certified-used-2023-genesis-gv70-2-5t-awd-4d-sport-utility-kmumadtb6pu108934- | 2.5T | 2023 | Harlinger TX |  | No | 13 | 23833 | Advanced | Burgundy | 1 | White | 38 | Personal |
+| https--www.genesisoflasvegas.net-certified-Genesis-2026-Genesis-GV70-9a2a6be4ac18195b87a9a958240c4501.htm | 2.5T | 2026 | Vegas | Email-replied; | No | 1 | 7210 | Advanced | Beige | 1 | Blue | 48 | Personal |
+| https--www.genesisoflasvegas.net-certified-Genesis-2026-Genesis-GV70-9f51a561ac184af1ce1dbe55121f0243.htm | 2.5T | 2026 | Vegas | Email-replied; | No | 2 | 4248 | Advanced | Gray | 1 | Black | 51 | Personal |
+| https--www.genesisoflasvegas.net-certified-Genesis-2026-Genesis-GV70-d7f6473fac18208288e6794c52fdc9eb.htm | 2.5T | 2026 | Vegas | Email-replied; | No | 3 | 3773 | Advanced | Gray | 1 | Black | 52 | Personal |
+| https--www.genesisoflexington.com-inventory-certified-used-2023-genesis-gv70-2-5t-awd-4d-sport-utility-kmumadtb7pu123555- | 2.5T | 2023 | Lexington |  | No | 19 | 22029 | Prestige | Blue | 1 | Black | 35 | Personal |
+| https--www.genesisofmilfordct.com-certified-Genesis-2023-Genesis-GV70-20ebb6abac183d2e080a2562167a51cf.htm | 2.5T | 2023 | Milford | Generic email reply | No | 24 | 13109 | Advanced | Black | 1 | Gray | 37.6 | Personal |
+| https--www.genesisofmilfordct.com-certified-Genesis-2024-Genesis-GV70-e4f9b350ac18169254c6a37294beb46e.htm | 2.5T | 2024 | Milford | Generic email reply | No | 25 | 24350 | Advanced | Black | 1 | Blue | 38.5 | Personal |
+| https--www.genesisofnorthaurora.com-auto-preowned-2023-genesis-gv70-25t-north-aurora-il-113529098- | 2.5T | 2023 | North Aurora | Available with price |  | 18 | 17934 | Advanced | Green |  | Gray | 37.8 |  |
+| https--www.genesisofontario.com-used-Ontario-2024-Genesis-GV70-25T+Advanced-5NMMADTB4RH015875 | 2.5T | 2024 | Ontario | Available; spoke over phone; waiting for price email | No | 8 | 19373 | Advanced | Beige | 1 | Blue | 39 | Personal |
+| https--www.genesisofontario.com-used-Ontario-2025-Genesis-GV70-25T+Sport+Prestige-KMUMADTB0SU174033 | 2.5T | 2025 | Ontario | Available; spoke over phone; waiting for price email | No | 6 | 5707 | Prestige | Black | 1 | Black | 45.2 | Corporate fleet |
+| https--www.genesisofontario.com-used-Ontario-2025-Genesis-GV70-25T+Sport+Prestige-KMUMADTB9SU174015 | 2.5T | 2025 | Ontario | Available; spoke over phone; waiting for price email | No | 5 | 10238 | Prestige | Black | 1 | Black | 44.7 | Corporate fleet |
+| https--www.genesisofontario.com-used-Ontario-2025-Genesis-GV70-25T+Sport+Prestige+AWD-KMUMADTB6SU179771 | 2.5T | 2025 | Ontario | Available; spoke over phone; waiting for price email | No | 7 | 5936 | Prestige | Black | 1 | Black | 45.3 | Corporate fleet |
+| https--www.genesisofsouthbay.com-inventory-Used-2023-Genesis-GV70-2_5T_AWD-KMUMADTBXPU101534 | 2.5T | 2023 | South Bay | Email-replied; title takes 60 days | No | 11 | 20506 | Prestige | Black | 1 | Gray | 37 | Personal |
+| https--www.genesisofsouthwesthouston.com-inventory-certified-used-2026-genesis-gv70-2-5t-advanced-awd-sport-utility-5nmmbdtb4th043356- | 2.5T | 2026 | SW Houston | Bot replied | No | 14 | 5928 | Advanced | Brown | 1 | Silver | 52 | Personal |
+| https--www.genesisofspring.com-certified-Genesis-2026-Genesis-GV70-f18e065bac18472d539c0d0aa3549ef0.htm | 2.5T | 2026 | Spring TX | auto-reply only | No | 15 | 1324 | Advanced | Gray/Brown | 1 | Black | 52 | Personal |
+| https--www.genesisofthenorthshore.com-certified-Genesis-2026-Genesis-GV70-39f16ff2ac182e0a92ab8650e17a05f4.htm | 2.5T | 2026 | North Shore | Email-replied; | No | 23 | 3511 | Advanced | White/Brown | 1 | Silver | 50.8 | Commercial |
+| https--www.genesisofthenorthshore.com-certified-Genesis-2026-Genesis-GV70-8c6a30a0ac1838769195337fc2c9dfa4.htm | 2.5T | 2026 | North Shore | Email-replied; | No | 22 | 2735 | Advanced | Gray/Brown | 1 | Black | 49 | Commercial |
+| https--www.genesisofthenorthshore.com-certified-Genesis-2026-Genesis-GV70-8c6a3b6aac18082e9316a3d9a77fa295.htm | 2.5T | 2026 | North Shore | Email-replied; | No | 21 | 3129 | Advanced | Gray/Brown | 1 | Black | 49 | Commercial |
+| https--www.genesisofweatherford.com-certified-Genesis-2025-Genesis-GV70-22849c08ac181b65626e6c03c53f62af.htm | 3.5T | 2025 | Weatherford TX | Hail damage; Email-replied; |  | 16 | 2661 | Advanced | Black |  | Black | 49 |  |
+| https--www.genesisofweatherford.com-certified-Genesis-2025-Genesis-GV70-a47ed263ac18070168f282e45211e800.htm | 2.5T | 2025 | Weatherford TX | Hail damage; Email-replied; |  | 17 | 5636 | Advanced | Black |  | Black | 36 |  |
+| https--www.genesissantamonica.com-certified-Genesis-2023-Genesis-GV70-08038c49ac1812cce07b82b3017f446c.htm | 2.5T | 2023 | Santa Monica |  | No | 9 | 26490 | Advanced | Black | 1 | Silver | 36.3 | Personal |
+| https--www.genesissantamonica.com-certified-Genesis-2023-Genesis-GV70-0c50d348ac1812cce07b82b3d189c261.htm | 2.5T | 2023 | Santa Monica |  | No | 10 | 23277 | Advanced | Beige | 1 | Burgundy | 36.7 | Personal |

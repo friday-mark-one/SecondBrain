@@ -15,7 +15,7 @@ Tradaitional -
 - Nalangu - 167
 
 
-![[90-Archive/Personal/B ❤️ M/Wedding Album/Photo count/Photo count.base]]
+![[90-Archive/Personal/B ❤️ M/Wedding Album/Photo count/Photo count (table)]]
 
 This link contains all shortlisted photos we finalized.
 [https://drive.google.com/drive/folders/1PK4gkrzbHtIbuRpvHcjMaJA-jbAlkOex?usp=sharing](https://drive.google.com/drive/folders/1PK4gkrzbHtIbuRpvHcjMaJA-jbAlkOex?usp=sharing)

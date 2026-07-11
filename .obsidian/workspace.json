@@ -16,30 +16,6 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "2dc22fb9e2cc10e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Dashboard/Scratch pad.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scratch pad"
-            }
           }
         ]
       }
@@ -216,9 +192,6 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
-    "10-Admin/Immigration/International Transfer/L1B/New laptop setup/SQLWorkbenchJ.md",
-    "00-Dashboard/Scratch pad.md",
-    "90-Archive/Personal/B ❤️ M/US arrival stuff/Orca card.md",
     "99-Meta/Attachments/image-1682813995895.jpg6640269332611358638.jpg",
     "99-Meta/Attachments/image-1654757751304.jpg1796082842096553027.jpg",
     "99-Meta/Attachments/image-1653463911446.jpg7981968474968070746.jpg",
@@ -229,6 +202,7 @@
     "99-Meta/Attachments/image-1621264893506.jpg1775911518412587308.jpg",
     "99-Meta/Attachments/Screenshot_2025-05-15_at_12.07.56_PM.png",
     "99-Meta/Attachments/Screenshot_2025-05-07_at_12.01.04_PM.png",
+    "99-Meta/Attachments/Screenshot_2025-05-06_at_9.58.42_AM.png",
     "99-Meta/Attachments",
     "99-Meta/planning/superpowers/specs/2026-07-10-vault-reorganization-design.md",
     "99-Meta/planning/superpowers/plans/2026-07-10-vault-reorganization.md",
@@ -236,32 +210,34 @@
     "99-Meta/planning/superpowers/plans",
     "99-Meta/planning/superpowers",
     "99-Meta/planning",
-    "90-Archive/Finance/Bills/Veg briyani.md",
-    "90-Archive/Finance/Bills/Vegan tikka masala.md",
-    "90-Archive/Finance/Bills/Untitled.md",
-    "90-Archive/Finance/Bills/Untitled 9.md",
-    "90-Archive/Finance/Bills/Untitled 8.md",
-    "90-Archive/Finance/Bills/Untitled 5.md",
-    "90-Archive/Finance/Bills/Untitled 7.md",
-    "90-Archive/Finance/Bills/Untitled 6.md",
-    "90-Archive/Finance/Bills/Untitled 4.md",
-    "90-Archive/Finance/Bills/Untitled 18.md",
-    "90-Archive/Finance/Bills/Untitled 3.md",
-    "90-Archive/Finance/Bills/Untitled 2.md",
-    "90-Archive/Finance/Bills/Untitled 17.md",
-    "90-Archive/Finance/Bills/Untitled 16.md",
-    "90-Archive/Finance/Bills/Untitled 15.md",
-    "90-Archive/Finance/Bills/Untitled 10.md",
-    "90-Archive/Finance/Bills/Untitled 14.md",
-    "90-Archive/Finance/Bills/Untitled 13.md",
-    "90-Archive/Finance/Bills/Untitled 12.md",
-    "90-Archive/Finance/Bills/Untitled 11.md",
-    "90-Archive/Finance/Bills/Untitled 1.md",
-    "90-Archive/Finance/Bills/Bills.base",
+    "90-Archive/Finance/Bills/Bills.md",
+    "90-Archive/Finance/_index.md",
     "90-Archive/Finance/Bills",
     "90-Archive/Finance",
-    "90-Archive/Task-List/Task List/Task List.base",
-    "90-Archive/Task-List/Task List/Car/Car.base",
+    "90-Archive/Task-List/Task List/Car/Car.md",
+    "90-Archive/Task-List/Task List/Car/Car (table).md",
+    "90-Archive/Task-List/Task List/Indoor plant.md",
+    "90-Archive/Task-List/Task List/Task List.md",
+    "90-Archive/Task-List/Task List/Task List New page.md",
+    "90-Archive/Task-List/Task List/Task List New Task.md",
+    "90-Archive/Task-List/Task List/Dopp kit.md",
+    "90-Archive/Task-List/Task List/Car",
+    "90-Archive/Task-List/_index.md",
+    "90-Archive/Task-List/Task List",
+    "90-Archive/Task-List",
+    "90-Archive/Admin/Apartments/Round 1/Seattle Apartments (1)/Seattle Apartments (1).md",
+    "90-Archive/Admin/Apartments/Round 2/Apartments (1)/Apartments (1).md",
+    "90-Archive/Admin/Apartments/Round 4/Apartments - Totem Lake/Apartments - Totem Lake.md",
+    "90-Archive/Admin/Apartments/Round 4/Apartments - Bothell/Apartments - Bothell.md",
+    "90-Archive/Admin/Apartments/Round 3/Apartments/Apartments.md",
+    "90-Archive/Admin/Apartments/Round 1/Bellevue Apartments (near Amazon Everest) (1)/Bellevue Apartments (near Amazon Everest) (1).md",
+    "90-Archive/Admin/Apartments/Round 2/Round 2.md",
+    "90-Archive/Admin/Apartments/Round 4/Round 4.md",
+    "90-Archive/Admin/Apartments/Round 3/Round 3.md",
+    "90-Archive/Admin/Apartments/Round 1/Round 1.md",
+    "90-Archive/Admin/Home inventory/Home inventory Asset.md",
+    "90-Archive/Admin/Home inventory/Home inventory.md",
+    "90-Archive/Admin/Apartments/Apartments.md",
     "Untitled.canvas"
   ]
 }

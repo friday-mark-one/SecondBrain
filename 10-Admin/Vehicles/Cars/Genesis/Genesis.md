@@ -26,10 +26,10 @@ Genesis CPO - [https://www.genesis.com/us/en/certified/inventory/details/year/20
 Edmunds - [https://www.edmunds.com/inventory/srp.html?historyinfo=noAccidents%2CpersonalUseOnly&homedelivery=true&inventorytype=used%2Ccpo&make=genesis&mileage=3000-30000&model=genesis|gv70&radius=6000&trim=gv70|35t-sport%2Cgv70|25t-advanced&wz=30&year=2023-*](https://www.edmunds.com/inventory/srp.html?historyinfo=noAccidents%2CpersonalUseOnly&homedelivery=true&inventorytype=used%2Ccpo&make=genesis&mileage=3000-30000&model=genesis%7Cgv70&radius=6000&trim=gv70%7C35t-sport%2Cgv70%7C25t-advanced&wz=30&year=2023-*)
 
 
-![[Genesis generic website.base]]
+![[10-Admin/Vehicles/Cars/Genesis/Genesis generic website/Genesis generic website]]
 
 
-![[Dealership-specific websites.base]]
+![[10-Admin/Vehicles/Cars/Genesis/Dealership-specific websites/Dealership-specific websites]]
 
 Email
 
