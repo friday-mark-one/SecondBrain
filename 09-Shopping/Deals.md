@@ -1,5 +1,55 @@
 # Deals
 
+## 2026-07-12
+- Kohl's — Save 30%  | Bring home a few new things — expires no date
+- Macy's — Ending tonight: our One Day Sale + Bonus Days — expires no date
+- Costco — Your Weekly Warehouse Insider! — expires no date
+- J.Crew FACTORY — Hours left! $10 OFF EVERY $50 YOU SPEND... — expires no date
+- NORDSTROM — Dresses that bring the party — expires no date
+- point.me — The biggest card myths debunked — expires no date
+- Michaels Rewards — It's Weekly Rewards Day — expires no date
+- NerdWallet — Calculate your car insurance costs — expires no date
+- Macy's — 40% off dresses, linen under $60 & more summer deals — expires no date — up to 40%
+- NORDSTROM — Prep your Anniversary Sale wish list — expires no date
+- NORDSTROM RACK — LAST CHANCE to get EXTRA 25% off clearance — expires no date — up to 25%
+- Michaels — Huge clearance deals are going fast: Up to 70% off — expires no date — up to 70%
+- Kohl's — Save 30%  | Find must-have looks for a stylish summer — expires no date
+- Kohl's — Extra 30% off savings are waiting — expires no date — up to 30%
+- Macy's — One Day Sale: $25+ comforter sets & more home deals — expires no date
+- HomeGoods — Big savings for small spaces — expires no date
+- Macy's — $100 & under dresses, up to 70% off men's suits & more — expires no date — up to 70%
+- Michaels — Hurry! New items added to our Mega Clearance Event — expires no date
+- Lyft — Ends soon: 30% off 3 rides — expires no date — up to 30%
+- NORDSTROM RACK — Save on Madewell, Reef, Jordan & more — expires no date
+- Macy's — so many reasons to shop online right now — expires no date
+- Chipotle — Have you claimed your Free Guac? — expires no date
+- Hallmark — shop 250+ new ornaments now — expires no date
+- Macy's — Up to 50% off summer handbags + more deals on accessories — expires no date — up to 50%
+- J.Crew FACTORY — LAST DAY: 50% off all shorts & tees — expires no date — up to 50%
+- Michaels — ICYMI: NEW items added to our Mega Clearance Event — expires no date
+- Kohl's — You save 30% on summer home must-haves — expires no date — up to 70%
+- Macy's — Up to 70% off clearance? Yes, please! — expires no date — up to 70%
+- Macy's — Up to 70% off: diamond jewelry + more deals — expires no date — up to 70%
+- HomeGoods — Summer clearance?! Right this way — expires no date
+- Michaels — MEGA CLEARANCE ALERT Up to 70% off with NEW ITEMS — expires no date — up to 70%
+- Macy's — men's swim, one-pieces & more — expires no date
+- Firestone — Stay Cool & Confident on the Road — expires no date
+- NORDSTROM — It's almost party time — expires no date
+- Mercedes-Benz — Exclusive first look: New Mercedes-Benz GLE 580s — expires no date
+- Blick Art Materials — Stock Up & Save — expires no date
+- Michaels Custom Framing — 70% off your sign to custom frame — expires no date — up to 70%
+- Michaels — NEW items added + NEW markdowns — expires no date
+- Macy's — Under $60 linen! One Day Sale + Bonus Days — expires no date — up to 60%
+- NORDSTROM RACK — Private Sale: Jo Malone — expires no date
+- Kohl's — Save an extra 30% Time to fill your cart — expires no date
+- Macy's — Flash Sale: up to 70% off men's suits, shoes, blazers — expires no date — up to 70%
+- Kohl's — Save 30% Score Kohl's Cash Repeat — expires no date
+- Macy's — Flash Sale: up to 70% off men's underwear — expires no date — up to 70%
+- NORDSTROM — 9 Anniversary Sale trends — expires no date
+- Michaels — NEW items added to our Mega Clearance — expires no date
+- NORDSTROM RACK — Latest arrivals up to 50% off — expires no date — up to 50%
+- Macy's — Price drop alerts, new trends & more — expires no date
+
 ## 2026-07-08
 - Kohl’s — ENDS TODAY: 30% off your favorite Kohl's brands ⏳ — expires ends today (Jul 8) — no code — 30% off
 - Tata Capital Wealth — Calculate your life insurance amount — expires no date — no code
