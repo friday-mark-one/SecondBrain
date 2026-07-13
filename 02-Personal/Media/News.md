@@ -1,5 +1,67 @@
 # News
 
+## 2026-07-13
+
+## AI & Legal
+
+- [Apple sues OpenAI, accusing it of stealing company secrets](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/) — Apple accused OpenAI of stealing trade secrets about products still in development. OpenAI's new hardware business allegedly asked Apple job candidates for details about secret projects and asked them to bring device components and prototypes to interviews. Apple seeks an injunction preventing OpenAI from using its trade secrets and an order requiring return of its IP. (TLDR, TLDR AI)
+
+- [Apple's M6, M7, and M8 chips show how AI is reshaping the company](https://links.tldrnewsletter.com/TllN23) — AI is no longer just a feature Apple's chips need to support; it's now shaping product design and shipping timelines. The Apple car project, once seen as a costly failure, may have been one of its most consequential technology investments — its AI hardware effort now powers Macs and AI servers. (TLDR)
+
+- [Tencent in talks to take big Manus stake after Meta deal unwound](https://links.tldrnewsletter.com/L5xLb0) — Tencent is in discussions to buy Manus after Chinese regulators struck down Meta's acquisition. The talks aim to secure a deal for the AI startup. (TLDR AI)
+
+## AI Coding & Development
+
+- [Claude Code on desktop now has an in-app browser](https://threadreaderapp.com/thread/2075635283211772279.html) — Claude Code can now pull up docs, designs, and websites; it can read, click through, and interact with these sites the same way it does with local dev servers. The in-app browser is sandboxed and configurable, with optional persistent sessions. (TLDR AI)
+
+- [Claude Code is way more token-hungry than OpenCode — measured exactly how much](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) — Claude Code consumes more tokens and has less cache efficiency compared to OpenCode when performing the same tasks. Claude Code sends 33k tokens before reading the prompt, while OpenCode sends 7k, with differences measured in requests sent and prompt caching overhead. (TLDR Dev)
+
+- [Anthropic extended Claude Fable 5 access again](https://simonwillison.net/2026/Jul/12/bump/) — Anthropic extended Claude Fable 5 access and elevated Claude Code limits through July 19, while OpenAI temporarily removed usage caps for GPT-5.6 Sol, highlighting ongoing uncertainty around Anthropic's long-term model availability. (TLDR AI)
+
+- [From prompt engineering to intent engineering](https://danielmiessler.com/blog/intent-engineering) — Our thoughts about the smartest way to accomplish a task will become increasingly stupid compared to AI's way of doing it as time goes on. This necessitates switching from prompt engineering (describing how to do a thing) to intent engineering (describing the outcome you want). People should review older prompts and switch their 'how' prompts into 'what' prompts. (TLDR)
+
+- [A hitchhiker's guide to AI](https://vhyrro.neorg.org/posts/a-hitchhikers-guide-to-ai/) — A guide on coding with LLMs covering generating code based on context and prompting correctly, plus best practices including constraining agents, utilizing strongly typed languages, and the necessity of writing tests by developers rather than relying on agents. (TLDR Dev)
+
+- [Old and new apps via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — AI has made updating and creating mathematical applets much faster, allowing successful migration of older Java applets to JavaScript with minimal bugs, and enabling creation of new visualization apps for complex concepts like special relativity. (TLDR Dev)
+
+- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) — While AI and LLMs are exciting, the pervasive negativity and hype suggesting a looming catastrophe or impending singularity gives AI a worse reputation. AI's progress is driven by foundational improvements in computing rather than influenced by specific entities. (TLDR Dev)
+
+- [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) — People working on small codebases with low-turnover teams use different methods than those on large codebases with high-turnover teams. The first group, which insists you must understand the codebase completely, is over-represented in online discussions. There's nothing wrong with partial understanding — in large systems, it's the best you can do. (TLDR)
+
+- [Why Vanilla JS](https://guseyn.com/html/posts/why-vanilla-js.html) — A developer built a complex web app for music instructors using only vanilla JavaScript and Web Components, arguing against the artificial complexity introduced by modern frameworks. The browser already provides solid tools for development. (TLDR Dev)
+
+- [Own your weights](https://links.tldrnewsletter.com/KLAbOl) — For most businesses, owning their own model weights is too complex. There's a need for a service where companies can bring workloads and get back a task-specific model built on their data, tuned to their tasks, running on controlled infrastructure — providing the benefits of owning weights without the maintenance burden. (TLDR AI)
+
+- [The future worth building is human](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/) — Thinking Machines aims to develop AI that extends human judgment through customizable, interactive models, enabling diverse localized AI adaptations by letting organizations align AI with their unique knowledge and values. (TLDR AI)
+
+## AI Agents & Memory
+
+- [OpenWiki Brains: proactive memory for AI agents](https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents) — LangChain's OpenWiki Brains introduces proactive memory for AI agents, enabling them to autonomously gather and update relevant context from connected sources like Gmail, Notion, and Twitter. Version 0.1.0 creates a general-purpose "Personal Brain" through connectors accessing diverse information repositories, maintaining local wikis for consistent context. (TLDR AI)
+
+- [Proactive memory for long-horizon agents](https://arxiv.org/abs/2607.08716) — A separate memory agent tracked important state and selectively reminded an action agent when relevant information risked being lost. This approach improves pass rates on Terminal-Bench 2.0 and τ2-Bench without modifying the underlying action model. (TLDR AI)
+
+- [LLM-as-a-Verifier: a general-purpose verification framework](https://arxiv.org/pdf/2607.05391) — Researchers explore efficient training methods for large language models using sparsity techniques to reduce computational costs while maintaining model performance, potentially making LLM training more accessible for smaller organizations. (TLDR AI)
+
+- [Basecamp Bench: GPT-5.6 Sol vs Fable 5 vs Grok 4.5](https://smw.ai/blog/basecamp-bench) — Recent testing compared GPT-5.6 Sol, Fable 5, and Grok 4.5 on a complex software problem. Fable 5 was the top performer in both frontend and backend development, while Grok 4.5 excelled in speed and cost. Grok completed tasks quickly but lacked polish, whereas Fable 5 closely aligned with expected output but required more time and expense. (TLDR Dev)
+
+## Dev Tools & Open Source
+
+- [Open-Inspect](https://github.com/ColeMurray/background-agents) — An open-source background coding agent system designed for single-tenant deployment, allowing users to perform tasks in a shared development environment while collaborating in real time. Features include multi-repository session handling, automated task scheduling, and support for various AI models with Slack, GitHub, and Linear integration. (TLDR Dev)
+
+- [Mindwalk](https://github.com/cosmtrek/mindwalk) — A visualization tool that replays coding-agent sessions on a 3D map of the codebase, showing how an agent understood and interacted with a repository. Displays a unique citymap for each repository indicating the agent's activity through visual elements. (TLDR Dev)
+
+- [Algolia makes creating an MCP server stupid easy](https://www.raymondcamden.com/2026/07/11/til-algolia-makes-creating-an-mcp-server-stupid-easy) — Algolia introduced a feature that makes turning search indexes into MCP servers easy, allowing devs to integrate AI capabilities for querying and interacting with documentation through a UI-based creation and customization process. (TLDR Dev)
+
+## Databases & Infrastructure
+
+- [The four horsemen behind thousands of Postgres outages](https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/) — Postgres outages commonly stem from vacuum processes, transaction ID wraparound, connection limits, bad query plans, and challenges with JSON data storage. These problems worsen in environments without dedicated database personnel. A new project called pgrust aims to address these issues through architectural improvements including 64-bit transaction IDs, a threaded model, and an adaptive query planner. (TLDR Dev)
+
+## Robotics & Space
+
+- [Home robots already walk — 1X's new hands solve the part that actually matters](https://thenextweb.com/news/1x-neo-robot-tendon-driven-hands) — 1X's new robotic hands have 25 backdrivable joints that give way when pushed instead of staying rigid. The skin's sensors read both pressure and sideways movement across fingers, allowing the hand to notice a glass starting to slip. Factory robots use grippers for parts placed in the same spot every time, but homes have much more variation — these hands can bend past human range and wrap around awkward shapes. (TLDR)
+
+- [China recovered its first reusable rocket and showed a new way to do it](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/) — China demonstrated its first-ever controlled rocket recovery. The Long March 10B successfully completed its maiden flight, with its first stage recovered via a sea-based net. Several other Chinese rockets in development could soon achieve reusability. The country has four land-based spaceports and multiple ocean-going launch platforms ready to ramp up launch cadence. (TLDR)
+
 ## 2026-07-10
 
 **AI Models & Launches**
