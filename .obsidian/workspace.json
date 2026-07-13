@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Shopping/Deals.md",
+                "file": "02-Personal/Media/News.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deals"
+              "title": "News"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "09-Shopping/Deals.md",
     "80-LifeOS/logs/07-12-2026.md",
     "80-LifeOS/logs/07-12-26.md",
     "06-Learning/Books/Designing Data Intensive Applications.md",
@@ -251,7 +252,6 @@
     "90-Archive/Task-List/Task List/Task List New page.md",
     "90-Archive/Task-List/Task List/Task List New Task.md",
     "90-Archive/Task-List/Task List/Dopp kit.md",
-    "90-Archive/Task-List/_index.md",
     "Untitled.canvas"
   ]
 }
