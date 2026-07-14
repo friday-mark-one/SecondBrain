@@ -1,5 +1,28 @@
 # Deals
 
+## 2026-07-14
+- Kohl's — Save 30% + Kohl's Cash — back-to-school — expires no date
+- NerdWallet — High-yield savings account rates comparison — expires no date
+- point.me — New feature: filter deals by your actual points programs — expires no date
+- CardPointers — Offer streak reminder — expires no date
+- Going — Europe flights — $459 to $527 (Oct-Dec) — expires no date
+- NerdWallet — Cheapest car insurance comparison — expires no date
+- UNiDAYS — Pre-purchase checklist live — expires no date
+- SiriusXM — $1 for first 3 months — expires no date
+- H&M — The art of keeping it simple — expires no date
+- PointsYeah.com — 33% Off Premium — ends tonight — expires 2026-07-14
+- Life Time — Achieve your goals (gym membership) — expires no date
+- Fabletics — Mid-month drop: new arrivals — expires no date
+- evo — Buyer's top bike picks for the season — expires no date
+- Going — Biggest sale of the year — 51% off Elite first year — expires limited time
+- The Leela Palaces — Coorg Forest Sanctuary (hotel stay) — expires no date
+- Bath & Body Works — Juicy deal just dropped — expires no date
+- Kohl's — 30% off + Kohl's Cash — expires no date
+- Tata Capital Wealth — Portfolio blind spots check — expires no date
+- Fabletics — See what's new — expires no date
+- Kohl's — Save 30% — bring home new things — expires no date
+- Bath & Body Works — Flash sale tonight only — expires 2026-07-13
+
 ## 2026-07-12
 - Kohl's — Save 30%  | Bring home a few new things — expires no date
 - Macy's — Ending tonight: our One Day Sale + Bonus Days — expires no date
