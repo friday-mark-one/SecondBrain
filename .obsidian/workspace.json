@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Food/Expiring Soon.md",
+                "file": "80-LifeOS/agent-protocol/AGENTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Expiring Soon"
+              "title": "AGENTS"
             }
           }
         ]
@@ -206,6 +206,13 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "08-Food/Meal Plan/Current.md",
+    "80-LifeOS/_templates/Recipe.md",
+    "08-Food/Grocery List/Current.md",
+    "08-Food/Expiring Soon.md",
+    "08-Food/Archive/2026-07-13 Grocery List.md",
+    "08-Food/Archive/2026-07-13 Meal Plan.md",
+    "08-Food/Archive/2026-07-13 Buy List Bought.md",
     "02-Personal/Media/News.md",
     "80-LifeOS/logs/07-13-26.md",
     "09-Shopping/Deals.md",
@@ -243,15 +250,8 @@
     "99-Meta/planning/superpowers/plans",
     "99-Meta/planning/superpowers",
     "99-Meta/planning",
-    "90-Archive/Finance/Bills/Bills.md",
-    "90-Archive/Finance/_index.md",
     "90-Archive/Finance/Bills",
     "90-Archive/Finance",
-    "90-Archive/Task-List/Task List/Car/Car.md",
-    "90-Archive/Task-List/Task List/Car/Car (table).md",
-    "90-Archive/Task-List/Task List/Indoor plant.md",
-    "90-Archive/Task-List/Task List/Task List.md",
-    "90-Archive/Task-List/Task List/Task List New page.md",
     "Untitled.canvas"
   ]
 }
