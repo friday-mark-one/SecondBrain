@@ -1,7 +1,7 @@
 ## One-off
 
 Add non-recipe items here as the pantry runs low. Format: `- [[Item]] | amount`.
-Bought items (checked on the grocery list) are removed by "Archive And Reset";
+Bought items (checked on the grocery list) are removed by "After Shopping";
 unbought ones stay for next time.
 
 - [[Water pack]] | 1

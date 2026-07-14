@@ -14,7 +14,7 @@ const COMMANDS = [
   ["toggle-detail.js", "toggleGroceryDetail"],
   ["add-dish.js", "addDishToPlan"],
   ["new-plan.js", "newWeeklyPlan"],
-  ["archive.js", "archiveAndReset"],
+  ["after-shopping.js", "afterShopping"],
 ];
 
 const src = fs.readFileSync(SRC, "utf8");

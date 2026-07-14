@@ -124,19 +124,19 @@
     },
     {
       "id": "dc702e2f-14a6-4b58-9baa-45eb19bab0d5",
-      "name": "Archive And Reset",
+      "name": "After Shopping",
       "type": "Macro",
       "command": true,
       "runOnStartup": false,
       "macro": {
-        "name": "Archive And Reset",
+        "name": "After Shopping",
         "id": "f0d06816-af59-4920-894f-6b4d8cd7e9f4",
         "commands": [
           {
-            "name": "archive",
+            "name": "after-shopping",
             "type": "UserScript",
             "id": "3871ce48-c6f6-4378-af34-05bb7feb1a94",
-            "path": "80-LifeOS/_scripts/commands/archive.js",
+            "path": "80-LifeOS/_scripts/commands/after-shopping.js",
             "settings": {}
           }
         ]

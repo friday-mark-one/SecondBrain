@@ -5,7 +5,7 @@ only within its own heads-up window (`heads_up_days` before `expires`, default
 the expiry day itself). Items past their expiry drop off automatically.
 
 Tracking is opt-in: an item appears only if its note has `shelf_life_days`.
-`expires` is stamped automatically when you check the item off at Archive & Reset.
+`expires` is stamped automatically when you check the item off and run After Shopping.
 
 ```dataviewjs
 const today = window.moment().startOf("day");
