@@ -59,9 +59,9 @@
 - [x] Groundnut oil
 - [x] Mustard
 - [x] Blanched peanuts
-- [ ] Tamarind paste
+- [x] Tamarind paste
 - [x] Red chilli powder
-- [ ] Idli batter
+- [x] Idli batter
 - [x] Moong dal
 - [x] Pepper powder
 - [x] Curry leaves

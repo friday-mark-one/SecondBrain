@@ -13,6 +13,8 @@ unbought ones stay for next time.
 - [[Cucumber]] | 1
 - [[Ghost protein cereal]] | 1
 - [[Avocado oil spray]] | 1
+- [[Pista]]
+- [[Ghee]]
 
 ## Regulars
 - [ ] [[Milk]]
