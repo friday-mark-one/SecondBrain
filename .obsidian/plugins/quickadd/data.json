@@ -5,7 +5,7 @@
       "name": "New Recipe",
       "type": "Template",
       "command": true,
-      "templatePath": "memory/_templates/Recipe.md",
+      "templatePath": "80-LifeOS/_templates/Recipe.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE:Dish name}}"
@@ -13,7 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "memory/Recipes"
+          "08-Food/Recipes"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -36,7 +36,7 @@
       "name": "New Item",
       "type": "Template",
       "command": true,
-      "templatePath": "memory/_templates/Item.md",
+      "templatePath": "80-LifeOS/_templates/Item.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE:Item name}}"
@@ -44,7 +44,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "memory/Items"
+          "08-Food/Items"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -76,7 +76,7 @@
             "name": "generate",
             "type": "UserScript",
             "id": "363aa674-47ca-43b5-aadd-3cdc3b95d671",
-            "path": "memory/_scripts/commands/generate.js",
+            "path": "80-LifeOS/_scripts/commands/generate.js",
             "settings": {}
           }
         ]
@@ -96,7 +96,7 @@
             "name": "add-dish",
             "type": "UserScript",
             "id": "db1f7c59-4eea-4c68-b904-8b5118deea9a",
-            "path": "memory/_scripts/commands/add-dish.js",
+            "path": "80-LifeOS/_scripts/commands/add-dish.js",
             "settings": {}
           }
         ]
@@ -116,7 +116,7 @@
             "name": "new-plan",
             "type": "UserScript",
             "id": "8f8d8c00-5fe6-498f-9e64-0700b5cfcd69",
-            "path": "memory/_scripts/commands/new-plan.js",
+            "path": "80-LifeOS/_scripts/commands/new-plan.js",
             "settings": {}
           }
         ]
@@ -136,7 +136,7 @@
             "name": "archive",
             "type": "UserScript",
             "id": "3871ce48-c6f6-4378-af34-05bb7feb1a94",
-            "path": "memory/_scripts/commands/archive.js",
+            "path": "80-LifeOS/_scripts/commands/archive.js",
             "settings": {}
           }
         ]
@@ -156,7 +156,7 @@
             "name": "toggle-detail",
             "type": "UserScript",
             "id": "7c0d6815-d29f-4cb1-a725-b50b09917eb4",
-            "path": "memory/_scripts/commands/toggle-detail.js",
+            "path": "80-LifeOS/_scripts/commands/toggle-detail.js",
             "settings": {}
           }
         ]

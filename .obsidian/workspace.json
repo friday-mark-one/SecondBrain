@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Personal/Media/News.md",
+                "file": "08-Food/Expiring Soon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "News"
+              "title": "Expiring Soon"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "02-Personal/Media/News.md",
     "80-LifeOS/logs/07-13-26.md",
     "09-Shopping/Deals.md",
     "80-LifeOS/logs/07-12-2026.md",
@@ -251,7 +252,6 @@
     "90-Archive/Task-List/Task List/Indoor plant.md",
     "90-Archive/Task-List/Task List/Task List.md",
     "90-Archive/Task-List/Task List/Task List New page.md",
-    "90-Archive/Task-List/Task List/Task List New Task.md",
     "Untitled.canvas"
   ]
 }

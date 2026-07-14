@@ -1,5 +1,10 @@
 {
   "showLineNumber": false,
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99-Meta/Attachments",
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "90-Archive/"
+  ]
 }
