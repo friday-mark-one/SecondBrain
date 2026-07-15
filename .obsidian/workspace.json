@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "News"
             }
+          },
+          {
+            "id": "61af7151f2bb4ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Food/Recipes/Jaljeera.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Jaljeera"
+            }
           }
         ]
       }
@@ -206,6 +230,8 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "08-Food/Recipes/Jaljeera.md",
+    "02-Personal/Media/News.md",
     "80-LifeOS/agent-protocol/AGENTS.md",
     "Untitled.base",
     "80-LifeOS/logs/07-15-26.md",
@@ -218,7 +244,6 @@
     "08-Food/Archive/2026-07-13 Grocery List.md",
     "08-Food/Archive/2026-07-13 Meal Plan.md",
     "08-Food/Archive/2026-07-13 Buy List Bought.md",
-    "02-Personal/Media/News.md",
     "80-LifeOS/logs/07-13-26.md",
     "09-Shopping/Deals.md",
     "80-LifeOS/logs/07-12-2026.md",
