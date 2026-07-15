@@ -1,5 +1,54 @@
 # Deals
 
+## 2026-07-15
+- Macy's — Home Flash Sale: up to 70% off UGG, Lenox, Samsonite & more — expires no date
+- Bath & Body Works — First look at a big deal starting tomorrow — expires no date 🔔 [[Gift ideas]]
+- NerdWallet — It pays to compare accounts — bank bonus offers — expires no date
+- H&M — The best denim of summer — expires no date
+- Apple Card — Credit limit offer ready to preview — expires no date
+- Nordstrom — Dreamy dresses for every invite — expires no date 🔔 [[Gift ideas]]
+- IHG One Rewards — Anniversary special offer — expires no date
+- Bath & Body Works — Final hours to shop $7.99 deal — expires no date 🔔 [[Gift ideas]]
+- Lumosity — Seasonal brain training with 25% off — expires no date
+- Fabletics — Exclusive Offer for Top VIPs — Mystery Boxes are back — expires no date
+- Huel — New Black Edition Powder — ripe strawberry, creamy banana, 40g protein — expires no date
+- Michaels — MEGA alert — up to 70% off clearance! — expires no date
+- Sephora at Kohl's — Buy 2+ Sephora minis, get 50% off — expires no date 🔔 [[Gift ideas]]
+- Linux Foundation Education — Save up to 40% on training & certifications — expires no date
+- Sephora at Kohl's — Buy 2+ Sephora minis, get 50% off (duplicate) — expires no date 🔔 [[Gift ideas]]
+- NerdWallet — How to get the best car insurance — expires no date
+- Edmunds — Know what your car is truly worth — expires no date
+- Educative — World Cup cheat sheet — expires no date
+- Nordstrom Rack — Designer deals up to 50% off — expires no date
+- PointsYeah.com — Last Chance: Up to 125K Miles on Delta SkyMiles Cards — ends 7/15 — expires 2026-07-15
+- Famous Footwear — $5 off anniversary reward — expires no date
+- Sephora — Limited edition Strawberry Lip Butter Balm — expires no date 🔔 [[Gift ideas]]
+- evo — The Gear That Keeps up With Your Miles — snow & bike gear — expires no date
+- HomeGoods — Bedding on student-friendly budget — expires no date
+- Macy's — Flash Sale: up to 70% off bedding, kitchen, luggage & more — $9.99 sheets — expires no date
+- Hallmark — $2 + shop Ornament Premiere now — expires no date 🔔 [[Gift ideas]]
+- Bath & Body Works — $7.99 steals are here — expires no date 🔔 [[Gift ideas]]
+- Michaels — Go with the slow crafting flow this summer — expires no date
+- Kohl's — Save 30% — home refresh (inside & out) — expires no date
+- Macy's — FIFA World Cup must-haves from adidas — expires no date
+- Macy's — Beach Week: up to 65% off swimsuits — expires no date
+- Michaels — Get move-in ready: Prep for college now — expires no date
+- Macy's Star Rewards — Extra $10 in Star Money — shop 2 qualifying categories — expires no date
+- Nordstrom — It's gingham season — expires no date 🔔 [[Gift ideas]]
+- HomeGoods — Cancel your plans — staycation inspo — expires no date
+- Nordstrom Rack — Birkenstock for the Family — New Denim Up to 50% Off — expires no date
+- Michaels — Halloween collection is doing the vanishing act — expires no date
+- Kohl's — 30% off + Kohl's Cash — expires no date
+- Macy's — Flash Sale! Up to 70% off his work refresh — Tommy Hilfiger, Michael Kors, CK — expires no date
+- J.Crew FACTORY — Get 50% off all shorts & tees — expires no date
+- Michaels — Try relaxing watercolor craft this summer — expires no date
+- Kohl's — Save 30% during Exclusive Cardholder Event — expires no date
+- Macy's — What's in store at Macy's Alderwood — expires no date
+- Kohl's — Hours left for 30% off every brand — expires no date
+- Macy's — Women's shoes Flash Sale ends tonight: up to 70% off — expires no date
+- Macy's — 40-60% off bed & bath, only in the app — expires no date 🔔 [[Gift ideas]]
+- Hallmark — Win a Hallmark Christmas Cruise — expires no date 🔔 [[Gift ideas]]
+
 ## 2026-07-14
 - Kohl's — Save 30% + Kohl's Cash — back-to-school — expires no date
 - NerdWallet — High-yield savings account rates comparison — expires no date
