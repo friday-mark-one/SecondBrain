@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80-LifeOS/agent-protocol/AGENTS.md",
+                "file": "02-Personal/Media/News.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "News"
             }
           }
         ]
@@ -206,6 +206,8 @@
   },
   "active": "ed5d5d5b3daac424",
   "lastOpenFiles": [
+    "80-LifeOS/agent-protocol/AGENTS.md",
+    "Untitled.base",
     "80-LifeOS/logs/07-15-26.md",
     "80-LifeOS/logs/07-14-26.md",
     "80-LifeOS/_scripts/commands/after-shopping.js",
@@ -234,8 +236,6 @@
     "06-Learning/Books",
     "heartbeat-logs/07-12-26.md",
     "heartbeat-logs",
-    "temp_deals_staging.md",
-    "test_write.md",
     "99-Meta/Attachments/image-1682813995895.jpg6640269332611358638.jpg",
     "99-Meta/Attachments/image-1654757751304.jpg1796082842096553027.jpg",
     "99-Meta/Attachments/image-1653463911446.jpg7981968474968070746.jpg",
@@ -251,7 +251,6 @@
     "99-Meta/planning/superpowers/plans",
     "99-Meta/planning/superpowers",
     "99-Meta/planning",
-    "90-Archive/Finance/Bills",
     "Untitled.canvas"
   ]
 }
