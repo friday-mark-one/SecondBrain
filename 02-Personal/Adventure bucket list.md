@@ -6,18 +6,18 @@ pinned: false
 ---
 
 - [ ] Skydiving
-- [ ] Rock climbing
-- [ ] Go karting
-- [ ] Snorkeling
+- [x] Rock climbing
+- [x] Go karting
+- [x] Snorkeling
 - [ ] Paragliding
 - [ ] Kayaking
 - [ ] Bouldering
-- [ ] Hiking
+- [x] Hiking
 - [ ] Snow shoeing
-- [ ] Gun Shooting
+- [x] Gun Shooting
 - [ ] Jet skiing
-- [ ] Berry picking
-- [ ] Axe throwing
+- [x] Berry picking
+- [x] Axe throwing
 - [ ] Bungee jumping
 - [ ] Zip lining
 - [ ] Ice climbing

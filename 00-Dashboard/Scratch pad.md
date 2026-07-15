@@ -48,7 +48,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] allow one item multiple store
 	- [ ] more recipes
 	- [x] start date from next day
-	- [ ] buy list one off item don't need quantity by default
-- [ ] Move notion notes
+	- [x] buy list one off item don't need quantity by default
+- [x] Move notion notes
 	- [ ] Restaurant journal
 - [ ] Trading agent 
