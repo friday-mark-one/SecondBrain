@@ -1,5 +1,48 @@
 # News
 
+## 2026-07-15
+
+## AI & LLMs
+
+- [DeepSeek IPO plans](https://tldr.tech/ai) — DeepSeek reportedly explored raising $1.5B at a $71B valuation before a possible IPO in late 2026 or 2027. (TLDR AI)
+- [Google announces Gemma 4 optimized for Pixel 10's TPU](https://tldr.tech/ai) — Gemma 4 E2B runs natively on Pixel 10's TPU, supporting offline conversation, image identification, and on-device audio transcription with voice commands for core phone functions. (TLDR AI)
+- [OpenAI's first device will be a movable, screenless speaker AI companion](https://tldr.tech) — A mobile screen-free smart speaker that serves as a humanlike AI companion in the home, able to control smart devices, play media, answer questions, and anticipate user needs. (TLDR)
+- [Apple in talks with PrismML to shrink AI models for iPhone](https://tldr.tech) — Apple is negotiating with PrismML, known for reducing Alibaba's Qwen model from ~54GB to under 4GB, to run powerful AI models directly on iPhones rather than in the cloud. (TLDR)
+- [xAI's Grok Build CLI transmits repository data verbatim to xAI](https://tldr.tech/ai) — The CLI uploads entire repositories to a Google Cloud Storage bucket, regardless of what the agent reads. No evidence of training on the data, but raises privacy concerns. (TLDR AI)
+- [Apple's lawsuit threatens to disrupt OpenAI's device ambitions](https://tldr.tech) — Apple's IP theft lawsuit against OpenAI could slow recruiting, keep engineers at Apple, and reduce institutional knowledge flow into OpenAI. OpenAI still on track for a 2026 announcement with 2027 release. (TLDR)
+- [A framework for frontier AI and the dawning of a new age](https://tldr.tech/ai) — Demis Hassabis predicts AGI mimicking human cognition is likely just years away, marking a pivotal shift toward frontier AI capabilities. (TLDR AI)
+- [Prime Intellect releases Verifiers v1](https://tldr.tech/ai) — An overhaul of the environment stack for agentic RL and evals, decomposing environments into task sets, harnesses, and runtimes, enabling complex agentic tasks like coding and computer use at scale. (TLDR AI)
+- [Making Fable cheaper than Opus: Cognition's architecture optimization](https://tldr.tech/ai) — Despite Fable 5 costing 2x per token vs Opus 4.8, Cognition designed an architecture where Fable costs less overall while scoring higher. (TLDR AI)
+
+## AI Development & Engineering
+
+- [The guide to software factories](https://tldr.tech/ai) — Warp CEO Zach Lloyd argues cloud software factories will replace interactive coding agents by automating the entire SDLC through orchestrated AI workflows with cloud runtimes, multi-model orchestration, and human oversight. (TLDR AI)
+- [How to cut an AI agent's token use by 94%](https://tldr.tech/dev) — A specialized agent workflow was optimized by transitioning from natural-language instructions to compiled code, reducing token usage by 94% and latency by 87%, keeping LLM calls for judgment-heavy steps only. (TLDR Dev, TLDR AI)
+- [Reverse engineering ChatGPT Web: how OpenAI built for a billion users](https://tldr.tech/dev) — Runs on React 19, React Router 7 (streaming SSR), Tailwind, Radix, TanStack Query — with a prepaid Cloudflare/Sentinel bot-defense layer allowing anonymous visitors to start typing instantly. (TLDR Dev)
+- [Building for breach: vulnerability management in the AI era](https://tldr.tech/dev) — Organizations struggle with increasing vulnerabilities as AI plays a role in cyber offenses; traditional remediation is less effective as breach containment time shrinks. (TLDR Dev)
+- [Code Yellow, Code Red: Provet's infrastructure incident response](https://tldr.tech/dev) — An eight-week collaborative incident response initiative achieving near-complete uptime through clear problem communication, specific exit criteria, and team collaboration. (TLDR Dev)
+- [Same TypeScript costs 73% more tokens on Claude than GPT](https://tldr.tech/dev) — Each vendor's tokenizer processes the same text differently; Anthropic's newer tokenizer generates ~30% more tokens, leading to higher effective costs for TypeScript content. (TLDR Dev)
+- [Better call Sol the workhorse: OpenAI's GPT-5.6-Sol](https://tldr.tech/dev) — A cost-effective, high-efficiency AI model ideal for practical coding tasks, though there are concerns about unintended destructive behavior making backups recommended. (TLDR Dev)
+- [YouTrackDB: object-oriented graph database](https://tldr.tech/dev) — An object-oriented graph database with constant-time link traversal and Gremlin support. (TLDR Dev)
+
+## Apple
+
+- [iOS 27 public beta is here with Siri AI, performance upgrades](https://tldr.tech) — Available on all iPhones running iOS 26 (Apple Intelligence requires iPhone 15 Pro+). Siri AI can hold ongoing conversations, understand onscreen context, take actions in apps, and answer broad questions. (TLDR)
+- [Apple in talks with PrismML to shrink AI models for iPhone](https://tldr.tech) — Negotiating to shrink powerful models like Qwen from ~54GB to under 4GB for on-device AI, reducing latency and cloud costs while enabling offline use. (TLDR)
+- [Apple's lawsuit threatens to disrupt OpenAI's bid to rival the iPhone](https://tldr.tech) — The IP theft lawsuit could slow OpenAI's recruiting, potentially keeping more engineers at Apple and reducing institutional knowledge flow. (TLDR)
+
+## Space & Science
+
+- [New 'space mirror' satellite aims to bring sunlight to Earth at night](https://tldr.tech) — Eärendil-1 is a demonstration satellite with a 60-foot reflective thin-film mirror. Reflect Orbital aims for up to 50,000 orbiting mirrors by 2035 to illuminate 5-6km zones. (TLDR)
+- [SpaceX gearing up for Starship's 13th test flight with real Starlink V3 satellites](https://tldr.tech) — Launch as soon as Thursday; real Starlink V3 satellites aboard for laser communication testing, after which they will burn up on reentry. (TLDR)
+- [Meet General Fusion: the newly public, Bezos-backed company recreating the Sun and stars](https://tldr.tech) — General Fusion debuted on NASDAQ via a SPAC merger, pursuing fusion energy. (TLDR)
+- [The strange phenomenon of 'terminal lucidity'](https://tldr.tech) — A 38-minute read exploring the phenomenon where people with severe cognitive impairment briefly regain clarity shortly before death. (TLDR)
+- [Smart cellular bricks: towards collective intelligence for the physical world](https://tldr.tech/ai) — Sakana AI's research extended to physical hardware with bricks using local communication and neural networks to autonomously classify and reconstruct 3D shapes without centralized control. (TLDR AI)
+
+## Markets & Infrastructure
+
+- [Kalshi ramps up effort to build markets for AI computing power](https://tldr.tech/ai) — Kalshi created a tool plotting future GPU rental prices using prediction markets to build forward curves, treating compute as a commodity with contracts going a year out. (TLDR AI)
+
 ## 2026-07-13
 
 ## AI & Legal
