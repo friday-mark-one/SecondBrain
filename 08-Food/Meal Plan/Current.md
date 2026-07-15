@@ -39,21 +39,21 @@ Priya
 
 ## Wed 07-15
 ### Lunch
-- [[Rasam]]
+- Sambar
 - capsicum
 ### Dinner
 - [[Channa masala]]
 
 ## Thu 07-16
 ### Lunch
-- [[Rasam]]
+- sambar
 - capsicum
 ### Dinner
 - [[Channa masala]]
 
 ## Fri 07-17
 ### Lunch
-- [[Rasam]]
+- sambar 
 - cabbage
 ### Dinner
 Restaurant
