@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed5d5d5b3daac424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-Food/Cookbook.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cookbook"
-            }
-          },
-          {
             "id": "61af7151f2bb4ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Food/Recipes/Jaljeera.md",
+                "file": "90-Archive/Task-List/Task List/Task List New page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jaljeera"
+              "title": "Task List New page"
             }
           }
         ]
@@ -228,36 +204,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed5d5d5b3daac424",
+  "active": "61af7151f2bb4ae0",
   "lastOpenFiles": [
-    "08-Food/Syllabus.md",
-    "02-Personal/Travel/Before a trip ultimate travel checklist.md",
+    "90-Archive/Task-List/Task List/Task List New Task.md",
+    "90-Archive/Task-List/Task List/Task List New page.md",
+    "90-Archive/Task-List/Task List/Task List.md",
+    "90-Archive/Task-List/Task List/Indoor plant.md",
+    "90-Archive/Task-List/Task List/Dopp kit.md",
+    "90-Archive/Task-List/Task List/Car/Car (table).md",
+    "90-Archive/Task-List/Task List/Car/Car.md",
+    "90-Archive/Projects/_index.md",
+    "07-Projects/DALL-E prompts.md",
+    "07-Projects/Domain names.md",
+    "90-Archive/Personal/Personal Home/Vision improvement.md",
+    "09-Shopping/Shopping.md",
+    "04-Finance/Referrals.md",
+    "02-Personal/QOL improvement.md",
+    "90-Archive/Personal/Personal Home/Personal Home.md",
+    "90-Archive/Personal/Personal Home/Mira.md",
+    "90-Archive/Personal/Personal Home/Home menu.md",
+    "90-Archive/Personal/Personal Home/Global Entry.md",
+    "90-Archive/Personal/Personal Home/Frequently required details.md",
+    "90-Archive/Personal/Personal Home/Career goals.md",
+    "90-Archive/Personal/Personal Home/Backpacks.md",
+    "90-Archive/Personal/Personal Home/Address change list.md",
+    "90-Archive/Personal/Personal Home/Misc/Morgan Stanley to Fidelity transfer.md",
+    "90-Archive/Personal/Personal Home/Misc/Misc.md",
+    "90-Archive/Personal/Personal Home/Misc/Japan journal.md",
+    "90-Archive/Personal/Personal Home/Misc/Ideas for life.md",
     "10-Admin/Untitled.base",
-    "08-Food/Items/Elaichi full.md",
-    "08-Food/Recipes/Tofu Fry.md",
-    "08-Food/Recipes/Tamarind Chutney.md",
-    "08-Food/Recipes/Sev Puri.md",
-    "08-Food/Recipes/Matar Pulao.md",
-    "08-Food/Recipes/Green Chutney.md",
-    "08-Food/Recipes/Custard Pudding.md",
-    "08-Food/Recipes/Burani Raita.md",
-    "08-Food/Items/White peas.md",
-    "08-Food/Items/Strawberry.md",
-    "08-Food/Items/Sev.md",
-    "08-Food/Items/Saffron.md",
-    "08-Food/Items/Milk powder.md",
-    "08-Food/Items/Jaljeera powder.md",
-    "08-Food/Items/Dry ginger powder.md",
-    "08-Food/Items/Custard powder.md",
-    "08-Food/Items/Club soda.md",
-    "08-Food/Items/Boondi.md",
-    "08-Food/Items/Black salt.md",
-    "02-Personal/Media/News.md",
-    "08-Food/Recipes/Jaljeera.md",
-    "80-LifeOS/agent-protocol/AGENTS.md",
     "Untitled.base",
-    "80-LifeOS/logs/07-15-26.md",
-    "80-LifeOS/logs/07-14-26.md",
     "80-LifeOS/_scripts/commands/after-shopping.js",
     "06-Learning/Books/Media.base",
     "06-Learning/Books",

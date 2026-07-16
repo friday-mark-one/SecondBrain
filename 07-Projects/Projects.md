@@ -2,7 +2,7 @@
 
 ---
 
-[[90-Archive/Projects/Projects/Project ideas]]
+[[Project ideas 1]]
 
 [[URL shortener]]
 
