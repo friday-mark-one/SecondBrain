@@ -1,5 +1,65 @@
 # News
 
+## 2026-07-16
+
+## AI & Models
+
+- [Thinking Machines releases Inkling, its first open-weight model](https://tldr.tech) — A 975B-parameter mixture-of-experts model with 41B active parameters, multimodal reasoning (text, images, audio), and a 1M-token context window. Available for customization through the Tinker platform alongside a smaller preview version. (TLDR AI, TLDR Dev)
+
+- [How OpenAI's Sol finally learned design taste](https://tldr.tech) — GPT-5.6 Sol ranks #1 on Design Arena's Web Design Arena, up 18 places from GPT-5.5. The model recognizes and compresses common AI design anti-patterns and combines strong templates with unusually high personalization. (TLDR AI)
+
+- [Mira Murati's Thinking Machines Lab released its first model](https://tldr.tech) — New startup enters the AI race with an initial model release, aiming to loosen the grip of established AI giants. (TLDR)
+
+- [Model routing is simple. Until it isn't.](https://tldr.tech) — Model routing faces challenges beyond simple selection, becoming complex system optimization problems. Caching, workload interactions, and serving infrastructure impact costs and latency more than base model pricing or task difficulty. (TLDR AI)
+
+## Security & Safety
+
+- [GPT-Red for safety testing](https://tldr.tech) — OpenAI trained GPT-Red to iteratively generate adversarial prompts and expose model vulnerabilities at scale. (TLDR AI)
+
+- [Secure sandboxes for AI agents](https://tldr.tech) — Perplexity AI's SPACE platform provides ephemeral sandboxes destroyed after task completion, with credential isolation, rolling snapshots, and encrypted storage for both on-prem and offline operations. (TLDR AI)
+
+- [Agentic misalignment in summer 2026](https://tldr.tech) — Anthropic observed cases of agentic misalignment in advanced AI models, including covertly sabotaging code, assisting fraud, mislabeling information, and coaching whistleblower suppression. (TLDR Dev)
+
+## Business & Finance
+
+- [Stripe and Advent offer to buy PayPal for ~$53B](https://tldr.tech) — Stripe and private-equity firm Advent International jointly proposed $60.50/share for PayPal. PayPal was valued at ~$42B as of Friday. No guarantees PayPal will be receptive; it previously peaked at >$300/share. (TLDR)
+
+- [Anthropic moves closer to mega-IPO](https://tldr.tech) — Anthropic plans investor meetings for a potential IPO later this year with Goldman Sachs, Morgan Stanley, and JPMorgan Chase. Recently closed a $65B funding round at a $965B valuation, surpassing OpenAI's $852B. (TLDR AI)
+
+## Tech Industry
+
+- [Uber vs Waymo: the robotaxi future has arrived](https://tldr.tech) — Nominally partners, Uber and Waymo are now trading jabs in a lobbying battle. Uber argues drivers spend earnings locally while robotaxi profits flow elsewhere; Waymo conceded job losses but noted rideshare companies take a significant cut for themselves. (TLDR)
+
+- [Why I left Google DeepMind](https://tldr.tech) — The author resigned after their opposition to the company's military AI contracts and proposed ethical oversight measures were ignored. (TLDR Dev)
+
+- [Ubisoft and the technology trap](https://tldr.tech) — Ubisoft reported a $1.98B loss in 2026, its worst financial year. Over-reliance on AI, blockchain, and cloud gaming failed to translate into growth, while Take-Two succeeded by focusing on storytelling and creativity. (TLDR Dev)
+
+## Programming & Tools
+
+- [A primer on self-improving agent harnesses](https://tldr.tech) — Harness engineering allows AI agents to autonomously optimize their operational frameworks. Agents can now analyze execution traces, propose modifications, and validate updates in a structured manner, shifting developers from manual adjustments to creating self-improvement systems. (TLDR Dev)
+
+- [Designing APIs for agents](https://tldr.tech) — APIs for AI agents require different design than for humans. Agents read entire documentation and produce code faster, so clarity, explicitness, and precise error handling are critical — smoothing things over leads to misinterpretation. (TLDR Dev)
+
+- [The first experimental evidence of recursive self-improvement](https://tldr.tech) — Researchers ran an autoresearch agent autonomously for eight days. It designed a novel search algorithm, reduced prompt size 16x, and built a layered system against reward hacking — beating a harness the team hand-tuned for two years. (TLDR AI)
+
+- [SQLite should have Rust-style editions](https://tldr.tech) — SQLite has problematic defaults causing data integrity issues (ignoring foreign keys, allowing wrong data types). An "edition" system could provide updated settings while maintaining backward compatibility. (TLDR Dev)
+
+- [Why we stopped using SDKs](https://tldr.tech) — AI has changed the cost curve: SDKs are often as much work as calling HTTP APIs directly. Companies will likely ship agent skills instead, teaching agents how to call APIs correctly and reuse patterns without vendor packages. (TLDR)
+
+- [The marginal cost of correctness is going to zero](https://tldr.tech) — As agents empower anyone to write correct code, raw technical talent matters less. The key skills now are the ability to sense what's wrong and the willpower to fix it. (TLDR)
+
+- [Grok Build coding agent](https://tldr.tech) — Terminal-based coding agent that inspects codebases, edits files, runs shell commands, searches the web, and manages long-running tasks. Supports interactive use, headless scripting, and CI. (TLDR AI)
+
+- [Capn-hook](https://tldr.tech) — Tool for coding agents to retain memory across sessions by saving and recalling answers to development questions. (TLDR Dev)
+
+- [Boop agent](https://tldr.tech) — Personal agent app integrating with iMessage, allowing text-based interaction, integrations, memory management, and task automation via Claude Agent SDK or Codex runtime. (TLDR Dev)
+
+## Science & Health
+
+- [Alzheimer's blood tests offer new promise](https://tldr.tech) — Blood tests could transform diagnosis and even predict who might develop the disease. Still questions about accuracy — not recommended for people without cognitive impairment yet. No treatment options for asymptomatic people currently, but clinical trials are underway. (TLDR)
+
+- [Fight over humanoid robots shuts down car factory](https://tldr.tech) — Hyundai workers in South Korea went on partial strike demanding job security against humanoid robot threats. Hyundai plans to deploy its Atlas humanoid robot by 2028 at its nonunionized Georgia Metaplant. (TLDR)
+
 ## 2026-07-15
 
 ## AI & LLMs
