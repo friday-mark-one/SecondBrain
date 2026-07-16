@@ -11,7 +11,7 @@
 
 [[Honeymoon]]
 
-[[Restaurants]]
+[[Restaurants journal]]
 
 [[Wedding Album]]
 
