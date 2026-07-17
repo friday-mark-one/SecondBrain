@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-07-17
+- Kohl’s — Extra 30% off — no date — no code 🔔 [[Gift ideas]]
+- Bath & Body Works — Fresh deal starting tomorrow — expires tomorrow — coming soon 🔔 [[Gift ideas]]
+- Fabletics — Mystery Box up to $250 value — no date — VIP exclusive 🔔 [[Gift ideas]]
+- Cinemark Theatres — New & Now movies — no date 🔔 [[Gift ideas]]
+- Genesis Motor America — 2027 GV70 — no date — car launch 🔔 [[Gift ideas]]
+- Costco Wholesale — Caribbean with Costco Travel — no date 🔔 [[Gift ideas]]
+- H&M — Summer hiking with H&M MOVE collection — no date 🔔 [[Gift ideas]]
+- Bath & Body Works — $12.95 3-wicks + $5.95 body care — ending soon — final hours 🔔 [[Gift ideas]]
+- point.me — 100K bonus ending soon — ending soon — all-time high 🔔 [[Gift ideas]]
+- NerdWallet — HYSA rates up to 4.15% — no date — financial 🔔 [[Gift ideas]]
+- Going — SkyMiles to Australia 30k-40k pts roundtrip — no date — points deal 🔔 [[Gift ideas]]
+- Going Flight Deals — 🇹🇼 Taipei —  $786 (Aug-Oct) — no date 🔔 [[Gift ideas]]
+- Going Flight Deals — 🏺 *free bags* Greece —  $699 (Sep-Feb) — no date 🔔 [[Gift ideas]]
+- Devin Riley — It's not too late - Make this summer count with Life Time — no date 🔔 [[Gift ideas]]
+- IndiGo — Free Flight + Free first year credit card — no date 🔔 [[Gift ideas]]
+- H&M — Peak-summer shorts from $12.49 — no date 🔔 [[Gift ideas]]
+- PointsYeah.com — ⏰ Ending Soon: Earn 100K Pts with the Chase Sapphire Preferred — ending soon 🔔 [[Gift ideas]]
+- evo.com — Best in Bike starts — no date — bike gear 🔔 [[Gift ideas]]
+- Going — 51% off Elite first year — no date — membership deal 🔔 [[Gift ideas]]
+- Kohl’s — 20% off + Kohl's Cash — no date — no code 🔔 [[Gift ideas]]
+- Fabletics — #1 Shirts back in stock — no date — tees, tanks, polos 🔔 [[Gift ideas]]
+- point.me — 9K to London in premium, 60K to Tokyo in biz ✈️ 💎 🎉 — no date 🔔 [[Gift ideas]]
+- Xfinity — Final games — ending soon — sports/entertainment 🔔 [[Gift ideas]]
+- Qualtrics Survey Software — Trusted Tester interest noted — no date 🔔 [[Gift ideas]]
+- Vida Integrated Health — Summer vitality newsletter — no date 🔔 [[Gift ideas]]
+- PointsYeah.com — ✈️ 38k+ Pts for Business Class to Helsinki, Paris, London and More! — no date 🔔 [[Gift ideas]]
+
 ## 2026-07-15
 - Macy's — Home Flash Sale: up to 70% off UGG, Lenox, Samsonite & more — expires no date
 - Bath & Body Works — First look at a big deal starting tomorrow — expires no date 🔔 [[Gift ideas]]
