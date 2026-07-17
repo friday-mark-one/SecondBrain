@@ -1,5 +1,41 @@
 # News
 
+## 2026-07-17
+
+## AI Models & Launches
+
+- [Kimi K3: 2.8-trillion-parameter multimodal model launched](https://tldr.tech/ai) — Moonshot's new model features a 1-million-token context window with optimizations for long-context decoding and agentic coding. Available through Kimi's products and API; open weights expected July 27. (TLDR AI)
+
+- [Gemini 3.5 Pro reportedly delayed](https://tldr.tech/ai) — Alphabet shares fell 4% amid reports Google delayed Gemini 3.5 Pro while improving coding performance. Google confirmed the model remains in partner testing alongside an upgraded Flash model. (TLDR AI)
+
+- [GPT-5.6 splits Codex work across Sol, Terra, and Luna](https://tldr.tech/ai) — Sol handles ambiguous high-value problems, Terra handles everyday implementation, and Luna handles fast bounded tasks. Sol Ultra adds deeper reasoning and multi-agent coordination. (TLDR AI)
+
+- [NVIDIA released Nemotron 3 Embed, three open embedding models](https://tldr.tech/ai) — Models target RAG, agentic retrieval, code search, and memory. The 8B variant ranked first overall on RTEB. (TLDR AI)
+
+## AI Agents & Developer Tools
+
+- [LM Studio Bionic: AI agent for open models](https://tldr.tech/ai) — Bionic offers coding, research, and document management with open models, supporting local/cloud options. Features offline voice transcription via Mistral AI's Voxtral and sandbox security. (TLDR AI)
+
+- [Harness Handbook maps agent behavior to code](https://tldr.tech/ai) — A behavior-level map connecting plain-language questions about execution, permissions, and safety to the exact prompts, tools, and configuration that implement them. (TLDR AI)
+
+- [How Anthropic runs large-scale code migrations with Claude Code](https://tldr.tech/ai) — A six-step process using multiple agents to translate, review, and fix code, emphasizing adversarial reviewers and mechanical verification. (TLDR AI)
+
+- [Schema achieves 99% on ARC-AGI-3 Public](https://tldr.tech/ai) — A harness that makes frontier models write each game's mechanism as an executable program, test it against reality, and plan inside it. (TLDR AI)
+
+- [Copilot SDK embeds GitHub Copilot agents into custom apps](https://tldr.tech/ai) — GitHub repo enabling integration of Copilot agents into custom developer tools. (TLDR AI)
+
+- [Replit's self-driving company tripled code output](https://tldr.tech/ai) — Engineers used AI agents for PR review, incident investigation, and data analysis, enabling focus on strategic initiatives. (TLDR AI)
+
+## AI Industry & Business
+
+- [Nvidia-backed Fireworks hits $17.5B valuation](https://tldr.tech/ai) — Driven by demand for cheaper AI models as companies explore open-source options. (TLDR AI)
+
+- [Ramp expands AI Token Spend Management](https://tldr.tech/ai) — New tracking gives finance teams insights into AI spending across OpenAI, Anthropic, Google Gemini, and other providers. (TLDR AI)
+
+- [Google adds app integrations to AI Mode](https://tldr.tech/ai) — Instacart, Canva, and YouTube now work within Google's conversational search experience. (TLDR AI)
+
+- [NotebookLM rebranded as Gemini Notebook](https://tldr.tech/ai) — Google expanded integration across the Gemini app and Google Search. (TLDR AI)
+
 ## 2026-07-16
 
 ## AI & Models
