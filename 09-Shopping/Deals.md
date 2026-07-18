@@ -1,5 +1,26 @@
 # Deals
 
+## 2026-07-18
+- SBI — YONO Net-Banking new look notification — no date — banking UI update, not a deal
+- Educative — last day for discounted course access (Grokking System Design, AI, AWS) — expires Sunday
+- Fabletics — 3 for 1 Credit VIP bundle deal — no date — activewear promo
+- Kohl's — 30% off + Kohl's Cash, up to 70% clearance — no date
+- SiriusXM — what's new guide/account newsletter — no date
+- TurboTax — finish your taxes reminder — no date
+- Bath & Body Works — car scents from .95 — final hours
+- Going — London Economy 10k-18k pts +  r/t — Sep 2026-Jun 2027 — points deal
+- point.me — Explore award flight map feature — no date — /mo or premium
+- Cinemark — The Odyssey (Nolan) now in theatres — Jul 17
+- Linux Foundation Education — 40% off bundles (JULY26BUN), 35% off courses (JULY26CC) — ends Jul 21
+- NerdWallet — cheap car insurance guide & rate comparison — no date
+- H&M — up to 50% off — no date — clothing sale
+- Life Time — rejoin for summer pricing — no date — gym membership promo
+- Going — Chase Sapphire Preferred 100k bonus points offer — ending soon
+- Going — Seattle to China  r/t — Sep-Nov / Jan-Mar — flight deal
+- Chase — preapproved auto financing up to k — no date
+- Japan Wireless — Tokyo summer newsletter (38°C survival guide) — no date
+- Bath & Body Works — clean hands deals from  — no date
+
 ## 2026-07-17
 - Kohl’s — Extra 30% off — no date — no code 🔔 [[Gift ideas]]
 - Bath & Body Works — Fresh deal starting tomorrow — expires tomorrow — coming soon 🔔 [[Gift ideas]]
