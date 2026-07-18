@@ -1,5 +1,51 @@
 # News
 
+## 2026-07-18
+
+## AI & LLMs
+
+- [xAI chaos: The identity crisis at Elon Musk's chaotic AI outfit](https://tldr.tech) — SpaceXAI (formerly xAI) is struggling to catch up to Anthropic's Claude despite releasing a new coding tool and beefing up its sales team. Insiders say the company was unprepared for public company scrutiny and has less room to maneuver now that it's public. (TLDR)
+
+- [Google Gemini 3.5 Pro launch delayed as tech falls short of internal goals](https://tldr.tech) — Google is months behind schedule on Gemini 3.5 Pro, particularly in coding capabilities. The delay has frustrated engineers and researchers who worry the company risks losing its edge. The model is being tested with partners. (TLDR)
+
+- [Microsoft's Nadella criticizes Anthropic's Fable for being "editorially controlled"](https://tldr.tech) — Nadella called out Anthropic's limits on Fable requests, saying refusals to complete certain tasks don't make sense — pointed criticism aimed at a valued partner and client (Microsoft invested $5B in Anthropic, which committed $30B to Azure). (TLDR)
+
+- [The LLM critics are right — I use LLMs anyway](https://tldr.tech) — A developer acknowledges valid criticisms of LLMs but continues to use them extensively, arguing they amplify human thought and improve output quality when used with care. (TLDR Dev)
+
+- [How do you stay familiar with code written by an LLM?](https://tldr.tech) — As LLM-generated code increases, developers lose familiarity with their codebases. Strategies: type code personally sometimes, question design choices, and explore broader context by asking the LLM questions. (TLDR Dev)
+
+## Programming & Tools
+
+- [Bun's rapid Rust rewrite with AI: 535K lines migrated in 11 days](https://tldr.tech) — Bun rewrote its JavaScript runtime from Zig to Rust using Claude Fable. The project cost $165K in API pricing, consumed 5.9B uncached input tokens and 690M output tokens, and resolved 1,600 compiler errors. Demonstrates AI's cost-effectiveness for codebase migrations. (TLDR Dev, TLDR)
+
+- [Contract-driven development: Write the truth once](https://tldr.tech) — A single, authoritative machine-readable contract prevents discrepancies and bugs caused by duplicated definitions, enabling automated code generation and system-wide consistency. (TLDR Dev)
+
+- [Engineering high-performance parsers with data-oriented design](https://tldr.tech) — Yuku, a JS/TS parser in Zig, runs 3–10x faster than npm alternatives by representing the AST as flat arrays of u32 indices instead of a pointer tree — cascading into source offsets, packed token metadata, cache-resident Unicode tables, and memcpy-serializable output. (TLDR Dev)
+
+- [Shipyard: How Slack built its next-generation EC2 platform](https://tldr.tech) — Replaces the old patching model with immutable, deployable artifacts. Uses a hardened golden base image (slack-zero) that service teams layer AMIs on top of, with heavy bake phase and lightweight boot-time provisioning. (TLDR Dev)
+
+- [Earning judgment in an age of agents](https://tldr.tech) — The world is short on people who can find the right problem, tell whether the machine solved it, and finish past where the machine stopped. Seek taste and judgment on purpose — they stay durable and ungradable. (TLDR)
+
+- [Agent-device: Device automation CLI for AI agents](https://github.com) — CLI tool allowing AI agents to interact with and verify mobile applications across iOS, Android, and desktop — capturing evidence, debugging, and replaying workflows. (TLDR Dev)
+
+- [Hermes Studio: Desktop app and web console for managing Hermes Agents](https://github.com) — Real-time chat, automation, model management, session tracking, voice I/O, and a customizable environment for coding agents from a unified dashboard. (TLDR Dev)
+
+- [Guide to the data tools landscape for developers](https://tldr.tech) — Covers the data lifecycle, ETL processes, data warehouses, data lakes, and integrating data into applications for operational analytics and reporting. 48-minute read. (TLDR Dev)
+
+## Science & Health
+
+- [AI and a brain implant restored a paralyzed man's movement and touch](https://tldr.tech) — A "double neural bypass" combining a brain-computer interface, AI, and electrical stimulation of the spinal cord and brain produced long-lasting improvements in a man paralyzed from the chest down. Improvements persisted over two years. Larger trials planned. (TLDR)
+
+- [FDA approves Merck's enlicitide pill to slash cholesterol](https://tldr.tech) — The PCSK9-inhibitor pill lowers cholesterol beyond statins. List price: $315 for 30 days. Similar injectables cut heart attacks/strokes/cardiovascular deaths by 20% in high-risk people — Merck is now studying if the pill has the same effect. (TLDR)
+
+## Web Dev & Accessibility
+
+- [Use cases for aria-expanded](https://tldr.tech) — Categorizes collapsible widgets into collapsible sections and interactive elements, with implementation patterns for accessibility compliance. (TLDR Dev)
+
+## Policy & Geopolitics
+
+- [China's Xi Jinping endorses open-source AI, takes swipe at US dominance](https://tldr.tech) — Xi implicitly criticized US moves to protect its AI lead, casting China as a champion of openness. Chinese AI executives fear they can't close the gap due to restrictions on access to advanced chips. (TLDR)
+
 ## 2026-07-17
 
 ## AI Models & Launches
