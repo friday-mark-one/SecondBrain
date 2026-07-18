@@ -52,3 +52,4 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 - [x] Move notion notes
 	- [ ] Restaurant journal
 - [ ] Trading agent 
+	- [ ] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==
