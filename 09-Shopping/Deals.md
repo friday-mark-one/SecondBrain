@@ -1,5 +1,44 @@
 # Deals
 
+## 2026-07-20
+- Kohl's — Up to 85% off clearance STARTS TODAY — no date — clothing/home 🔔 [[Gift ideas]]
+- Fabletics — Your July Picks exclusive — no date — activewear 🔔 [[Gift ideas]]
+- Costco — Weekly Warehouse Insider (Rao's marinara $3.30 off, KS beef $9.99/lb, KS salad $2.50 off, Spindrift $4.20 off, Brio water cooler $50 off, PUMA backpack $5 off, and more) — Jul 20-26 — grocery/essentials 🔔
+- Bath & Body Works — something juicy new scents — no date — body care 🔔 [[Gift ideas]]
+- Macy's — 25% off dresses from Steve Madden, Avec Les Filles & more — no date — clothing 🔔
+- Kohl's — 40% off ENDS TONIGHT — expires tonight — clothing 🔔 [[Gift ideas]]
+- H&M — Up to 50% off sitewide ends tonight — expires tonight — clothing 🔔
+- Michaels Rewards — weekly creative offers — no date — crafts 🔔 [[Gift ideas]]
+- Hallmark — Hurry to spend your $2 on ornaments! — no date — holiday 🔔 [[Gift ideas]]
+- Nordstrom — Anniversary Sale: 3 trends you'll love — no date — clothing sale 🔔 [[Gift ideas]]
+- Kohl's — Your 40% off savings here today, gone tomorrow — no date — clothing 🔔
+- H&M — Last day: Up to 50% off almost everything — expires tonight — clothing 🔔
+- Lyft — Ends soon: 20% off 5 rides — expires soon — rides 🔔
+- Nordstrom Rack — Up to 60% off NEW dresses & men's shirts — no date — clothing 🔔
+- Macy's — Summer Favorites Sale up to 50% off (shorts under $40, luggage $79.99, dresses under $100, linen suits from $199.99, Breville espresso $150-200 off) — hours left — clothing/home 🔔 [[Gift ideas]]
+- UNiDAYS — Adventures on a budget this summer — no date — student deals 🔔
+- Bath & Body Works — ends today: back-to-school essentials — expires today — body care 🔔 [[Gift ideas]]
+- Michaels — BOGOs on 1,000s of items! Back to Class Sale — no date — crafts 🔔
+- J.Crew FACTORY — NEW styles added: Extra 70% off clearance — no date — clothing 🔔 [[Gift ideas]]
+- Kohl's — 40% off ends today + bring home new must-haves — expires today — clothing 🔔
+- Macy's — Up to 65% off women's swimsuits and more for the whole family — no date — clothing 🔔
+- Fabletics — A Note Re: Our New Golf Capsule — no date — activewear 🔔 [[Gift ideas]]
+- Kohl's — Open for your 40% off deal — no date — clothing 🔔
+- Michaels — Mega Clearance Event: Score up to 70% off — no date — crafts 🔔
+- Bath & Body Works — hours left to shop $5.95 body care — hours left — body care 🔔 [[Gift ideas]]
+- HomeGoods — Halloween decor — no date — home 🔔 [[Gift ideas]]
+- Chase Sapphire Reserve for Business — Earn 200,000 bonus points — no date — credit card 🔔 [[Gift ideas]]
+- Macy's — 40% off matching sets for her, polos for him & more — no date — clothing 🔔
+- Nordstrom Rack — Up to 60% off summer dresses & beach bags — no date — clothing 🔔
+- NerdWallet — Get $500 with this bank bonus — no date — financial 🔔
+- H&M — Summer-to-fall favorites from $9.99 — no date — clothing 🔔
+- Nordstrom — Anniversary Sale finds you'll love — no date — clothing sale 🔔 [[Gift ideas]]
+- Hallmark — $2 + 1 more day of Ornament Premiere! — expires today — holiday 🔔 [[Gift ideas]]
+- evo — Shop Trail Shoes, Gear & More — no date — outdoor gear 🔔
+- Bath & Body Works — treat yourself $5.95 body care today only — expires today — body care 🔔 [[Gift ideas]]
+- Kohl's — Enjoy 40% off + earn Kohl's Cash — no date — clothing 🔔
+- Macy's — Up to 60% off your summer home refresh — no date — home 🔔 [[Gift ideas]]
+
 ## 2026-07-18
 - SBI — YONO Net-Banking new look notification — no date — banking UI update, not a deal
 - Educative — last day for discounted course access (Grokking System Design, AI, AWS) — expires Sunday
