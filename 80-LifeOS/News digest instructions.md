@@ -13,9 +13,16 @@ the extract/dedup/summarize; the helpers own timing and delivery.
    - Extract each story: headline, a short tldr, article link, source.
    - **Skip sponsored/ad items** ("SPONSORED", "Together with…", "Presented by…", "Ad", affiliate blurbs).
    - **Dedup**: merge the same story across newsletters into one bullet listing all sources; drop intra-source repeats.
+   - **Link rules (CRITICAL):**
+     * TLDR newsletters use tracking redirect links (`links.tldrnewsletter.com/xxxx`). **Use those as-is** —
+       do NOT replace them with `https://tldr.tech` or any other generic fallback. The tracking links work
+       (they 302-redirect to the real article).
+     * If the email renders an explicit href/URL (e.g. `https://example.com/article`), use that.
+     * If a story has no link at all, **omit** the `[headline]()` entirely — just write the headline as
+       plain text. Never invent or substitute a placeholder URL.
    - Group by topic (choose topics from the content). Format each bullet:
      `- [headline](link) — tldr  (Source A, Source B)`. Use the source's own headline+blurb
-     as-is when it has one; keep each tldr **between 3 & 10 lines**. Omit the link if none. No `📰`/date
+     as-is when it has one; keep each tldr **between 3 & 10 lines**. No `📰`/date
      title line — `publish` adds those.
 5. If there is at least one story: `node 80-LifeOS/_scripts/news.js publish /tmp/news-digest.md`.
    (Zero stories after filtering → skip publish; no empty digest.)
