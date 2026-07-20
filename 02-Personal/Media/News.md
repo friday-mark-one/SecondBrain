@@ -1,5 +1,66 @@
 # News
 
+## 2026-07-20
+
+## AI & Models
+
+- [Qwen3.8 is going open-weight](https://links.tldrnewsletter.com/Iybxpo) — Alibaba announced Qwen3.8, a 2.4-trillion-parameter model slated for an open-weight release. A preview is available through Alibaba's Token Plan, Qoder, and QoderWork. (TLDR AI)
+- [Claude Fable 5 will be included in all Max and Team Premium plans](https://links.tldrnewsletter.com/P1nvwj) — Fable 5 included at 50% of limits starting July 20. Pro and Team Standard users get a one-time $100 credit. Rollout is staged as demand is hard to predict. (TLDR AI)
+- [Fable 5 vs. GPT-5.6 SOL on an NP-hard problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/?utm_source=tldrai) — Claude Code and Codex both have /goal but implement it fundamentally differently. Claude Code uses a session-scoped Stop hook; Codex treats it as persisted thread state. Using /goal can amplify bad decisions as much as good ones. (TLDR AI)
+- [Demis Hassabis and Google's AI commitments](https://thezvi.substack.com/p/demis-hassabis-on-the-new-coming?utm_source=tldrai) — Examines Hassabis's framework for frontier AI alongside criticism of Google's military agreements, including Alex Turner's resignation over opposition to broad government use of Google's models. (TLDR AI)
+- [The Kimi K3 moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/?utm_source=tldrdev) — Kimi K3 offers comparable performance to Claude at much lower costs, highlighting US policy failures that restrict American models while allowing international competitors to thrive. (TLDR Dev)
+- [Kimi K3 has received far more love than expected](https://links.tldrnewsletter.com/Ncpih8) — Kimi temporarily pausing new subscriptions, prioritizing compute for current members. (TLDR AI)
+
+## Big Tech & Enterprise
+
+- [Meta in talks to lease computing power to Anthropic in potential $10B deal](https://links.tldrnewsletter.com/9m4Uyc) — Anthropic proposed a computing deal worth up to $10B over two years. Meta would make monthly payments with early opt-out options. Could open a new revenue stream for Meta until its own AI demand catches up. (TLDR)
+- [Apple sends legal letters to dozens of OpenAI employees](https://www.macrumors.com/2026/07/17/apple-sends-legal-letters-openai/?utm_source=tldrai) — Apple instructs former employees now at OpenAI to preserve documents related to Apple's trade secret lawsuit. Over 400 former Apple employees now work at OpenAI. OpenAI denies the allegations. (TLDR AI)
+- [Apple, Nvidia vie for title of world's most valuable company](https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html?utm_source=tldrnewsletter) — Apple briefly became the world's most valuable company on Friday. (TLDR)
+
+## AI Infrastructure & Chips
+
+- [Alibaba open-sources its AI chip software stack, targeting NVIDIA's CUDA lock-in](https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative?utm_source=tldrai) — Alibaba open-sourcing SAIL for its Zhenwu AI chips. Lower migration barriers for devs locked into CUDA. The Pentagon recently added Alibaba to its Chinese military companies blacklist. (TLDR AI)
+- [SpaceX in talks to provide computing power for Pentagon's AI push](https://links.tldrnewsletter.com/1Hy09U) — SpaceX discussing billions in computing capacity for Defense Department. Some officials concerned about over-reliance on Elon Musk's services. Pentagon seeking $30B for AI chip initiative. (TLDR)
+- [Why the first GPU financiers are turning to inference chips in a $400M deal](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/?utm_source=tldrai) — General Compute, an AI inference cloud startup, using inference-specific chips as collateral for a $400M loan. (TLDR AI)
+- [Moonshot AI plans Hong Kong IPO after Kimi K3 model debut](https://finance.yahoo.com/markets/stocks/articles/moonshot-ai-plans-hong-kong-123000193.html?utm_source=tldrai) — Plans to list on the Hong Kong Stock Exchange within six months. (TLDR AI)
+
+## LLM Serving & Engineering
+
+- [How Netflix built its LLM serving stack](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?utm_source=tldrai) — Netflix developed an in-house LLM serving platform using vLLM and Triton, with A/B testing and efficient model routing, rather than relying on external hosted APIs. (TLDR AI, TLDR Dev)
+- [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration?utm_source=tldrnewsletter) — Code migrations were multi-year endeavors — now a six-step process with Claude Code. Core principle: fix the process that produces code rather than fixing the code itself. (TLDR)
+- [A practical guide to reducing token spend](https://www.adamhjk.com/blog/a-practical-guide-to-reducing-token-spend/?utm_source=tldrdev) — "Swamp workflows" structure complex tasks into deterministic code. For a code review task, this decreased token usage by 8× and cut execution time in half compared to traditional skills. (TLDR Dev)
+- [Fetch needs error codes](https://jasnell.me/posts/fetch-needs-error-codes?utm_source=tldrdev) — Fetch collapses every network failure into a bare TypeError. A TC39 proposal adds a standardized .code property to Error via a small taxonomy of abstract codes. (TLDR Dev)
+- [Diffusing blame: Dale-constrained learning without weight transport](https://links.tldrnewsletter.com/9VQbmE) — Sakana AI's technique enforces Dale's principle while enabling effective learning, using non-negative weight matrices for biologically plausible learning rules. (TLDR AI)
+
+## AI in Society & Work
+
+- [AI-native companies have tiny staffs and fewer bosses](https://links.tldrnewsletter.com/PwqJtV) — New generation of AI-infused companies have fewer workers, more engineers, and flatter structures with everyone as player-coaches. A proving ground for the philosophy corporate giants are trying to adopt through reorganizations and de-layering. (TLDR)
+- [AI mania is eviscerating global decision-making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking?utm_source=tldrnewsletter) — Most businesses believe in AI's transformative power, leading to irrational decisions and failed projects. Many aren't getting real productivity gains, yet it's still pushed, stifling honest discussions about limitations. (TLDR, TLDR Dev)
+- [Maybe intelligence ain't all that](https://links.tldrnewsletter.com/nQJ49J) — AI chatbots are smarter than many people but there's been no usage explosion. Coming up with ideas was never the hard part — most problems can't be solved at a desk by thinking. (TLDR)
+- [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired?utm_source=tldrdev) — Developers experience a complex mix of usefulness and destabilization with LLMs, leading to unique fatigue from constant oversight and judgment of AI outputs. Software engineering skills are shifting, not disappearing. (TLDR Dev)
+
+## Code & Tools
+
+- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code?utm_source=tldrai) — AI coding agent that runs in the terminal. Can read and edit code, run shell commands, search files, fetch web pages. Works with Moonshot AI's Kimi models and configurable for other providers. Supports agent skills, hooks, sub-agents, and MCPs. (TLDR AI)
+- [Scroll-World](https://github.com/oso95/scroll-world?utm_source=tldrnewsletter) — Skill that turns any brand into a scrollable 3D world. Works with Claude Code, Codex, and any SKILL.md-compatible agent. (TLDR)
+- [LoopGain](https://github.com/loopgain-ai/loopgain?utm_source=tldrdev) — Open-source tool to optimize AI agent loops by measuring real-time performance and stopping iterations when they no longer improve, reducing costs and maintaining quality. (TLDR Dev)
+- [ReactBench](https://github.com/millionco/reactbench?utm_source=tldrdev) — Eval framework for coding agents focused on realistic React tasks: behavioral tests, performance, accessibility, and code quality. (TLDR Dev)
+- [TopCoat](https://github.com/tokio-rs/topcoat?utm_source=tldrdev) — Modular Rust framework for building full-stack apps with server-rendered components and client-side reactivity, minimal boilerplate. (TLDR Dev)
+- [Review the actual change, not the file list](https://packagemain.tech/p/review-the-actual-change-not-the?utm_source=tldrdev) — AI code review tools like CodeRabbit organize changes into logical walkthroughs, identifying complex dependencies rather than flat file lists. (TLDR Dev)
+
+## Quick Hits
+
+- [An AWS billing bug sent users estimated charges of up to $2.5 trillion](https://thenextweb.com/news/aws-billing-bug-billion-dollar-estimates?utm_source=tldrnewsletter) — Amazon confirmed a unit pricing error, recomputing all estimates. (TLDR, TLDR Dev)
+- [Are the LLM wars the database wars?](https://rruxandra.github.io/llm-wars-database-wars.html?utm_source=tldrnewsletter) — LLMs may become ubiquitous infrastructure like databases. The most successful database systems today weren't part of the initial competitive race. (TLDR, TLDR Dev)
+- [Coding too fast to collaborate](https://chrisloy.dev/post/2026/07/19/coding-too-fast-to-collaborate?utm_source=tldrdev) — AI coding agents disrupt collaboration: faster coding but reduced technical design discussions, fragmented requirements, worse code reviews. (TLDR Dev)
+- [Google preparing Skills and Gemini Live for web rollout](https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/?utm_source=tldrai) — Google plans to bring Gemini Live's real-time voice capabilities to desktop and web beyond mobile. (TLDR AI)
+- [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/?utm_source=tldrai) — Use cheap models to find information, accurate models to verify it, deep research last. (TLDR AI)
+
+## Science & Space
+
+- [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/?utm_source=tldrnewsletter) — Skyroot Aerospace's Vikram-1 launched into a 280-mile-high orbit from the Bay of Bengal. First private Indian orbital rocket to reach orbit on its first attempt. A second launch possible before year-end. (TLDR)
+- [China joins rush to rethink the smartphone for the AI era](https://links.tldrnewsletter.com/vpNPtZ) — ZTE's NaviX Ultra, called the world's first agentic smartphone, pulls up ByteDance's AI agent Doubao with a voice command or button press. (TLDR)
+
 ## 2026-07-18
 
 ## AI & LLMs
