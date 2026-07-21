@@ -7,7 +7,10 @@ pinned: true
 
 - [ ] Check wedding album
 	- [ ] Photoshop photos
-- [ ] Mock interview for Mira
+- [ ] Engine oil
+- [ ] Car service
+- [ ] Water tax
+
 - [ ] Investment
 	- [ ] 401k
 	- [ ] IRA
