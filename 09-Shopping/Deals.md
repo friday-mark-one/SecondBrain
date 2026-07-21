@@ -1,5 +1,53 @@
 # Deals
 
+## 2026-07-21
+- Kohl’s — 40% off is here ... time to shop 🛒 — no date
+- Domino's Pizza — Your Chance to Win a  Domino’s e-Gift Card! — no date
+- Macy's — Petite styles that fit *just* right — no date
+- Emmanuel at CardPointers — Your offer streak: 0 weeks — no date
+- Fabletics — Your next rotation starts here.​ — no date
+- point.me — ✨ Reminder: Your NEW Explore feature is here — no date
+- HomeGoods — Quality styles & dorm savings? ✅​ — no date
+- Going Flight Deals — 🇭🇰 Hong Kong —   (Sep-Nov / Jan-Feb / May) — no date
+- Michaels — 🚀 3... 2... 1... The back-to-school countdown is ON with 40% off classroom décor. — no date
+- Lumosity — 💡🧠 What makes you, you? — no date
+- NerdWallet — Know you have the cheapest car insurance 🚙 — no date
+- MOD Pizza — Summer of Rewards:  Summer of Rewards: Cool down with a FREE Drink ​ — no date
+- NORDSTROM RACK — A.L.C. & SIMKHAI Up to 60% Off | Rebecca Taylor, Parker & More Up to 70% Off — no date
+- Chipotle Rewards — One order. Two Wins. 😎 — no date
+- Devin Riley — Rediscover your wellness destination at Life Time — no date
+- H&M — Elevated leisure — no date
+- SKECHERS STORES — In-Store Exclusive: BOGO 50% off for Back-to-School — no date
+- Going Flight Deals — 🔥🥘 Vancouver to Barcelona —   (Oct-Jan / Mar) — no date
+- Going — Last summer hurrah? 2 hacks to get you jet-setting — no date
+- Cinemark Theatres — Tickets on sale now for AVENGERS: DOOMSDAY! — no date
+- Michaels — The Party Shop at Michaels has everything you need starting at 99¢! — no date
+- Bath & Body Works — your moisturizing routine just got juicier. 🍉🫐🍌🍊 — no date
+- Kohl’s — Up to 85% off clearance STARTS TODAY ➡️ — no date
+- Fabletics — Your July Picks — no date
+- Costco Wholesale — Your Weekly Warehouse Insider! — no date
+- Bath & Body Works — something juicy is waiting for you…🍉🫐🍊🍌 — no date
+- Macy's — 25% off dresses from Steve Madden, Avec Les Filles & more — no date
+- Kohl’s — 40% off ENDS TONIGHT 🚨 — no date
+- H&M — Up to 50% off sitewide ends tonight — no date
+- Michaels Rewards — Creative pick-me-up! ☕ Your weekly Rewards offers are here ➡️ — no date
+- Hallmark — Hurry to spend your  on ornaments! — no date
+- NORDSTROM Anniversary Sale — 3 trends you’ll 💛 — no date
+- NerdWallet — 🏅 Calculate your car insurance costs — no date
+- Kohl’s — Your 40% off savings are here today, gone tomorrow ... — no date
+- H&M — Last day: Up to 50% off almost everything — no date
+- Lyft — Ends soon: 20% off 5 rides — no date
+- NORDSTROM RACK — Up to 60% off NEW dresses & men’s shirts — no date
+- Macy's — Up to 50% off: hours left for our Summer Favorites Sale — no date
+- UNiDAYS — Adventures on a budget this summer 🧡 — no date
+- Bath & Body Works — ✍️ ends today: back-to-school essentials. — no date
+- Michaels — BOGOs on 1,000s of items! Shop our Back to Class Sale ASAP ---> — no date
+- J.Crew FACTORY — NEW styles added: Extra 70% off clearance — no date
+- Kohl’s — 40% off ends today + bring home new must-haves ⏳ — no date
+- Huel — Is your fitness tracker working against you? ⌚️ — no date
+- Macy's — Up to 65% off women's swimsuits and more for the whole family — no date
+- Fabletics — A Note Re: Our New Golf Capsule 🏌️‍♀️ — no date
+
 ## 2026-07-20
 - Kohl's — Up to 85% off clearance STARTS TODAY — no date — clothing/home 🔔 [[Gift ideas]]
 - Fabletics — Your July Picks exclusive — no date — activewear 🔔 [[Gift ideas]]
