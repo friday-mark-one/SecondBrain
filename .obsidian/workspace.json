@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Food/Recipes/Jaljeera.md",
+                "file": "01-Tasks/Todo.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,8 +28,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jaljeera"
-            }
+              "title": "Todo"
+            },
+            "group": "0308b494e360a364"
+          }
+        ]
+      },
+      {
+        "id": "a85d154c2db8a394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df3e4d14df1447e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "0308b494e360a364"
           }
         ]
       }
@@ -204,10 +222,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "61af7151f2bb4ae0",
+  "active": "df3e4d14df1447e6",
   "lastOpenFiles": [
-    "08-Food/Recipes/Sev Puri.md",
+    "01-Tasks/Todo.md",
+    "03-Career/Interview prep 2024/TODO/TODO.md",
+    "04-Finance/Referrals.md",
+    "90-Archive/Task-List/Task List/Car/Car.md",
+    "90-Archive/Task-List/Task List/Car/Car (table).md",
+    "90-Archive/Task-List/Task List/Task List.md",
+    "90-Archive/Task-List/Task List/Task List New Task.md",
+    "06-Learning/GaTech/Masters tasks/Masters tasks.md",
+    "06-Learning/GaTech/Masters tasks/Masters tasks New page.md",
+    "90-Archive/Learning/Academic/Academic.md",
+    "90-Archive/Career/Work/Work.md",
+    "04-Finance/Referral codes.md",
     "08-Food/Recipes/Jaljeera.md",
+    "08-Food/Recipes/Sev Puri.md",
     "08-Food/Restaurants journal.md",
     "80-LifeOS/logs/07-21-26.md",
     "80-LifeOS/logs/07-20-26.md",
@@ -217,21 +247,9 @@
     "80-LifeOS/logs/07-16-26.md",
     "00-Dashboard/Scratch pad.md",
     "90-Archive/Task-List/Task List/Task List New page.md",
-    "90-Archive/Task-List/Task List/Task List New Task.md",
-    "90-Archive/Task-List/Task List/Task List.md",
     "90-Archive/Task-List/Task List/Indoor plant.md",
     "90-Archive/Task-List/Task List/Dopp kit.md",
-    "90-Archive/Task-List/Task List/Car/Car (table).md",
-    "90-Archive/Task-List/Task List/Car/Car.md",
     "90-Archive/Projects/_index.md",
-    "07-Projects/DALL-E prompts.md",
-    "07-Projects/Domain names.md",
-    "90-Archive/Personal/Personal Home/Vision improvement.md",
-    "09-Shopping/Shopping.md",
-    "04-Finance/Referrals.md",
-    "02-Personal/QOL improvement.md",
-    "90-Archive/Personal/Personal Home/Personal Home.md",
-    "90-Archive/Personal/Personal Home/Mira.md",
     "10-Admin/Untitled.base",
     "Untitled.base",
     "80-LifeOS/_scripts/commands/after-shopping.js",

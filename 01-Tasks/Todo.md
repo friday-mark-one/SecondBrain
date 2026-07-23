@@ -9,7 +9,7 @@ pinned: true
 	- [ ] Photoshop photos
 - [ ] Engine oil
 - [ ] Car service
-- [ ] Phillips talk to cus
+- [ ] Phillips talk to customer care
 - [ ] Water tax
 - [ ] Investment
 	- [ ] 401k
@@ -35,6 +35,5 @@ pinned: true
 - [ ] dietician with kaiser
 - [ ] Futureme letter
 - [ ] GTA V
-- [ ] Renew Canada visa
 - [ ] Restring rackets
 - [ ] TreasuryDirect mail
