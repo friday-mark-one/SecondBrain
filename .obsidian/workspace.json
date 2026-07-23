@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Food/Restaurants journal.md",
+                "file": "08-Food/Recipes/Jaljeera.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Restaurants journal"
+              "title": "Jaljeera"
             }
           }
         ]
@@ -206,6 +206,9 @@
   },
   "active": "61af7151f2bb4ae0",
   "lastOpenFiles": [
+    "08-Food/Recipes/Sev Puri.md",
+    "08-Food/Recipes/Jaljeera.md",
+    "08-Food/Restaurants journal.md",
     "80-LifeOS/logs/07-21-26.md",
     "80-LifeOS/logs/07-20-26.md",
     "80-LifeOS/logs/07-19-26.md",
@@ -229,9 +232,6 @@
     "02-Personal/QOL improvement.md",
     "90-Archive/Personal/Personal Home/Personal Home.md",
     "90-Archive/Personal/Personal Home/Mira.md",
-    "90-Archive/Personal/Personal Home/Home menu.md",
-    "90-Archive/Personal/Personal Home/Global Entry.md",
-    "90-Archive/Personal/Personal Home/Frequently required details.md",
     "10-Admin/Untitled.base",
     "Untitled.base",
     "80-LifeOS/_scripts/commands/after-shopping.js",

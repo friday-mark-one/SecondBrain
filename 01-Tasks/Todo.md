@@ -9,8 +9,8 @@ pinned: true
 	- [ ] Photoshop photos
 - [ ] Engine oil
 - [ ] Car service
+- [ ] Phillips talk to cus
 - [ ] Water tax
-
 - [ ] Investment
 	- [ ] 401k
 	- [ ] IRA
