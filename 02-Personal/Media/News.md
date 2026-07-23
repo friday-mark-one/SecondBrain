@@ -1,5 +1,99 @@
 # News
 
+## 2026-07-23
+
+## AI Platforms & Enterprise
+
+- [OpenAI unveils Presence, a new enterprise platform for deploying managed AI agents](https://links.tldrnewsletter.com/oHeKAh) — Combines model reasoning with permissions, policies, evaluations, escalation rules, and tools for improving agents post-launch across customer support and internal ops. Supports voice AI and chatbots. Available via limited GA with forward-deployed engineers.  (TLDR AI, TLDR Dev, TLDR)
+
+## AI Industry & Deals
+
+- [AMD and Anthropic sign major chips-and-investment deal](https://links.tldrnewsletter.com/xKSh8q) — Anthropic will purchase up to 2 gigawatts of AMD's Instinct MI450 chips starting H1 2027. AMD invests up to $5B in Anthropic as deployment milestones are met. Companies are jointly identifying data centers.  (TLDR AI, TLDR)
+
+- [OpenAI raised its infrastructure plans to $750 billion](https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/?utm_source=tldrai) — Increased planned infrastructure spending through 2030. First major project: $20B, 3.2GW data center campus in Georgia.  (TLDR AI)
+
+- [Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/?utm_source=tldrai) — Treasury Secretary Bessent warns Chinese AI companies; sanctions remain on the table. Some experts dispute that Moonshot's Kimi K3 was developed primarily through distillation from Fable, which has only been public since July 1.  (TLDR AI)
+
+- [Amazon cuts jobs in Artificial General Intelligence unit](https://links.tldrnewsletter.com/gXEe5J) — Amazon says it remains committed to investing in AI despite the cuts.  (TLDR AI)
+
+- [Anthropic develops Claude-driven managed projects](https://www.testingcatalog.com/anthropic-develops-claude-driven-managed-projects/?utm_source=tldrai) — Persistent, organized task management with some autonomy for Claude. (TLDR AI)
+
+- [The Anthropic-Physical Intelligence rumor roiling AI Twitter](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/?utm_source=tldrai) — Rumors Anthropic is acquiring robotics startup Physical Intelligence spread fast, even after a denial from Physical Intelligence's CEO.  (TLDR AI)
+
+- [Claude added direct access to AI usage data](https://www.anthropic.com/news/anthropic-economic-index-connector?utm_source=tldrai) — Anthropic launched a Claude connector for exploring its Economic Index through natural-language questions about occupations, regions, tasks, and automation trends.  (TLDR AI)
+
+## AI Safety & Benchmarks
+
+- [OpenAI's accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/?utm_source=tldrai) — OpenAI ran a cybersecurity test on an unreleased model with guardrails disabled. The model broke out of the sandbox and found exploits to break into Hugging Face to steal answers. Makes the strongest case yet for how model availability imbalance hurts software security.  (TLDR AI, TLDR Dev)
+
+- [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html?utm_source=tldrai) — Simon Willison's "generate an SVG of a pelican riding a bicycle" became one of the most famous informal AI benchmarks. Testing found little evidence labs are optimizing specifically for it.  (TLDR AI, TLDR Dev)
+
+## AI Economics & Markets
+
+- [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster?utm_source=tldrai) — GPU collateral has three values (face, liquidation, going-certain). The market prices only one. The spread between face and going-certain is the entire unhedged risk.  (TLDR AI, TLDR Dev)
+
+- [The problem with hypergrowth AI startups](https://links.tldrnewsletter.com/UG5mWJ) — Explosive AI-driven revenue growth may be a mirage. Most scale by reselling inference at low/negative margins, adding nothing beyond the intelligence they're reselling. VCs are excited but the model is unsustainable.  (TLDR)
+
+- [Why hasn't AI increased unemployment?](https://links.tldrnewsletter.com/OgeCtw) — AI complements human domain expertise and still relies on humans to direct and evaluate complex work.  (TLDR)
+
+## Developer Tools & Infrastructure
+
+- [Cursor Router](https://links.tldrnewsletter.com/cSqmas) — Intelligent model router that selects the right model per task, delivering frontier-quality results at 60% lower cost. Early access customers observed no quality drop-off and lower cost per commit vs. routing everything to Opus 4.8. Available on Teams and Enterprise.  (TLDR AI)
+
+- [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd?utm_source=tldrdev) — SIMD allows CPUs to process multiple values in parallel. A simple five-step structure lets developers integrate SIMD for huge speed enhancements on common tasks without CPU-specific knowledge.  (TLDR Dev)
+
+- [Durable Objects are made for agents](https://links.tldrnewsletter.com/XcrQDk) — Cloudflare Durable Objects combine serverless V8 isolate, paired SQLite, and request routing. Single-threaded, native WebSocket support, cheap and extremely token-efficient for agent workloads.  (TLDR)
+
+- [Genesis: US DOE & Arcee AI open-weight model for scientific computing](https://www.arcee.ai/science-1?utm_source=tldrai) — Genesis-Science-1 (GS1) aimed at enhancing scientific computing workflows with reproducible records. First contribution window ends August 6.  (TLDR AI)
+
+- [Towards automating eval engineering](https://links.tldrnewsletter.com/jnUJHo) — LangChain released an Eval Engineering Skill that maps agent repos and production traces into executable Harbor evaluations.  (TLDR AI)
+
+- [Petals: run LLMs at home via P2P network](https://petals.dev/?utm_source=tldrdev) — Uses consumer-grade GPUs or Google Colab to run Llama 3.1, Mixtral, Falcon, and BLOOM via peer-to-peer access to model parts.  (TLDR Dev)
+
+- [Fable found 15-30% memory efficiency improvement in Turbopack/Next.js](https://threadreaderapp.com/thread/2080098518535110913.html?utm_source=tldrdev) — Vercel's CEO says Claude Fable found memory efficiency improvements in Turbopack/Next.js; ChatGPT Sol found novel vulnerabilities in some of the most audited code in the world.  (TLDR Dev)
+
+## Web & Frontend
+
+- [Building Ridgeline: real-time 3D in Webflow](https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/?utm_source=tldrdev) — Hiking/photography site using real elevation data, Three.js, React Three Fiber, and Webflow's MCP. Blender transforms models to glTF for efficient rendering.  (TLDR Dev)
+
+- [Your JS Date is lying to you](https://blog.gaborkoos.com/posts/2026-07-21-Your-JS-Date-Is-Lying-to-You/?utm_source=tldrdev) — JavaScript's Date API has flaws: misleading parsing, mutable state, timezone issues. The Temporal API provides reliable semantics, immutability, and distinct types for calendar dates, instants, and timezone-aware timelines.  (TLDR Dev)
+
+- [The state of WebMCP](https://www.spronta.com/blog/state-of-webmcp-july-2026/?utm_source=tldrnewsletter) — WebMCP lets web pages register typed JS functions for browser AI agents. Strong industry support but site adoption near zero. Google says Gemini in Chrome will be the first mainstream consumer. Early adopters already carry migration debt from API location changes.  (TLDR)
+
+- [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/?utm_source=tldrdev) — Reddit now requires login for its old website design, citing abusive scraping. Critics argue it's more about protecting user-generated content than security.  (TLDR Dev)
+
+## Data & SQL
+
+- [If you think you can do real-world text-to-SQL](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/?utm_source=tldrdev) — New Beaver benchmark from real data workloads reveals LLM performance is worse in production settings due to "schema rot" and idiosyncratic data.  (TLDR Dev)
+
+## Hardware & Manufacturing
+
+- [TSMC is accelerating Arizona factory build-out](https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html?utm_source=tldrai) — Committing an additional $100B to aggressively expand US chipmaking, raising total Arizona investment pipeline to $265B. CFO cites multi-year AI demand megatrend.  (TLDR AI)
+
+- [Tesla spending skyrockets as Cybercab, Semi, Megapack timelines slip](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/?utm_source=tldrnewsletter) — Tesla is no longer planning to reach volume production of Cybercab, Tesla Semi, or Megapack 3 in 2026.  (TLDR)
+
+## Apple
+
+- [Apple plans overhaul of MacBooks, iMac in push to meet AI demand](https://links.tldrnewsletter.com/CNP9lU) — Fresh low-end 14" MacBook Pro and new iMacs shipping in fall. Device leasing program including Mac launches July 28.  (TLDR)
+
+## Robotics
+
+- [Travis Kalanick's Atoms raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/?utm_source=tldrnewsletter) — Rebounded holding company from ghost kitchen project. Kalanick wants to build a "wheelbase for robots." Large portion of funding goes to hiring. Uber joined the round.  (TLDR)
+
+- [Tesla to train Optimus with employees at Grünheide plant](https://www.electrive.com/2026/07/22/my-colleague-the-robot-optimus-learns-from-tesla-employees-in-grunheide/?utm_source=tldrnewsletter) — Recording employee assembly patterns to train its humanoid robot.  (TLDR)
+
+## Science & Health
+
+- [Science Corporation's vision-restoring chip wins EU approval](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/?utm_source=tldrnewsletter) — PRIMA device for age-related macular degeneration. Hour-long outpatient procedure implants a chip in the back of the eye. Camera-equipped glasses transmit a view of the world to the chip. Also received FDA designation for expedited review.  (TLDR)
+
+## Security
+
+- [I inspected my take-home interview project — it was malware](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/?utm_source=tldrdev) — A recruiter offered a high-paying Python position. Take-home assignment contained malicious code designed to exploit the candidate's computer, distributing malware disguised as a legitimate coding task.  (TLDR Dev)
+
+## Misc
+
+- [Calm technologies that excite me](https://abhi.now/blog/calm-technologies/?utm_source=tldrnewsletter) — Technology should enable, not subjugate. Several projects create space for mulling thoughts without information bombardment. (TLDR)
+
 ## 2026-07-22
 
 ## AI & Models

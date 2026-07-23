@@ -1,5 +1,96 @@
 # Deals
 
+## 2026-07-23
+- Genesis Of Kirkland — Bharath, It’s Time For Important Maintenance — expires no date
+- Michaels — Deals you’re gonna ❤️ ❤️ ❤️ — expires no date
+- Nomatic — Luggage That Lasts. — expires no date
+- Macy'S — Kid-approved styles with main-character energy — expires no date
+- Club Pilates Bothell — Club Pilates Core Collective Newsletter - Summer Edition '26 — expires no date
+- Nerdwallet — 🎉 High-yield savings accounts are still earning a lot — expires no date
+- Apple Pay — Get $20 off $120+ at Columbia for your next adventure. ☀️🏕️ — expires no date
+- Nordstrom Rack — Up to 60% off Theory, Vince & more — up to 60% — expires no date
+- Devin Riley — We'd love to welcome you back! — expires no date
+- H&M — New arrivals: Back to school — expires no date
+- Pointsyeah Com — 🚨 Last Call! Do Not Miss 100k on the Sapphire Preferred — expires ends at 9
+- Skechers — Going, going... shop before they're gone — expires no date
+- Macy'S — 50-75% off dresses & suits for summer occasions — 75% off — expires no date
+- Bath & Body Works — get glowing: $12.95 3-wicks start now. ✨ — $12.95 — expires no date
+- J Crew Factory New Arrivals — All tees & shorts, all 40%–60% off, including new arrivals! — 60% off — expires no date
+- Michaels — Unbeatable markdowns: Up to 70% OFF summer favorites — up to 70% — expires no date
+- Kohl’S — JUST IN: Get Instant Kohl's Cash + score 3X rewards 🤑 — expires no date — code later
+- Bellevue Badminton Club — Big Week at BBC: Grand Opening, Session 6 Begins & Mixer Discounts — expires no date
+- Macy'S — Handbags under $50 + 60% off more great gifts — 60% off — expires no date
+- Bath & Body Works — ⏰ set your alarms, you don't want to miss this $12.95 deal tomorrow. 🤭 — $12.95 — expires no date
+- Famous Footwear — The latest from LifeStride 🔥 — expires no date
+- Fabletics — One Collection. All Summer. — expires no date
+- Kohl’S — ENDS TONIGHT: 40% off is on its way out ... — 15% off — expires ENDS TONIGHT
+- Macy'S — Up to 60% off underwear, socks & more for the whole family — up to 60% — expires no date
+- Kitty From Turbotax — Tax changes this year could work in your favor — expires no date
+- Nordstrom — Don't miss an extra 25%-40% off select Designer Clearance — 40% off — expires no date
+- Point Me — Europe for 7K in economy, Tokyo for 60K in biz! ✈️ 🗼 💫 — expires no date
+- Going Flight Deals — 📉🌈 *price drop* Hawaii — $332 to $356 (Sep-Nov / Jan-Feb) — expires no date
+- Nerdwallet — Keep your money safe 🔒 — expires no date
+- Macy'S — Jo Malone London, Miu Miu & more bring summer heat 🔥 — expires no date
+- Xfinity — Help keep your data protected in three easy steps — expires no date
+- Going Flight Deals — 🌉 Pittsburgh — $247 (Aug-May) — expires no date
+- Michaels — 📢 Don’t Miss — get more for less! — expires no date
+- Homegoods — Name a better duo than this 👀 — expires no date
+- Unidays — Don’t overpay for school essentials 📦 — expires no date
+- Nordstrom Rack — Up to 60% off day dresses from Calvin Klein & more — up to 60% — expires no date
+- H&M — Today only: 15% off sitewide — 15% off — expires no date
+- Life Time — Your Weekly Wellness Guide from Life Time — expires no date
+- Fullscript — Save 15% on wellness products from Fullscript — expires no date
+- Nerdwallet — Looking for cheap insurance? — expires no date
+- Id Me Shop — Grab 15% off HOKA, 40% off Under Armour, 20% off Stanley, and more deals for Students — 15% off — expires no date
+- Going — 💥 Half off Elite. Business class included — expires no date
+- Macy'S — $199 diamond jewelry + more epic deals for Black Friday in July — expires no date
+- Bath & Body Works — 🍂 cozy up: $3.95 Wallflowers end today. — $3.95 — expires end today
+- J Crew Factory New Arrivals — 365 NEW ARRIVALS: Extra 20% off orders $125+ (!!) — 20% off — expires no date
+- Michaels — It’s Christmas in July! 🎄 Get up to SIXTY PERCENT off trees and more for a limited time. — no date
+- Kohl’s — EXTENDED: Enjoy 40% off for an extra day 👉 — no date
+- EaseMyTrip — Book Once, Then Chill😎 — no date
+- The Leela Palaces — A Celebration Woven in India's Heritage — no date
+- J.P. Morgan Wealth Management — get up to $1,000 cash bonus when you invest for your future — no date
+- Kohl’s — HOURS LEFT ⏳ 40% off is going, going ... — no date
+- Capital One — explore new Venture X benefits — no date
+- Best Buy — Your reward is available to redeem, Bharath — no date
+- PointsYeah — ✈️ 60k+ Pts for Business Class to Tokyo, Bangkok, Phuket and More! — no date
+- Apple Card — Your credit limit offer is ready to preview. — no date
+- Genesis Motor America — the 2027 Genesis GV70 has arrived — no date
+- Chase Sapphire — Activate your complimentary year of Apple TV — no date
+- Going — 💳 With Points: *nonstop* Singapore Economy Class — 62k roundtrip — no date
+- Fabletics — IT'S BACK: CLOUD JERSEY — no date
+- Huel — We made too much: Daily Greens RTD — no date
+- Macy’s — Pack your carry-on with these vacay-ready brands 🧳☀️ — no date
+- NerdWallet — 🎉 High-yield savings accounts are still earning a lot — no date
+- Going — 🏄 San Diego —  $137 (Sep-Oct) — no date
+- Chase Sapphire — Bhargav, Refer friends to either Sapphire card and earn up to 100,000 bonus points. — no date
+- Nordstrom Rack — MCM & More Up to 40% Off | 3.1 Phillip Lim Up to 75% Off — no date
+- NerdWallet — Calculate Your Way to Car Insurance Savings 🤓 — no date
+- Michaels — 🥳 🎊 Score new lower prices on HUNDREDS of party supplies! — no date
+- Going — Now is the time to use your points — no date
+- Dell Rewards — Go back to school with 2X Dell Rewards — no date
+- Macy’s — Today only! Extra 20% off designer clearance in the app — no date
+- H&M — New in: Parisian-style tableware — no date
+- Skechers — Care Bears x Skechers - The collab you didn't know you needed — no date
+- Vida Integrated Health — Discounts Now Available at More Pure Barre Locations! — no date
+- OpenRouter — Muse Spark 1.1: Meta's agentic coding model, now on OpenRouter — no date
+- Wells Fargo — Get early access tickets to Benson Boone — no date
+- Macy’s — Black Friday in July is HERE: up to 60% off our top deals for summer — no date
+- SiriusXM — Rethinking SiriusXM? Start for $1 for first 3 months. — no date
+- Bath & Body Works — score all your juicy, hydrating faves. 😉 — no date
+- Michaels — 🧵Thread. Needle. Stitch. Go!🪡 — no date
+- Kohl’s — 40% off is here ... time to shop 🛒 — no date
+- Kohl’s — Open for your 40% off deal 😍 — no date
+- NerdWallet — Looking for cheap insurance? — no date
+- Michaels — Did someone say epic deals? 👂 We did! Score up to 70% off during Mega Clearance. — no date
+- point.me — How to multiply your points earning 📈 🚀 💸 — no date
+- Bath & Body Works — ⌚ hours left to shop $5.95 body care. — no date
+- HomeGoods — Open if you dare...🎃 — no date
+- Chase Sapphire Reserve — Earn 200,000 bonus points with the new Chase Sapphire Reserve for Business℠ card. — no date
+- Edmunds — SUVs with the best MPG. Ranking all SUVs. Free online car appraisal. — no date
+- Macy’s — 40% off matching sets for her, polos for him & so much more — no date
+
 ## 2026-07-21
 - Kohl’s — 40% off is here ... time to shop 🛒 — no date
 - Domino's Pizza — Your Chance to Win a  Domino’s e-Gift Card! — no date
