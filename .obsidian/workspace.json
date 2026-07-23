@@ -11,13 +11,24 @@
             "id": "61af7151f2bb4ae0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "08-Food/Restaurants/Restaurants.base",
-                "viewName": "All"
+                "file": "00-Dashboard/Scratch pad.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Restaurants"
+              "icon": "lucide-file",
+              "title": "Scratch pad"
             }
           }
         ]
@@ -195,9 +206,10 @@
   },
   "active": "61af7151f2bb4ae0",
   "lastOpenFiles": [
+    "01-Tasks/Todo.md",
+    "08-Food/Restaurants/Restaurants.base",
     "80-LifeOS/logs/07-22-26.md",
     "08-Food/Restaurants/The Pink Door.md",
-    "08-Food/Restaurants/Restaurants.base",
     "08-Food/Restaurants/Din Tai Fung.md",
     "80-LifeOS/_scripts/restaurants.js",
     "80-LifeOS/_scripts/commands/add-restaurant.js",
@@ -223,7 +235,6 @@
     "08-Food/Restaurants/PF Chang’s.md",
     "08-Food/Restaurants/Noi Thai.md",
     "08-Food/Restaurants/Molly Moon’s.md",
-    "08-Food/Restaurants/Multnoma falls coffee.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",

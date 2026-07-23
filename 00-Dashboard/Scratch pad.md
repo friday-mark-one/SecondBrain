@@ -50,6 +50,6 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] start date from next day
 	- [x] buy list one off item don't need quantity by default
 - [x] Move notion notes
-	- [ ] Restaurant journal
+	- [x] Restaurant journal
 - [ ] Trading agent 
 	- [ ] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==
