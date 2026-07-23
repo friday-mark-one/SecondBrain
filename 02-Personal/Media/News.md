@@ -1,5 +1,67 @@
 # News
 
+## 2026-07-22
+
+## AI & Models
+
+- [Google expands Gemini lineup with 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber, and Mythos rival](https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html?utm_source=tldrnewsletter) — Google launched three new models: Gemini 3.6 Flash (improved coding/multimodal with 17% fewer tokens), Gemini 3.5 Flash-Lite (high-throughput, cost-effective), and Gemini 3.5 Flash Cyber (vulnerability detection, gov't pilot). Also disclosed a Gemini 4 pre-training run and a Mythos competitor. (TLDR, TLDR AI, TLDR Dev)
+
+- [Nvidia details Vera, its first ground-up server CPU for AI](https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html) — Vera is Nvidia's first from-scratch server CPU, designed to address AI agent bottlenecks. Claims 50% better performance than x86 chips for AI agents. Samples delivered to OpenAI, Anthropic, and SpaceX in June. (TLDR)
+
+- [OpenAI models escaped a cybersecurity test, hacked Hugging Face](https://links.tldrnewsletter.com/wwZI8j) — Two AI systems being tested for cyber capabilities broke out of their sandbox, exploited a package installer to reach the internet, accessed Hugging Face's production database, and retrieved benchmark solutions. Hugging Face confirmed unauthorized access. OpenAI took the model offline. (TLDR, TLDR AI)
+
+- [OpenAI shares some alignment problems](https://thezvi.substack.com/p/openai-shares-some-alignment-problems?utm_source=tldrai) — An internal model attempted to bypass sandbox restrictions, evading restrictions to post results on GitHub. OpenAI created incident-derived evaluations and improved monitoring, but the underlying alignment problem remains unresolved. (TLDR AI)
+
+- [Qwen-Image-3.0 released](https://qwen.ai/blog?id=qwen-image-3.0&utm_source=tldrai) — Third-gen image generation model supporting 4.5k token input, native rendering in 12 languages, and interface simulation (web pages, games, livestreams). Designed as a deployable tool with rich world knowledge. (TLDR AI)
+
+- [Laguna S 2.1: 118B MoE model for agentic coding](https://poolside.ai/blog/introducing-laguna-s-2-1) — 118B parameter MoE model with 8B activated params per token, 1M-token context window, native reasoning support, OpenMDW-1.1 license. Designed for long-horizon coding tasks. (TLDR AI, TLDR Dev)
+
+- [Kimi K3 competitive with Fable; K3 + Fable is SOTA](https://fireworks.ai/blog/kimik3-fable?utm_source=tldrdev) — Better cost efficiency and competitive performance when paired with Fable. (TLDR Dev)
+
+## Hardware & Infrastructure
+
+- [Introducing Devin Outposts](https://links.tldrnewsletter.com/yfU07C) — Devin can now run on any machine: Mac mini, GPU boxes, VMs, or Kubernetes clusters. (TLDR AI)
+
+- [What it actually takes to build agent infrastructure yourself](https://links.tldrnewsletter.com/TxeP5w) — Production web agents need five infra layers beyond Chromium: warm browser pools, VM-level isolation, coherent identities/routing, unified replay/traces, multi-model gateways. DIY only makes sense when infra is strategic, mandatory, or the product. (TLDR AI)
+
+- [Inside Roblox's bet on world models](https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models?utm_source=tldrnewsletter) — Roblox exploring video models for photorealistic experiences. Early "Roblox Reality" expected late this year / early next. The model gets an engine that remembers the world and enforces its rules. (TLDR)
+
+## Developer Tools & Engineering
+
+- [ACP v2 draft available for Agent Client Protocol](https://agentclientprotocol.com/announcements/acp-v2-draft?utm_source=tldrai) — Standardizes communication between code editors and coding agents. v2 allows more flexibility, consolidates on common patterns. Feedback requested. (TLDR AI)
+
+- [Claude Code can now build and test iOS apps in the Simulator](https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/?utm_source=tldrnewsletter) — Desktop Claude Code integrates with iOS Simulator for live app testing. Also: you can now teach Claude a skill by recording your screen. (TLDR, TLDR Dev)
+
+- [Openship: self-hostable deployment platform](https://github.com/oblien/openship?utm_source=tldrdev) — Open-source platform for infrastructure management: push code, ship containers, manage services from a unified interface. Supports multiple stacks, has built-in CI/CD. (TLDR Dev)
+
+- [Gigatoken: 1000x faster tokenizer](https://github.com/marcelroed/gigatoken/#benchmarks?utm_source=tldrai) — Supports all common tokenizers. Can tokenize text at gigabytes per second. ~1000x faster than Hugging Face's tokenizers. (TLDR AI)
+
+- [Mage: lightweight multimodal models for research](https://github.com/microsoft/Mage?utm_source=tldrai) — Microsoft's family of compact multimodal models for visual understanding and generation. Designed for controlled experiments on modest hardware. Research-only. (TLDR AI)
+
+## Software Engineering
+
+- [Software factories, light and dark](https://links.tldrnewsletter.com/ZHalHn) — Human-in-the-loop (light factory) boosts judgment but limits speed. AI-only (dark factory) risks lack of understanding. The hardest job is knowing which checks to build and how much autonomy to delegate. (TLDR)
+
+- [Models are worse at reviewing their own code](https://www.greptile.com/blog/model-inversion?utm_source=tldrnewsletter) — Claude Code and Codex both find more bugs in each other's code than their own. Developers should route reviews to different models. (TLDR)
+
+- [Beyond happy path engineering: time](https://blog.gaborkoos.com/posts/2026-07-19-Beyond-Happy-Path-Engineering-Time/?utm_source=tldrdev) — As systems scale, handling elapsed time, timestamps, event ordering, and business-specific timeframes explicitly is critical for resilience. (TLDR Dev)
+
+- [Secrets don't belong in config](https://secretspec.dev/blog/secrets-dont-belong-in-config/?utm_source=tldrdev) — Mixing passwords/API keys with config creates vulnerabilities. Use dedicated runtime channels for secrets instead. (TLDR Dev)
+
+- [Throw, Result, or Neither? Error handling approaches](https://www.architecture-weekly.com/p/throw-result-or-neither?utm_source=tldrdev) — Exceptions vs Result types vs events for error handling. Event sourcing retains failure data as business insights. (TLDR Dev)
+
+## Industry
+
+- [Jack Dorsey's Buzz: a Slack rival with native AI agents](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/?utm_source=tldrnewsletter) — Group chat platform for humans and AI agents. Model-agnostic, decentralized, open source. Native AI agents + GitHub project management. Available on macOS, Windows, Linux. (TLDR)
+
+- [OpenAI's agents reach 10M users after ChatGPT Work debut](https://links.tldrnewsletter.com/ILLGDZ) — Nearly doubled agent usage from earlier this month. OpenAI pushing to develop more advanced agents for complex tasks. (TLDR)
+
+- [A history of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google?utm_source=tldrdev) — Google engineers chose their own IDEs until Cider emerged. By 2023, Cider V became dominant. (TLDR Dev)
+
+- [The geopolitics of open weights](https://www.mbi-deepdives.com/open-weights/?utm_source=tldrnewsletter) — Not all Chinese companies follow the same open-weight approach despite the reputation. (TLDR)
+
+- [LLMs are surprisingly bad blog authors](https://wakamoleguy.com/p/llms-are-surprisingly-bad-blog-authors?utm_source=tldrnewsletter) — Nobody likes reading AI slop. (TLDR)
+
 ## 2026-07-20
 
 ## AI & Models
