@@ -161,6 +161,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "ba469ba8-6dd2-4578-9e05-5476253c6ffc",
+      "name": "Add to Restaurants",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Add to Restaurants",
+        "id": "19715bc9-dbaf-4bc5-a2fd-2f7678b99ac2",
+        "commands": [
+          {
+            "name": "add-restaurant",
+            "type": "UserScript",
+            "id": "5c2692cf-34b4-4d54-b3b1-df6e6dd21294",
+            "path": "80-LifeOS/_scripts/commands/add-restaurant.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

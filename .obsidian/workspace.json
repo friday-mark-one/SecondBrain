@@ -195,8 +195,12 @@
   },
   "active": "61af7151f2bb4ae0",
   "lastOpenFiles": [
-    "08-Food/Restaurants/Downriggers.md",
+    "08-Food/Restaurants/The Pink Door.md",
     "08-Food/Restaurants/Restaurants.base",
+    "08-Food/Restaurants/Din Tai Fung.md",
+    "80-LifeOS/_scripts/restaurants.js",
+    "80-LifeOS/_scripts/commands/add-restaurant.js",
+    "08-Food/Restaurants/Downriggers.md",
     "08-Food/Restaurants/Facing East Time.md",
     "08-Food/Restaurants/Bhima’s veg restaurant.md",
     "08-Food/Restaurants/Medio Cafe.md",
@@ -219,9 +223,6 @@
     "08-Food/Restaurants/Noi Thai.md",
     "08-Food/Restaurants/Molly Moon’s.md",
     "08-Food/Restaurants/Multnoma falls coffee.md",
-    "08-Food/Restaurants/Mercury coffee.md",
-    "08-Food/Restaurants/Menya Musashi.md",
-    "08-Food/Restaurants/MTR.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",
@@ -239,8 +240,6 @@
     "99-Meta/Attachments/image-1621264893506.jpg1775911518412587308.jpg",
     "99-Meta/Attachments/Screenshot_2025-05-15_at_12.07.56_PM.png",
     "99-Meta/Attachments/Screenshot_2025-05-07_at_12.01.04_PM.png",
-    "99-Meta/Attachments",
-    "99-Meta/planning/superpowers/specs",
     "Untitled.canvas"
   ]
 }
