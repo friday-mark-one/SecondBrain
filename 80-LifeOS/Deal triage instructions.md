@@ -15,6 +15,10 @@ the AgentMail skill and the summarizing/matching; the helper scripts own timing 
    d. If it matched, send me a Telegram message (store + offer + which list it matched).
    e. `node 80-LifeOS/_scripts/email-state.js seen deals <this message's id>` — **mark it seen immediately, before moving to the next message**, so a mid-run error never re-posts or re-pings the ones already done.
    f. Mark it processed in AgentMail — remove the `unread` label and add a `processed` label (via the AgentMail skill, or a PATCH to that message). This clears the inbox and is the durable dedup; the local `seen` file in (e) is the backup.
+5. `node 80-LifeOS/_scripts/email-state.js done deals` — mark today's deal triage complete.
+   Only after every message above is handled. If you error out before this, do **not** run
+   `done` — leave the day open so the next heartbeat retries (already-handled messages are
+   skipped by `unseen`). `claim` only checks the gate; `done` records the run.
 
 Keep bullets short and glanceable. Never guess a fake expiry — write "no date" if unknown.
 If one message can never be read/parsed and re-errors every day, mark it seen manually

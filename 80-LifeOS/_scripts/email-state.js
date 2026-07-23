@@ -41,16 +41,19 @@ function appendSeen(tag, ids) { if (ids.length) fs.appendFileSync(seenPath(tag),
 
 if (require.main === module) {
   const [cmd, tag, ...ids] = process.argv.slice(2);
-  if (!cmd || !tag) { console.error("usage: email-state.js claim|unseen|seen <tag> [ids...]"); process.exit(1); }
+  if (!cmd || !tag) { console.error("usage: email-state.js claim|done|unseen|seen <tag> [ids...]"); process.exit(1); }
   if (cmd === "claim") {
-    const today = todayISO();
+    // Read-only gate check — does NOT record the run. The day is marked done
+    // only by `done` (below), AFTER the work completes, so an interrupted or
+    // failed cycle retries on the next heartbeat instead of burning the day.
     const gateHour = ids[0] != null ? Number(ids[0]) : null; // e.g. `claim news 10`
-    if (shouldRunDailyAt({ hour: nowHour(), gateHour, today, lastRun: readLastRun(tag) })) {
-      writeLastRun(tag, today);
-      console.log(JSON.stringify({ open: true }));
-    } else {
-      console.log(JSON.stringify({ open: false }));
-    }
+    const open = shouldRunDailyAt({ hour: nowHour(), gateHour, today: todayISO(), lastRun: readLastRun(tag) });
+    console.log(JSON.stringify({ open }));
+  } else if (cmd === "done") {
+    // Record today's run as complete. Call ONLY after the full procedure
+    // (publish + mark-read) succeeds; skip it on error so the day retries.
+    writeLastRun(tag, todayISO());
+    console.log(JSON.stringify({ done: true }));
   } else if (cmd === "unseen") {
     console.log(JSON.stringify(filterUnseen(readSeen(tag), ids)));
   } else if (cmd === "seen") {

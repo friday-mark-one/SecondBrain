@@ -46,7 +46,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] Build cookbook
 	- [x] Refer SOP in openclaw
 	- [x] allow one item multiple store
-	- [ ] more recipes
+	- [x] more recipes
 	- [x] start date from next day
 	- [x] buy list one off item don't need quantity by default
 - [x] Move notion notes

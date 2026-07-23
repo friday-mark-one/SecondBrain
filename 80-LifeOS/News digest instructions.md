@@ -27,3 +27,9 @@ the extract/dedup/summarize; the helpers own timing and delivery.
 5. If there is at least one story: `node 80-LifeOS/_scripts/news.js publish /tmp/news-digest.md`.
    (Zero stories after filtering → skip publish; no empty digest.)
 6. `node 80-LifeOS/_scripts/email-state.js seen news <processed ids…>`, then mark each processed message in AgentMail — remove the `unread` label and add a `processed` label (via the skill, or a PATCH per message). AgentMail labels are the durable dedup; the local `seen` file is the backup.
+7. `node 80-LifeOS/_scripts/email-state.js done news` — mark today's news pass complete. Do
+   this **last**, only after the steps above succeed (including a clean pass that found zero
+   stories but still marked its messages processed). If anything errors before this, do **not**
+   run `done` — leave the day open and the next heartbeat retries automatically. `claim` only
+   checks the gate; `done` is what records the run, so a crashed or interrupted cycle no longer
+   burns the whole day.

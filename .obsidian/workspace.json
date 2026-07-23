@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Tasks/Todo.md",
+                "file": "08-Food/Restaurants journal.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,26 +28,8 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todo"
-            },
-            "group": "0308b494e360a364"
-          }
-        ]
-      },
-      {
-        "id": "a85d154c2db8a394",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df3e4d14df1447e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "0308b494e360a364"
+              "title": "Restaurants journal"
+            }
           }
         ]
       }
@@ -222,8 +204,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df3e4d14df1447e6",
+  "active": "61af7151f2bb4ae0",
   "lastOpenFiles": [
+    "00-Dashboard/Scratch pad.md",
     "01-Tasks/Todo.md",
     "03-Career/Interview prep 2024/TODO/TODO.md",
     "04-Finance/Referrals.md",
@@ -245,7 +228,6 @@
     "80-LifeOS/logs/07-18-26.md",
     "80-LifeOS/logs/07-17-26.md",
     "80-LifeOS/logs/07-16-26.md",
-    "00-Dashboard/Scratch pad.md",
     "90-Archive/Task-List/Task List/Task List New page.md",
     "90-Archive/Task-List/Task List/Indoor plant.md",
     "90-Archive/Task-List/Task List/Dopp kit.md",
