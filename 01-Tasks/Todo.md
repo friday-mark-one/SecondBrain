@@ -6,7 +6,7 @@ pinned: true
 ---
 
 - [ ] Check wedding album
-	- [ ] Photoshop photos
+	- [ ] Photoshop photostomer service
 - [ ] Engine oil
 - [ ] Car service
 - [ ] Phillips talk to customer care
