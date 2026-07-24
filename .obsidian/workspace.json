@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard/Home.md",
+                "file": "07-Projects/Project ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Project ideas"
+            }
+          },
+          {
+            "id": "739249a558486ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Projects/Project ideas 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project ideas 1"
             }
           }
         ]
@@ -207,6 +231,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "07-Projects/Project ideas 1.md",
+    "07-Projects/Project ideas.md",
     "00-Dashboard/Home.md",
     "08-Food/Meal Plan/Current.md",
     "00-Dashboard/Scratch pad.md",
@@ -234,8 +260,6 @@
     "08-Food/Restaurants/Samburna.md",
     "08-Food/Restaurants/Salt N Straw.md",
     "08-Food/Restaurants/Roasted by Mom.md",
-    "08-Food/Restaurants/Ramen Danbo.md",
-    "08-Food/Restaurants/Rajdhani.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",
