@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Projects/Project ideas.md",
+                "file": "00-Dashboard/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project ideas"
-            }
-          },
-          {
-            "id": "739249a558486ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07-Projects/Project ideas 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project ideas 1"
+              "title": "Home"
             }
           }
         ]
@@ -231,14 +207,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "07-Projects/Project ideas 1.md",
-    "07-Projects/Project ideas.md",
     "00-Dashboard/Home.md",
+    "08-Food/Restaurants/Restaurants.base",
+    "08-Food/Buy List.md",
     "08-Food/Meal Plan/Current.md",
     "00-Dashboard/Scratch pad.md",
+    "01-Tasks/Inbox.md",
+    "07-Projects/_index.md",
+    "07-Projects/Digital Quarantine/v2.md",
+    "07-Projects/Digital Quarantine/v1.md",
+    "07-Projects/Project ideas.md",
+    "07-Projects/Project ideas 1.md",
     "80-LifeOS/logs/07-23-26.md",
     "01-Tasks/Todo.md",
-    "08-Food/Restaurants/Restaurants.base",
     "80-LifeOS/logs/07-22-26.md",
     "08-Food/Restaurants/The Pink Door.md",
     "08-Food/Restaurants/Din Tai Fung.md",
@@ -254,12 +235,6 @@
     "08-Food/Restaurants/Visible Coffee Roasters.md",
     "08-Food/Restaurants/The Roll Pod.md",
     "08-Food/Restaurants/Starbucks.md",
-    "08-Food/Restaurants/Siddhus Punjabi Cuisine.md",
-    "08-Food/Restaurants/Shake Shack.md",
-    "08-Food/Restaurants/San Juan Island Brewery.md",
-    "08-Food/Restaurants/Samburna.md",
-    "08-Food/Restaurants/Salt N Straw.md",
-    "08-Food/Restaurants/Roasted by Mom.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",

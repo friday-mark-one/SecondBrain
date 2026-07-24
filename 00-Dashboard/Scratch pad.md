@@ -51,6 +51,6 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] buy list one off item don't need quantity by default
 - [x] Move notion notes
 	- [x] Restaurant journal
-	- [ ] Duplicate project ideas notes
+	- [x] Duplicate project ideas notes
 - [ ] Trading agent 
 	- [ ] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==

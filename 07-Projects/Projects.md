@@ -2,7 +2,7 @@
 
 ---
 
-[[Project ideas 1]]
+[[Project ideas]]
 [[URL shortener]]
 [[Digital Quarantine]]
 [[Hyperspace]]
