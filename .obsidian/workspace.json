@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard/Home.md",
+                "file": "Clippings/Obsidian Web Clipper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Obsidian Web Clipper"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Dashboard/Home.md",
+                "file": "Clippings/Obsidian Web Clipper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Obsidian Web Clipper"
             }
           },
           {
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Dashboard/Home.md",
+                "file": "Clippings/Obsidian Web Clipper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Obsidian Web Clipper"
             }
           },
           {
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Dashboard/Home.md",
+                "file": "Clippings/Obsidian Web Clipper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Obsidian Web Clipper"
             }
           },
           {
@@ -207,10 +206,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "55e70203280d7844",
   "lastOpenFiles": [
-    "08-Food/Expiring Soon.md",
     "00-Dashboard/Home.md",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings",
+    "08-Food/Expiring Soon.md",
     "80-LifeOS/logs/07-24-26.md",
     "08-Food/Restaurants/Restaurants.base",
     "08-Food/Buy List.md",
@@ -237,14 +238,12 @@
     "08-Food/Restaurants/Cafe Flora.md",
     "08-Food/Restaurants journal.md",
     "08-Food/Restaurants/Visible Coffee Roasters.md",
-    "08-Food/Restaurants/The Roll Pod.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",
     "80-LifeOS/_scripts/commands/after-shopping.js",
     "06-Learning/Books/Media.base",
     "06-Learning/Books",
-    "heartbeat-logs",
     "99-Meta/Attachments/image-1682813995895.jpg6640269332611358638.jpg",
     "99-Meta/Attachments/image-1654757751304.jpg1796082842096553027.jpg",
     "99-Meta/Attachments/image-1653463911446.jpg7981968474968070746.jpg",
