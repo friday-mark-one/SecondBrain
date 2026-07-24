@@ -1,5 +1,45 @@
 # Deals
 
+## 2026-07-24
+- Kohl's — Instant Kohl's Cash: Get $10 Kohl's Cash when you spend $25 — expires no date
+- Macy's — Black Friday in July: up to 60% off our best summer deals — expires no date
+- Airbnb — Discounted homes: thank the hosts for summer savings — expires no date
+- Fabletics — You've Got (1) New Offer — expires no date
+- Kohl's — New summer styles + Instant Kohl's Cash Event — expires no date
+- Genesis Motor America — Maintenance alert — expires no date
+- Macy's — Under $100 handbags — expires no date
+- Educative — Fahim's secret as a dev (not a deal) — expires no date
+- Fabletics — Summer Deals Steals! from Ana — expires no date
+- Cinemark — See what's New & Now at Cinemark — expires no date
+- Point.me — Last chance at 100K points — expires July 30 at 9AM ET
+- Going — Half off your first year (51% off Elite) — expires limited time
+- Macy's — Flash Sale: Up to 60% off Nike, adidas, Champion & more — expires no date
+- Hallmark — $2 + all-new ornaments — expires no date
+- Michaels — Now trending: Skill stacking 🪡🧶✂️🎨 — expires no date
+- Kohl's — 20% off + Kohl's Cash — expires no date
+- Kohl's — Get 30% off + find home deals ☀️ — expires no date
+- Macy's — 25% off contemporary must-have trends ✨ — expires no date
+- Macy's — Flash Sale: up to 50% off men's polo shirts & summer go-tos — expires no date
+- J.Crew FACTORY — Under $35: 100s of summer styles — expires no date
+- Point.me — 9K to London in premium, 60K to Tokyo in biz ✈️💎🎉 — expires no date
+- Xfinity — Don't miss the final games ⚽️ — expires no date
+- Qualtrics/Waymo — Thank you for expressing interest — expires no date
+- Blick Art Materials — LIMITED-TIME SALE: 50% Off Custom Framing & Printing — expires no date
+- Vida Integrated Health — Stay Active & Healthy This Summer — expires no date
+- Nordstrom — New In: Louboutin, Prada & Valentino — expires no date
+- Michaels — ⚽The Party Shop: Watch party ideas — expires no date
+- PointsYeah — 38k+ Pts for Business Class to Helsinki, Paris, London — expires no date
+- Going — 51% off for a limited time — expires limited time
+- Chipotle — July challenge starts with one order ☀️ — expires no date
+- Nordstrom Rack — Rothy's Up to 40% Off | Men's Golf Up to 55% Off — expires no date
+- Famous Footwear — LAST CHANCE for $10 off ANY PAIR — expires no date
+- H&M — Up to 50% off is on the rise — expires no date
+- UNiDAYS — Student Photographer of the Year ⏳ — expires no date
+- Life Time — Your Weekly Wellness Guide — expires no date
+- NerdWallet — Looking for cheap insurance? — expires no date
+- ID.me Shop — Student discount: StubHub, Columbia, HOKA, Samsung — expires no date
+- Huel — $20 off everything. One day only. ⚡️ — expires one day
+
 ## 2026-07-23
 - Genesis Of Kirkland — Bharath, It’s Time For Important Maintenance — expires no date
 - Michaels — Deals you’re gonna ❤️ ❤️ ❤️ — expires no date

@@ -5,18 +5,89 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01-Tasks",
+      "color": {
+        "a": 1,
+        "rgb": 15029067
+      }
+    },
+    {
+      "query": "path:02-Personal",
+      "color": {
+        "a": 1,
+        "rgb": 15046971
+      }
+    },
+    {
+      "query": "path:03-Career",
+      "color": {
+        "a": 1,
+        "rgb": 15059259
+      }
+    },
+    {
+      "query": "path:04-Finance",
+      "color": {
+        "a": 1,
+        "rgb": 8370251
+      }
+    },
+    {
+      "query": "path:05-Health",
+      "color": {
+        "a": 1,
+        "rgb": 3913103
+      }
+    },
+    {
+      "query": "path:06-Learning",
+      "color": {
+        "a": 1,
+        "rgb": 3907301
+      }
+    },
+    {
+      "query": "path:07-Projects",
+      "color": {
+        "a": 1,
+        "rgb": 7040997
+      }
+    },
+    {
+      "query": "path:08-Food",
+      "color": {
+        "a": 1,
+        "rgb": 11758565
+      }
+    },
+    {
+      "query": "path:09-Shopping",
+      "color": {
+        "a": 1,
+        "rgb": 15035312
+      }
+    },
+    {
+      "query": "path:10-Admin",
+      "color": {
+        "a": 1,
+        "rgb": 9211020
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.15486111111111,
+  "lineSizeMultiplier": 2.14825954861111,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24391456365720285,
+  "scale": 0.2782706427448133,
   "close": true
 }

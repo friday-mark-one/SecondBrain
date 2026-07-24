@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-Dashboard/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -122,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-Dashboard/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -164,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory/_templates/Recipe.md",
+                "file": "00-Dashboard/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recipe"
+              "title": "Outline of Home"
             }
           },
           {
@@ -188,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,9 +206,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cd2434390309a613",
   "lastOpenFiles": [
     "00-Dashboard/Home.md",
+    "80-LifeOS/logs/07-24-26.md",
     "08-Food/Restaurants/Restaurants.base",
     "08-Food/Buy List.md",
     "08-Food/Meal Plan/Current.md",
