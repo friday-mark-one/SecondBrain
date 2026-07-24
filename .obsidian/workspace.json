@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "588462cc6d071f57",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "8e3ab217a72f3946",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "61af7151f2bb4ae0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard/Scratch pad.md",
+                "file": "00-Dashboard/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scratch pad"
+              "title": "Home"
             }
           }
         ]
@@ -201,11 +201,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "61af7151f2bb4ae0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-Dashboard/Home.md",
+    "08-Food/Meal Plan/Current.md",
+    "00-Dashboard/Scratch pad.md",
     "80-LifeOS/logs/07-23-26.md",
     "01-Tasks/Todo.md",
     "08-Food/Restaurants/Restaurants.base",
@@ -232,9 +236,6 @@
     "08-Food/Restaurants/Roasted by Mom.md",
     "08-Food/Restaurants/Ramen Danbo.md",
     "08-Food/Restaurants/Rajdhani.md",
-    "08-Food/Restaurants/Paradise Biryani Pointe.md",
-    "08-Food/Restaurants/PF Chang’s.md",
-    "08-Food/Restaurants/Noi Thai.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",

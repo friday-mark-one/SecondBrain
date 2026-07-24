@@ -1,13 +1,18 @@
 # 🏠 Home
 
-## Domains
-- [[01-Tasks/Todo|✅ Todo]] · [[01-Tasks/Inbox|📥 Inbox]]
-- [[02-Personal]] · [[03-Career]] · [[04-Finance]] · [[05-Health]]
-- [[06-Learning]] · [[07-Projects]] · [[08-Food]] · [[09-Shopping]] · [[10-Admin]]
+> [!todo] Today
+> [[01-Tasks/Todo|✅ Todo]] · [[01-Tasks/Inbox|📥 Inbox]] · [[00-Dashboard/Scratch pad|📝 Scratch pad]]
+
+> [!tip] Kitchen
+> [[08-Food/Meal Plan/Current|🍲 This week's plan]] · [[08-Food/Buy List|🛒 Buy List]] · [[08-Food/Expiring Soon|⏳ Expiring soon]] · [[Restaurants.base|🍽️ Restaurants]]
+
+## Areas
+- [[01-Tasks/_index|✅ Tasks]] · [[02-Personal/_index|🏡 Personal]] · [[03-Career/_index|💼 Career]] · [[04-Finance/_index|💰 Finance]] · [[05-Health/_index|🩺 Health]]
+- [[06-Learning/_index|📚 Learning]] · [[07-Projects/_index|🛠️ Projects]] · [[08-Food/_index|🍴 Food]] · [[09-Shopping/_index|🛍️ Shopping]] · [[10-Admin/_index|🗂️ Admin]]
 
 ## Friday (Life OS)
-- [[08-Food/Meal Plan/Current|🍲 This week's meal plan]]
-- Engine + protocols live in `80-LifeOS/` (do not reorganize).
+- [[80-LifeOS/MOC|🗺️ Map of Content]] — captured lists, checklists, references
+- Engine + protocols live in `80-LifeOS/` — don't reorganize.
 
 ## Recently modified
 ```dataview

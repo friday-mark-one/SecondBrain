@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "shopping-app"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "accentColor": "#7c6fbd"
 }
