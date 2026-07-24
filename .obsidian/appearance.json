@@ -3,5 +3,6 @@
     "shopping-app"
   ],
   "cssTheme": "Minimal",
-  "accentColor": "#7c6fbd"
+  "accentColor": "#7c6fbd",
+  "theme": "system"
 }
