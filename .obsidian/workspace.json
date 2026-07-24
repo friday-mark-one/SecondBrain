@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard/Scratch pad.md",
+                "file": "00-Dashboard/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scratch pad"
+              "title": "Home"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Dashboard/Scratch pad.md",
+                "file": "00-Dashboard/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scratch pad"
+              "title": "Outline of Home"
             }
           },
           {
@@ -208,6 +208,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-Dashboard/Scratch pad.md",
     "00-Dashboard/Home.md",
     "08-Food/Restaurants/Facing East Time.md",
     "Clippings/Obsidian Web Clipper.md",
@@ -218,7 +219,6 @@
     "08-Food/Restaurants/Restaurants.base",
     "08-Food/Buy List.md",
     "08-Food/Meal Plan/Current.md",
-    "00-Dashboard/Scratch pad.md",
     "01-Tasks/Inbox.md",
     "07-Projects/_index.md",
     "07-Projects/Digital Quarantine/v2.md",
