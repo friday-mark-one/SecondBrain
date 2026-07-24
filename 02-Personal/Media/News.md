@@ -1,5 +1,67 @@
 # News
 
+## 2026-07-24
+
+## Big Tech & Startups
+
+- [Stripe in talks to buy AI-model marketplace OpenRouter](https://links.tldrnewsletter.com/ikcPp6) — Talks are ongoing and could fall apart; the business could fetch ~$10B. Stripe is separately pursuing a deal for PayPal. (TLDR)
+- [ChatGPT Health now available to all US users](https://links.tldrnewsletter.com/eqHTpp) — OpenAI launched Health in ChatGPT for US adults 18+, allowing connections to Apple Health and supported medical records for contextual health conversations. Connected data won't be used for foundation model training or ads. (TLDR, TLDR AI)
+- [Runway launches Media Router for generative media](https://links.tldrnewsletter.com/0hU38H) — A developer tool that auto-selects image, video, or audio models based on quality, speed, or cost, positioning Runway Dev as an infrastructure layer with unified API access. (TLDR AI)
+- [Updated Claude Voice Mode supports Opus, Sonnet, Haiku](https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/) — Integrates with Gmail, Slack, Notion, and Google Calendar; free accounts limited to Haiku and one connected app. (TLDR AI)
+- [Intel stock jumps as revenue growth hits ~15-year high](https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html) — Q2 beat expectations, shares up over 170% in 2026; data center demand exceeds supply. (TLDR AI)
+- [DeepSeek founder Liang Wenfeng in his own words](https://www.geopolitechs.org/p/deepseek-founder-liang-wenfeng-in) — 64 quotes from the investor call covering vision, open-source strategy, commercialization plans, and roadmap to AGI. (TLDR AI)
+- [Sierra acquires Takeoff, the long-horizon AI agent platform](https://runtimewire.com/article/sierra-acquires-takeoff-long-horizon-ai-agents) — Deal gives Sierra immediate access to a platform for autonomous, multistep enterprise applications. (TLDR AI)
+- [Cognition adds The Interaction Company (Poke)](https://cognition.com/blog/interaction) — Poke is a personal agent that can text natively on Apple Messages. (TLDR AI)
+
+## AI & Models
+
+- [Fugu-Ultra v1.1 released](https://threadreaderapp.com/thread/2080448772778373586.html) — More capable across coding, agentic tasks, and advanced reasoning, available at the same price as v1.0. (TLDR AI)
+- [How to build a frontier model factory](https://www.latent.space/p/poolside) — Poolside co-CEO explains how a compact team built training infrastructure for Laguna S, an 118B mixture-of-experts model. (TLDR AI)
+- [Kimi K3's design secret: extreme thinking traces](https://notes.designarena.ai/kimi-k3s-design-secret-may-be-in-its-thinking-traces/) — Uses over 12x more reasoning tokens than Claude Opus 4.8, iterating on designs like a full AI agent within its chain of thought. (TLDR AI)
+- [FLUX 3: multimodal image and video generation](https://bfl.ai/blog/flux-3) — Black Forest Labs' model generates images and audio-video clips up to 20 seconds from a single prompt. (TLDR AI)
+- [Microsoft introduces MAI-Image-2.5-Pro and MAI-Voice-2-Flash](https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/) — High-fidelity image generation/editing and faster voice applications, now in public preview. (TLDR AI)
+- [A GPU-hour isn't a commodity if you need four of them](https://davefriedman.substack.com/p/a-gpu-hour-isnt-a-commodity-if-you) — Compute pricing headlines miss real basis risk: futures hedge broad GPU price but not co-located capacity for multi-GPU workloads. (TLDR AI)
+- [DeepSeek's Huawei-chip training claim gets benchmarks](https://www.implicator.ai/deepseeks-huawei-chip-training-claim-finally-gets-its-benchmarks-and-its-doubters/) — A Huawei-led consortium documented full-parameter post-training of DeepSeek's V4 family on Ascend chips at 34.22% model FLOPs utilization. (TLDR AI)
+- [Progress: Etched's chip runs math blocks at half voltage](https://www.etched.com/progress) — New architecture boosts FLOPs density and tackles thermal issues. (TLDR AI)
+- [AMD and Cerebras launch AI inference solution](https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference) — Combining AMD Helios with Cerebras Wafer-Scale Engine for low-latency AI workloads. (TLDR AI)
+
+## Science & Robotics
+
+- [The Robots Cometh: Unitree's GD01 mecha](https://time.com/article/2026/07/23/unitree-china-human-robotics/) — A 9ft, half-ton transformable mecha robot with a cockpit, capable of bipedal/quadrupedal walking and punching through walls. (TLDR)
+- [SpaceX turning away Falcon customers beyond 2028](https://links.tldrnewsletter.com/e0IP4z) — Space X is offramping Falcon 9 for Starship, stopping some non-reusable Falcon component production, though likely continuing DoD/NASA launches. (TLDR)
+- [Inside China's all-out push to catch up on AI chips](https://links.tldrnewsletter.com/AQysjN) — Huawei leads workarounds for near-SOTA silicon without leading-edge machinery, but China still lags behind the US in chip production capacity. (TLDR)
+
+## Software Engineering & Programming
+
+- [Why software factories fail](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) — Fast AI development degrades code quality; "lights-off" factories limit human oversight and don't produce expected efficiencies. Human involvement in planning and review remains necessary. (TLDR, TLDR Dev)
+- [Engineer away the slop](https://ghuntley.com/slop/) — Formal verification, adversarial LLM code reviews, and pre-commit hooks are key components for reliable software delivery without specialized formal-methods knowledge. (TLDR)
+- [Do we need state management libraries anymore?](https://neciudan.dev/do-we-need-state-management-libraries) — Redux, Zustand, Jotai, MobX, and Valtio reduce to three patterns (pub/sub, atom graphs, proxy tracking); once state is split into UI/server/URL/config buckets, 50 lines may suffice. (TLDR Dev)
+- [Rebuilding FIFA standings layout with CSS Subgrid](https://ishadeed.com/article/fifa-layout/) — Using CSS Subgrid to maintain semantic markup with flexible bracket layouts. (TLDR Dev)
+- [OpenWorker: local desktop AI coworker](https://github.com/andrewyng/openworker) — An open tool that completes tasks across files and apps locally. (TLDR AI)
+- [OneCLI: credential management gateway for AI agents](https://github.com/onecli/onecli) — Open-source tool that securely injects API keys into AI agents without exposing them, with encrypted storage and multi-agent support. (TLDR Dev)
+- [Jelly UI: soft, tactile web components](https://jelly-ui.com/) — Dependency-free library with dark mode and accessibility support. (TLDR Dev)
+- [Claude Thermos: keep prompt cache warm](https://github.com/izeigerman/claude-thermos) — Reduces costs from re-encoding conversation history during prolonged AI sessions. (TLDR Dev)
+- [Palmier Pro: open-source macOS video editor with AI](https://github.com/palmier-io/palmier-pro) — Collaborates with AI agents on video projects. (TLDR Dev)
+
+## Industry & Opinions
+
+- [Concerns about massive increase in code review load](https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-concern-about) — Engineering leaders worried as developers become less thorough; AI review tools surge but thorough reviews remain overwhelming. (TLDR Dev)
+- [Which AI actually reads your site? Two months measured](https://evilmartians.com/chronicles/which-ai-actually-reads-your-site-two-months-of-llm-traffic-measured) — 268k agent requests vs 107k human pageviews; ChatGPT-User is 73% of agent traffic reading HTML, Claude Code asks for Markdown 76% of the time. (TLDR Dev)
+- [The arguments against open source AI are very bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/) — Open source is fundamental to technology, difficult to suppress, and driven by diverse global commercial interests. (TLDR Dev)
+- [An opinionated guide to which AI to use](https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22) — Choosing between accessible chatbots for low-stakes vs sophisticated models for high-stakes tasks; computer use is powerful but dangerous in some cases. (TLDR Dev)
+- [Frontier Diffusion & Control](https://links.tldrnewsletter.com/qJE1iP) — Optimizing cost-to-outcome means using the right model, context, skills, tools, and agent harness; the model is only one part of the hill-climbing system. (TLDR)
+- [Understanding the AI economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/) — Google Research on AI's rapid growth and transformative effects across healthcare and finance. (TLDR AI)
+
+## Quick Links
+
+- [Google study: AI is helping workers, not replacing them](https://links.tldrnewsletter.com/CfY1uz) — Demand for highly skilled workers accentuated rather than diminished.
+- [Canvas UI](https://github.com/DavidHDev/canvas-ui) — Open source library of creative, framework-agnostic canvas components.
+- [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) — SIMD described as just about as easy as a for loop.
+- [Forgot your Google password? Now login with a selfie](https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/) — Google adds video selfie option for account recovery.
+- [GPT-Live duplex voice control comes to Codex and desktop ChatGPT](https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop) — OpenAI's naturalistic audio model integrated with the desktop app.
+- [Learn OpenGL](https://learnopengl.com/) — Free resource from basic to advanced graphics programming.
+- [Echo: AI model adapting to tasks at 1/3 the cost](https://echo.tracerml.ai/) — Delivers Claude Fable-level results without needing multiple modes.
+
 ## 2026-07-23
 
 ## AI Platforms & Enterprise
