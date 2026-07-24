@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "00-Dashboard/Scratch pad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian Web Clipper"
+              "title": "Scratch pad"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "00-Dashboard/Scratch pad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Web Clipper"
+              "title": "Backlinks for Scratch pad"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "00-Dashboard/Scratch pad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Obsidian Web Clipper"
+              "title": "Outgoing links from Scratch pad"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Obsidian Web Clipper.md",
+                "file": "00-Dashboard/Scratch pad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Web Clipper"
+              "title": "Outline of Scratch pad"
             }
           },
           {
@@ -206,10 +206,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55e70203280d7844",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "00-Dashboard/Home.md",
+    "08-Food/Restaurants/Facing East Time.md",
     "Clippings/Obsidian Web Clipper.md",
+    "Clippings/DeepSeek Platform.md",
     "Clippings",
     "08-Food/Expiring Soon.md",
     "80-LifeOS/logs/07-24-26.md",
@@ -231,13 +233,11 @@
     "80-LifeOS/_scripts/restaurants.js",
     "80-LifeOS/_scripts/commands/add-restaurant.js",
     "08-Food/Restaurants/Downriggers.md",
-    "08-Food/Restaurants/Facing East Time.md",
     "08-Food/Restaurants/Bhima’s veg restaurant.md",
     "08-Food/Restaurants/Medio Cafe.md",
     "08-Food/Restaurants/Fresh Sushi Bar.md",
     "08-Food/Restaurants/Cafe Flora.md",
     "08-Food/Restaurants journal.md",
-    "08-Food/Restaurants/Visible Coffee Roasters.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",
