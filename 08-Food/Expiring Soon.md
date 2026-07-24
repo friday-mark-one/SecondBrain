@@ -1,4 +1,3 @@
-# Expiring Soon
 
 Perishables you've bought, sorted by how soon they expire. An item shows here
 only within its own heads-up window (`heads_up_days` before `expires`, default

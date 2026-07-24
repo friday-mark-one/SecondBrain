@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,8 +207,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cd2434390309a613",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "08-Food/Expiring Soon.md",
     "00-Dashboard/Home.md",
     "80-LifeOS/logs/07-24-26.md",
     "08-Food/Restaurants/Restaurants.base",
@@ -236,7 +238,6 @@
     "08-Food/Restaurants journal.md",
     "08-Food/Restaurants/Visible Coffee Roasters.md",
     "08-Food/Restaurants/The Roll Pod.md",
-    "08-Food/Restaurants/Starbucks.md",
     "08-Food/Restaurants",
     "10-Admin/Untitled.base",
     "Untitled.base",
