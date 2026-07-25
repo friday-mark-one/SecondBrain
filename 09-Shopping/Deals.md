@@ -1,5 +1,51 @@
 # Deals
 
+## 2026-07-25
+- Macy's — Up to 65% off mattresses, sofas & full dining sets 🛋️ — expires no date 🔔 [[Black Friday buy — sensor]] 🔔 [[Black Friday buy — camera]]
+- Fabletics — VIP Summer Steals​ — expires expire
+- OpenTable — The Edit: this month’s restaurant picks — expires no date
+- Macy's — 40-60% off men’s loafers, sandals, sneakers & more — expires no date
+- Apple Card — Your credit limit offer is ready to preview. — expires expires
+- NerdWallet — 🎉 High-yield savings accounts are still earning a lot — expires no date
+- Bath & Body Works — 🙋‍♂️ heads up guys, final hours for $5.95 picks. — expires no date
+- Amica Insurance — Bharath Bhargav, it may be time for an auto insurance review — expires no date
+- Michaels — Hooray for the Halloween countdown! 👻 Only 100 days until fright night -> — expires no date
+- Lyft — Claim it: 20% off 5 rides — expires no date
+- Macy's — Up to 65% off bedding from Hotel Collection, Charter Club & more — expires no date
+- SiriusXM — Bharga, your guide to what’s new on SiriusXM — expires no date
+- Nordstrom — Trending Handbags & more on Anniversary Sale — expires no date
+- NerdWallet — Calculate Your Way to Car Insurance Savings 🤓 — expires no date
+- Nordstrom Rack — Get ’em now: Birkenstock sandals — expires no date
+- Life Time — This is the feeling of Life Time — expires no date
+- Macy's — Get 30% off new Levi's® for him & her — expires no date 🔔 [[Black Friday buy — sensor]] 🔔 [[Black Friday buy — camera]]
+- Going — 🇳🇿 West/Central US to New Zealand —  $815 (Oct-Feb) — expires no date 🔔 [[Black Friday buy — flight]]
+- H&M — 20% off bedding, duvet sets & more — expires expire
+- Huel — 33% off everything. Ends at midnight. — expires valid until
+- Going — Ignore this email and lose 100,000 points — expires offer ends — code: VRBO 🔔 [[Black Friday buy — flight]]
+- Macy's — 40-70% off clearance: save big during Black Friday in July — expires no date
+- Bath & Body Works — 🌟 $12.95 3-wicks that burn for up to 45 hours? yes! — expires no date
+- Michaels — Get BOGOs on 1,000s of school essentials during our Back to Class Sale. — expires no date
+- Fabletics — NEW GOLF COLLECTION DROPPED​ — expires expire
+- Kohl's — Instant Kohl's Cash Event: Get $10 Kohl's Cash NOW when you spend $25 💚 — expires last day
+- evo — Think Cold Thoughts — expires no date
+- Going — The tiny Northeast state with a big personality — expires no date 🔔 [[Black Friday buy — flight]] 🔔 [[Buy List — milk]]
+- Going — 🧖 Helsinki —  $592 (Nov-Dec) — expires no date 🔔 [[Black Friday buy — flight]]
+- Bath & Body Works — starting now: $12.95 3-wicks + $5.95 body care. 🤑 — expires no date
+- Michaels — 🫨 New items just added during our Mega Clearance Event! — expires no date
+- Kohl's — Save 30%  + get Kohl's Cash to top it off  🤑 — expires last day
+- Michaels — 🚨 NEW ITEMS! 🚨 NEW MARKDOWNS! 🚨 MEGA CLEARANCE! — expires no date
+- Lyft — Claim it: 30% off 3 rides — expires no date
+- Blick Art Materials — Create, Sketch, Save ✏️ — expires no date
+- Nordstrom Rack — BOSS Up to 50% Off | Just Landed from TWP & Theory — expires no date
+- Macy's — Flash Sale: up to 70% off shoes for all — expires no date 🔔 [[Black Friday buy — sensor]] 🔔 [[Black Friday buy — camera]]
+- Sephora — Just dropped: Korean sunscreen you can’t miss 👀 — expires no date
+- Michaels — 📣 Our Mega Clearance Event is going on now! New summer items! New markdowns! — expires no date
+- Kohl's — ENDS TODAY: 30% off your favorite Kohl's brands ⏳ — expires last day 🔔 [[Buy List — tofu]]
+- Macy's — Hours left for our MEGA Flash Sale — expires no date 🔔 [[Black Friday buy — sensor]] 🔔 [[Black Friday buy — camera]]
+- Sephora — LAST DAY to save big, earn bonus points, AND get FREE Same-Day Delivery 🛍️ — expires ends today
+- Nordstrom Rack — Sneakers & sandals up to 50% off — expires no date
+- Macy's — MEGA Flash Sale ends tonight: $29.99+ comforter sets & more deals on bedding — expires no date
+
 ## 2026-07-24
 - Kohl's — Instant Kohl's Cash: Get $10 Kohl's Cash when you spend $25 — expires no date
 - Macy's — Black Friday in July: up to 60% off our best summer deals — expires no date
