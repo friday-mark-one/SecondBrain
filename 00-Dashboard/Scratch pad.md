@@ -32,13 +32,16 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 		- [x] https://github.com/TheMickeyMouse/Obsidian-Vault-Template
 - [ ] OpenClaw
 	- [ ] openclaw configure --web
+	- [ ] Move skills and most agent .md files and scripts to Obsidian
+	- [ ] Setup model routing
+		- [ ] this means different model for different work
+	- [ ] 
 - [ ] LiteLLM
 	- [ ] Setup caching with redis
 		- [ ] https://gemini.google.com/app/e257d9d1a2368724
 	- [x] centralized observability with a local solution like postgres
 	- [ ] Fallback from deep seek to Gemini for 429 or 500
 - [ ] Telegram unofficial apps
-- [ ] Move skills and most agent .md files and scripts to Obsidian
 - [x] Meal plan
 	- [x] Add recipes
 	- [x] Add items
