@@ -1,5 +1,52 @@
 # Deals
 
+## 2026-07-26
+- Macy's — $14.99+ pajamas for a refreshing summer slumber — expires no date — no code
+- Fabletics — Just In: Color Drop — expires no date — no code
+- Kohl's — Priced-right picks for your home 🏡  INSTANT Kohl's Cash for you  🤑 — expires no date — no code
+- DoorDash — These deals hit different — expires no date — no code
+- Macy's — Major savings: up to 70% off clearance — expires no date — no code
+- NerdWallet — Looking for cheap insurance? — expires no date — no code
+- HomeGoods — For the one who runs the house 🐱🐶 — expires no date — no code
+- Michaels — Run (don’t walk) — these deals rock 💯 — expires no date — no code
+- Bath & Body Works — final hours ⏳ to shop $5.95 single wicks. — expires ends today — no code
+- Sephora — Save the date: Beauty Insider Celebration starts 8/1 🗓️ — expires no date — no code
+- Macy's — Black Friday in July: up to 50% off summer’s best scents — expires no date — no code
+- Edmunds — Best sedan rankings. $299 lease offers. Should you get pre-paid maintenance? — expires no date — no code
+- PointsYeah — 🏨  Earn Up to 175K Hilton Honors Points! Two Cards Worth Taking a Look — expires no date — no code
+- Kohl's — Up to 50% off lip favorites? That's worth celebrating 💋 — expires no date — no code
+- Coinbase — Crypto strategies for risk-conscious traders — expires no date — no code
+- H&M — Up to 20% off your order starts now — expires no date — no code
+- Nordstrom Rack — Up to 50% off vacay essentials from Madewell & more — expires no date — no code
+- NerdWallet — Bharath Bhargav, get $500 with this bank bonus 💰 — expires no date — no code
+- Macy's — 5 months till Christmas Up to 60% off great gifts — expires no date — no code 🔔 [[Gift ideas]]
+- Going — Still 51% off: premium cabins for less — expires no date — no code
+- Bath & Body Works — $12.95 3-wicks: here for a good time, not a long time…❤️‍🔥 — expires no date — no code
+- Huel — How much protein do you actually need? 💪 — expires no date — no code
+- Michaels — Back to Class Sale: Head back with BOGOs on 1,000s of faves. — expires no date — no code
+- Kohl's — Instant Kohl's Cash makes the Active Sale even better 💪 — expires no date — no code
+- Famous Footwear — Bharath, run the halls with Famous 📚🎒 — expires no date — no code
+- Michaels — The Party Shop at Michaels has everything you need starting at 99¢! — expires no date — no code
+- Kohl's — LAST DAY: Save 30% on Sephora Collection + earn extra Beauty Insider points 💋 — expires ends today — no code
+- Sephora — 🚨 ENDS TODAY: 30% off ALL Sephora Collection, 2X points on all products, and FREE Same-Day Delivery — expires ends today — no code
+- Macy's — MEGA Flash Sale: up to 70% off swim, 60% off bedding & more — expires no date — no code
+- J.Crew Factory — FINAL HOURS ⏰ Extra 70% off clearance + 50% off everything — expires ends today — no code
+- Michaels — Teachers & Parents: Start your back-to-school prep now with savings on classroom supplies and first-day fun. 🍎 🏫 — expires no date — no code
+- Kohl's — 2 days only 👀 Save 30% on the Kohl's brands you love 💕 — expires no date — no code
+- Macy's — Win a $100k shopping spree: enter today — expires no date — today
+- J.Crew Factory — 🪁 Extra 70% off clearance is still flying high — expires no date — no code
+- Michaels — 📴 Screen-free summer: Grab craft kits, outdoor toys and more the kiddos will love. — expires no date — no code
+- Macy's — Up to 50% off sandals we ♥️ for every occasion — expires no date — no code
+- Nordstrom — Preview Anniversary Sale now! 💛 — expires no date — no code
+- Macy's — Exclusive 25% off Nike & more top active brands — expires no date — no code
+- Chipotle — Bharath: Claim your Free Guac — expires no date — no code
+- Nordstrom Rack — New Kurt Geiger London Up to 40% Off | Natori, Wacoal & More Up to 55% Off — expires no date — no code
+- Macy's — Ends tonight: Great Sandal Sale — expires ends today — no code
+- J.Crew Factory — 4th of July Real Deals: $14.95 tanks, $19.95 shorts & $39.95 shift dresses — expires no date — no code
+- Michaels — NEW Halloween décor! 🪩 👻 Get into the spooky groove with this frightfully fun collection ➡️ — expires no date — no code
+- Kohl's — Today only: 20% off home 🤩 New summer picks await ☀️ — expires no date — no code
+- Macy's — Hours left: shop our July 4th Sale before it ends 🎆 — expires ends today — no code
+
 ## 2026-07-25
 - Macy's — Up to 65% off mattresses, sofas & full dining sets 🛋️ — expires no date 🔔 [[Black Friday buy — sensor]] 🔔 [[Black Friday buy — camera]]
 - Fabletics — VIP Summer Steals​ — expires expire
