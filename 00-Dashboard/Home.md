@@ -4,7 +4,7 @@
 > [[01-Tasks/Todo|✅ Todo]] · [[01-Tasks/Inbox|📥 Inbox]] · [[00-Dashboard/Scratch pad|📝 Scratch pad]]
 
 > [!tip] Kitchen
-> [[08-Food/Meal Plan/Current|🍲 Meal plan]] · [[08-Food/Buy List|🛒 Buy List]] · [[Restaurants.base|🍽️ Restaurants]]
+> [[08-Food/Meal Plan/Current|🍲 Meal plan]] · [[08-Food/Buy List|🛒 Buy List]] · [[Restaurants.base|🍽️ Restaurants]] · [[08-Food/Cookbook|📖 Cookbook]]
 
 ## 🍲 Today's meals
 ```dataviewjs
