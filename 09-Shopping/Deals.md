@@ -1,5 +1,18 @@
 # Deals
 
+## 2026-07-27
+- Kohl's — 20% off women's clothing, shoes & accessories — no date — extra 20% off
+- Fabletics — Summer Steals VIP offer — no date — VIP会员价格
+- Bath & Body Works — Flash Sale tonight only — ends tonight — FLASH SALE
+- NOMATIC — Travel & backpack accessories — no date — shop accessories
+- Costco — Member-Only Savings start tomorrow — starts tomorrow — member sale
+- Kohl's — Up to 50% off Active Sale + Instant Kohl's Cash + 3X rewards — HOURS LEFT
+- H&M — Last day: 15% off or 20% off — ends today — code needed
+- Bath & Body Works — Fall haul: .95 3-wick candles — ends today — fall sale
+- UNiDAYS — Summer student deals — no date — student discounts
+- Kohl's — LAST DAY:  Instant Kohl's Cash when you spend  + 3X rewards — ends today
+- Fabletics — New Color Drop collection just in — no date — new arrivals
+
 ## 2026-07-26
 - Macy's — $14.99+ pajamas for a refreshing summer slumber — expires no date — no code
 - Fabletics — Just In: Color Drop — expires no date — no code
