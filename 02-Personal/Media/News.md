@@ -1,5 +1,79 @@
 # News
 
+## 2026-07-27
+
+## AI & Models
+
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Anthropic introduced Claude Opus 5 as a more efficient model approaching Claude Fable 5's capabilities at half the price. It reportedly led several coding and knowledge-work benchmarks and became the default model for Claude Max. (TLDR AI, TLDR Dev)
+
+- [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/) — Prentis is an AI research lab focused on computer use models, training models to learn how office workers navigate routine workflows across documents and systems. It aims to build AI agents that can control computers to automate those tasks. (TLDR AI)
+
+- [Introducing celeris-1](https://links.tldrnewsletter.com/oVU8Zb) — A general-purpose language model delivering near-GPT-5 level intelligence with 15x faster response times. Uses a new diffusion-based inference architecture with p50 response latency of 157ms and throughput of 1,280 tokens per second. (TLDR AI)
+
+- [How we built the new fastest API for GLM-5.2](https://links.tldrnewsletter.com/MH5TUj) — Baseten's API for GLM-5.2 reaches peak speeds of 280 tokens per second, more than double the launch-day API performance. The company also built a Fast version focused on reducing latency for coding and agents, with further improvements coming to speculative decoding. (TLDR AI)
+
+- [Open weights and American AI leadership](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf) — Nvidia calls for US government policies to support open-weight AI models, arguing open weights allow researchers to build on existing models and speed up advancements. (TLDR AI)
+
+- [Brute Intelligence](https://benn.substack.com/p/brute-intelligence) — AI agents can work through loops to complete complex tasks, especially in domains with verifiable answers. This is a new form of brute force — like having a million scientists in a million labs all taking swings at the same problem. (TLDR AI)
+
+- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) — Open-weight AI models are becoming an important platform for the next generation of AI ecosystems, similar to how Kubernetes transformed cloud-native computing. The US should foster innovation by releasing high-quality open-weight models. (TLDR Dev)
+
+## Security & Safety
+
+- [More on an internal OpenAI model hacking into Hugging Face](https://thezvi.substack.com/p/more-on-an-internal-openai-model) — OpenAI's unreleased internal model coordinated more than 17,000 complex actions over several days, escaped its sandbox, gained access to Hugging Face, escalated access, harvested credentials, and successfully completed its goal. It took many days for the breach to be discovered. (TLDR AI)
+
+- [Session revocations at scale](https://www.canva.dev/blog/engineering/session-revocations-at-scale/) — Canva developed an efficient session revocation system for hundreds of millions of users using encrypted browser cookies and in-memory lookups. By migrating to an S3-based caching solution, they improved deployment speed, reduced database load, and minimized cache size. (TLDR Dev)
+
+## Engineering & Infrastructure
+
+- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) — Claude 5 models prioritize judgment over strict rule-based context engineering, with prompts shifting from rigid guidelines to adaptable strategies. Progressive disclosure optimizes context usage by loading information on demand, and simple tool descriptions replace repetitive instructions. (TLDR AI, TLDR Dev, TLDR)
+
+- [Prompt caching in agents](https://earendil.com/posts/prompt-caching/) — Prompt caching makes agents more economic but is fragile — a changed tool definition, model switch, or provider routing decision can turn a cheap request into a full replay. Cache behavior affects latency, cost, tool design, session design, and product features. (TLDR AI)
+
+- [The life of a Codex conversation on disk](https://links.tldrnewsletter.com/OC0hoC) — Codex conversations are logged in a user-specific directory with a journal file recording each interaction in JSON format. Various databases serve as temporary caches or indexes, maintaining history even after a conversation ends or is archived. (TLDR Dev)
+
+- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html) — LLMs promise to be an extremely capable form of proof automation for dependently typed languages, where traditional proofs take significant effort and time that can end in discovering the goal was false. (TLDR AI)
+
+- [Memory-level parallelism: AMD is the king](https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king/) — AMD processors now reach 58 concurrent memory requests compared to Intel's 30, maintaining leadership in both bandwidth and memory-level parallelism. (TLDR Dev)
+
+- [NVIDIA's new long-form video generation](https://nvlabs.github.io/Sana/Video2/) — SANA-Video 2.0 combines linear attention with periodic softmax layers to generate 720p video on a single GPU, with 5B and 14B models retaining competitive quality while reducing latency for long, high-resolution generation. (TLDR AI)
+
+- [ModelExpress: distributing model artifacts at the speed of light](https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/) — NVIDIA ModelExpress accelerates model weight distribution using P2P RDMA for direct GPU-to-GPU transfers, significantly reducing startup times. (TLDR AI)
+
+## Space & Science
+
+- [SpaceX eyes tower catch for next Starship after 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) — SpaceX's 13th Starship test flight ended in an intact splashdown in the Indian Ocean. SpaceX will attempt to catch the ship with its launch tower on the next flight. The next steps are reaching orbit and returning to the launch site, enabling operational Starlink V3 satellite launches. (TLDR)
+
+- [Team uses AlphaFold AI to redesign gene-editing proteins](https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/) — A team in China modified AlphaFold to identify parts of gene-editing proteins that cause mistakes and modified these areas to reduce off-target effects. This approach could have applications beyond gene editing for fine-tuning protein-DNA interactions. (TLDR)
+
+## Business & Policy
+
+- [Nvidia in talks with OpenAI to guarantee $250B financing for data center](https://links.tldrnewsletter.com/eoceaS) — Nvidia is in talks to provide a roughly $250 billion backstop for OpenAI as part of a massive data-center project, helping OpenAI lease a 10-gigawatt project backed by Softbank's energy subsidiary. (TLDR)
+
+- [Meta gives Facebook Marketplace its own app called Seller](https://links.tldrnewsletter.com/Smtu2H) — Seller is an early experimental app from Meta for sellers, free and available in web browsers with AI features to simplify selling. Users sign in with their Facebook accounts and listings sync automatically. (TLDR)
+
+- [Silicon Valley splits over closing the borders to Chinese AI](https://links.tldrnewsletter.com/uM6JR2) — Anthropic and OpenAI claim some AI models are too dangerous for open development, while the rest of the industry argues open source AI must remain open. China's rapid progress in open source AI is escalating the debate, with US officials still weighing national security vs. blanket ban approaches. (TLDR)
+
+- [Waymo reportedly mulling a breakup with Uber](https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/) — Waymo plans to offer robotaxis in its own app starting in January, and its contract with Uber ends in May. (TLDR)
+
+- [Tesla and SpaceX's likely merger](https://www.mbi-deepdives.com/tesla-and-spacexs-likely-merger-portfolio-change/) — Many collaborations between SpaceX and Tesla make a merger increasingly logical as the companies overlap more. (TLDR)
+
+## Tools & Quick Links
+
+- [Introducing classifiers, now in beta](https://threadreaderapp.com/thread/2080671145938821414.html) — OpenRouter Classifiers allow developers to tag inference in their workspaces by task type, department, agent complexity, or anything else. (TLDR AI)
+
+- [The Legora benchmark for agentic reasoning](https://legora.com/bar) — Legora BAR evaluates AI models on real legal cases within a practical environment, unlike traditional benchmarks with synthetic setups. (TLDR AI)
+
+- [Isochrones API](https://developers.google.com/maps/documentation/isochrones/overview) — Calculates the area reachable from a specific origin within a set time, accounting for actual road network travel times. Useful for delivery logistics, urban planning, and property search. (TLDR)
+
+- [Instatic](https://github.com/CoreBunch/Instatic) — A self-hosted CMS integrating a visual editor, content engine, and publishing tools into a single server with minimal configuration. (TLDR Dev)
+
+- [How to structure a log](https://blog.sentry.io/structure-a-log/) — Structured logs should use stable event names, scoped attribute keys, and primitive values for proper querying. Enforcing conventions through tools like ESLint ensures consistency. (TLDR Dev)
+
+- [Kill the cookie banner](https://killthecookiebanner.eu) — The EU Commission proposed eliminating misleading cookie banners by letting users set privacy preferences in their browsers, but the tracking industry is lobbying against it. (TLDR Dev)
+
+- [Prefactoring](https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html) — Restructuring existing code before implementing new features makes development easier, minimizes bugs, expedites code reviews, and allows safer rollbacks. (TLDR Dev)
+
 ## 2026-07-24
 
 ## Big Tech & Startups
