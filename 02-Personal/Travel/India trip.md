@@ -8,7 +8,6 @@ pinned: false
 - [ ] Pondy
 - [ ] Small gift bag
   - [ ] Succulents/ return gift items
-- [x] Ambika ghee dhal powder
 - [ ] Pooja items
 - [ ] Swiss beauty jelly eyeshadow
 - [ ] HDFC Credit card for Bharath
