@@ -8,7 +8,7 @@ pinned: false
 - [ ] Pondy
 - [ ] Small gift bag
   - [ ] Succulents/ return gift items
-- [ ] Ambika ghee dhal powder
+- [x] Ambika ghee dhal powder
 - [ ] Pooja items
 - [ ] Swiss beauty jelly eyeshadow
 - [ ] HDFC Credit card for Bharath
