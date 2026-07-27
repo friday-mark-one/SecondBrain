@@ -9,7 +9,7 @@ pinned: true
 	- [ ] Photoshop photostomer service
 - [ ] Engine oil
 - [ ] Car service
-- [ ] Phillips talk to customer care
+- [ ] Phillips send for repair
 - [ ] Water tax
 - [ ] Investment
 	- [ ] 401k
