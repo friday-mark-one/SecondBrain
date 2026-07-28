@@ -13,6 +13,8 @@ Commands (run with swing/.venv/bin/python):
     copilot.py status                                  on-demand summary
 """
 
+from __future__ import annotations
+
 import argparse
 import json
 import math
