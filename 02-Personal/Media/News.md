@@ -1,5 +1,45 @@
 # News
 
+## 2026-07-28
+
+### TLDR — Tech/Startups
+
+- [Amazon plans to launch 5,000 new satellites to beam data to iPhones](https://www.pcmag.com/news/amazon-plans-to-launch-5000-new-satellites-to-beam-data-to-iphones) — Amazon will launch 5,105 low-Earth orbit satellites atop Globalstar's network (acquired in an $11.6B deal) to power voice and mobile data. No pricing announced yet. (TLDR)
+
+- [OpenAI close to landing $500B data center with Nvidia's backing](https://links.tldrnewsletter.com/8WOSuE) — OpenAI is nearing a lease for a $500B data center in southern Ohio, with Nvidia discussing a $250B financial backstop. The deal awaits Commerce Secretary approval. (TLDR)
+
+- [The data pyramid in robotics](https://www.tanayj.com/p/the-robot-data-pyramid) — Frontier LLMs trained on internet text have no equivalent physical data source for robotics. Progress is being made on multiple fronts, but nobody knows how much data is enough for physical AGI. (TLDR)
+
+- [ASML slides on report of China starting DUV tool production](https://links.tldrnewsletter.com/sFidax) — A Shanghai firm has begun mass-producing immersion DUV lithography tools, targeting ~5 machines this year and ~20 next year. ASML has been banned from exporting tools to China. (TLDR)
+
+- [Octane — a React replacement UI library](https://github.com/octanejs/octane) — Write with the React API, ship code that removes Virtual DOM, Suspense waterfalls, rules-of-hooks bookkeeping, and hand-maintained dependency arrays. (TLDR)
+
+- [Seal — open standard for proving any file is real](https://github.com/letsseal/letsseal) — Creates sealed artifacts anchored to a public ledger that can be verified by anyone, forever. (TLDR)
+
+### TLDR AI
+
+- [Anthropic rejected blanket bans on open-weight models](https://links.tldrnewsletter.com/5i1m7B) — Anthropic argued that less capable open-weight releases are a public good, instead supporting tighter chip controls, anti-distillation measures, and mandatory safety testing for capable models. (TLDR AI)
+
+- [Kimi K3 model weights released](https://links.tldrnewsletter.com/sf21GW) — Moonshot released a 2.8T MoE model with native visual understanding, 1M-token context, and 2.5× intelligence per compute unit. Also open-sourced attention kernels, MoE comm library, and agent infrastructure. (TLDR AI)
+
+- [Microsoft introduced MAI Cyber model](https://links.tldrnewsletter.com/cnHWcr) — MAI-Cyber-1-Flash finds vulnerabilities in large codebases, powering the new MDASH security platform. (TLDR AI)
+
+- [OpenAI's report on how AI is expanding](https://links.tldrnewsletter.com/M0vAFQ) — Analysis of 800K US user messages found workers increasingly use ChatGPT for tasks outside their own occupation ("task crossover"). (TLDR AI)
+
+- [DeepsecBench: evaluating model performance in finding CVEs](https://links.tldrnewsletter.com/WkbGdE) — A new benchmark measuring recall, precision, cost, and time across models, with a combined precision-recall score. (TLDR AI)
+
+### TLDR Dev
+
+- [We stopped using RSC on TanStack.com](https://tanstack.com/blog/we-stopped-using-rsc-on-tanstack-com) — TanStack replaced React Server Components with simpler SSR, maintaining site speed without the architectural overhead of RSC once the content renderer was optimized. (TLDR Dev)
+
+- [Git rebase -i is not that scary](https://cachebag.sh/journal/interactive-rebasing/) — It just opens a text file with straightforward instructions, with built-in safety nets to recover from mistakes. (TLDR Dev)
+
+- [Upgrading Checkout Blocks app to Polaris web components](https://shopify.engineering/upgrading-checkout-blocks-app-to-polaris-web-components) — Shopify used remote-dom and Polaris web components with AI assistance to reduce bundle sizes and improve checkout extension load times. (TLDR Dev)
+
+- [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/) — Foundational concepts (ownership in Rust, first-class functions in functional languages) matter more than syntax or tools. (TLDR Dev)
+
+- [On AI](https://jcs.org/2026/07/23/ai) — Reflections on the speed of AI-assisted coding since 2019, from GitHub Copilot to modern IDEs. (TLDR Dev)
+
 ## 2026-07-27
 
 ## AI & Models
