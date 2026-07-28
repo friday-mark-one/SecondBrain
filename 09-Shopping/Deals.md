@@ -1,5 +1,18 @@
 # Deals
 
+## 2026-07-28
+- Costco: New Savings 7/27-8/23 — Charmin Ultra Soft 30/197ct .99 ( OFF),  OFF Bridgestone tires (set of 4 w/install),  OFF Kirkland Baby Wipes 9/100ct, Premier Protein 18pk .99 ( OFF), Bose Solo Soundbar II .99 ( OFF), Spam 8/12oz .40 OFF, Just Bare Chicken 4lb  OFF
+- MOD Pizza: Summer Meal Deal — Buy 2 MOD-size pizzas/salads + 1 Cheesy Garlic Bread for . Valid 7/27-8/2. Rewards members only.
+- H&M HOME: 20% off all bedding (dorm room essentials).
+- ID.me Shop: Up to 50% off Comfrt, Samsung, Casper, Away, Home Chef + student discounts on classroom supplies/clothing/dorm/tech.
+- Huel: 33% off everything. Code SHOP33-2712. Expired 7/27 midnight.
+- evo: 20% off one full-price item (free Membership required). Valid 7/27-8/4. Snow/bike/apparel/ski.
+- Club Pilates Bothell: Waived enrollment fee ( savings) on membership sign-up.
+- Kohl's: Save up to 50% Active Sale + Instant Kohl's Cash. Coupons valid on Apt.9, Croft & Barrow, FLX, Tek Gear, Vera Wang, etc.
+- DoorDash: Safeway 40% off +, Port of Peri Peri 20% off +, Haggen 40% off +, McDonald's 20% off +, Paradise Indian  off +.
+- Bath & Body Works: .95 single wick candles — final hours.
+- Chase Sapphire Preferred: 100,000 bonus points after k spend in 3mo. Offer ends 7/30 at 3PM ET.
+
 ## 2026-07-27
 - Kohl's — 20% off women's clothing, shoes & accessories — no date — extra 20% off
 - Fabletics — Summer Steals VIP offer — no date — VIP会员价格
