@@ -19,3 +19,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
+- 2026-07-28 — AUTO: opening gap -3.5%. Headlines: Semiconductor stock charts just formed this bearish shape that signals more potential losses | Why Amkor Plunged Today | Wall Street’s Top AI Bull Dan Ives Says the Revolution Is Only in the Third Inning. Here’s What That Means for Your Portfolio.

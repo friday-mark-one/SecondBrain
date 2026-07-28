@@ -19,3 +19,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
+- 2026-07-28 — AUTO: opening gap -4.3%. Headlines: Palantir Stock Slumps Ahead of Q2 Earnings | AI Revenue Just Hit $100 Billion From Zero Two Years Ago. Wall Street Warns of a Massive SaaS Trap. | Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models
