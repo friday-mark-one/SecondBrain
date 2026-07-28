@@ -5,8 +5,9 @@ hint: general todo list
 pinned: true
 ---
 
+- [ ] H1B appointment 
 - [ ] Check wedding album
-	- [ ] Photoshop photostomer service
+	- [ ] Photoshop photos
 - [ ] Engine oil
 - [ ] Car service
 - [ ] Phillips send for repair
