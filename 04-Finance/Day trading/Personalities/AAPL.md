@@ -21,3 +21,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: new 52-week high. Headlines: Apple's market cap tops $5T: How AI weakness became a strength | Apple's Tim Cook on succession: John Ternus is 'ready to be a first-class CEO' | Nvidia reportedly in talks to finance OpenAI's massive Ohio data center
+- 2026-07-28 — AUTO: new 52-week high. Headlines: Earnings live: Avis stock plunges as earnings fall short amid the summer travel season, Ford stock gains | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | Why this analyst is down on Apple stock even as it hovers near record highs

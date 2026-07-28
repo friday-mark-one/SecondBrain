@@ -20,3 +20,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -3.1%. Headlines: SpaceX Erased Tesla’s Marketcap in Little Over a Month | Robinhood Chain’s Trading Volumes Slump As Memecoin Interest Fades | Can Stock Trading and Prediction Markets Offset Robinhood’s Crypto Slump?
+- 2026-07-28 — AUTO: opening gap -3.1%. Headlines: SpaceX Erased Tesla’s Marketcap in Little Over a Month | Robinhood Chain’s Trading Volumes Slump As Memecoin Interest Fades | Can Stock Trading and Prediction Markets Offset Robinhood’s Crypto Slump?

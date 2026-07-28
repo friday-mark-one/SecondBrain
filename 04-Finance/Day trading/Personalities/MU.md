@@ -20,3 +20,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -6.7%. Headlines: Assessing the chip sector's damage: Chart of the Day | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | CLARITY Act hits summer roadblock
+- 2026-07-28 — AUTO: opening gap -6.7%. Headlines: Assessing the chip sector's damage: Chart of the Day | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | CLARITY Act hits summer roadblock
