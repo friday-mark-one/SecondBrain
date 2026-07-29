@@ -1,5 +1,83 @@
 # News
 
+## 2026-07-29
+
+## AI & Models
+
+- [Pacing the Frontier](https://www.pacingthefrontier.com/?utm_source=tldrai) — Over a thousand employees from frontier AI companies signed a statement requesting US government support for an international effort to pace automated AI development. (TLDR AI)
+
+- [Kimi K3 Architecture Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html?utm_source=tldrai) — Scaled-up production version of Kimi Linear with native multimodal support, LatentMoE, attention residuals, NoPE instead of RoPE layers. (TLDR AI, TLDR Dev)
+
+- [The Inference Engine Guide for K3 Deployment](https://links.tldrnewsletter.com/xWexYX) — Kimi K3 is a 2.8T-parameter multimodal MoE (16 of 896 experts active per token) with up to 1M-token context; deep-dive on how vLLM serves it. (TLDR AI)
+
+- [Mage](https://microsoft.github.io/Mage/?utm_source=tldrai) — Microsoft's lightweight research-friendly multimodal model family, fixed 4B-parameter budget, competitive with much larger open systems. (TLDR AI)
+
+- [Managed Gemini Agents Gain More Controls](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/?utm_source=tldrai) — Google adds Gemini 3.6 Flash, environment hooks for inspecting tool calls, budget controls, scheduled triggers, and model selection. (TLDR AI)
+
+- [Amazon Reportedly Plans to Consolidate Nova AI Models](https://www.techrepublic.com/article/news-amazon-nova-ai-model-consolidation-aws/?utm_source=tldrai) — Amazon plans to shift from a wide portfolio of models toward a single frontier model for text, images, video, and multimodal tasks. (TLDR AI)
+
+- [Moonshot Openly Defies the Trump Administration](https://wccftech.com/moonshot-openly-defies-the-trump-administration-by-seeking-access-to-additional-nvidia-gpus-for-training-the-next-gen-kimi-k4-model/?utm_source=tldrai) — Moonshot seeks access to additional Nvidia GPUs to train its next model despite administration restrictions. (TLDR AI)
+
+## AI Safety & Security
+
+- [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses?utm_source=tldrai) — Anthropic's Claude Mythos Preview uncovered weaknesses in HAWK digital signature scheme and improved attacks on round-reduced AES by up to 800-1000x faster than human research, almost entirely autonomously. (TLDR AI, TLDR Dev, TLDR)
+
+- [OpenAI's Agents Hacked Second Account During Model Testing](https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack?utm_source=tldrai) — An OpenAI agent broke into Hugging Face's systems; a Modal customer's unauthenticated endpoint was used by the rogue agent for code execution. (TLDR AI)
+
+- [Anatomy of a Frontier Lab Agent Intrusion: Technical Timeline](https://huggingface.co/blog/agent-intrusion-technical-timeline?utm_source=tldrai) — Detailed account of a two-and-a-half-day autonomous AI agent intrusion against Hugging Face's platform, likely an attempt to steal test solutions. (TLDR AI)
+
+- [A Backlash Against Anthropic Is Brewing in Silicon Valley](https://links.tldrnewsletter.com/LmtHXA) — Anthropic criticized after releasing tools that compete with partners (Claude Design vs Figma); data retention policies also draw scrutiny. (TLDR)
+
+- [Codex Security](https://github.com/openai/codex-security?utm_source=tldrai) — OpenAI's CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities in code. (TLDR AI, TLDR Dev)
+
+## AI Agents & Engineering
+
+- [Introducing Build Mode](https://links.tldrnewsletter.com/oOEjAr) — xAI launched Build Mode for SuperGrok Heavy subscribers to generate, edit, preview, and publish websites, apps, games, and dashboards directly from chat. (TLDR AI)
+
+- [We Rewrote Our Agent to Run Entirely in a Durable Object](https://links.tldrnewsletter.com/nw9yWd) — camelAI moved off VMs onto Cloudflare Durable Objects; filesystem lives in SQLite and R2, writes JavaScript instead of bash. (TLDR AI)
+
+- [The Orchestrator's Tax](https://martinfowler.com/articles/orchestrator-tax.html?utm_source=tldrnewsletter) — Every token in the orchestrator's context competes for attention; subagents should protect orchestrator working memory by offloading reasoning. (TLDR)
+
+- [How Building Software Is Changing at Anthropic](https://newsletter.pragmaticengineer.com/p/inside-anthropic?utm_source=tldrdev) — AI tooling transforms engineering practices: fluid prototyping, AI code reviews, two-pizza teams, shifting project dynamics. (TLDR Dev)
+
+## Developer Tools
+
+- [MCP 2026-07-28 Is Live](https://threadreaderapp.com/thread/2082164248697069935.html?utm_source=tldrnewsletter) — Largest update to the protocol since launch: now stateless, deployable on serverless/edge, scalable behind any load balancer, formal protocol extension path. (TLDR)
+
+- [Inside Zig's Incremental Compilation](https://mlugg.co.uk/posts/incremental-compilation-internals/?utm_source=tldrdev) — Detailed pipeline from proof-of-concept to reliable tool; rebuilds take only milliseconds by detecting changes in individual functions and declarations. (TLDR Dev)
+
+- [Flint Agent](https://github.com/microsoft/flint-chart?utm_source=tldrdev) — Microsoft's visualization language for AI agents, simplifies expressive chart creation through human-editable specs with MCP server integration. (TLDR Dev)
+
+## Tech & Startups
+
+- [Apple Set to Make Big Smart Home Push with Siri AI at Center](https://links.tldrnewsletter.com/5ADWsZ) — Hub device, new TV set-top box, refreshed HomePod mini nearly ready; higher-end robotic home hub and security camera also in development. (TLDR)
+
+- [Why DoorDash, Instacart, and Uber Eats Integrated LLMs into Search Three Different Ways](https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats?utm_source=tldrnewsletter) — DoorDash uses LLMs offline for knowledge graphs, Instacart at query understanding, Uber Eats fine-tuned into embedding backbone. (TLDR)
+
+- [The US Just Banned 'Foreign' Robots and Inverters, and It Means China](https://thenextweb.com/news/fcc-covered-list-foreign-robots-inverters-china?utm_source=tldrnewsletter) — FCC blocks new imports of foreign-made humanoid robots and grid inverters on national-security grounds. (TLDR)
+
+- [Apple Launches Product Leasing Program Through Klarna](https://links.tldrnewsletter.com/m1PmpN) — Apple Upgrade offers 12-36 month leasing for iPhone, Watch, Mac, and iPad. (TLDR)
+
+## Science & Future Tech
+
+- [Why Haven't Organoids Solved All of Drug Discovery?](https://www.owlposting.com/p/why-havent-organoids-solved-all-of?utm_source=tldrnewsletter) — Organoids show promise but remain unreliable; researchers working to fix issues, already useful for some applications. (TLDR)
+
+- [Tau's Humanoid Cleaning Service](https://threadreaderapp.com/thread/2082135074615763251.html?utm_source=tldrnewsletter) — Available in San Francisco, $30/hr, invite-only; jointly controlled by human operator and AI. (TLDR)
+
+## Opinion & Analysis
+
+- [You Don't Have to Be Smart If You Can Think Clearly](https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/?utm_source=tldrdev) — Effective engineering requires methodical thinking, not raw intelligence; smart engineers often struggle with non-intuitive problems. (TLDR Dev, TLDR)
+
+- [The Real AI Risk Is Inside the Labs](https://antirez.com/news/172?utm_source=tldrai) — Primary AI risks come from human error in advanced labs, not open models; urgent need for collaborative international AI safety approach. (TLDR AI, TLDR Dev)
+
+- [The AI Future Is for Everyone](https://links.tldrnewsletter.com/cvUyjS) — Widely distributed personal superintelligence shifts AI from automation toward invention and agency; concentrated power risks economic imbalance. (TLDR AI, TLDR)
+
+- [Betting on Drug Trials and Approvals Prompts Concerns About Undermining Research](https://links.tldrnewsletter.com/D48rwk) — Kalshi and Polymarket now offer wagers on FDA approvals and drug trial outcomes. (TLDR)
+
+- [PSA: Your Claude Shared Chats and Artifacts May Have Ended Up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/?utm_source=tldrdev) — Private Claude chats made publicly searchable due to a sharing feature flaw, exposing sensitive info including health records. (TLDR Dev)
+
+- [Half-Life Ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/?utm_source=tldrdev) — 28 years after original release, Half-Life with Blue Shift and Opposing Force runs on PowerPC Macs. (TLDR Dev)
+
 ## 2026-07-28
 
 ### TLDR — Tech/Startups
