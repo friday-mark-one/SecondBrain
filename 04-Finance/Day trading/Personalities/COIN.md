@@ -19,3 +19,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
+- 2026-07-29 — AUTO: crossed below its 50d average. Headlines: The CLARITY Act divides finance giants ahead of congressional recess | Why Goldman Sachs, BlackRock, & other Wall Street giants have endorsed crypto's CLARITY Act | Robinhood Earnings Soar Above Views On Record Trading Volumes
