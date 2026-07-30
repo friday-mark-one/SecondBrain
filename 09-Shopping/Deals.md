@@ -589,3 +589,32 @@
 - Bath & Body Works — ending soon: fall picks at a price — expires no date — no code 🔔 [[Gift ideas]] — self care/gifts
 - Going Flight Deals — 🌍 Europe — $386 to $593 (Sep-May) — expires no date — no code — $386+$593
 - point.me — 7K pts to London / 11K to the Maldives — expires no date — no code
+
+## 2026-07-29
+- Kohl's — Extra 40% off + Active Sale — LAST CALL — code/coupon on qualifying brands
+- Macy's — Big Home Event up to 60% off furniture, beds, mattresses, kitchen — no date — 15-60% off select home styles
+- Sephora — Up to 50% off select lip (National Lip Day) — LAST CHANCE — no code needed
+- point.me — 5K pts to Europe, 9K premium, 38K biz; Chase Sapphire 100K bonus ends 3PM ET 7/30 — expires 7/30 — record bonus
+- Going — Hawaii deals from saved destinations — expires 1-2 days — flight deals
+- Going — Cook Islands $660-677 roundtrip (Jan) — no date — flight deals
+- Going — Philippines $815 roundtrip (Mar-Apr) — no date — flight deals
+- PointsYeah — 23k+ pts Business Class to London, Sevilla, Athens via Virgin Atlantic (30% Amex bonus thru 7/31) — expires 7/31 — transfer deal
+- Macy's — 25% off Avec Les Filles (online only) — expires 8/3 — sign in to redeem
+- Macy's — Up to 40% off top-drawer essentials (Bali, Lacoste) — no date — no code
+- Macy's — Up to 40% off pre-fall handbag trends (Steve Madden, Sam Edelman, JW PEI) — no date — no code
+- Macy's — Up to 50% off Summer Weekend Sale (dresses, shorts, handbags) — no date — no code
+- Macy's Star Rewards — Tuesday Drop: Avec Les Filles offer — expires 8/3 — online only
+- Nordstrom Rack — rag & bone up to 60% off; Sandals under $50 — no date — free shipping over $89
+- H&M — Jeans collection for fall — no date — Tax-Free Days coming
+- Famous Footwear — BOGO 1/2 off Y2K sneakers (in-store & online) — no date — combinable
+- Fullscript — 15% off wellness products — LAST CHANCE — code CARE15
+- Bath & Body Works — Buy 3, get 3 FREE full-size Body, Skin & Hair Care — expires 7/31 — no code, must add 6 items
+- J.Crew Factory — 50% off all kids styles (BACK TO SCHOOL) + 50% off storewide — no date
+- UNiDAYS — Back-to-school tech deals (HP PCs, streaming) — no date — student discounts
+- ID.me Shop — 10% off hotels with Expedia — no date — student discount
+- Target — College essentials; up to 60% off storage — no date — no code
+- Fabletics — VIP Summer Steals END SOON (shorts, tees, tanks) — no date — VIP price
+- DoorDash — Spontaneous offers — no date — various restaurants
+- Michaels — Tailgate season decor & party supplies — no date — no code
+- Michaels — Halloween decor (Lemax Spooky Town) — no date — no code
+- Best Buy — Dorm room upgrades (beanbag, printer) — no date — no code
