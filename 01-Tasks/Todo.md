@@ -6,17 +6,16 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
-- [ ] Check wedding album
-	- [ ] Photoshop photos
+- [x] Check wedding album
+	- [x] Photoshop photos
 - [ ] Engine oil
 - [ ] Car service
 - [ ] Phillips send for repair
-- [x] Water tax
 - [ ] Investment
 	- [ ] 401k
 	- [ ] IRA
 	- [ ] Backdoor ROTH IRA
-- [ ] Hand casting setup
+- [x] Hand casting setup
 - [ ] Clean chimney
 - [ ] Canada visa
 - [ ] Wash birkenstock sandal
