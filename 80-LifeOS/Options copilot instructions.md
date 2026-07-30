@@ -22,6 +22,8 @@ Rules-enforcement copilot for live discretionary call-buying. **Notify-only**: t
 | "scout AMD UBER DIS" | `copilot.py scout AMD UBER DIS` (runs each through every gate, prints PASS/FAIL with reasons; `--add` appends passers to the watchlist) |
 | "options selftest" | `copilot.py selftest` (checks deps, state, vault write, market data, AV key, and sends a Telegram ping — run after deployment and whenever alerts seem quiet) |
 
+**Telegram formatting**: all reports and messages sent via Telegram must use Markdown-style formatting only — `**bold**`, `_italic_`, `` `code` ``, ```pre```, `~~strikethrough~~`, `||spoiler||`. Never use HTML tags (`<b>`, `<pre>`, `<i>`, etc.) — Telegram does not parse those as formatting.
+
 **Liveness + post-exit tracking**: every monitor invocation stamps `state.json`; the Sunday digest reports how many times the monitor ran (🚨 if zero while positions were open — run selftest immediately). The digest also back-fills each closed trade with the stock's 5-day move AFTER the exit; audits then show average post-exit drift by exit reason — the evidence needed before ever adjusting stop/timeout parameters.
 
 **Watchlist vs tradeable**: the watchlist (state.json config) drives observation only — pulse, personalities, weekly refresh. Whether a name can be TRADED is decided per-ticket by the gates. Never trade SNAP through this system (employer securities — trading windows / insider policy).
