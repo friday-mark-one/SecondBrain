@@ -11,7 +11,7 @@ pinned: true
 - [ ] Engine oil
 - [ ] Car service
 - [ ] Phillips send for repair
-- [ ] Water tax
+- [x] Water tax
 - [ ] Investment
 	- [ ] 401k
 	- [ ] IRA
