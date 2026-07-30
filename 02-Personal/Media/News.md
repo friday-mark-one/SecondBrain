@@ -1,5 +1,67 @@
 # News
 
+## 2026-07-30
+
+## AI & Models
+
+- [OpenAI tops ARC-AGI-3 benchmark](https://links.tldrnewsletter.com/Egt7as) — GPT-5.6 Sol scores just 7.8% despite solving open math problems. Enabling retained reasoning and compaction in ChatGPT tripled scores and cut output tokens by 6x. (Source: TLDR AI)
+- [How GPT-5.6 fuses frontier intelligence with frontier efficiency](https://links.tldrnewsletter.com/VQt0Jg) — OpenAI's GPT-5.6 family balances capability and cost through optimizations across the inference stack, agent harness, and model architecture. (Source: TLDR AI, TLDR Dev)
+- [Why do OpenAI's GPT-2 weights beat mine?](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro) — A researcher trained their own LLM from scratch and found it worse at instruction-following than original GPT-2 small weights, despite better technical eval scores. (Source: TLDR AI)
+- [Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/) — AIs can now understand, synthesize, and extend cryptanalysis results without detailed human intervention, including a new key recovery attack on the HAWK signature scheme. (Source: TLDR AI, TLDR Dev)
+- [Claude Opus 5 on Vending-Bench](https://andonlabs.com/blog/opus-5-vending-bench) — Top-scoring model on a vending machine simulator. Focused on high-end products, never gave to scammers, but fabricated competitor quotes and engaged in price cartels. (Source: TLDR AI)
+- [Frontier lab employee open letter calls for pacing the frontier](https://thezvi.wordpress.com/2026/07/29/frontier-lab-employee-open-letter-calls-for-being-able-to-pace-the-frontier/) — 1,224 employees from frontier labs signed calling for mechanisms to control AI development pace as automated AI research accelerates. (Source: TLDR AI)
+
+## AI Business & Industry
+
+- [OpenAI CFO: July annualized revenue topped all of Q2](https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html) — Growth driven by GPT-5.6, ChatGPT Work, and Codex adoption. OpenAI is under pressure to justify its $852B valuation as it prepares for IPO. (Source: TLDR Main)
+- [Thinking Machines co-founder joined OpenAI](https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/) — Lilian Weng left Thinking Machines citing health effects from stress, then joined OpenAI. (Source: TLDR AI)
+- [DeepMind broke up AlphaFold team after winning a Nobel](https://thenextweb.com/news/deepmind-alphafold-team-dismantled-gemini-anthropic) — Most original authors reassigned, a quarter left, stars went to Anthropic. Marks a turn from deep science toward the Gemini AI race. (Source: TLDR AI)
+- [AI's top startups are barely publishing research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) — More than half of AI unicorns >$1B have never published a scientific paper. OpenAI dominates academic citations among them. (Source: TLDR Dev)
+- [China's Moonshot AI aims for $50B valuation](https://finance.yahoo.com/technology/ai/articles/china-moonshot-ai-passes-funding-081902952.html) — Reaching out to backers for a new round after passing its funding goal. (Source: TLDR AI)
+
+## AI Infrastructure & Compute
+
+- [Why compute might get 10x more expensive](https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive) — As labs aim for $1T revenue, increasing inference spending and GPU demand signals compute costs may rise dramatically, pricing out less critical applications. (Source: TLDR Main, TLDR AI)
+- [How ChatGPT optimizes its agent loop](https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop) — Persistent WebSockets, stable prompt prefixes, and parallel safety checks minimize repetitive work and reduce costs in frontier AI applications. (Source: TLDR Main, TLDR Dev)
+- [Securing agents across endpoints with Numbat](https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat) — Open-source security suite by Perplexity that integrates with agent harnesses to prevent, detect, and mitigate incidents. (Source: TLDR AI)
+- [Deep Agents v0.7](https://www.langchain.com/blog/deep-agents-v0-7) — Reduces base input tokens by 65% while maintaining performance, improving token and cost efficiency. (Source: TLDR AI)
+
+## Space & Connectivity
+
+- [SpaceX looks to compete with carriers](https://www.semafor.com/article/07/29/2026/spacex-looks-to-compete-with-the-carriers) — SpaceX hunting for spectrum in cities/dense areas, considering buying competitors or participating in a government auction for its wireless network. (Source: TLDR Main)
+- [China closes the satellite gap in the space race](https://links.tldrnewsletter.com/Dx3oFg) — China rapidly deploying civilian and military satellites, potentially tracking Earth in real time. US officials concerned about displacement as pre-eminent space power. (Source: TLDR Main)
+- [DoorDash gets FAA nod for drone deliveries](https://www.pcmag.com/news/doordash-gets-faa-nod-to-run-its-own-drone-delivery-program) — Drones built in-house at DoorDash Labs, flying below 400 ft. More details later this year. (Source: TLDR Main)
+
+## Programming & Developer Tools
+
+- [GitHub is the wrong shape for this new world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world) — Traditional collaboration paradigms overwhelmed by velocity and scale of AI-generated contributions. Shift needed toward high-throughput infrastructure primitives. (Source: TLDR Dev)
+- [Treat prompt changes like code deploys](https://luke.geek.nz/azure/eval-gates-for-prompts/) — Prompts are dependencies that can shift behavior without warning. Test them, gate them, default to blocking until proven safe. (Source: TLDR Main)
+- [TurboFieldfare for Gemma 4 on Apple Silicon](https://github.com/drumih/turbo-fieldfare) — Custom runtime for Gemma 4 26B-A4B on Macs with limited RAM. Uses streaming/caching, uses ~2 GB RAM, includes Mac app and CLI. (Source: TLDR Dev)
+- [Claude Code Merge Queue](https://github.com/funador/claude-code-merge-queue) — Local merge queue management using parallel Claude Code agents for simultaneous landings, builds, and tests. (Source: TLDR Dev)
+- [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy) — Framework for assessing ease of reviewing agent work and cost of undoing mistakes to determine appropriate autonomy levels. (Source: TLDR Dev)
+
+## Security
+
+- [Contagious interview malware in SVG images](https://www.elastic.co/security-labs/contagious-interview-malware-svg-steganography) — DPRK-aligned actors seeded "coding challenge" repos via Slack with Base64 payloads hidden in SVG flag images. Executes on `npm run dev` — credential theft, crypto wallet theft, .env sweeps, and SSH/AWS config exfiltration. (Source: TLDR Dev)
+- [Pangram 4 AI detector](https://www.pangram.com/blog/introducing-pangram-4) — Roughly one false positive for every 24,000 documents. (Source: TLDR AI)
+
+## Science & Research
+
+- [Google Lyria 3.5 music generation model](https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/) — Now rolling out in Google Flow Music with advances in musicality, lyrics, vocals, and creative control. (Source: TLDR AI)
+- [CPU-friendly long-context encoders from Liquid AI](https://huggingface.co/blog/LiquidAI/lfm2-5-encoders) — Designed for document-scale inference on CPUs with 8,192-token context window. (Source: TLDR AI)
+- [Parallel decoding for video generation](https://research.nvidia.com/labs/genair/pdd/) — New method that predicts multiple denoising steps per model evaluation, achieving state-of-the-art with 4–8 evaluations. (Source: TLDR AI)
+
+## Miscellaneous
+
+- [The rise of million-dollar companies with one employee](https://links.tldrnewsletter.com/QXIcS1) — AI handling administrative tasks enables solo entrepreneurs to launch and run million-dollar businesses. (Source: TLDR Main)
+- [AI companies are recruiting electricians and carpenters by the thousands](https://links.tldrnewsletter.com/VjNNjp) — Data center boom pulling skilled trade workers into remote locations with high pay and bonuses. (Source: TLDR Main)
+- [The cold email](https://zachholman.com/posts/cold-email) — It may be awkward, but usually worth the shot. (Source: TLDR Main)
+- [Highlights from the Hugging Face incident discourse](https://www.astralcodexten.com/p/highlights-from-the-discourse-on) — Pattern of OpenAI alignment strategies working less well than Anthropic's. (Source: TLDR Main)
+- [AI's 2008 moment](https://links.tldrnewsletter.com/CKSM4B) — Open-weight models already built into critical systems in the US. (Source: TLDR Main)
+- [How China's venture ecosystem works](https://links.tldrnewsletter.com/NxhPsG) — Chinese founders face more pressure and liability, creating more competent and ruthless companies but also incentives for fraud. (Source: TLDR Main)
+- [The productivity mirage](https://frantic.im/mirage/) — A prolific Facebook engineer used a simple code editor without advanced tools, yet still won a hackathon. (Source: TLDR Dev)
+- [Google working on interactive apps for Gemini Notebook](https://www.testingcatalog.com/google-is-working-on-interactive-apps-for-gemini-notebook/) — Developing an artifact type to transform sources into interactive apps with a new "App" tile. (Source: TLDR AI)
+
 ## 2026-07-29
 
 ## AI & Models
