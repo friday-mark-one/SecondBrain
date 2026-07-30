@@ -21,3 +21,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -3.5%. Headlines: Semiconductor stock charts just formed this bearish shape that signals more potential losses | Why Amkor Plunged Today | Wall Street’s Top AI Bull Dan Ives Says the Revolution Is Only in the Third Inning. Here’s What That Means for Your Portfolio.
 - 2026-07-28 — AUTO: opening gap -3.5%. Headlines: Semiconductor stock charts just formed this bearish shape that signals more potential losses | Why Amkor Plunged Today | Wall Street’s Top AI Bull Dan Ives Says the Revolution Is Only in the Third Inning. Here’s What That Means for Your Portfolio.
+- 2026-07-30 — AUTO: +7.6% day (≥2× its typical range); opening gap +4.8%. Headlines: Intel Scores Needed Win, But Bigger Test Remains | Lam Research Stock Soars 18.9% on $8.1 Billion AI Forecast | TSMC's next AI chip move sends Intel stock soaring

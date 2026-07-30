@@ -20,3 +20,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
+- 2026-07-30 — AUTO: -8.0% day (≥2× its typical range); opening gap -10.2%. Headlines: Amazon beats Q2 earnings expectations, as AI, chip businesses see $25 billion run rate | Expect to see less stock buybacks from Big Tech as companies ramp up AI capex | Meta stock poised for a new losing streak: Earnings call takeaways

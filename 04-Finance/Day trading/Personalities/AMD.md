@@ -21,3 +21,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -5.6%. Headlines: Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports | AMD's Core Scientific Deal Hints at AI's Next Race
 - 2026-07-28 — AUTO: opening gap -5.6%. Headlines: Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports | AMD's Core Scientific Deal Hints at AI's Next Race
+- 2026-07-30 — AUTO: opening gap +7.1%. Headlines: AMD Stock Gets Powerful Vote of Confidence | US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound | AMD Gets a Fresh Boost From Wall Street

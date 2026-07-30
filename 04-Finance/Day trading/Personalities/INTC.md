@@ -21,3 +21,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -5.5%. Headlines: Why cyclical stocks are poised for a comeback | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports
 - 2026-07-28 — AUTO: opening gap -5.5%. Headlines: Why cyclical stocks are poised for a comeback | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports
+- 2026-07-30 — AUTO: opening gap +5.5%. Headlines: US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound | Intel Scores Needed Win, But Bigger Test Remains | NVDA Stock: Where Compounding Could Take The Price

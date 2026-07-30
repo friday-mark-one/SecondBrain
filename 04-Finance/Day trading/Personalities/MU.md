@@ -21,3 +21,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -6.7%. Headlines: Assessing the chip sector's damage: Chart of the Day | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | CLARITY Act hits summer roadblock
 - 2026-07-28 — AUTO: opening gap -6.7%. Headlines: Assessing the chip sector's damage: Chart of the Day | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | CLARITY Act hits summer roadblock
+- 2026-07-30 — AUTO: +18.4% day (≥2× its typical range); opening gap +7.3%. Headlines: US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound | Micron Stock Surges 14.9% as Samsung Warns Shortage Through 2028 | Micron Stock Gets Validation From Unexpected Source

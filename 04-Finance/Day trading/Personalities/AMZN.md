@@ -21,3 +21,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-27 — AUTO: opening gap -3.5%; crossed below its 200d average. Headlines: 4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter | MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years | The Growth That Has to Land for Palantir Stock to Make Sense
+- 2026-07-30 — AUTO: crossed above its 200d average. Headlines: Amazon beats Q2 earnings expectations, as AI, chip businesses see $25 billion run rate | Meta stock poised for a new losing streak: Earnings call takeaways | Amazon shares jump as Q2 earnings beat estimates on Cloud strength

@@ -22,3 +22,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-27 — note created.
 - 2026-07-27 — AUTO: crossed below its 50d average. Headlines: MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years | Stocks to Watch: CXMT, LVMH, Nvidia, Chevron | If I Only Had $500 to Invest, This Is the ETF I'd Buy Right Now
 - 2026-07-29 — AUTO: crossed below its 200d average. Headlines: Kospi sell-off deepens, Why leveraged ETFs are under fire | Why Avis Budget Stock Crashed Today | Why VF Corp Stock Tumbled Today
+- 2026-07-30 — AUTO: crossed above its 200d average. Headlines: Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day | Qualcomm's automotive segment is the highlight of Q3: CFO | AMD Stock Gets Powerful Vote of Confidence
