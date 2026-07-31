@@ -1,5 +1,73 @@
 # Deals
 
+## 2026-07-31
+- Macy's — Black Friday in July: 50% off dresses & more — no date — no code
+- Bath & Body Works — $5.95 body care & mists start tomorrow — starts 8/1 — no code
+- Fabletics — VIP Summer Steals last call (shorts, tees, tanks) — no date — VIP price
+- Macy's — Under $50 shorts, polos, T-shirts for him & her — no date — no code
+- Cinemark — Spider-Man: Brand New Day now playing; The Odyssey coming — no date — member pricing
+- Michaels — BOGOs on 1,000s of items (back-to-school) — no date — in store & online
+- Bath & Body Works — $2.95 fun-size faves, final warning — no date — today only
+- H&M — Golden summer color palette — no date — no code
+- Costco — Costco Travel packages to Hawaii, Mexico, Tahiti + Travel Hot Buys — no date — member pricing
+- NerdWallet — High-yield savings rates up to 4.15% — no date — bank promo
+- MOD Pizza — BOGO FREE Strawberry Lemonade No Name Cake — valid from 7/27 — in-restaurant & app
+- Going — Gothenburg $575 roundtrip (Sep-Nov / Jan-Feb) — no date — flight deal
+- H&M — Up to 30% off back-to-school checklist — no date — no code
+- Life Time — Summer membership pricing, rejoin offer — no date — membership
+- Macy's Star Rewards — Personalized mid-year recap video — no date — info only
+- Nordstrom Rack — Designer deals: Off-White, FERRAGAMO — no date — no code
+- Huel — 7 breakfasts, 40g protein, under $20 — no date — subscription
+- AquaTru — Save up to $90 on water purifiers + 15% off 2-yr filter combo — expires 8/1 — <48 hrs left
+- point.me — Chase Sapphire Preferred 100K bonus ends today 3PM ET — expires 7/30 — highest bonus ever
+- Macy's — Shoe of summer promo — no date — no code
+- PointsYeah — Sapphire Preferred 100K pts final hours — expires 7/30 3PM ET — highest offer seen (was 75K)
+- Bath & Body Works — $2.95 minis, back-to-school — no date — today only
+- J.Crew Factory — 50% off summertime essentials — no date — in stores & online
+- Michaels — Bedazzling trend supplies — no date — no code
+- Kohl's Friends & Family — Extra 20% off + Kohl's Cash — no date — via email link
+- CardPointers — 50% off (Indie App Sales) — no date — app subscription
+- Michaels — Personalized member deals — no date — member offers
+- Nordstrom — Designer dresses, bags & more — no date — no code
+- Nordstrom Rack — Up to 50% off tops, polo shirts & crossbody bags — no date — no code
+- MOD Pizza — Buy one pizza/salad get one Kids Meal free — Sundays only — in-restaurant
+- Cinemark — One Night Only comedy/romance in theaters Aug 7 — no date — movie
+- Linux Foundation — 30% off THRIVE-ONE (3 days only) — no date — code via email
+- Skechers — Build your bundle: 2 for $100 — no date — select styles
+- NerdWallet — Car insurance cost calculator — no date — tool
+- Bilt — August Rent Day collab with Odell Beckham Jr. — 8/1 — rewards
+- Macy's — $20 off $100 spent on summer styles — no date — promo
+- H&M — Pre-fall office wardrobe — no date — no code
+- Blick — Watercolor & gouache — no date — art supplies
+- Adobe — Smarter way to work with PDFs (Acrobat promo) — no date — software
+- JetBlue — Premier Card: pre-qualify, earn 100K points — no date — card offer
+- Macy's — Flash Sale: up to 65% off shoes (sandals, loafers, sneakers) — no date — no code
+- Going — 100K-point card offer ending — expires 7/31 — 48 hrs left
+- Bath & Body Works — $4.95 fan faves end today — no date — today only
+- J.Crew Factory — Ends tonight: extra 20% off $125+ & 40-60% off new arrivals — expires 7/30
+- Michaels — Fall floral arrivals (pumpkin/spooky) — no date — no code
+- Kohl's — 20% off ends today + Active Sale — expires 7/30 — no code
+- Macy's — Up to 40% off active brands (Nike, adidas, Under Armour) + 3x points — no date — no code
+- Macy's — Under $100 handbags — no date — no code
+- Macy's — 20% off Dyson (Airwrap, vacuums) — no date — personalized offer
+- Michaels — Christmas in July final day: up to 60% off trees — no date — final day
+- Lyft — 20% off 5 rides — no date — promo
+- Chipotle — 25 extra points — no date — rewards
+- Nordstrom — Anniversary Sale top picks — no date — no code
+- Nordstrom Rack — Veronica Beard up to 55% off; Cole Haan up to 40% off — no date — no code
+- Macy's — Petites brands worth a spot in your closet — no date — no code
+- Michaels — New Halloween décor (vintage funhouse vibe) — no date — no code
+- Kohl's — 20% off + extra 20% off women's clothing, shoes & accessories — no date — no code
+- Macy's — Under $50 heels — no date — no code
+- Kohl's — Hours left: Instant Kohl's Cash + 3X rewards — no date — last hours
+- Michaels Rewards — Exclusive member offers — no date — rewards
+- Macy's — 50% off women's dresses, up to 75% off men's suits — no date — no code
+- HomeGoods — Bath towels, blankets & spa refresh — no date — no code
+- Nordstrom Rack — Shoes: adidas, Crocs, UGG + more — no date — no code
+- Macy's — $29.99 Levi's shorts; Black Friday in July ends tonight — expires 7/30
+- Michaels — Back-to-class sale: school essentials — no date — no code
+- Kohl's — Last day: $10 Instant Kohl's Cash when you spend $25 — expires 7/30
+
 ## 2026-07-28
 - Costco: New Savings 7/27-8/23 — Charmin Ultra Soft 30/197ct .99 ( OFF),  OFF Bridgestone tires (set of 4 w/install),  OFF Kirkland Baby Wipes 9/100ct, Premier Protein 18pk .99 ( OFF), Bose Solo Soundbar II .99 ( OFF), Spam 8/12oz .40 OFF, Just Bare Chicken 4lb  OFF
 - MOD Pizza: Summer Meal Deal — Buy 2 MOD-size pizzas/salads + 1 Cheesy Garlic Bread for . Valid 7/27-8/2. Rewards members only.
