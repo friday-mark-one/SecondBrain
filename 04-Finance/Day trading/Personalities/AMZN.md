@@ -17,8 +17,10 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - Trades on AWS growth rate + retail margins; capex guidance moves it
 - Consumer-spending proxy — macro prints (CPI, jobs) hit it harder than peers
+- 2026-07-31 — AI/chip businesses are now a material second engine ($25B run rate); the bull case is AWS growth justifying the big AI capex
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-27 — AUTO: opening gap -3.5%; crossed below its 200d average. Headlines: 4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter | MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years | The Growth That Has to Land for Palantir Stock to Make Sense
 - 2026-07-30 — AUTO: crossed above its 200d average. Headlines: Amazon beats Q2 earnings expectations, as AI, chip businesses see $25 billion run rate | Meta stock poised for a new losing streak: Earnings call takeaways | Amazon shares jump as Q2 earnings beat estimates on Cloud strength
+- 2026-07-31 — AUTO: +15.3% day (≥2× its typical range); opening gap +12.5%; crossed above its 50d average. Headlines: Amazon earnings: AWS's growth rate 'no doubt' justifies the big AI spending | Where Apple is diverging from rest of Mag 7 earnings | Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon

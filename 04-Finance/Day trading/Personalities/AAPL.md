@@ -17,8 +17,10 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - iPhone cycle + services growth; China demand and App Store regulation are the recurring scares
 - Massive buybacks cushion drawdowns; moves less than the other mega-caps
+- 2026-07-31 — Memory/component supply is a new recurring scare: Cook warned a memory shortage is squeezing Apple (~10% slide) and called it a '100-year flood'
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: new 52-week high. Headlines: Apple's market cap tops $5T: How AI weakness became a strength | Apple's Tim Cook on succession: John Ternus is 'ready to be a first-class CEO' | Nvidia reportedly in talks to finance OpenAI's massive Ohio data center
 - 2026-07-28 — AUTO: new 52-week high. Headlines: Earnings live: Avis stock plunges as earnings fall short amid the summer travel season, Ford stock gains | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | Why this analyst is down on Apple stock even as it hovers near record highs
+- 2026-07-31 — AUTO: -7.4% day (≥2× its typical range); opening gap -8.6%; crossed below its 50d average. Headlines: Apple stock slides nearly 10% as Cook warns of memory shortage impact | Apple's iPhone leasing program: How it works, what to consider | Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon

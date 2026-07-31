@@ -15,10 +15,11 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-07-31 — Trades on AI accelerator demand and hyperscaler data-center capex (Amazon's $220B AI spend was the driver); Wall Street upgrades add fuel
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -5.6%. Headlines: Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports | AMD's Core Scientific Deal Hints at AI's Next Race
 - 2026-07-28 — AUTO: opening gap -5.6%. Headlines: Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports | AMD's Core Scientific Deal Hints at AI's Next Race
 - 2026-07-30 — AUTO: opening gap +7.1%. Headlines: AMD Stock Gets Powerful Vote of Confidence | US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound | AMD Gets a Fresh Boost From Wall Street
+- 2026-07-31 — AUTO: opening gap +5.1%. Headlines: AMD Stock Gains as Amazon Expands AI Spending to $220 Billion | Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market | Marvell Technology Is Betting More Of Its Revenue On One End Market

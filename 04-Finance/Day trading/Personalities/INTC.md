@@ -15,10 +15,11 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-07-31 — Trades on the foundry turnaround (18A) and PC/data-center share; new angle: analysts see an Apple supply opportunity amid the memory/component shortage
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -5.5%. Headlines: Why cyclical stocks are poised for a comeback | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports
 - 2026-07-28 — AUTO: opening gap -5.5%. Headlines: Why cyclical stocks are poised for a comeback | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports
 - 2026-07-30 — AUTO: opening gap +5.5%. Headlines: US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound | Intel Scores Needed Win, But Bigger Test Remains | NVDA Stock: Where Compounding Could Take The Price
+- 2026-07-31 — AUTO: opening gap +6.1%. Headlines: Inside the Trump administration's equity stakes in 30 companies | Intel Stock Rises as Analyst Sees Apple Supply Opportunity | Stocks to Watch: Apple, Amazon, SK Hynix, Roblox

@@ -21,3 +21,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-27 — AUTO: -7.1% day (≥2× its typical range); opening gap -6.1%; crossed below its 200d average. Headlines: 4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter | 'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks | The Growth That Has to Land for Palantir Stock to Make Sense
+- 2026-07-31 — AUTO: +6.7% day (≥2× its typical range). Headlines: Tech stocks today: Amazon beats, Apple sinks | Amazon's AWS business has taken on a life of its own: Earnings call takeaways | Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate

@@ -15,8 +15,9 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-07-31 — Trades on crypto market conditions and CLARITY Act regulatory clarity; now also on its own earnings path after a third straight quarterly loss
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-29 — AUTO: crossed below its 50d average. Headlines: The CLARITY Act divides finance giants ahead of congressional recess | Why Goldman Sachs, BlackRock, & other Wall Street giants have endorsed crypto's CLARITY Act | Robinhood Earnings Soar Above Views On Record Trading Volumes
+- 2026-07-31 — AUTO: -10.6% day (≥2× its typical range); opening gap -6.4%. Headlines: Coinbase stock sinks as weak crypto market leads to another quarterly loss | Sector Update: Financial Stocks Edge Higher Late Afternoon | Coinbase Stock Plunges 11.8% After Third Consecutive Loss
