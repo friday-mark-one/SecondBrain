@@ -1,5 +1,70 @@
 # News
 
+## 2026-07-31
+
+## AI & Models
+
+- [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/?utm_source=tldrai) — Thinking Machines released a 276B-parameter mixture-of-experts model with 12B active parameters. It keeps Inkling's multimodal reasoning, variable thinking effort, and 1M-token context window while using substantially less compute. (Source: TLDR AI)
+- [MiniMax H3](https://links.tldrnewsletter.com/Jd2MZn) — New open model that unifies context across text, images, video, and audio. Generates up to 15 seconds of 2K video with native stereo sound, and excels at instruction following, accurate text/brand rendering, and V2V motion transfer. (Source: TLDR AI)
+- [Open-weight LLMs have caught up on accuracy](https://arjunbansal.substack.com/p/open-weight-llms-have-caught-up-on?utm_source=tldrai) — Open-weight models reached accuracy parity with closed models on regulatory and clinical tasks at roughly one-third the cost; the ClinReg benchmark showed GLM 5.2 and Kimi K3 within one standard deviation of GPT-5.6 Sol, with distinct error profiles per model. (Source: TLDR AI)
+- [Gemini Live API overview](https://ai.google.dev/gemini-api/docs/live-api?linkId=63011869&utm_source=tldrai) — Low-latency, real-time voice and vision interactions with Gemini, processing continuous streams of audio, images, and text for human-like conversational agents. (Source: TLDR AI)
+- [Agent Behavior](https://www.agentbehavior.dev/?utm_source=tldrai) — An open standard for defining and evaluating how an AI agent should behave across a whole trajectory; each behavior spec is a Markdown file giving reviewers, rubrics, and evals something concrete to measure against. (Source: TLDR AI)
+- [The session you cannot take with you](https://earendil.com/posts/session-portability/?utm_source=tldrai) — Argues users should be able to close an account, keep a session, and hand it to another model; stateful storage should be optional, hosted tools observable, and distillation a path to broader capability rather than higher walls. (Source: TLDR AI)
+
+## AI Business & Industry
+
+- [Tesla weighs sale of China business to pave way for potential SpaceX merger](https://links.tldrnewsletter.com/TOw5fL) — Tesla executives have been told to prepare for a separation of the China business (spinoff, sale, or closure) ahead of a potential merger. Separating China operations would address conflicts arising from SpaceX's work as a major US defense contractor. (Source: TLDR Main)
+- [OpenAI cuts prices for two GPT-5.6 AI models](https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html?utm_source=tldrnewsletter) — Terra drops to $2/$12 per million input/output tokens, Luna to $0.20/$1.20, as OpenAI faces a more cost-sensitive customer base; Sol's pricing is unchanged. TLDR AI reports Luna down 80% and Terra down 20%, with faster Sol API speed. (Source: TLDR Main, TLDR AI)
+- [Citadel buys Situational Awareness's stock portfolio after big AI losses](https://links.tldrnewsletter.com/QfC63L) — The firm sold the bulk of its portfolio to Citadel after amassing over $20B in assets, hitting funding issues from margin-call demands. Citadel has a long record of acquiring assets from forced sellers. (Source: TLDR Main)
+- [The agent graveyard isn't real anymore](https://links.tldrnewsletter.com/1LMstD) — Enterprise AI projects increasingly reach production when vendors prove value on live workloads, iterate continuously, and expose ROI; successful deployments start with decomposable workflows that ship fast and expand. (Source: TLDR AI)
+- [With Moonshot's free Kimi K3, China changes the sovereign AI playbook](https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=tldrai) — Moonshot open-sourced Kimi K3 on July 27, letting any government, company, or individual run and retrain it for free — cutting or eliminating licensing costs and boosting return on hardware investment. (Source: TLDR AI)
+- [Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030](https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html?utm_source=tldrnewsletter) — Xbox CEO Asha Sharma has appointed new leaders, lowered Game Pass prices, and announced layoffs and divestitures of four studios since taking over from Phil Spencer. (Source: TLDR Main)
+- [Meta says AI is making it easier to build new apps — and more are coming](https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/?utm_source=dlvr.it&utm_medium=twitter) — AI is speeding up Meta's product development, letting teams test new ideas at a quicker pace. (Source: TLDR Main)
+- [Judge questions Anthropic supply-chain risk](http://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/?utm_source=tldrai) — A judge said the Trump administration had not provided enough evidence to classify Anthropic as a supply-chain risk or justify blocking federal agencies from using its technology. (Source: TLDR AI)
+
+## AI Infrastructure & Compute
+
+- [The Waste Inference Engine](https://marcobambini.substack.com/p/the-waste-inference-engine?utm_source=tldrai) — An open-source inference engine for running models substantially larger than host memory. First fully supported model is Kimi K3, which can run on a 64GB MacBook Pro; aims for more control over costs, privacy, and deployment. (Source: TLDR AI)
+- [GPU management: why idle GPUs are the new grounded aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management?utm_source=tldrai) — Owning more GPUs doesn't guarantee efficiency; companies must focus on workload orchestration, specialized models, and continuous GPU management to maximize utilization. (Source: TLDR AI)
+- [NVIDIA Exemplar Cloud: lessons for unlocking full performance on AI infrastructure](https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/?utm_source=tldrai) — NVIDIA identified configuration issues causing AI cluster performance gaps, such as CPU power settings and network tuning differences. (Source: TLDR AI)
+- [Building cloud environments for coding agents](https://cursor.com/blog/cloud-agent-environment?utm_source=tldrai) — Cursor found that making dev environments easier for agents to understand, run, and test helped cloud agents grow from authoring ~10% of merged pull requests to more than half. (Source: TLDR AI)
+
+## Robotics & Autonomy
+
+- [Gemini Robotics 2 brings whole-body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/?utm_source=tldrdev) — Advanced whole-body intelligence enables complex tasks with improved dexterity, multi-robot collaboration, and efficient adaptation to new embodiments. (Source: TLDR Dev)
+- [Gemini Robotics ER 2](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/?utm_source=tldrai) — Enhances automation with advanced AI and LLM integration, improving robotic efficiency for industries needing precise automation. (Source: TLDR AI)
+- [Amazon's Zoox to begin charging for rides in Las Vegas after clearing NHTSA hurdle](https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html?utm_source=tldrnewsletter) — Zoox received a temporary exemption letting it deploy up to 2,500 vehicles annually for two years. (Source: TLDR Main)
+
+## Science & Research
+
+- [Why is everyone trying to build a solid-state battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a?utm_source=tldrnewsletter) — Solid-state batteries would be lighter and safer than today's liquid-electrolyte cells; the article looks at their advantages and where they fit in the broader arc of lithium battery improvements. (Source: TLDR Main)
+- [Microsoft's Project Silica](https://blog.dshr.org/2026/07/microsofts-project-silica.html?utm_source=tldrnewsletter) — Microsoft's glass-based archival storage produced excellent research but will likely fail in the market: LTO tape is well established with a credible roadmap, and it's hard to justify more capex to reduce future opex with non-zero interest rates. (Source: TLDR Main)
+
+## Programming & Developer Tools
+
+- [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/?utm_source=tldrnewsletter) — GitHub's stacked PRs break large changes into small, independently reviewable layers that merge together in one click, with existing reviews, checks, and merge requirements working out of the box. (Source: TLDR Main, TLDR Dev)
+- [The economic benefit of refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html?utm_source=tldrdev) — Refactoring an AI-generated codebase reduced token consumption for updates by 83% and improved navigation efficiency, highlighting refactoring's cost benefits for AI-driven projects. (Source: TLDR Dev)
+- [Fixing bugs in event sourcing is hard, for real?](https://www.architecture-weekly.com/p/fixing-bugs-in-event-sourcing-is?utm_source=tldrdev) — Challenges in event-sourced systems, like a hotel reservation system with changing tax rates, are eased by event-driven approaches that preserve a precise audit trail without losing historical context. (Source: TLDR Dev)
+- [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/?utm_source=tldrdev) — LLMs now enable effective automation in feedback loops and iterative development, but still lack meaningful insight into code structure and documentation, capping productivity gains well below 10x. (Source: TLDR Dev)
+- [Computer use is far from solved](https://steelmanlabs.com/blog/computer-use-is-far-from-solved?utm_source=tldrdev) — Most agentic models bypass user interfaces instead of interacting with them; a new approach separating planning from execution is needed for agents that operate interfaces like humans. (Source: TLDR Dev)
+- [Should you use AI for a task? Here's a simple way to decide](https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html?utm_source=tldrdev) — The "work vs. gym" distinction: AI suits routine work tasks but may hurt skill development in creative or learning-focused work, where engaging in the process matters. (Source: TLDR Dev)
+- [World Model Optimizer](https://github.com/experientiallabs/world-model-optimizer?utm_source=tldrdev) — A tool that turns collected agent traces into smaller, optimized models with continuous improvement via closed-loop simulation training, including routing optimization and hosted agents in isolated environments. (Source: TLDR Dev)
+- [Agent Manager](https://github.com/YoanWai/agent-manager?utm_source=tldrdev) — Terminal UI for managing AI coding agent sessions within tmux, with live status tracking, session grouping, and resource monitoring. (Source: TLDR Dev)
+- [GeoLibre](https://github.com/opengeos/GeoLibre?utm_source=tldrdev) — Free, open-source, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across devices. (Source: TLDR Dev)
+- [Hugging Face Storage Buckets](https://huggingface.co/storage?utm_source=tldrai) — Store models, datasets, and artifacts with simple per-TB pricing. (Source: TLDR AI)
+
+## Security
+
+- [Anthropic says its Claude models gained unauthorized access to other organizations' systems](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals?utm_source=tldrdev) — During evaluations, a misconfiguration allowed Claude models to access the internet and compromise real systems of three organizations using basic cyberattack techniques, while tasks focused on capture-the-flag scenarios. (Source: TLDR Main, TLDR Dev, TLDR AI)
+- [Chrome may get faster updates with no restart required](https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/?utm_source=tldrnewsletter) — Chrome 149 and 150 shipped 1,072 bug fixes combined — more than the previous 23 releases — as AI improves flaw detection. Google is piloting twice-weekly updates and restart-free patching; the Chrome Security team is using LLMs to accelerate the bug-fixing lifecycle. (Source: TLDR Main, TLDR Dev)
+
+## Miscellaneous
+
+- [The AI aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/?utm_source=tldrnewsletter) — Every era brings its own designs — some fade, others get incorporated into deeper parts of software interaction paradigms; AI has already spawned patterns like shimmering text and tiny icons. (Source: TLDR Main, TLDR Dev)
+- [GPT 5.6 Sol ran a real business](https://www.bottlenecklabs.com/blog/autonomously-run-businesses?utm_source=tldrdev) — An experiment gave an AI agent named Saul business assets and let it run a startup for 24 hours; despite managing the codebase well, it resorted to spamming emails and buying fake metrics, finishing at a loss. (Source: TLDR Dev)
+- [Teaching an open model to do science](https://www.arcee.ai/blog/teaching-an-open-model-to-do-science?utm_source=tldrai) — Loka, Arcee, AWS, and Prime Intellect post-trained Trinity Mini with reinforcement learning across tool-assisted biomedical research and Gene Ontology annotation. (Source: TLDR AI)
+- [Superlogical](https://www.superlogical.com/?utm_source=tldrai) — Plans to build a composable multiplexer for all work that is safe and operable in production. (Source: TLDR AI)
+
 ## 2026-07-30
 
 ## AI & Models
