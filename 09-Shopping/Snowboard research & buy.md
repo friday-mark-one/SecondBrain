@@ -6,7 +6,7 @@ pinned: false
 ---
 
 - Snowboard
-- Night decker 150
+- Nidecker 150
 - Not too wide
 - Boots
 - Fit should be perfect
