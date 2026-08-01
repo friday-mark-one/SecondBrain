@@ -1,5 +1,25 @@
 # Deals
 
+## 2026-08-01
+- Tata Capital Wealth — investment/wealth planning promos — no date — no code
+- Educative — Preseason pricing on interview prep (Grokking System Design) — no date — promo pricing
+- Best Buy Visa — 18-month financing on back-to-school — no date — Best Buy card offer
+- Fabletics — July VIP Points Update — no date — membership statement
+- Kohl's — 20% off summer home refresh + up to 70% off clearance — no date — no code
+- Fabletics — free pilates-inspired class (Sat 8/1) + 40-50% off Keke Palmer drop — expires 8/1 — signup link
+- Cinemark — Spider-Man: Brand New Day now playing — no date — movie fan member pricing
+- NerdWallet — HYSA rates up to 4.15% APY — no date — banking
+- Aroma Restaurant — Catering: $75 gift card on $500+, $200 on $1,000+ — expires 8/15 — call 425-666-7799
+- NerdWallet — auto insurance quotes, save up to $1,079/yr — no date — comparison tool
+- Sephora at Kohl's — A+ beauty back-to-school promo — no date — no code
+- Life Time — Summer Reset membership push (sauna, yoga, LifeSpa) — no date — club membership
+- H&M — Campus favorites from $6.99, up to 30% off — no date — in-store & online
+- evo — Membership: 20% off one full-price item — expires soon — join for code
+- Going — Alaska from $377 (Sep-Dec) — no date — flight deal
+- NordVPN — $0.99/month, 3 days left — expires ~8/3 — VPN promo
+- Bath & Body Works — $5.95 body mists — no date — no code
+- Kohl's — Special 20% off + Kohl's Cash — no date — no code
+
 ## 2026-07-31
 - Macy's — Black Friday in July: 50% off dresses & more — no date — no code
 - Bath & Body Works — $5.95 body care & mists start tomorrow — starts 8/1 — no code
