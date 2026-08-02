@@ -82,3 +82,5 @@ pinned: false
 - Hestra leather gloves
 - Water proof jacket 
 - Snow pants
+- impact shorts
+- Wrist guard
