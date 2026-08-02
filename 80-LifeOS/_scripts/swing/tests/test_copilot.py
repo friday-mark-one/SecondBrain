@@ -292,3 +292,42 @@ def test_post_exit_helpers():
     s = post_exit_summary(closed)
     assert "stop +3.0% (n=2)" in s and "timeout -1.0% (n=1)" in s
     assert post_exit_summary([{"why": "tp"}]) == ""
+
+
+def test_macro_calendar_load_and_missing(tmp_path):
+    from copilot import load_macro_calendar
+    p = tmp_path / "macro_calendar.csv"
+    p.write_text("date,type\n2026-09-16,FOMC\n2026-08-12,CPI\n\nbadline,X\n")
+    events = load_macro_calendar(p)
+    assert events == [(date(2026, 8, 12), "CPI"), (date(2026, 9, 16), "FOMC")]
+    assert load_macro_calendar(tmp_path / "absent.csv") == []
+
+
+def test_macro_upcoming_window_and_wording():
+    from copilot import macro_upcoming
+    today = date(2026, 7, 27)  # a Monday
+    events = [(date(2026, 7, 27), "CPI"),   # today
+              (date(2026, 7, 28), "FOMC"),  # 1 trading day
+              (date(2026, 8, 5), "NFP"),    # 7 trading days
+              (date(2026, 7, 24), "CPI")]   # past — excluded
+    lines = macro_upcoming(events, today, 2)
+    assert len(lines) == 2
+    assert "CPI print today" in lines[0]
+    assert "Fed decision (FOMC) in 1 trading day (" in lines[1]
+    assert macro_upcoming(events, today, 10)[-1].startswith("jobs report in 7 trading days")
+
+
+def test_month_note_only_flagged_months():
+    from copilot import month_note
+    assert "April" in month_note(date(2026, 4, 2))
+    assert "September" in month_note(date(2026, 9, 15))
+    assert month_note(date(2026, 6, 1)) is None
+
+
+def test_calendar_last_date_is_earliest_per_type_end():
+    from copilot import calendar_last_date
+    # FOMC extends a year past CPI: coverage ends when the SHORTEST type ends
+    assert calendar_last_date([(date(2026, 8, 12), "CPI"),
+                               (date(2026, 12, 10), "CPI"),
+                               (date(2027, 12, 8), "FOMC")]) == date(2026, 12, 10)
+    assert calendar_last_date([]) is None

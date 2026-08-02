@@ -28,6 +28,7 @@
 Sibling pairs (deliberately overlapping lenses, read as one voice each): RSI + Extension (price stretch), Daily range + Beta (volatility).
 
 ## The unscored context (shown, never colored — measured as non-predictive at 0–10 day horizons)
+- **Calendar (📅)**: upcoming Fed decisions, CPI prints, and jobs reports within 5 trading days, plus an April/September note. Pure FYI so you're never surprised by an event day. Phase 13 tested these as a blackout and found *nothing* — macro days move these mega-caps exactly as much as ordinary days (1.4% vs 1.4%) — which is why this line can never turn a report red or block a ticket. (Earnings are different: 5–10% single-name gaps; that's why they get a hard rule and macro days get a footnote.)
 - **Fundamentals**: market cap (company size), trailing P/E ($ paid per $1 of last year's profit), forward P/E (per $1 of *expected* profit — a big gap means growth priced in), revenue growth, profit margin. Describes the business; expresses over years, not your 10-day hold.
 - **Analysts**: 1(strong buy)–5(sell) consensus, price targets. They mostly chase price; they were maximally bullish before every drawdown.
 - **News**: the current story, for manual research. Headline content is priced in before you can act (Phase 10); news-day chasing loses on average.

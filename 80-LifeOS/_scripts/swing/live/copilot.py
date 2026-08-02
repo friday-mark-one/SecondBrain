@@ -55,6 +55,7 @@ DEFAULTS = {
     "min_avg_volume": 1_000_000,
     "min_float_shares": 50_000_000,
     "iv_rv_warn": 1.4,         # warn when IV is this multiple of realized vol
+    "macro_alert_days": 2,     # pulse heads-up when FOMC/CPI/jobs is this many trading days out
     "watchlist": ["AAPL", "AMZN", "GOOGL", "META", "NVDA"],
 }
 
@@ -106,6 +107,67 @@ def bdays_between(a: date, b: date) -> int:
         if d.weekday() < 5:
             n += 1
     return n
+
+
+MACRO_CAL_PATH = HERE / "macro_calendar.csv"
+MACRO_LABELS = {"FOMC": "Fed decision (FOMC)", "CPI": "CPI print", "NFP": "jobs report"}
+WEAK_MONTHS = {4: "April", 9: "September"}
+
+
+def load_macro_calendar(path: Path | None = None) -> list:
+    """Scheduled macro events bundled as CSV (date,type). Missing file -> [].
+    Phase 13 measured NO stop-out effect from these days — everything built on
+    this list is informational context, never a gate and never scored."""
+    p = path or MACRO_CAL_PATH
+    if not p.exists():
+        return []
+    out = []
+    for line in p.read_text().splitlines()[1:]:
+        line = line.strip()
+        if not line:
+            continue
+        ds, typ = line.split(",", 1)
+        try:
+            out.append((date.fromisoformat(ds.strip()), typ.strip()))
+        except ValueError:
+            continue
+    return sorted(out)
+
+
+def macro_upcoming(events: list, today: date, horizon_bdays: int) -> list:
+    """Display lines for events within the next `horizon_bdays` trading days."""
+    lines = []
+    for d, typ in events:
+        if d < today:
+            continue
+        bd = bdays_between(today, d)
+        if bd <= horizon_bdays:
+            label = MACRO_LABELS.get(typ, typ)
+            when = "today" if d == today else \
+                "in %d trading day%s" % (bd, "" if bd == 1 else "s")
+            lines.append("%s %s (%s)" % (label, when, d.strftime("%a %b %d")))
+    return lines
+
+
+def month_note(today: date) -> str | None:
+    name = WEAK_MONTHS.get(today.month)
+    if not name:
+        return None
+    return ("It's %s — the weakest month in our 2010-24 backtest slice "
+            "(statistically unreliable after clustering; trivia, not a rule)" % name)
+
+
+def calendar_last_date(events: list):
+    """Date the calendar stops being COMPLETE: the earliest per-type end.
+    (FOMC is published years ahead of CPI/NFP — max-over-all would hide a year
+    of missing BLS dates behind the long Fed tail.)"""
+    if not events:
+        return None
+    last = {}
+    for d, typ in events:
+        if typ not in last or d > last[typ]:
+            last[typ] = d
+    return min(last.values())
 
 
 def pick_strike(calls, spot: float, cfg: dict):
@@ -875,13 +937,18 @@ def cmd_ticket(args) -> None:
     vol_flag = (f" ⚠️ IV is {ivrv:.1f}× realized — you're paying up for volatility; "
                 f"a right-direction trade can still lose as IV deflates."
                 if not math.isnan(ivrv) and ivrv >= cfg["iv_rv_warn"] else "")
+    cal_bits = macro_upcoming(load_macro_calendar(), today, 5)
+    mn = month_note(today)
+    cal_note = ("\n📅 FYI: " + "; ".join(cal_bits + ([mn] if mn else []))
+                + " — informational only (Phase 13: no measured stop-out effect; not a gate)."
+                if cal_bits or mn else "")
     print(f"""ORDER TICKET — {args.ticker} (spot ${spot:.2f})
 BUY {qty} × {args.ticker} ${strike:g} CALL {expiry}  @ limit ${mid:.2f} (bid {bid:.2f} / ask {ask:.2f}, spread {spread:.1%})
 Greeks: delta ~{delta:.2f} → stock-equivalent exposure ${delta * spot * 100 * qty:,.0f} | theta ${theta * 100 * qty:,.0f}/day (a full {cfg['timeout_day']}-day hold costs ~{hold_cost:.1%} of premium) | IV {iv:.0%} vs realized {rv:.0%} ({ivrv:.1f}×){vol_flag}
 Cost if filled: ${qty * mid * 100:,.0f}   Max risk: ${qty * mid * 100 * cfg['stop_slippage_fill']:,.0f} ({cfg['risk_pct']:.0%} of account — sized assuming the −{cfg['stop_pct']:.0%} stop alert actually fills at −{cfg['stop_slippage_fill']:.0%} after gaps/delay)
 EXIT PLAN (no profit cap — long calls live on the right tail): stop alert at ${mid * (1 - cfg['stop_pct']):.2f} (−{cfg['stop_pct']:.0%}) → sell at market same hour; otherwise exit at market on day {cfg['timeout_day']}. Sell earlier only on your own judgment, and the journal records why.
 ON FILL, reply:  bought {args.ticker} {strike:g} {expiry} {qty} <your-fill-price>
-Reason on record: {args.reason}{band}{pdt_note}""")
+Reason on record: {args.reason}{band}{pdt_note}{cal_note}""")
 
 
 def cmd_bought(args) -> None:
@@ -1043,6 +1110,12 @@ def cmd_weekly(args) -> None:
         parts.append("No closed trades yet.")
     if state["kill_until"] and date.fromisoformat(state["kill_until"]) >= today:
         parts.append(f"⛔ Kill-switch active until {state['kill_until']}.")
+    cal_last = calendar_last_date(load_macro_calendar())
+    if cal_last is None or (cal_last - today).days < 30:
+        parts.append("📅 Macro calendar file "
+                     + ("is missing" if cal_last is None else f"runs dry on {cal_last}")
+                     + " — refresh live/macro_calendar.csv (FOMC from federalreserve.gov,"
+                       " CPI/jobs schedules from bls.gov).")
     refreshed = 0
     for t in cfg.get("watchlist", []):
         try:
@@ -1245,11 +1318,33 @@ def cmd_pulse(args) -> None:
                 f.write(f"{today},{t},{iv:.4f},{spot:.2f}\n")
         except Exception:
             continue
+    # Macro-calendar heads-up: one alert when a scheduled event is exactly
+    # cfg["macro_alert_days"] trading days out, plus a once-a-month note for the
+    # folklore months. Informational only — Phase 13 measured no stop-out effect.
+    cal_lines = []
+    x = int(cfg.get("macro_alert_days", 2))
+    for d, typ in load_macro_calendar():
+        if d >= today and bdays_between(today, d) == x:
+            cal_lines.append("%s on %s (%d trading day%s out)" % (
+                MACRO_LABELS.get(typ, typ), d.strftime("%a %b %d"), x,
+                "" if x == 1 else "s"))
+    mn = month_note(today)
+    mkey = "%04d-%02d" % (today.year, today.month)
+    if mn and state.get("last_month_note") != mkey:
+        state["last_month_note"] = mkey
+        save_state(state)
+        cal_lines.append(mn)
+    msgs = []
     if reports:
-        notify("🧬 Personality pulse — unusual days recorded:\n"
-               + "\n".join(reports)
-               + "\n(Appended to the observations logs. If the news changes what a "
-                 "name trades on, add a narrative line too.)")
+        msgs.append("🧬 Personality pulse — unusual days recorded:\n"
+                    + "\n".join(reports)
+                    + "\n(Appended to the observations logs. If the news changes what a "
+                      "name trades on, add a narrative line too.)")
+    if cal_lines:
+        msgs.append("📅 Calendar heads-up (context only, not a gate): "
+                    + "; ".join(cal_lines))
+    if msgs:
+        notify("\n\n".join(msgs))
 
 
 def collect_metrics(ticker: str, cfg: dict):
@@ -1290,6 +1385,17 @@ def collect_metrics(ticker: str, cfg: dict):
         pass
     try:
         m["vix"] = float(yf.Ticker("^VIX").fast_info["last_price"])
+    except Exception:
+        pass
+    # Unscored macro-event proximity, frozen into entry snapshots so future
+    # audits can check Phase 13's null prospectively. Never enters the rubric.
+    try:
+        nxt = [(bdays_between(date.today(), d), typ)
+               for d, typ in load_macro_calendar() if d >= date.today()]
+        if nxt:
+            bd, typ = min(nxt)
+            if bd <= 5:
+                m["macro_next_bdays"], m["macro_next_type"] = bd, typ
     except Exception:
         pass
     try:
@@ -1364,6 +1470,11 @@ def cmd_report(args) -> None:
     if ne:
         out.append(f"Catalyst: earnings {ne} ({m['earnings_bdays']} trading days)"
                    f"{ctx['earnings_note']}")
+    cal_bits = macro_upcoming(load_macro_calendar(), date.today(), 5)
+    mn = month_note(date.today())
+    if cal_bits or mn:
+        out.append("📅 Calendar: " + "; ".join(cal_bits + ([mn] if mn else []))
+                   + " — context only; Phase 13 measured no stop-out effect from macro days.")
     if len(c) > 200:
         out.append(f"Technicals: {'above' if spot > sma50 else 'below'} 50d "
                    f"(${sma50:.2f}), {'above' if spot > sma200 else 'below'} 200d "
