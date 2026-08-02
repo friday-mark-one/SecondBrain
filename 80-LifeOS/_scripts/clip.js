@@ -117,14 +117,26 @@ function vttToText(vtt) {
 function ytTranscript(url) {
   const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "clip-"));
   try {
-    execFileSync("yt-dlp",
-      ["--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs",
-       "en.*,en", "--sub-format", "vtt", "-o", path.join(tmp, "t"), url],
-      { stdio: "pipe", timeout: 180000 });
-    const f = fs.readdirSync(tmp).find((x) => x.endsWith(".vtt"));
-    return f ? vttToText(fs.readFileSync(path.join(tmp, f), "utf8")) : null;
-  } catch {
-    return null;                        // yt-dlp missing or no captions
+    let err = null;
+    try {
+      // en + en-orig only: an "en.*" glob also matches auto-TRANSLATED tracks
+      // (en-de-DE, en-ja, ...) — 7 downloads and a guaranteed 429 from YouTube.
+      execFileSync("yt-dlp",
+        ["--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs",
+         "en,en-orig", "--sub-format", "vtt", "-o", path.join(tmp, "t"), url],
+        { stdio: "pipe", timeout: 180000 });
+    } catch (e) {
+      err = e;  // partial failures still leave .vtt files behind — harvest before giving up
+    }
+    const vtts = fs.readdirSync(tmp).filter((x) => x.endsWith(".vtt"))
+      .map((f) => ({ f, size: fs.statSync(path.join(tmp, f)).size }))
+      .sort((a, b) => (a.f === "t.en.vtt" ? -1 : b.f === "t.en.vtt" ? 1 : b.size - a.size));
+    if (!vtts.length) {
+      if (err) console.error("yt-dlp: " + String(err.stderr || err.message)
+        .trim().split("\n").slice(-3).join(" | ").slice(0, 300));
+      return null;                      // yt-dlp missing, or video truly has no captions
+    }
+    return vttToText(fs.readFileSync(path.join(tmp, vtts[0].f), "utf8"));
   } finally {
     fs.rmSync(tmp, { recursive: true, force: true });
   }
