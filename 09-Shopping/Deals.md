@@ -1,5 +1,25 @@
 # Deals
 
+## 2026-08-02
+- Fabletics — New gear drop on sale — no date — VIP price
+- Coinbase — Recurring buys promo (BTC example) — no date — no code
+- CardPointers — $10 DoorDash credit on Chase Sapphire Preferred + 50% off CardPointers+ — expires Aug — $3.75/mo via link
+- NerdWallet — Cheap car insurance match tool — no date — quote tool
+- point.me — Up to 200K bonus points + $1,000 card bonus — no date — points/card deals
+- Educative — $50 credit on new annual/2-yr subs — expires 8/2 — auto-applies at checkout
+- Bath & Body Works — $3.75 select foaming hand soaps — expires 8/2 5:59AM ET — final hours (duplicate) 🔔 [[Gift ideas]]
+- Wells Fargo — Autograph card feedback survey — no date — not a deal
+- Cinemark — August horror: Insidious: Out of the Further (8/21), End of Oak Street — no date — member pricing
+- Edmunds — Sedan rankings + SUV deals — no date — car content
+- Huel — Protein breakfast digest — no date — editorial
+- H&M — 30% off in-store all weekend + up to 30% off online — expires 8/2 — select styles
+- NerdWallet — $500 bank bonus (Washington) — no date — bank promo
+- evo — Santa Cruz bikes up to 40% off — no date — bike sale
+- Costco — New Online Savings now live — no date — member pricing
+- Going — Best card offers in August (75K bonus miles etc.) — no date — card offers
+- Bath & Body Works — $3.75 select foaming hand soaps — expires 8/2 5:59AM ET — today only 🔔 [[Gift ideas]]
+- Kohl's — Friends & Family extra 20% off + Active Sale — no date — via email link
+
 ## 2026-08-01
 - Tata Capital Wealth — investment/wealth planning promos — no date — no code
 - Educative — Preseason pricing on interview prep (Grokking System Design) — no date — promo pricing
