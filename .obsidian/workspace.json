@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Tasks/Todo.md",
+                "file": "06-Learning/Books/Clean code.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Clean code"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Tasks/Todo.md",
+                "file": "06-Learning/Books/Clean code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Todo"
+              "title": "Outline of Clean code"
             }
           },
           {
@@ -208,6 +208,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06-Learning/Books/Bigger Leaner Stronger.md",
+    "01-Tasks/Todo.md",
     "00-Dashboard/Home.md",
     "08-Food/Dish Ideas/CC - Alapey Paneer Curry + Brown Rice.md",
     "08-Food/Dish Ideas.md",
@@ -232,8 +234,6 @@
     "08-Food/Dish Ideas/Wholewheat Kale Paneer Pasta.md",
     "08-Food/Dish Ideas/Wholewheat Flour Roti (1pcs).md",
     "08-Food/Dish Ideas/Wholewheat Butter Tofu Pasta.md",
-    "08-Food/Dish Ideas/Wholewheat Butter Paneer Pasta.md",
-    "08-Food/Dish Ideas/Wholewheat Beetroot Tofu Pasta.md",
     "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",
