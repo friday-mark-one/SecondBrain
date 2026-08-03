@@ -15,7 +15,6 @@ diet:
   - "Diabetic Friendly"
   - "Gluten Free"
   - "Jain Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

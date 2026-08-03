@@ -14,7 +14,6 @@ diet:
   - "Vegan"
   - "Pure Veg"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

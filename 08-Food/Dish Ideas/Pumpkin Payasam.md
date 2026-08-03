@@ -13,7 +13,6 @@ diet:
   - "Soy Free"
   - "Low Carb"
   - "Diabetic Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

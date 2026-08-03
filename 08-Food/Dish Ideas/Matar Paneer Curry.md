@@ -13,7 +13,6 @@ diet:
   - "Diabetic Friendly"
   - "Nut Free"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

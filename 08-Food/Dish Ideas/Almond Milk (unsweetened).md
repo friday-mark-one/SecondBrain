@@ -18,7 +18,6 @@ diet:
   - "Diabetic Friendly"
   - "Jain Friendly"
   - "High Protein"
-source: OG Nutrition
 ---
 
 ## Ingredients

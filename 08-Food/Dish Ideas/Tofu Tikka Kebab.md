@@ -14,7 +14,6 @@ diet:
   - "High Protein"
   - "Low Carb"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

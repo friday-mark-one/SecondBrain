@@ -15,7 +15,6 @@ diet:
   - "Gut Friendly"
   - "Soy Free"
   - "High Protein"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -14,7 +14,6 @@ diet:
   - "Gluten Free"
   - "Low Carb"
   - "Sugar Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -13,7 +13,6 @@ diet:
   - "Gluten Free"
   - "Gut Friendly"
   - "Sugar Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

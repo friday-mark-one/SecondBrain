@@ -10,7 +10,6 @@ diet:
   - "Sugar Free"
   - "Diabetic Friendly"
   - "High Protein"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -17,7 +17,6 @@ diet:
   - "Keto Friendly"
   - "Gut Friendly"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

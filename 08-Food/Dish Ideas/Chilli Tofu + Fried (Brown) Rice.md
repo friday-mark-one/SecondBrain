@@ -13,7 +13,6 @@ diet:
   - "Anti-Inflammotory"
   - "Gut Friendly"
   - "Dairy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -12,7 +12,6 @@ diet:
   - "Anti-Inflammotory"
   - "High Protein"
   - "Gluten Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

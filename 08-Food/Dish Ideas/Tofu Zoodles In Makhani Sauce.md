@@ -15,7 +15,6 @@ diet:
   - "Gut Friendly"
   - "Low Fat"
   - "High Protein"
-source: OG Nutrition
 ---
 
 ## Ingredients

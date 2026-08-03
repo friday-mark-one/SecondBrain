@@ -11,7 +11,6 @@ diet:
   - "Keto Friendly"
   - "Low Carb"
   - "Diabetic Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

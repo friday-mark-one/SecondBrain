@@ -13,7 +13,6 @@ diet:
   - "Diabetic Friendly"
   - "Soy Free"
   - "Jain Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

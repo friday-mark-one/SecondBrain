@@ -15,7 +15,6 @@ diet:
   - "Low Carb"
   - "Diabetic Friendly"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

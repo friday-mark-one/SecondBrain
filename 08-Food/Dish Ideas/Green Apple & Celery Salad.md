@@ -9,7 +9,6 @@ diet:
   - "Gluten Free"
   - "Diabetic Friendly"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

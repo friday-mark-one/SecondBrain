@@ -14,7 +14,6 @@ diet:
   - "High Protein"
   - "Low Carb"
   - "Dairy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

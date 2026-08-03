@@ -14,7 +14,6 @@ diet:
   - "Soy Free"
   - "Gluten Free"
   - "Gut Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

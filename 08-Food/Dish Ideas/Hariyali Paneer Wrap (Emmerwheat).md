@@ -15,7 +15,6 @@ diet:
   - "Low Fat"
   - "Low Carb"
   - "Gut Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

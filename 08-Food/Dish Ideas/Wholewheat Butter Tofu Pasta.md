@@ -11,7 +11,6 @@ diet:
   - "Diabetic Friendly"
   - "High Protein"
   - "Gut Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

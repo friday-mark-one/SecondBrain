@@ -14,7 +14,6 @@ diet:
   - "Low Carb"
   - "Anti-Inflammotory"
   - "Gut Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -14,7 +14,6 @@ diet:
   - "Diabetic Friendly"
   - "High Protein"
   - "Keto Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

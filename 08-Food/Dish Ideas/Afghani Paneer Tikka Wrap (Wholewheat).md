@@ -11,7 +11,6 @@ diet:
   - "High Protein"
   - "Soy Free"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

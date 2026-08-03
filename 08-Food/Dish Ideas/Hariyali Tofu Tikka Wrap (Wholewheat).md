@@ -13,7 +13,6 @@ diet:
   - "High Protein"
   - "Low Carb"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

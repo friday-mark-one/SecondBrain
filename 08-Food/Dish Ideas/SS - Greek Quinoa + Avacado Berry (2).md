@@ -14,7 +14,6 @@ diet:
   - "Anti-Inflammotory"
   - "Gut Friendly"
   - "Nut Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

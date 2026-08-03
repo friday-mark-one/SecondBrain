@@ -14,7 +14,6 @@ diet:
   - "Balanced"
   - "Pure Veg"
   - "Sugar Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

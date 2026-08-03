@@ -12,7 +12,6 @@ diet:
   - "Diabetic Friendly"
   - "Gut Friendly"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

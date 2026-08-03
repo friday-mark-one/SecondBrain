@@ -15,7 +15,6 @@ diet:
   - "Keto Friendly"
   - "Low Carb"
   - "Sugar Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

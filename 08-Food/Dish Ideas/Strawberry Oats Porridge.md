@@ -14,7 +14,6 @@ diet:
   - "Dairy Free"
   - "Jain Friendly"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

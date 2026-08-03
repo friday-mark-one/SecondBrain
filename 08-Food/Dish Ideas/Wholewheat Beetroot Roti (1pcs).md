@@ -14,7 +14,6 @@ diet:
   - "Diabetic Friendly"
   - "Soy Free"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

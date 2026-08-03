@@ -14,7 +14,6 @@ diet:
   - "Low Carb"
   - "Soy Free"
   - "Jain Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

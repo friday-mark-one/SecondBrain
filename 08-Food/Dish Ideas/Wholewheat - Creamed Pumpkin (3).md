@@ -12,7 +12,6 @@ diet:
   - "Low Fat"
   - "Anti-Inflammotory"
   - "Gut Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

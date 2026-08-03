@@ -12,7 +12,6 @@ diet:
   - "Soy Free"
   - "High Protein"
   - "Sugar Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

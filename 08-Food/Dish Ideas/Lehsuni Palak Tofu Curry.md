@@ -14,7 +14,6 @@ diet:
   - "Diabetic Friendly"
   - "High Protein"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

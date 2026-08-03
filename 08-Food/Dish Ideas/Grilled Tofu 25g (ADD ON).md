@@ -16,7 +16,6 @@ diet:
   - "Keto Friendly"
   - "Gluten Free"
   - "Dairy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -12,7 +12,6 @@ diet:
   - "Soy Free"
   - "Anti-Inflammotory"
   - "Gut Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

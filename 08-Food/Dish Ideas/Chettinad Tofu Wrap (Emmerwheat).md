@@ -12,7 +12,6 @@ diet:
   - "High Protein"
   - "Gut Friendly"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

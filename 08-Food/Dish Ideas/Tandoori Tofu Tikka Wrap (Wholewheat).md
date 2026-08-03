@@ -13,7 +13,6 @@ diet:
   - "Anti-Inflammotory"
   - "Low Carb"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

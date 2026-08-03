@@ -13,7 +13,6 @@ diet:
   - "Sugar Free"
   - "Gluten Free"
   - "Dairy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

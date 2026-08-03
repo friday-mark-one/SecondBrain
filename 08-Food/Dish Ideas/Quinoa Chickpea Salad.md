@@ -14,7 +14,6 @@ diet:
   - "Diabetic Friendly"
   - "Anti-Inflammotory"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

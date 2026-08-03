@@ -14,7 +14,6 @@ diet:
   - "Gluten Free"
   - "Anti-Inflammotory"
   - "Keto Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

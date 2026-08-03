@@ -13,7 +13,6 @@ diet:
   - "Jain Friendly"
   - "High Protein"
   - "Soy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

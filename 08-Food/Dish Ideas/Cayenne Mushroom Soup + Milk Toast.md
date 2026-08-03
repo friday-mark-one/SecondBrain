@@ -11,7 +11,6 @@ diet:
   - "High Protein"
   - "Gut Friendly"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

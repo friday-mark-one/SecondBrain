@@ -14,7 +14,6 @@ diet:
   - "Low Carb"
   - "Soy Free"
   - "Dairy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

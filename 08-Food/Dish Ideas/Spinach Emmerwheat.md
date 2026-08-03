@@ -17,7 +17,6 @@ diet:
   - "Dairy Free"
   - "High Protein"
   - "Jain Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

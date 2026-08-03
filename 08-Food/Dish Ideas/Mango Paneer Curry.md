@@ -11,7 +11,6 @@ diet:
   - "Dairy Free"
   - "Nut Free"
   - "Soy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

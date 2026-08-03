@@ -15,7 +15,6 @@ diet:
   - "Low Fat"
   - "Anti-Inflammotory"
   - "Dairy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -15,7 +15,6 @@ diet:
   - "Diabetic Friendly"
   - "Gut Friendly"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

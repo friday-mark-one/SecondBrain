@@ -17,7 +17,6 @@ diet:
   - "Sugar Free"
   - "Soy Free"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

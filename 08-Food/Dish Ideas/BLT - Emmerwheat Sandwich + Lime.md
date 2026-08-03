@@ -13,7 +13,6 @@ diet:
   - "Anti-Inflammotory"
   - "Nut Free"
   - "Soy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

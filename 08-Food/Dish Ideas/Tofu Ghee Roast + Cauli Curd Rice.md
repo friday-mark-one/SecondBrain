@@ -14,7 +14,6 @@ diet:
   - "Nut Free"
   - "Keto Friendly"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

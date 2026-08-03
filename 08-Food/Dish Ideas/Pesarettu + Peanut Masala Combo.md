@@ -16,7 +16,6 @@ diet:
   - "Gluten Free"
   - "Dairy Free"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

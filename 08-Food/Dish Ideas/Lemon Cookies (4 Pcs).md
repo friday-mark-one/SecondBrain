@@ -14,7 +14,6 @@ diet:
   - "Sugar Free"
   - "Jain Friendly"
   - "Keto Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

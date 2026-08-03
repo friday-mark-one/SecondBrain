@@ -13,7 +13,6 @@ diet:
   - "Gluten Free"
   - "Soy Free"
   - "Nut Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -13,7 +13,6 @@ diet:
   - "Anti-Inflammotory"
   - "Gut Friendly"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

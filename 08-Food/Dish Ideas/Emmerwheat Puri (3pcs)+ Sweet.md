@@ -14,7 +14,6 @@ diet:
   - "Dairy Free"
   - "High Protein"
   - "Nut Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

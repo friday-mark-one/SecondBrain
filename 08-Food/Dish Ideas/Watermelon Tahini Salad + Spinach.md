@@ -15,7 +15,6 @@ diet:
   - "Anti-Inflammotory"
   - "Keto Friendly"
   - "Gut Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

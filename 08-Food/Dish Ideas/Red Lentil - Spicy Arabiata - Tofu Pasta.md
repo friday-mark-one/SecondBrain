@@ -12,7 +12,6 @@ diet:
   - "Diabetic Friendly"
   - "Nut Free"
   - "Gluten Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

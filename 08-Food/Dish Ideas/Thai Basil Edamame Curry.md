@@ -14,7 +14,6 @@ diet:
   - "High Protein"
   - "Gluten Free"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

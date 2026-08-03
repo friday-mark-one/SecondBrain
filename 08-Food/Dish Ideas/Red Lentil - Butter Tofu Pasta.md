@@ -12,7 +12,6 @@ diet:
   - "High Protein"
   - "Gut Friendly"
   - "Gluten Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

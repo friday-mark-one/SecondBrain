@@ -9,7 +9,6 @@ diet:
   - "Sugar Free"
   - "Keto Friendly"
   - "Diabetic Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -18,7 +18,6 @@ diet:
   - "Low Fat"
   - "Sugar Free"
   - "Soy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

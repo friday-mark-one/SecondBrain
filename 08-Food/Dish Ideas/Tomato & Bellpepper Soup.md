@@ -15,7 +15,6 @@ diet:
   - "Soy Free"
   - "Keto Friendly"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

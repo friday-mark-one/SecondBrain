@@ -13,7 +13,6 @@ diet:
   - "Soy Free"
   - "Diabetic Friendly"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

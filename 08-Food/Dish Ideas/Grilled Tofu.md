@@ -13,7 +13,6 @@ diet:
   - "Low Carb"
   - "High Protein"
   - "Keto Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

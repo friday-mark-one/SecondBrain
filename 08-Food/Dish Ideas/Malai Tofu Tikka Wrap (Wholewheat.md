@@ -10,7 +10,6 @@ diet:
   - "High Protein"
   - "Diabetic Friendly"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

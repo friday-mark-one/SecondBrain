@@ -15,7 +15,6 @@ diet:
   - "Sugar Free"
   - "Gut Friendly"
   - "Anti-Inflammotory"
-source: OG Nutrition
 ---
 
 ## Ingredients

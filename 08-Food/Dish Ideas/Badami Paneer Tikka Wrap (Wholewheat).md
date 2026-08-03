@@ -15,7 +15,6 @@ diet:
   - "Pure Veg"
   - "Sugar Free"
   - "Soy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

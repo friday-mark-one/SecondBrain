@@ -11,7 +11,6 @@ diet:
   - "Diabetic Friendly"
   - "High Protein"
   - "Gluten Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

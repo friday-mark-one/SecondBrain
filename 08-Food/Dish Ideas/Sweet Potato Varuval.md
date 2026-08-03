@@ -15,7 +15,6 @@ diet:
   - "Diabetic Friendly"
   - "Low Fat"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

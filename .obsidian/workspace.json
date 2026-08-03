@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
+                "file": "00-Dashboard/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emmerwheat Bread Loaf"
+              "title": "Home"
             }
           }
         ]
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
+                "file": "00-Dashboard/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Emmerwheat Bread Loaf"
+              "title": "Outline of Home"
             }
           },
           {
@@ -207,9 +207,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d6ba07f4490ce44d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "08-Food/Dish Ideas.md",
+    "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
     "08-Food/Dish Ideas/Chimichurri Sea Bass.md",
     "Clippings/Bubble memory - Wikipedia.md",
     "08-Food/Dish Ideas/Vegetable Stroganoff + Cauli Spinach Rice.md",
@@ -234,7 +235,6 @@
     "08-Food/Dish Ideas/Wholewheat Beetroot Tofu Pasta.md",
     "08-Food/Dish Ideas/Wholewheat Beetroot Roti (1pcs).md",
     "08-Food/Dish Ideas/Wholewheat Beetroot Paneer.md",
-    "08-Food/Dish Ideas/Wholewheat Alfredo Tofu Pasta.md",
     "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",

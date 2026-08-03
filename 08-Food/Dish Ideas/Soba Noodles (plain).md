@@ -17,7 +17,6 @@ diet:
   - "Jain Friendly"
   - "Nut Free"
   - "Soy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

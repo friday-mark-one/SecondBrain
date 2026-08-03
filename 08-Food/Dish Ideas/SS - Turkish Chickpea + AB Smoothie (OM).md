@@ -13,7 +13,6 @@ diet:
   - "Diabetic Friendly"
   - "Anti-Inflammotory"
   - "Nut Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -13,7 +13,6 @@ diet:
   - "Nut Free"
   - "Anti-Inflammotory"
   - "Low Fat"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -16,7 +16,6 @@ diet:
   - "Vegan"
   - "Low Fat"
   - "Pure Veg"
-source: OG Nutrition
 ---
 
 ## Ingredients

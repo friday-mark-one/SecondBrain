@@ -11,7 +11,6 @@ diet:
   - "Diabetic Friendly"
   - "High Protein"
   - "Soy Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

@@ -13,7 +13,6 @@ diet:
   - "Low Fat"
   - "High Protein"
   - "Diabetic Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

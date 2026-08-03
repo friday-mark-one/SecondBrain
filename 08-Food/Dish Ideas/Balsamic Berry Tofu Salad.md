@@ -14,7 +14,6 @@ diet:
   - "Dairy Free"
   - "Low Fat"
   - "Nut Free"
-source: OG Nutrition
 ---
 
 ## Ingredients

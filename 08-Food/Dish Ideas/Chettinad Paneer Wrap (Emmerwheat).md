@@ -13,7 +13,6 @@ diet:
   - "Soy Free"
   - "Gut Friendly"
   - "Low Carb"
-source: OG Nutrition
 ---
 
 ## Ingredients

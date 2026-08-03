@@ -13,7 +13,6 @@ diet:
   - "Low Carb"
   - "Gluten Free"
   - "Keto Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients

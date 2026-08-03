@@ -9,7 +9,6 @@ diet:
   - "Gluten Free"
   - "Sugar Free"
   - "Diabetic Friendly"
-source: OG Nutrition
 ---
 
 ## Ingredients
