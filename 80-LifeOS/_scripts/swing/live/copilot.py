@@ -16,6 +16,7 @@ Commands (run with swing/.venv/bin/python):
 from __future__ import annotations
 
 import argparse
+import fcntl
 import json
 import math
 import statistics
@@ -91,8 +92,41 @@ def load_state() -> dict:
     return state
 
 
+STATE_LOCK = STATE_PATH.with_suffix(".lock")
+# Monotonic gate markers: concurrent saves must never regress these (e.g. a
+# stale monitor copy wiping pulse's `last_pulse` let pulse re-fire every
+# heartbeat). ISO date/timestamps compare chronologically as strings.
+GATE_KEYS = ("last_pulse", "last_weekly", "last_month_note", "last_monitor")
+COUNTER_KEYS = ("monitor_runs",)
+
+
 def save_state(state: dict) -> None:
-    STATE_PATH.write_text(json.dumps(state, indent=2, default=str) + "\n")
+    """Locked merge-on-write. The heartbeat runs monitor/pulse/weekly in
+    parallel; each saves its own copy of state. Without merging, one command's
+    stale save clobbers another's keys — the pulse's `last_pulse` gate was being
+    wiped, so it re-fired every heartbeat. Rules:
+      - gate markers: latest value wins (never regress)
+      - counters: max wins
+      - nested dicts (config/alerts/cooloff): per-key union
+      - everything else: caller's value wins"""
+    with open(STATE_LOCK, "w") as lf:
+        fcntl.flock(lf, fcntl.LOCK_EX)
+        try:
+            disk = json.loads(STATE_PATH.read_text()) if STATE_PATH.exists() else {}
+        except Exception:
+            disk = {}
+        merged = {**disk, **state}
+        for k in GATE_KEYS:
+            d, s = disk.get(k), state.get(k)
+            if d and s:
+                merged[k] = max(d, s)
+        for k in COUNTER_KEYS:
+            merged[k] = max(disk.get(k, 0), state.get(k, 0))
+        for k in ("config", "alerts", "cooloff"):
+            if isinstance(disk.get(k), dict) and isinstance(state.get(k), dict):
+                merged[k] = {**disk[k], **state[k]}
+        STATE_PATH.write_text(json.dumps(merged, indent=2, default=str) + "\n")
+        fcntl.flock(lf, fcntl.LOCK_UN)
 
 
 # ---------- pure rule logic (unit-tested, no I/O) ----------
