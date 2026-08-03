@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Bubble memory - Wikipedia.md",
+                "file": "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bubble memory - Wikipedia"
+              "title": "Emmerwheat Bread Loaf"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "\"Idea from the [OG Nutrition dish library](https://theognutrition.com/dish-library) — macros are their per-serving numbers, no recipe yet. Cooked it and liked it? See [[Dish Ideas]] for how to promote it into [[Cookbook]].\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Bubble memory - Wikipedia.md",
+                "file": "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bubble memory - Wikipedia"
+              "title": "Outline of Emmerwheat Bread Loaf"
             }
           },
           {
@@ -206,44 +207,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d6ba07f4490ce44d",
   "lastOpenFiles": [
-    "Clippings/Note-Taking and Personal Knowledge Management.md",
+    "08-Food/Dish Ideas.md",
+    "08-Food/Dish Ideas/Chimichurri Sea Bass.md",
     "Clippings/Bubble memory - Wikipedia.md",
-    "Clippings/Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).md",
-    "Clippings/Reddit - Please wait for verification.md",
-    "Clippings/The AI Superforecasters Are Here.md",
-    "00-Dashboard/Home.md",
-    "80-LifeOS/Clippings instructions.md",
+    "08-Food/Dish Ideas/Vegetable Stroganoff + Cauli Spinach Rice.md",
+    "08-Food/Dish Ideas/Vegetable Dal Curry.md",
+    "08-Food/Dish Ideas/Zucchini Soup + Milk Toast (Emmerwheat).md",
+    "08-Food/Dish Ideas/Tofu Zoodles In Creamed Red.md",
+    "08-Food/Dish Ideas/Zucchini Soup + Greek Quinoa.md",
+    "08-Food/Dish Ideas/Zoodles In Pesto Sauce.md",
+    "08-Food/Dish Ideas/Zoodles In Makhani Sauce.md",
+    "08-Food/Dish Ideas/Zoodles In Creamed Red Bellpepper.md",
+    "08-Food/Dish Ideas/Zoodles In Creamed Pumpkin Sauce.md",
+    "08-Food/Dish Ideas/Zoodles In Creamed Caper Sauce.md",
+    "08-Food/Dish Ideas/Zoodles (Veggie Loaded).md",
+    "08-Food/Dish Ideas/Wholewheat Spinach Roti (1pcs).md",
+    "08-Food/Dish Ideas/Wholewheat Pesto Tofu Pasta.md",
+    "08-Food/Dish Ideas/Wholewheat Pesto Paneer Pasta.md",
+    "08-Food/Dish Ideas/Wholewheat Kale Tofu Pasta.md",
+    "08-Food/Dish Ideas/Wholewheat Kale Paneer Pasta.md",
+    "08-Food/Dish Ideas/Wholewheat Flour Roti (1pcs).md",
+    "08-Food/Dish Ideas/Wholewheat Butter Tofu Pasta.md",
+    "08-Food/Dish Ideas/Wholewheat Butter Paneer Pasta.md",
+    "08-Food/Dish Ideas/Wholewheat Beetroot Tofu Pasta.md",
+    "08-Food/Dish Ideas/Wholewheat Beetroot Roti (1pcs).md",
+    "08-Food/Dish Ideas/Wholewheat Beetroot Paneer.md",
+    "08-Food/Dish Ideas/Wholewheat Alfredo Tofu Pasta.md",
+    "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",
-    "80-LifeOS/logs/08-02-26.md",
-    "04-Finance/Day trading/Options copilot journal.md",
     "80-LifeOS/_scripts/swing/live/__pycache__/copilot.cpython-312.pyc",
     "80-LifeOS/_scripts/swing/live/__pycache__",
     "80-LifeOS/_scripts/swing/tests/__pycache__/test_copilot.cpython-312-pytest-9.1.1.pyc",
     "80-LifeOS/_scripts/swing/tests/__pycache__/conftest.cpython-312-pytest-9.1.1.pyc",
     "80-LifeOS/_scripts/swing/tests/__pycache__",
     "80-LifeOS/_scripts/swing/live/macro_calendar.csv",
-    "80-LifeOS/logs/08-01-26.md",
-    "80-LifeOS/logs/07-31-26.md",
-    "Prompt library.md",
-    "Options copilot journal.md",
     "80-LifeOS/_scripts/swing/_run_all_reports.py",
-    "80-LifeOS/logs/07-30-26.md",
-    "New oage.md",
-    "80-LifeOS/logs/07-29-2026.md",
-    "80-LifeOS/logs/07-29-26.md",
-    "80-LifeOS/logs/2026-07-28.md",
-    "80-LifeOS/_scripts/swing/live/iv_history.csv",
-    "80-LifeOS/logs/07-28-26.md",
-    "80-LifeOS/Options copilot instructions.md",
-    "SETUP.md",
-    "04-Finance/Day trading/Evidence-backed techniques.md",
-    "04-Finance/Day trading/Trading research archive.md",
-    "04-Finance/Day trading/Personalities/XOM.md",
-    "04-Finance/Day trading/Personalities/UBER.md",
-    "04-Finance/Day trading/Personalities/TSM.md",
     "99-Meta/Attachments/image-1682813995895.jpg6640269332611358638.jpg",
     "99-Meta/Attachments/image-1654757751304.jpg1796082842096553027.jpg",
     "99-Meta/Attachments/image-1653463911446.jpg7981968474968070746.jpg",

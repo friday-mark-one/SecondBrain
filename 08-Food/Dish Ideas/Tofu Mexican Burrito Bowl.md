@@ -1,0 +1,22 @@
+---
+type: dish-idea
+name: "Tofu Mexican Burrito Bowl"
+protein: 16
+carbs: 31
+fats: 24
+kcals: 404
+diet:
+  - "Gluten Free"
+  - "Nut Free"
+  - "Low Carb"
+  - "High Protein"
+  - "Diabetic Friendly"
+  - "Anti-Inflammotory"
+source: OG Nutrition
+---
+
+Idea from the [OG Nutrition dish library](https://theognutrition.com/dish-library) — macros are their per-serving numbers, no recipe yet. Cooked it and liked it? See [[Dish Ideas]] for how to promote it into [[Cookbook]].
+
+## Ingredients
+
+## Directions
