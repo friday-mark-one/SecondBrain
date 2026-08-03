@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard/Home.md",
-                "mode": "source",
+                "file": "01-Tasks/Todo.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Todo"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Idea from the [OG Nutrition dish library](https://theognutrition.com/dish-library) — macros are their per-serving numbers, no recipe yet. Cooked it and liked it? See [[Dish Ideas]] for how to promote it into [[Cookbook]].\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Dashboard/Home.md",
+                "file": "01-Tasks/Todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Todo"
             }
           },
           {
@@ -209,6 +208,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-Dashboard/Home.md",
+    "08-Food/Dish Ideas/CC - Alapey Paneer Curry + Brown Rice.md",
     "08-Food/Dish Ideas.md",
     "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
     "08-Food/Dish Ideas/Chimichurri Sea Bass.md",
@@ -233,8 +234,6 @@
     "08-Food/Dish Ideas/Wholewheat Butter Tofu Pasta.md",
     "08-Food/Dish Ideas/Wholewheat Butter Paneer Pasta.md",
     "08-Food/Dish Ideas/Wholewheat Beetroot Tofu Pasta.md",
-    "08-Food/Dish Ideas/Wholewheat Beetroot Roti (1pcs).md",
-    "08-Food/Dish Ideas/Wholewheat Beetroot Paneer.md",
     "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",
