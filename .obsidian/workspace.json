@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Learning/Books/Clean code.md",
-                "mode": "preview",
+                "file": "90-Archive/Personal/Personal Home/Career goals.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clean code"
+              "title": "Career goals"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Learning/Books/Clean code.md",
+                "file": "90-Archive/Personal/Personal Home/Career goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clean code"
+              "title": "Outline of Career goals"
             }
           },
           {
@@ -208,6 +208,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "90-Archive/Personal/Personal Home/Misc/Japan journal.md",
+    "06-Learning/Books/How to win friends and influence people.md",
+    "06-Learning/Books/Media.base",
+    "06-Learning/Books/Clean code.md",
     "06-Learning/Books/Bigger Leaner Stronger.md",
     "01-Tasks/Todo.md",
     "00-Dashboard/Home.md",
@@ -231,9 +235,6 @@
     "08-Food/Dish Ideas/Wholewheat Pesto Tofu Pasta.md",
     "08-Food/Dish Ideas/Wholewheat Pesto Paneer Pasta.md",
     "08-Food/Dish Ideas/Wholewheat Kale Tofu Pasta.md",
-    "08-Food/Dish Ideas/Wholewheat Kale Paneer Pasta.md",
-    "08-Food/Dish Ideas/Wholewheat Flour Roti (1pcs).md",
-    "08-Food/Dish Ideas/Wholewheat Butter Tofu Pasta.md",
     "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",
@@ -243,7 +244,6 @@
     "80-LifeOS/_scripts/swing/tests/__pycache__/conftest.cpython-312-pytest-9.1.1.pyc",
     "80-LifeOS/_scripts/swing/tests/__pycache__",
     "80-LifeOS/_scripts/swing/live/macro_calendar.csv",
-    "80-LifeOS/_scripts/swing/_run_all_reports.py",
     "99-Meta/Attachments/image-1682813995895.jpg6640269332611358638.jpg",
     "99-Meta/Attachments/image-1654757751304.jpg1796082842096553027.jpg",
     "99-Meta/Attachments/image-1653463911446.jpg7981968474968070746.jpg",
