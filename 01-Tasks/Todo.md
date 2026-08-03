@@ -6,6 +6,8 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
+- [ ] Deal with EPF
+- [ ] Buy snowboard 
 - [ ] Engine oil
 - [ ] Car service
 - [ ] Phillips send for repair
@@ -17,7 +19,6 @@ pinned: true
 - [ ] Canada visa
 - [ ] Wash birkenstock sandal
 - [ ] Create a gmail alias
-- [ ] Organize google drive
 - [ ] Jailbreak Kindle
 - [ ] Make marinara and pesto sauce
 - [ ] Car
@@ -26,9 +27,7 @@ pinned: true
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
 - [ ] Wash water bottle
-- [ ] Inbox cleanup
 - [ ] best buy gift card use
-- [ ] ognutrition menu copy
 - [ ] dietician with kaiser
 - [ ] Futureme letter
 - [ ] GTA V
