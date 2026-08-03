@@ -1,5 +1,60 @@
 # Deals
 
+## 2026-08-03
+- Kohl's — ULTIMATE Clearance Event up to 70% off — no date — clearance, no code
+- Kohl's — ULTIMATE Clearance Event up to 70% off — no date — clearance, no code (duplicate)
+- Famous Footwear — STAR member: free shipping — no date — member perk
+- Fabletics — FREE $30 gift card in your account — no date — check account
+- Bath & Body Works — flash sale tonight only — expired 8/2 — no code
+- Macy's — 10 standout kitchen brands — no date — no code
+- Costco — Weekly Warehouse Insider — no date — member pricing
+- NerdWallet — car insurance cost calculator — no date — not a deal
+- Michaels Rewards — exclusive offers — no date — member pricing
+- Macy's — $14.99 women's & men's sleep separates — no date — no code
+- Aroma Restaurant Bothell — 20% off $40+ — expired 8/2 (ended Sunday) — local
+- H&M — up to 30% off — expires 8/3 (ends tomorrow) — select styles
+- Nordstrom Rack — new arrivals: Free People, Veronica Beard — no date — no code
+- Costco — Big Savings Delivered to Your Door — no date — online deals
+- UNiDAYS — August student savings — no date — student discount hub
+- Going — Elite membership half off (ICYMI) — no date — flight deals sub
+- Bath & Body Works — $5.95 body mists — expired 8/2 (ended today) — no code
+- Michaels — Maker Haul up to 50% off — no date — store/online
+- NordVPN — HeyPolo family check-in $0.99/month — no date — last chance
+- Macy's — up to 70% off clearance — no date — jewelry to toys
+- J.Crew Factory — 50% off all stores & sitewide — no date — no code
+- point.me — flash sale: $450+ benefits for $174 — expires ~8/4 (2 days only) — save $86
+- Kohl's — Friends & Family extra 20% off + Kohl's Cash — expired 8/2 (hours left) — via email link
+- Interactive Brokers — phishing reminder — no date — not a deal
+- Kohl's — Friends & Family extra 20% off + Kohl's Cash — expired 8/2 (hours left) — via email link (duplicate)
+- Macy's — summer fragrance picks — no date — no code
+- Macy's — up to 60% off 8 trends — no date — no code
+- Skechers Plus — monthly summary — no date — not a deal
+- Lyft — 30% off next ride — no date — claim in app
+- HomeGoods — treat yourself, great prices — no date — no code
+- Nordstrom — matching sets for every destination — no date — no code
+- Michaels — back-to-school deals — no date — no code
+- Hallmark Crown Rewards — August eStatement + free card — no date — member perk
+- Nordstrom Rack — new markdowns up to 70% off — no date — no code
+- Famous Footwear — back-to-school Sneaker Shop — no date — no code
+- Sephora — Beauty Insider Celebration starts today — no date — member pricing
+- Macy's — 30% off dresses — no date — no code
+- Michaels — back-to-class deals, gone tomorrow — expires 8/3 — no code
+- Kohl's — extra 20% off denim + Active Sale — no date — via email link
+- Chipotle Rewards — monthly status update — no date — not a deal
+- Macy's — 15 home finds on sale, up to 50% off housewares — no date — no code
+- HomeGoods — small space meal prep: food storage & kitchen — no date — no code
+- Kohl's — 20% off summer home refresh + up to 70% clearance — no date — via email link
+- Nordstrom — Anniversary Sale up to 40% off — no date — member pricing
+- Michaels — savings in session: supply list — no date — no code
+- Nordstrom — Anniversary Sale still going — no date — member pricing
+- Sephora at Kohl's — A+ beauty back-to-school — no date — no code
+- Nordstrom Rack — dresses under $50 & more — no date — no code
+- Chipotle — free chips & guac reward — no date — check app
+- Michaels Custom Framing — 70% off all custom frames — no date — no code
+- Macy's — up to 70% off swimwear (BOSS, Becca) — no date — no code
+- Michaels — school list BOGOs — no date — no code
+- Kohl's — special 20% savings + Kohl's Cash — no date — via email link
+
 ## 2026-08-02
 - Fabletics — New gear drop on sale — no date — VIP price
 - Coinbase — Recurring buys promo (BTC example) — no date — no code
