@@ -20,3 +20,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: new 52-week high. Headlines: Citadel Securities’ Fed Rate Hike Call Adds to Market Angst | Honeywell upgraded by Bank of America on stronger order trends | Coca-Cola Stock Pops After Earnings Shine a Light on Consumer Spending
 - 2026-07-28 — AUTO: new 52-week high. Headlines: Citadel Securities’ Fed Rate Hike Call Adds to Market Angst | Honeywell upgraded by Bank of America on stronger order trends | Coca-Cola Stock Pops After Earnings Shine a Light on Consumer Spending
+- 2026-08-04 — AUTO: new 52-week high. Headlines: Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching. | Micron pullback seen as buying opportunity amid solid end-demand, says BofA | Why Micron Stock Keeps Bouncing Higher

@@ -14,7 +14,8 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-08-04 — Trades on the autonomous-ride race with Waymo (Waymo's latest announcement is a live swing factor) plus mobility/AV-ecosystem news; crossed back above its 50d
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
+- 2026-08-04 — AUTO: crossed above its 50d average. Headlines: Ex-Uber boss Travis Kalanick lands air taxi 'vertiport' deal with Joby | Is Waymo's Latest Announcement Bad News for Uber? | JOBY Stock Pops 8% On US Infrastructure Push Ahead Of Commercial Operations Launch

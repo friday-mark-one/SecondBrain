@@ -14,9 +14,10 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-08-04 — Trades on AI commercial momentum and earnings execution: Q2 earnings triggered a +29.5% rip back above its 50d/200d, a re-rating on AI revenue growth
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -4.3%. Headlines: Palantir Stock Slumps Ahead of Q2 Earnings | AI Revenue Just Hit $100 Billion From Zero Two Years Ago. Wall Street Warns of a Massive SaaS Trap. | Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models
 - 2026-07-28 — AUTO: opening gap -4.3%. Headlines: Palantir Stock Slumps Ahead of Q2 Earnings | AI Revenue Just Hit $100 Billion From Zero Two Years Ago. Wall Street Warns of a Massive SaaS Trap. | Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models
+- 2026-08-04 — AUTO: +29.5% day (≥2× its typical range); opening gap +15.5%; volume 4.1× normal; crossed above its 50d average; crossed above its 200d average. Headlines: Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips | 'Several steps ahead': Why Palantir stock is surging | Why Palantir stock is ripping higher after earnings: AlphaSpace stat of the morning
