@@ -1,5 +1,32 @@
 # Deals
 
+## 2026-08-04
+- Bank of America — mobile app feedback survey — no date — not a deal
+- CRED — digital gold savings (24k, 99.5% pure) — no date — from ₹10
+- Club Pilates Bothell — membership sign-up offer — no date — local studio
+- Kohl's — Active Sale: Nike, adidas, Tek Gear + up to 70% off clearance — no date — via email link
+- Fabletics — items you had your eye on — no date — member pricing
+- Club Pilates Bothell — class packs (5/10), no membership — expires 8/15 — 5-pack credits 45 days, 10-pack 90 days
+- Club Pilates Bothell — teacher training info session 8/9 11am — event — Edmonds studio
+- Best Buy Visa — choose your 5% back category — no date — card perk
+- Going — rare Thailand fares $823–$1,110 (Aug–Sep) — no date — flight deals
+- Fabletics — August new arrivals on sale — no date — member pricing
+- Chase Ink Business Unlimited — $1,000 bonus cash back — no date — card offer
+- Amazon — rehire outreach, no interview within 12-mo window — no date — not a deal
+- MOD Pizza — Summer of Rewards: 20% off MOD-size pizza or salad — expires 8/9 — rewards members, limit 1
+- Lumosity — 35% off Premium — no date — code NEWSLETTER-35-26
+- Going — Europe economy 2-in-1, 32k–38k points roundtrip — no date — points deal
+- Chase — preapproved for up to $80,000 — no date — not a deal
+- NerdWallet — cheapest car insurance comparison — no date — not a deal
+- Costco — End of Summer Savings — no date — member pricing
+- Life Time Bellevue — summer membership pricing — no date — local gym
+- UNiDAYS — student deals upgrade — no date — student discount hub
+- H&M — up to 30% off fall layers — expires 8/4 (last day) — select styles
+- ID.me Shop — back-to-school up to 44% off: HOKA, LG, Kendra Scott, BJ's — no date — student verification
+- Going — 10 best deals ever sent (roundup) — no date — flight deals
+- Bath & Body Works — body care buy 3 get 3 free — no date — no code
+- Michaels — Fine Art Month: drawing & sketching week — no date — store/online
+
 ## 2026-08-03
 - Kohl's — ULTIMATE Clearance Event up to 70% off — no date — clearance, no code
 - Kohl's — ULTIMATE Clearance Event up to 70% off — no date — clearance, no code (duplicate)
