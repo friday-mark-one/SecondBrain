@@ -8,6 +8,7 @@ pinned: true
 - [ ] H1B appointment 
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
+- [ ] Fix TFCC
 - [ ] Engine oil
 - [ ] Car service
 - [ ] Phillips send for repair

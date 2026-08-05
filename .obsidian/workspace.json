@@ -11,24 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90-Archive/Personal/Personal Home/Career goals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Career goals"
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90-Archive/Personal/Personal Home/Career goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Career goals"
+              "title": "Outline"
             }
           },
           {
@@ -208,6 +195,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "90-Archive/Personal/Personal Home/Career goals.md",
     "80-LifeOS/logs/08-04-26.md",
     "80-LifeOS/_scripts/swing/live/state.lock",
     "80-LifeOS/logs/08-03-26.md",
@@ -235,7 +223,6 @@
     "08-Food/Dish Ideas/Zoodles In Creamed Caper Sauce.md",
     "08-Food/Dish Ideas/Zoodles (Veggie Loaded).md",
     "08-Food/Dish Ideas/Wholewheat Spinach Roti (1pcs).md",
-    "08-Food/Dish Ideas/Wholewheat Pesto Tofu Pasta.md",
     "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",
