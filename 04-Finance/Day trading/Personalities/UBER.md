@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-08-04 — Trades on the autonomous-ride race with Waymo (Waymo's latest announcement is a live swing factor) plus mobility/AV-ecosystem news; crossed back above its 50d
+- 2026-08-05 — Q2 bookings guidance disappointed and the stock fell ~5% even as bookings growth stayed strong — earnings now trade on forward guidance more than the print; CEO is doubling down on the robotaxi push, so robotaxi/AV-ecosystem headlines (Waymo, Tesla robotaxi, AV regulation) remain the swing narrative.
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.

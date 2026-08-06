@@ -14,7 +14,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-08-05 — Q3 showed streaming finally gaining traction (analysts flagging real growth), with Disney reaffirming double-digit earnings growth and ~$9B in buybacks — trades on streaming-subscriber/profitability momentum plus capital-return commitment; also a broad-market tape name given its Dow/megacap weighting.
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.

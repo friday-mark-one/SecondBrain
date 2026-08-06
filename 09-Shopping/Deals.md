@@ -1,5 +1,49 @@
 # Deals
 
+## 2026-08-05
+- Fabletics — gift card claim, final hours — expires 8/5 — check account
+- Cinemark — monthly Movie Rewards recap, 29 points — no date — points balance
+- Chase — up to $100 back with Paze — no date — card offer
+- NerdWallet — HYSA rates up to 4.15% — no date — not a deal
+- point.me — 16K to Madrid / 25K premium to Rome — no date — points deal, up to 30% more free points
+- Interactive Brokers — IBKR webinars, August 2026 — event — no date
+- Bath & Body Works — $1 fall PocketBac sanitizers — expires 8/5 — hours left
+- DoorDash — try-something-new restaurant picks — no date — via app
+- Aroma Restaurant & Venue — catering gift card: $75 on $500+, $200 on $1,000+ — book by 8/15 — Bothell, redeem by 12/31
+- Herschel — 30% off — expires 8/5 11:59pm PT — code ThankYou30, collab excluded
+- Alaska Atmos Rewards — Members Day — no date — via email link
+- Costco — tech upgrade: ASUS Vivobook 16" $1,099.99 ($400 off), Dell tower $1,299.99 ($500 off) — no date — $150+ orders
+- JetBlue — fall flights from $54 one-way — expires 8/6 11:59pm ET — 2-day sale
+- Life Time — rejoin for summer pricing — no date — Bellevue location
+- Vida Integrated Health — Kari Gran skincare 18% off — no date — community partner, Seattle brand
+- H&M — 20% off H&M HOME — no date — via email link
+- evo — trail running brands — no date — shoes to hydration
+- Going — Elite half off — no date — code SUMMER51 for 51% off
+- Etsy — personalized picks — no date — not a deal
+- Bath & Body Works — $1 pocket-friendly picks — expires 8/5 — today only
+- Tata Capital Wealth — market insight newsletter — no date — not a deal
+- Kohl's — ULTIMATE Clearance up to 70% off — no date — clearance
+- The Leela — Independence Day escape — no date — hotel offer
+- CRED — Kuvera by CRED: earn up to 6.7% — no date — withdraw anytime
+- Xfinity — Member Celebration: 10 days of perks from 8/20, $10 Grubhub gift card, $1 movie rentals — no date — member perks
+- Fabletics — new O2 Run Pant — no date — new arrival
+- Apple Card — $300 bonus — apply by 8/31 — spend $1,500 in first 60 days
+- Etsy — curated picks — no date — not a deal
+- MuseScore — free bonus to subscription — no date — subscriber perk
+- Fabletics — member heads-up — no date — check account
+- NerdWallet — save up to $1,079 on insurance — no date — not a deal
+- Costco Same-Day by Instacart — $10 off August restock — no date — via app
+- Cinemark — The Dog Stars spotlight — no date — movie promo
+- Going — nonstop Taiwan $772 (Aug–Nov) — no date — flight deal
+- Costco — next-level tech (laptops/desktops) — no date — member pricing
+- H&M — contrast dressing — no date — not a deal
+- Chase for Business — earn up to $1,500 — no date — small business banking
+- Lake Washington Dermatology — August specials — no date — local clinic
+- Huel — bestsellers — no date — not a deal
+- evo — 20% off 1 full-price item — expires 8/5 — ends today
+- Going — points & miles mistakes newsletter — no date — not a deal
+- Bath & Body Works — buy 3 get 3 body care — no date — limited time
+
 ## 2026-08-04
 - Bank of America — mobile app feedback survey — no date — not a deal
 - CRED — digital gold savings (24k, 99.5% pure) — no date — from ₹10

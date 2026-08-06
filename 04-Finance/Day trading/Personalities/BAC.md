@@ -14,7 +14,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-08-05 — Sitting at a new 52-week high; CEO Moynihan expects three Fed hikes in 2026 (inflation in the mid-2s by end of 2027), so it trades heavily on rate expectations and the yield curve — hikes/rate-hike-call headlines and bank-sector sentiment are the live swing factors.
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.

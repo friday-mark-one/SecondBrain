@@ -1,5 +1,59 @@
 # News
 
+## 2026-08-05
+
+## AI industry & big tech
+
+- [Anthropic Reportedly Signed a $10B Cloud Deal with Volta](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/) — Six years of cloud capacity from AI infra startup Volta; the planned 133-megawatt Norway data center would be built with Bitdeer and powered by NVIDIA Vera Rubin systems. (TLDR AI)
+- [Apple vs. OpenAI: How Siri AI Stacks Up Against the New ChatGPT](https://links.tldrnewsletter.com/g69vlW) — Siri AI becomes the most widely distributed AI chatbot at iOS 27 launch this fall; strong on on-screen questions and device control, but ChatGPT wins on conversation, productivity features, and third-party integrations. (TLDR)
+- [OpenAI Calls Apple's Trade-Secret Suit 'Careless' and 'Oddly Personal'](https://links.tldrnewsletter.com/fS2XD6) — OpenAI says Apple was sloppy securing files after employees left and denies that hires from Apple were involved in theft. (TLDR)
+- [Bending Spoons to Buy Airtable for $1.28B](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/) — Acquirer known for buying discounted companies, trimming staff, and streamlining products to make them profitable. (TLDR)
+- [Samsung Reveals New 3D-Memory Roadmap in Bid for AI Tech Lead](https://links.tldrnewsletter.com/nwm6g9) — Vertically stacks HBM on top of AI accelerators, claiming ~8x performance and >10x memory density vs next-gen HBM5; HBM4 ramp starts H2 this year. (TLDR)
+- [Huawei's Top Scientist Warns of Chip Limit Nvidia Will Soon Face](https://links.tldrnewsletter.com/ZqPvB8) — Liao Heng touts Huawei's Tau Scaling Law (focus on transmission speeds between parts) and teases a first smartphone chip built under it, signaling confidence after US sanctions. (TLDR)
+- [Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For'](https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/) — New limits on how much Microsoft engineers can spend on AI tools at work. (TLDR)
+
+## AI products & launches
+
+- [Cloudflare Introduced Programmable Wallets for AI Agents](https://blog.cloudflare.com/wallets/) — Gives agents stable identities and controlled payment access for APIs, MCP tools, and content; Virtual Wallets get spending limits, allow lists, and transaction caps for safer agentic commerce. (TLDR AI, TLDR Dev)
+- [A unified API for AI model routing](https://developers.googleblog.com/a-unified-api-for-ai-model-routing/) — Google Cloud API Gateway public preview accepts OpenAI-compatible requests and routes them to Gemini, Claude, or OSS models; can double as a rate-limiting/token-tracking layer. (TLDR AI)
+- [Unpacking ChatGPT Work: the Agent for a Billion Users](https://www.latent.space/p/unpacking-chatgpt-work) — OpenAI's knowledge-work agent is an amalgam of ChatGPT, Codex app/harness/cloud agent, Atlas, and more; OpenAI plans to merge Chat and Work, making Work a preview of the main app's future. (TLDR AI)
+- [Introducing the Warp Agent CLI: a CLI coding agent that does what others can't](https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent) — Standalone terminal coding agent with built-in model routing, persistent sessions, and remote agents without installs; works across Ghostty, iTerm 2, and VS Code. (TLDR Dev)
+- [Introducing Kiro Crew](https://kiro.dev/blog/introducing-kiro-crew/) — Persistent, self-improving dev workspace that runs multistep tasks and scheduled jobs locally or remotely, continuing the same work via desktop app, web dashboard, CLI, Slack, or Discord. (TLDR AI)
+- [Introducing Shieldstral](https://mistral.ai/news/shieldstral/) — 3B open-weights multimodal safety classifier that outperforms models up to 7x its size; accepts plain-language policies at inference time and runs on a single 16GB GPU. (TLDR AI)
+- [NVIDIA Released Alpamayo 2](https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/) — Reasoning model released under a commercial license for robotaxis and autonomous vehicles, aimed at rare driving scenarios with inspectable decisions. (TLDR AI)
+- [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146) — Gemma 4 adapted into a discrete diffusion model refining 256-token blocks in parallel, reaching ~1,500 output tokens/sec on a single H100. (TLDR AI)
+- [NVIDIA's Real-Time Full-Duplex Voice Model](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B) — 11B end-to-end speech model handling streaming understanding, speech generation, and tool calling in one architecture. (TLDR AI)
+- [LFM2.5-2.6B: Deploy Agents Everywhere](https://www.liquid.ai/blog/lfm2-5-2-6b) — 2.6B on-device agentic model for free inference and low latency on phones/CPUs with robust privacy. (TLDR AI)
+- [Mixture-of-Kittens: our open-source MoE megakernel for NVL72s](https://cursor.com/blog/mixture-of-kittens) — Cursor's optimized MoE megakernel that boosts performance on NVL72 GPUs by fixing computation/communication bottlenecks. (TLDR AI)
+- [The Reverse Replicator](https://www.backflip.ai/blog/the-reverse-replicator) — Backflip AI converts physical parts into digital CAD files in minutes for around $10. (TLDR AI)
+
+## SpaceX
+
+- [SpaceX Says Spending Spree Is Supercharging AI Revenues](https://links.tldrnewsletter.com/XHwRhe) — Capex hit $18.4B last quarter, mostly AI build-out: terrestrial compute, AI deals, and orbital data centers; on track for ~$100B annualized revenue by December. (TLDR AI)
+- [Starlink Hits 12 Million Subscribers, V3 Satellites Headed to Operational Orbit](https://www.pcmag.com/news/starlink-hits-12-million-subscribers-v3-satellites-headed-to-operational/) — Gigabit V3 satellites to launch into operational orbit on the next Starship test flight. (TLDR)
+- [SpaceX Outlines Plans to Take On AT&T, Verizon, and T-Mobile](https://links.tldrnewsletter.com/NDO9A5) — Will complement satellite internet with land-based infrastructure; the big three carriers refuse MVNO access and formed a venture to push satellite capabilities themselves. (TLDR)
+- [A SpaceX Rocket Is Headed for a Crash on the Moon](https://links.tldrnewsletter.com/37bGHe) — Discarded Falcon 9 upper stage unintentionally hits the Moon at 5,400 mph; the impact flash and debris plume may be observable and could inform future lunar living. (TLDR)
+
+## Engineering & development
+
+- [How we built a realtime system for responsive voice AI in six months](https://links.tldrnewsletter.com/pPsJoh) — GPT-Live's architecture uses continuous speech processing for full-duplex communication, with audio streaming and async delegation for low-latency conversation. (TLDR Dev)
+- [Turn one giant AI-generated pull request to a reviewable stack](https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/) — Split big AI-generated PRs into chains of small, independently reviewable stacked PRs, each scoped to a single concern. (TLDR Dev, TLDR)
+- [Don't stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/) — GitHub's Blackbird search engine case-folds ASCII at 45+ GiB/s on one core using a branch-free loop and byte-space arithmetic. (TLDR Dev)
+- [Rewrite All the Code, All the Time](https://www.greaterwrong.com/posts/9c9KPkJJbMz7tmv3K/rewrite-all-the-code-all-the-time) — Argues future software will be generated from high-level formal specs rather than hand-written code, changing how we treat legacy code. (TLDR Dev)
+- [Pi, Minimal and Performant](https://earendil.com/posts/pi-autoresearch-and-databricks/) — Coding tool with just four tools and a <1,000-token system prompt; Databricks and Shopify case studies show better performance at lower cost than more complex tools. (TLDR Dev)
+- [Stateless MCP has recaptured my interest](https://simonwillison.net/2026/Jul/31/stateless-mcp/) — MCP 2.0's stateless rollout simplifies client/server implementation and inspired mcp-explorer and datasette-mcp. (TLDR Dev)
+- [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/) — The "center, actually" extension dynamically adjusts positioning to the visible webview area when sidebars are open. (TLDR Dev)
+- [How Cloudflare enforces engineering standards using AI](https://blog.cloudflare.com/engineering-standards-enforcement/) — Cloudflare Codex is a governed set of engineering standards agents retrieve and apply at the point of work, informing code review, design review, and incident review. (TLDR)
+- [What Actually Keeps an AI Benchmark Useful? Scale](https://www.stacksweep.dev/ai-benchmark-saturation-study) — Study of 60 LLM benchmarks finds nearly half are saturated and can't differentiate top models; private test sets and output formats don't prevent it. (TLDR Dev)
+- [Deep Dive: Why did DoorDash ship a CLI?](https://www.productcurious.com/p/deep-dive-why-did-doordash-ship-a) — The CLI is less a growth channel than a way to learn how autonomous agents operate and might disrupt delivery. (TLDR Dev)
+
+## Security & research
+
+- [What Codex Actually Sends to the Model](https://links.tldrnewsletter.com/Hg16HJ) — A developer pointed Codex at a local server to record requests from a 16-character prompt, measuring what changed as it loaded instructions, exposed tools, read files, and compacted history. (TLDR AI, TLDR)
+- ["Keep going, bro. You've got this!" — how adversaries are weaponizing AI](https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/) — Attackers use AI for software development, scaling operations, and vulnerability research; output quality tracks user skill, with advanced users automating complex malicious workflows. (TLDR Dev)
+- [Third-party cyber evaluations involving OpenAI models](https://links.tldrnewsletter.com/9cldqF) — Audits found OpenAI models extended beyond authorized boundaries when testing configs unintentionally allowed internet access. (TLDR Dev)
+- [Web Security is Too Hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/) — A new Cloudflare feature looked so much like phishing it spooked a user, illustrating how hard trustworthy web security UX is. (TLDR Dev)
+
 ## 2026-08-04
 
 ## AI & Models
