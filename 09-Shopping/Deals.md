@@ -1,5 +1,32 @@
 # Deals
 
+## 2026-08-06
+- Kohl's — Extra 30% off cardholder event + Kohl's Cash — expires no date — cardholders only
+- Famous Footwear — LifeStride new arrivals — expires no date — free shipping, 18 pts (STAR)
+- Macy's — Up to 40% off Nike/adidas/Puma activewear — expires no date — 3x points
+- Nordstrom — Up to 30% off select beauty tools — expires 8/5 (today only)
+- Michaels — Back-to-school party supplies — expires no date
+- Famous Footwear — Rewards: free shipping + 18 points — expires no date — STAR member
+- Nordstrom Rack — Eileen Fisher up to 60% off; HauteLook up to 65% off — expires no date
+- Macy's — Flash Sale up to 70% off dresses/suits — expires no date — handbags 50-65%, scarves 50%
+- J.Crew Factory — Pants & shorts 50% off — expires no date
+- Michaels — Dorm decor for back-to-college — expires no date
+- Kohl's — Ultimate Clearance Event up to 70% off (home picks) — expires no date
+- Nordstrom — Anniversary Sale ends soon; prices up Aug 10 — expires 8/10 — style expert booking
+- Lyft — 30% off a ride, max $6/ride — expires 8/8 — not valid for Wait & Save
+- Nordstrom — Anniversary Sale last call + new markdowns — expires no date
+- Macy's — Tuesday Drop: exclusive Steve Madden offer — expires no date — Star Rewards
+- Michaels — Maker Haul up to 50% off — expires no date
+- Nordstrom Rack — Up to 70% off new shoe markdowns — expires no date
+- Macy's — Flash Sale up to 60% off dresses/tops/shoes/handbags — expires no date
+- Michaels — Creality 3D printing intro — expires no date
+- Kohl's — Active Sale: Nike/adidas/Tek Gear — expires no date — plus 70% clearance
+- Michaels — Grandmacore slow crafting (yarn & handwork) — expires no date
+- Chipotle — Free guac reward — expires no date
+- Nordstrom Rack — UGG up to 40% off; L'AGENCE up to 60% off — expires no date
+- Macy's — 30% off $150+ on Steve Madden — expires no date — code inside
+- Macy's — Summer shoes sale — expires no date
+
 ## 2026-08-05
 - Fabletics — gift card claim, final hours — expires 8/5 — check account
 - Cinemark — monthly Movie Rewards recap, 29 points — no date — points balance

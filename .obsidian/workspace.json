@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Tasks/Todo.md",
+                "file": "00-Dashboard/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Home"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Tasks/Todo.md",
+                "file": "00-Dashboard/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,8 +210,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "80-LifeOS/logs/08-05-26.md",
+    "00-Dashboard/Scratch pad.md",
+    "80-LifeOS/logs/08-06-26.md",
     "00-Dashboard/Home.md",
+    "01-Tasks/Todo.md",
+    "80-LifeOS/logs/08-05-26.md",
     "08-Food/Expiring Soon.md",
     "99-Meta/Attachments/Screenshot_20260805-131302.png",
     "02-Personal/Dream house setup.md",
@@ -224,7 +227,6 @@
     "06-Learning/Books/Media.base",
     "06-Learning/Books/Clean code.md",
     "06-Learning/Books/Bigger Leaner Stronger.md",
-    "01-Tasks/Todo.md",
     "08-Food/Dish Ideas/CC - Alapey Paneer Curry + Brown Rice.md",
     "08-Food/Dish Ideas.md",
     "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
@@ -237,8 +239,6 @@
     "08-Food/Dish Ideas/Zucchini Soup + Greek Quinoa.md",
     "08-Food/Dish Ideas/Zoodles In Pesto Sauce.md",
     "08-Food/Dish Ideas/Zoodles In Makhani Sauce.md",
-    "08-Food/Dish Ideas/Zoodles In Creamed Red Bellpepper.md",
-    "08-Food/Dish Ideas/Zoodles In Creamed Pumpkin Sauce.md",
     "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",

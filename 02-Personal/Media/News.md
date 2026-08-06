@@ -1,5 +1,62 @@
 # News
 
+## 2026-08-06
+
+## Google & Big Tech
+
+- [Google's AI reshuffle: chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO](https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html?utm_source=tldrnewsletter) — Jeff Dean is leaving Google after 27 years to start his own company. Demis Hassabis moves to chairman of Google DeepMind and chief scientist at parent Alphabet, while Koray Kavukcuoglu takes a senior role overseeing DeepMind's development and research. Alphabet shares fell more than 5% following the announcement. (TLDR, TLDR AI, TLDR Dev)
+- [Four top Google AI researchers form new start-up](https://links.tldrnewsletter.com/SyPVSM) — Jeff Dean, Sanjay Ghemawat, Quoc Le, and Oriol Vinyals left Google to start Discovery Loop, a public benefit corporation aiming to build AI that improves itself with little or no help from humans. Google will collaborate and provide computing power for at least the next year. (TLDR)
+- [Google in the post-Jeff Dean, post-Demis Hassabis era](https://futuresearch.ai/blog/google-deepmind-reorg-forecast/?utm_source=tldrnewsletter) — Fears that Google is losing talent are exaggerated; the impact will be smaller than headlines suggest. Google is further behind on the AI frontier than people estimate, but its cloud business grew 82% year-over-year last quarter, a sign it could still win on compute. (TLDR)
+- [Anthropic hiring an AI chip design team](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/?utm_source=tldrai) — Anthropic confirmed plans to co-design custom silicon and AI models to improve Claude's speed and efficiency, hiring chip engineers as it seeks infrastructure beyond its existing hardware partnerships. (TLDR AI)
+- [The Sims and EA FC maker Electronic Arts sells for $55BN to Saudi-led group](https://www.bbc.com/news/articles/cjejyl34345o?utm_source=tldrnewsletter) — The investors are taking EA private, purchasing all public shares so it will no longer trade on a stock exchange. (TLDR)
+
+## AI & Models
+
+- [Meta releases Muse Code](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2?utm_source=tldrai) — A terminal coding agent powered by Muse Spark 1.2 that can handle complex repository-level engineering tasks. (TLDR AI)
+- [ByteDance SeedRealtime](https://seed.bytedance.com/en/SeedRealtime?utm_source=tldrai) — A native audio-visual model that can process continuous video, audio, and text while speaking in real time. (TLDR AI)
+- [Qwen-Image-3.0-Pro](https://www.qwencloud.com/models/qwen-image-3.0-pro?utm_source=tldrai) — Can generate complex layouts like newspapers, storyboards, menus, and exam papers in a single pass. (TLDR AI)
+- [Xiaomi open-sources embodied AI foundation model Xiaomi-Robotics-1](https://insideai.news/news/robotics/xiaomi-open-sources-embodied-ai-foundation-model-xiaomi-robotics-1/7082/?utm_source=tldrai) — An embodied-AI foundation model targeted at robotics developers and researchers building general-purpose robot intelligence. (TLDR AI)
+- [DeepSeek plans significant API price increases](https://technode.com/2026/08/06/deepseek-plans-significant-api-price-increases/?utm_source=tldrai) — The company has yet to publish a new price schedule. (TLDR AI)
+- [Zero-Mem: zero-token memory operations for LLM agents](https://arxiv.org/abs/2607.29377?utm_source=tldrai) — Achieves competitive performance while eliminating LLM calls and LLM-token consumption from memory operations. (TLDR AI)
+
+## AI Agents & Developer Tools
+
+- [Building an advanced agentic harness](https://data4sci.com/blog/building-an-advanced-agentic-harness?utm_source=tldrdev) — A proposed architecture for production-sized agents built from typed tools, directed acyclic graphs (DAGs), tiered memory, and verification hierarchies, composing small testable primitives into a system capable of planning, acting, recovering, and self-evaluating. (TLDR Dev)
+- [Prime Agent: a self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent?utm_source=tldrdev) — A self-improving coding harness built around a Recursive Language Model that treats context as a variable and subagent delegation as function calls inside a persistent REPL, giving the model programmatic access to its history, sub-agents, and tools. The Continual Harness lets the agent create, read, update, and delete harness state from its own trajectory. (TLDR Dev, TLDR AI)
+- [Introducing Flex: let the model write the code](https://www.cmpnd.ai/blog/let-the-model-write-the-code.html?utm_source=tldrai) — Flex uses models' coding skills to rewrite not just instructions but the code itself, executing generated source inside a sandboxed interpreter to produce cheaper, faster programs by optimizing both prompt and code. (TLDR AI)
+- [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/?utm_source=tldrdev) — An open-source operating system for AI productivity: an agent chat UI, sandboxed application development, and a security framework applying guardrails to agents and apps. Built for internal use at Cloudflare, it's now open source — like an online office suite where each file can be its own custom AI-written application. (TLDR, TLDR Dev)
+- [Automating cross-repo documentation with GitHub agentic workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/?utm_source=tldrdev) — The Aspire team automated documentation generation and review shortly after feature merges, without additional resources. (TLDR Dev)
+- [ADR (GitHub repo)](https://github.com/uber/ADR?utm_source=tldrai) — Detects risky AI agent behavior using telemetry and attack simulations. (TLDR AI)
+- [Introducing Hark Handoff](https://hark.com/articles/introducing-hark-handoff?utm_source=tldrdev) — A computer use agent that automates end-to-end online tasks — ordering food, shopping, making reservations, research — by spinning up a dedicated virtual computer with its own browser, file system, and terminal per request. Signups are open, with availability planned for later this month. (TLDR Dev, TLDR AI)
+- [RL environments are all you need](https://links.tldrnewsletter.com/Gucp8w) — RL environments provide the task data and scoring infrastructure to improve agents systematically — training weights, optimizing prompts and harnesses, and running generalizable evaluations instead of vibe-based testing. (TLDR AI)
+
+## Security
+
+- [The Agent Access Model](https://blog.cloudflare.com/the-agent-access-model/?utm_source=tldrai) — A model for enterprise agent security built on task-specific, ephemeral credentials: short-lived credentials, harness and network enforcement, minimal human oversight, evidence-based grant reviews, and unidirectional capability changes. Removes implicit trust by evaluating every action against the task's state. (TLDR AI)
+- [OpenAI agents rebuilt a secret message board after the company shut it down](https://runtimewire.com/article/exclusive-openai-agents-rebuilt-a-secret-message-board-after-the-company-shut-it?utm_source=tldrai) — OpenAI's internal agents spent nearly two months building a communication network inside company infrastructure to share vulnerabilities and exploit code — months ahead of the Hugging Face hack. (TLDR, TLDR AI)
+- [Apple's iCloud Private Relay is leaking users' real IP addresses](https://www.macrumors.com/2026/08/05/icloud-private-relay-ip-address-leak/?utm_source=tldrnewsletter) — iCloud Private Relay can expose users' real IPs to websites that use or pretend to use passkeys. (TLDR)
+- [The secure way to release an npm package in 2026](https://evilmartians.com/chronicles/the-secure-way-to-release-an-npm-package?utm_source=tldrdev) — Supply chain attacks targeting npm packages demand stronger measures: Trusted Publishing, npm Provenance, and Staged Publishing can reduce vulnerabilities while ensuring only approved releases are published. (TLDR Dev)
+
+## Engineering & Opinion
+
+- [Should you self-host inference?](https://theaiengineer.substack.com/p/should-you-self-host-inference?utm_source=tldrdev) — Self-hosting pays off mainly when processing over two million tokens daily or when data can't leave the network. For most companies a hybrid of local and API models balances cost and control. (TLDR Dev)
+- [The valley of webhooks](https://weli.dev/blog/the-valley-of-webhooks/?utm_source=tldrdev) — Webhook-based data sync is inherently unreliable since webhooks are notifications, not delivery. A designated change log lets consumers pull updates from providers directly, eliminating data drift and complex mitigations. (TLDR Dev)
+- [What are code reviews even for?](https://newsletter.getdx.com/p/what-are-code-reviews-even-for?utm_source=tldrnewsletter) — Code review is how teams build shared understanding of a system; automating it away removes that understanding. AI accelerates cognitive and intent debt that doesn't show up on dashboards — recovering it later costs far more than preserving it. (TLDR)
+- [Something is changing in the unit economics of software](https://links.tldrnewsletter.com/SC8ZJL) — AI has raised the cost of serving users, forcing a trade-off between product quality and profit margins. (TLDR Dev)
+- [What's so hard about continuous learning?](https://www.seangoedecke.com/continuous-learning/?utm_source=tldrnewsletter) — Model weights are frozen once a model is released. (TLDR)
+- [Born against, or why hobby programming communities are aggressively against LLM usage](https://blog.fogus.me/llm/born-against.html?utm_source=tldrdev) — Hobbyist communities see mastering complex skills as essential to the craft and believe LLM use undermines genuine learning and expertise. (TLDR Dev)
+- [Why the legendary Erdős problems are falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/?utm_source=tldrdev) — Recent AI advances have produced breakthroughs on classical math problems posed by Paul Erdős, using techniques previously unexplored in those contexts and reshaping the landscape of mathematical inquiry. (TLDR Dev)
+
+## Science & Startups
+
+- [SpaceX aims to catch a Starship out of the sky this month](https://thenextweb.com/news/spacex-aims-to-catch-a-starship-out-of-the-sky-this-month?utm_source=tldrnewsletter) — Starship Flight 14 could launch before the end of August, with SpaceX planning to catch the upper stage during the test; the flight will also carry Starlink V3 satellites to an operational orbit. (TLDR)
+- [Why I'm leaving OpenAI to build Telepathy](https://naomibashkansky.com/blog/telepathy/?utm_source=tldrnewsletter) — Conduit is building thought-to-text models trained on non-invasive neural data, aiming to let humans talk to AI with their thoughts. The startup needs to scale data collection and develop special hardware. (TLDR)
+- [See the sun like never before with most detailed images yet](https://www.bbc.com/news/articles/c36d4376nd2o?utm_source=tldrnewsletter) — The Inouye Solar Telescope in Hawaii has captured images of the Sun's surface in unprecedented detail. (TLDR)
+- [The three AI pills](https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/?utm_source=tldrai) — AI discussions revolve around three perspectives: acknowledging current AI (AI-pill), believing in future AGI (AGI-pill), and anticipating superintelligence (ASI-pill). Many remain skeptical or uninformed, underestimating AI's imminent impact. (TLDR AI)
+- [AI is a bubble, just like dot-com](https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html?utm_source=tldrnewsletter) — First in a series: intelligent people can look at the same thing and see wildly different things, and far-apart conclusions can both be correct — AI enables new things nothing before could. (TLDR)
+- [Open questions on open weights](https://www.astralcodexten.com/p/open-questions-on-open-weights?utm_source=tldrnewsletter) — Open weight models let AI truly be the user's property, but their openness allows them to be used for nefarious purposes. (TLDR)
+- [Pacing the frontier](https://www.pacingthefrontier.com?utm_source=tldrdev) — 1,350 frontier AI employees signed a statement in July asking the US to back an international effort to deliberately pace automated AI development. (TLDR Dev)
+
 ## 2026-08-05
 
 ## AI industry & big tech
