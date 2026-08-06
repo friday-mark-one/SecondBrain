@@ -24,7 +24,6 @@ pinned: true
 	- [ ] Window tint
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
-- [x] Wash water bottle
 - [ ] dietician with kaiser
 - [ ] Futureme letter
 - [ ] GTA V
