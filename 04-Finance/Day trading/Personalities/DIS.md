@@ -19,3 +19,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-08-05 — AUTO: opening gap +3.9%; crossed above its 50d average. Headlines: Disney streaming is finally gaining 'traction': Analyst on Q3 earnings, growth | Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here’s What Investors Need to Know. | The Walt Disney Company Q3 2026 Earnings Call Summary
+- 2026-08-06 — AUTO: crossed above its 200d average. Headlines: Stock Market Today: Dow Slides 400 Points, But Chip Firm Surges; Biotech IPO Craters 39% (Live Coverage) | Analyst Sees Trouble Brewing Beneath Disney (DIS) Numbers; Is Warner Bros (WBD) Any Better? | Disney Stock Rallies on Q3 Earnings Beat: ETFs to Consider

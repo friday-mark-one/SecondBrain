@@ -11,7 +11,7 @@ pinned: true
 - [ ] Fix TFCC
 - [ ] Engine oil
 - [ ] Car service
-- [ ] Phillips send for repair
+- [x] Panasonic send for repair
 - [ ] Investment
 	- [ ] 401k
 	- [ ] IRA

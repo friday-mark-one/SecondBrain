@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - 2026-07-31 — Trades on memory/HBM supply-demand; the AI memory-shortage supercycle (Samsung warning through 2028, Cook's '100-year flood') is the swing factor, though the rebound still faces resistance
 - 2026-08-03 — New bear hook: Apple testing Chinese memory chips (CXMT) puts a China-competition discount on the shortage-supercycle thesis — China fears now swing it alongside HBM supply-demand
+- 2026-08-06 — New demand-side hook: NVDA reportedly weighing lower-memory Rubin Ultra GPU designs to ease the HBM bottleneck — a potential headwind to the AI memory-demand supercycle, joining the China-supply concern as a swing factor
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -27,3 +28,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-03 — AUTO: opening gap -4.5%. Headlines: Semiconductor stocks pare losses amid fears of increased competition from China | Micron Stock Falls -- Apple Tests Chinese Memory Chips From Rising Rival | 1 Thing Every Micron Stock Investor Needs To Understand Right Now
 - 2026-08-03 — AUTO: opening gap -4.5%. Headlines: Semiconductor stocks pare losses amid fears of increased competition from China | Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today’s Market | Micron Stock Rises Despite Rising Competition From Chinese Memory Chip
 - 2026-08-04 — AUTO: opening gap +4.5%. Headlines: Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs | Micron pullback seen as buying opportunity amid solid end-demand, says BofA | Micron Stock Soars After New AI Storage Platform Debut
+- 2026-08-06 — AUTO: opening gap -5.6%. Headlines: Micron & 2 Profitable Stocks Smart Investors Are Buying in August | NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron | Micron Pares Most of Its Losses Even as Other Memory Stocks Reel

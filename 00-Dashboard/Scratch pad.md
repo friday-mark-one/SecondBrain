@@ -57,5 +57,3 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] Duplicate project ideas notes
 - [ ] Trading agent 
 	- [ ] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==
-
-[[New oage]] ansjs
