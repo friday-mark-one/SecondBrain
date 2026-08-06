@@ -28,7 +28,7 @@ pinned: true
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
 - [ ] Wash water bottle
-- [ ] best buy gift card use
+- [x] best buy gift card use
 - [ ] dietician with kaiser
 - [ ] Futureme letter
 - [ ] GTA V
