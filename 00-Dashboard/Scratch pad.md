@@ -3,7 +3,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 1. Installed Ollama with small LLM
 2. LiteLLM configured with Gemini 3 Flash, Ollama, OpenRouter, etc.
 	1. Check ~/litellm
-	2. LiteLLM runs as a launchdaemon
+	2. LiteLLM runs as a launchdaemon (requires authentication with Bearer token)
 3. Antigravity
 4. VSCode + Kilo
 5. OpenClaw in a separate mac account
