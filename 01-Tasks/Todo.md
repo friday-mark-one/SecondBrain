@@ -19,7 +19,7 @@ pinned: true
 - [ ] Clean chimney
 - [ ] Canada visa
 - [x] Wash birkenstock sandal
-- [ ] Create a gmail alias
+- [x] Create a gmail alias
 - [ ] Jailbreak Kindle
 - [ ] Make marinara and pesto sauce
 - [ ] Car
