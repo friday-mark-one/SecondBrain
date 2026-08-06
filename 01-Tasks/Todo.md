@@ -11,7 +11,6 @@ pinned: true
 - [ ] Fix TFCC
 - [ ] Engine oil
 - [ ] Car service
-- [x] Panasonic send for repair
 - [ ] Investment
 	- [ ] 401k
 	- [ ] IRA
@@ -25,7 +24,7 @@ pinned: true
 	- [ ] Window tint
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
-- [ ] Wash water bottle
+- [x] Wash water bottle
 - [ ] dietician with kaiser
 - [ ] Futureme letter
 - [ ] GTA V
