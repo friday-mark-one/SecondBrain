@@ -19,3 +19,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-08-04 — AUTO: crossed above its 50d average. Headlines: Ex-Uber boss Travis Kalanick lands air taxi 'vertiport' deal with Joby | Is Waymo's Latest Announcement Bad News for Uber? | JOBY Stock Pops 8% On US Infrastructure Push Ahead Of Commercial Operations Launch
+- 2026-08-05 — AUTO: opening gap -4.2%; crossed below its 50d average. Headlines: Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business | Stock Market Today, Aug. 5: Uber Falls 5% on Weak Guidance Despite Strong Bookings Growth | Uber Technologies, Inc. Q2 2026 Earnings Call Summary

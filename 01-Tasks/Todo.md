@@ -18,8 +18,6 @@ pinned: true
 	- [ ] Backdoor ROTH IRA
 - [ ] Clean chimney
 - [ ] Canada visa
-- [x] Wash birkenstock sandal
-- [x] Create a gmail alias
 - [ ] Jailbreak Kindle
 - [ ] Make marinara and pesto sauce
 - [ ] Car
@@ -28,7 +26,6 @@ pinned: true
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
 - [ ] Wash water bottle
-- [x] best buy gift card use
 - [ ] dietician with kaiser
 - [ ] Futureme letter
 - [ ] GTA V
