@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Tasks/Todo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todo"
             }
           }
         ]
@@ -154,6 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-Tasks/Todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,6 +210,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00-Dashboard/Home.md",
+    "08-Food/Expiring Soon.md",
+    "99-Meta/Attachments/Screenshot_20260805-131302.png",
+    "02-Personal/Dream house setup.md",
     "90-Archive/Personal/Personal Home/Career goals.md",
     "80-LifeOS/logs/08-04-26.md",
     "80-LifeOS/_scripts/swing/live/state.lock",
@@ -205,7 +224,6 @@
     "06-Learning/Books/Clean code.md",
     "06-Learning/Books/Bigger Leaner Stronger.md",
     "01-Tasks/Todo.md",
-    "00-Dashboard/Home.md",
     "08-Food/Dish Ideas/CC - Alapey Paneer Curry + Brown Rice.md",
     "08-Food/Dish Ideas.md",
     "08-Food/Dish Ideas/Emmerwheat Bread Loaf.md",
@@ -221,8 +239,6 @@
     "08-Food/Dish Ideas/Zoodles In Creamed Red Bellpepper.md",
     "08-Food/Dish Ideas/Zoodles In Creamed Pumpkin Sauce.md",
     "08-Food/Dish Ideas/Zoodles In Creamed Caper Sauce.md",
-    "08-Food/Dish Ideas/Zoodles (Veggie Loaded).md",
-    "08-Food/Dish Ideas/Wholewheat Spinach Roti (1pcs).md",
     "08-Food/Dish Ideas",
     "80-LifeOS/_scripts/clip.js",
     "80-LifeOS/_scripts/swing/live/state.json.corrupt-20260802.bak",
@@ -240,7 +256,6 @@
     "99-Meta/Attachments/image-1621264930626.jpg9078796727429041304.jpg",
     "99-Meta/Attachments/image-1621264893506.jpg1775911518412587308.jpg",
     "99-Meta/Attachments/Screenshot_2025-05-15_at_12.07.56_PM.png",
-    "99-Meta/Attachments/Screenshot_2025-05-07_at_12.01.04_PM.png",
     "Untitled.canvas"
   ]
 }

@@ -18,7 +18,7 @@ pinned: true
 	- [ ] Backdoor ROTH IRA
 - [ ] Clean chimney
 - [ ] Canada visa
-- [ ] Wash birkenstock sandal
+- [x] Wash birkenstock sandal
 - [ ] Create a gmail alias
 - [ ] Jailbreak Kindle
 - [ ] Make marinara and pesto sauce
