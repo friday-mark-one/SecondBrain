@@ -14,7 +14,7 @@
 ### Sides
 - Sambar
 - Chutney - tomato, coconut, onion, pudina, corriander, garlic - tomato - onion, peanut, Bombay
-- Thogaiyal - Toor dhal, curry leaves, skin (pumpkin, ash gourd, chow chow, ridge gourd, orange)
+- Thogaiyal - Toor Dal, curry leaves, skin (pumpkin, ash gourd, chow chow, ridge gourd, orange)
 
 
 ### Lunch

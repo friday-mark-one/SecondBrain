@@ -6,7 +6,7 @@ protein_heavy: false
 fodmap_friendly: false
 ---
 ## Ingredients
-- [[Toor dhal]] | ½ cup, cooked
+- [[Toor Dal]] | ½ cup, cooked
 - [[Coconut]] | 1 small lid
 - [[Cumin seeds]] | 1 tsp
 - [[Green chilli]] | 2-3

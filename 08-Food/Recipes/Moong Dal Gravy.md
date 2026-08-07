@@ -10,7 +10,7 @@ fodmap_friendly: false
 - [[Turmeric]] | pinch
 - [[Green chilli]] | 3, split
 - [[Groundnut oil]] | for tadka
-- [[Toor dhal]] | for tadka
+- [[Toor Dal]] | for tadka
 - [[Dry red chilli]] | optional
 - [[Lemon]] | to finish
 

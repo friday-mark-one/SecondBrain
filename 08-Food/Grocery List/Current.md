@@ -1,7 +1,7 @@
 # Grocery List — 2026-07-08
 
 ## Costco
-- [x] Toor dhal
+- [x] Toor Dal
 - [x] Tomato
 - [x] Ghee
 - [x] Cashews

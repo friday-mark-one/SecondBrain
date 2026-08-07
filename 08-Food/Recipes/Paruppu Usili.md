@@ -6,7 +6,7 @@ protein_heavy: true
 fodmap_friendly: false
 ---
 ## Ingredients
-- [[Toor dhal]] | 1 cup, soaked
+- [[Toor Dal]] | 1 cup, soaked
 - [[Channa dal]] | ¼ cup, soaked
 - [[Dry red chilli]] | 6
 - [[Green chilli]] | 2

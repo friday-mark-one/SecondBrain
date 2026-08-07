@@ -6,7 +6,7 @@ protein_heavy: false
 fodmap_friendly: false
 ---
 ## Ingredients
-- [[Toor dhal]] | ½ cup, soaked
+- [[Toor Dal]] | ½ cup, soaked
 - [[Onion]] | ½, cubed
 - [[Carrot]] | 1
 - [[Potato]] | 1, cubed

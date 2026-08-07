@@ -16,7 +16,7 @@ fodmap_friendly: false
 - [[Carrot]] | optional
 - [[Pearl onions]] | optional
 - [[Drumstick]] | optional
-- [[Toor dhal]] | ¾ cup, cooked
+- [[Toor Dal]] | ¾ cup, cooked
 - [[Tamarind paste]] | ~150 ml tamarind water
 - [[Cilantro]] | to garnish
 
