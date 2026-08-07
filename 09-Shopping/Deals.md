@@ -1,5 +1,35 @@
 # Deals
 
+## 2026-08-07
+- Target — Up to 30% off kitchen picks + back-to-college deals — expires no date — Circle offers
+- Aroma Restaurant Bothell — 20% off $40+ — expires 8/9 — local restaurant deal
+- Sephora at Kohl's — $25 & under beauty picks — expires no date — 🔔 [[Gift ideas]]
+- NerdWallet — cheap car insurance guide — no date — not a deal
+- H&M — 15% off or 20% off all weekend — expires no date — via email link
+- Life Time — program promos (DPT, group training, classes) — no date — membership promo
+- Costco — in-warehouse & online member savings — no date — monthly savings
+- Going — Ink Business cards: $1,000 cashback or 100k points — no date — no annual fee, $8k spend/4 mo
+- Going — China roundtrip $707–$863 (Aug–Sep) — book within window — flight deal
+- Algo Monster — "grind more" trap newsletter — no date — not a deal
+- Kohl's — Take 30% off fall home must-haves — expires no date — plus Ultimate Clearance
+- Etsy — 50% off coupon from TolentinoshopStore — no date — code in email
+- NerdWallet — bank account bonus roundup — no date — not a deal
+- Interactive Brokers — Buy-the-Dip newsletter — no date — not a deal
+- Going — Osaka economy 55k Bilt points + $72–78 (Aug–Nov) — no date — points deal
+- NerdWallet — best car insurance tips — no date — not a deal
+- Cinemark — New & Now: Super Troopers 3, One Night Only — no date — 29 movie points
+- Fabletics — VIP ACCESS platinum-tier exclusive drop — no date — members only
+- Chase — J.P. Morgan Wealth up to $1,000 cash bonus — no date — $0 commission online trades
+- Amazon Health — GLP-1 care from $39/visit — no date — not a deal
+- Etsy — order shipped, track in app — no date — not a deal
+- Life Time Bellevue — refresher tour invite — no date — not a deal
+- Coinbase — crypto buying guide — no date — not a deal
+- Etsy — small shop picks (4 sellers) — no date — not a deal
+- H&M — WARDROBE.NYC collection — no date — new arrival, no discount
+- ID.me Shop — back-to-school: Nikon 10% off for students + Expedia/Samsung/Under Armour/Oura — no date — student verification
+- Fabletics — $10 off for 5-min feedback survey — no date — survey offer
+- Kohl's — extra 30% off cardholder event — no date — cardholders + Kohl's Cash
+
 ## 2026-08-06
 - Kohl's — Extra 30% off cardholder event + Kohl's Cash — expires no date — cardholders only
 - Famous Footwear — LifeStride new arrivals — expires no date — free shipping, 18 pts (STAR)
