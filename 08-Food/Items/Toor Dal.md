@@ -1,5 +1,5 @@
 ---
 type: item
-store: Indian Store
+store: Costco
 category: Lentils
 ---

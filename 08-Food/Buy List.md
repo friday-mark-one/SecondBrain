@@ -15,6 +15,7 @@ unbought ones stay for next time.
 - [[Avocado oil spray]] | 1
 - [[Pista]]
 - [[Ghee]]
+- [[Toor Dal]]
 
 ## Regulars
 - [ ] [[Milk]]

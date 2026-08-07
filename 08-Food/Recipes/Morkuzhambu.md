@@ -7,7 +7,7 @@ fodmap_friendly: false
 ---
 ## Ingredients
 - [[Coriander seeds]] | 2 tsp, soaked
-- [[Toor dhal]] | 2 tsp, soaked
+- [[Toor Dal]] | 2 tsp, soaked
 - [[Cumin seeds]] | 2 tsp
 - [[Green chilli]] | 6
 - [[Ginger]] | small piece

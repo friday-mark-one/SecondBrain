@@ -7,7 +7,7 @@ fodmap_friendly: false
 ---
 ## Ingredients
 - [[Tomato]] | 1, boiled & smashed
-- [[Toor dhal]] | ~100 ml dal water
+- [[Toor Dal]] | ~100 ml dal water
 - [[Tamarind paste]] | ~75 ml tamarind water
 - [[Sambar powder]] | 2 tsp
 - [[Asafotida]] | a pinch
