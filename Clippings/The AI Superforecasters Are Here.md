@@ -1,4 +1,6 @@
 ---
+status: digested
+digested: 2026-08-08
 title: "The AI Superforecasters Are Here"
 source: "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here?utm_source=tldrnewsletter"
 author:
