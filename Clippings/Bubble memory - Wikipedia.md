@@ -4,7 +4,8 @@ url: https://en.wikipedia.org/wiki/Bubble_memory
 saved: 2026-08-02
 via: telegram
 type: article
-status: unread
+status: digested
+digested: 2026-08-08
 ---
 
 ## Content (auto-extracted)

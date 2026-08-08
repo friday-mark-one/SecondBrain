@@ -4,7 +4,8 @@ url: https://unattributed.cc/note-taking-and-personal-knowledge-management
 saved: 2026-08-02
 via: telegram
 type: article
-status: unread
+status: digested
+digested: 2026-08-08
 ---
 
 ## Content (auto-extracted)
