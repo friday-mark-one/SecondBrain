@@ -1,5 +1,9 @@
 # Deals
 
+## 2026-08-08
+- Tata Capital Wealth — curated real estate offers across India (residential, holiday homes, land, luxury, commercial) — expires no date — request call back, 022 5006 1349
+- Fabletics — VIP: 60% off 2 items; new color drops (Seagrass, Lilac Lily) — expires 8/11 — no code, auto at checkout
+
 ## 2026-08-07
 - Target — Up to 30% off kitchen picks + back-to-college deals — expires no date — Circle offers
 - Aroma Restaurant Bothell — 20% off $40+ — expires 8/9 — local restaurant deal
