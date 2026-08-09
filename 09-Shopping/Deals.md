@@ -1,5 +1,21 @@
 # Deals
 
+## 2026-08-09
+- Fabletics — VIP: 60% off 2 items (Bharath's Weekend Deal) — expires 8/11 — auto at checkout, no code
+- Musescore — subscription exit survey (auto-renewal canceled) — no date — not a deal
+- The North Face — XPLR Pass program terms update (rolling points, 100 pts = $10) — effective 10/7 — not a deal
+- MOD Pizza — Mike's Hot Honey pizza launch — expires no date — limited time, leaving soon
+- Cinemark — Back to Hogwarts (Harry Potter) Aug 27–Sep 2 — expires no date — 29 movie points
+- Edmunds — weekly car deals roundup (hybrid SUV rankings, Aug lease deals) — no date — not a deal
+- Etsy — one-of-a-kind gifts curation (personalized & friendship gifts) — no date — not a deal
+- H&M — Weekend Deal: 15% off $80 or 20% off $100 — expires no date — school staples, via email link
+- NerdWallet — $500 checking account bonus roundup (WA) — no date — not a deal
+- Costco — weekly Treasure Hunt sale (tech, apparel, home) — expires no date — while supplies last
+- evo — big savings sale on gear (bike, snow, apparel, travel) — expires no date — sale section
+- Huel — editorial newsletter (meal frequency, 7-day reset) — no date — not a deal
+- Bank of America — mobile app feedback survey reminder — no date — not a deal
+- Kohl's — Save 30% cozy fall home refresh + up to 40% off Nike/adidas — expires no date — coupons on qualifying brands
+
 ## 2026-08-08
 - Tata Capital Wealth — curated real estate offers across India (residential, holiday homes, land, luxury, commercial) — expires no date — request call back, 022 5006 1349
 - Fabletics — VIP: 60% off 2 items; new color drops (Seagrass, Lilac Lily) — expires 8/11 — no code, auto at checkout
