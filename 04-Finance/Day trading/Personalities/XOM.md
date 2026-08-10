@@ -19,3 +19,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-29 — AUTO: opening gap +3.1%. Headlines: Exxon Stock Rises 3.3% as Oil Jumps Nearly 7% | Exxon Mobil (XOM): President Trump’s Top Energy Stock Pick? | Stocks Pressured by Renewed US-Iran Hostilities
+- 2026-08-10 — AUTO: +4.4% day (≥2× its typical range). Headlines: Will ExxonMobil’s (XOM) Q2 Profit Surge and Massive Buybacks Reshape Its Capital Allocation Narrative? | Exxon Stock Jumps 3.3% as Oil Supply Fears Return | CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started
