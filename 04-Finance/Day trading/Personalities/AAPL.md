@@ -17,6 +17,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - iPhone cycle + services growth; China demand and App Store regulation are the recurring scares
 - Massive buybacks cushion drawdowns; moves less than the other mega-caps
 - 2026-07-31 — Memory/component supply is a new recurring scare: Cook warned a memory shortage is squeezing Apple (~10% slide) and called it a '100-year flood'
+- 2026-08-10 — Analyst sentiment is now a live bearish swing factor: Jefferies downgraded Apple over iPhone yields and growth concerns (stock crossed back below its 50d)
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -24,3 +25,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-28 — AUTO: new 52-week high. Headlines: Earnings live: Avis stock plunges as earnings fall short amid the summer travel season, Ford stock gains | CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron | Why this analyst is down on Apple stock even as it hovers near record highs
 - 2026-07-31 — AUTO: -7.4% day (≥2× its typical range); opening gap -8.6%; crossed below its 50d average. Headlines: Apple stock slides nearly 10% as Cook warns of memory shortage impact | Apple's iPhone leasing program: How it works, what to consider | Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon
 - 2026-08-05 — AUTO: crossed above its 50d average. Headlines: Price hikes on consumer electronics could be here to stay. Here's why. | The Calm Surface of Alphabet Stock Hides a Turbulent Forecast | SpaceX’s $1T Goal and 3 More Shockers From Musk on the Earnings Call
+- 2026-08-10 — AUTO: crossed below its 50d average. Headlines: Apple downgraded at Jefferies over iPhone yields and growth concerns | Micron Stock Rises Despite Reported Apple Supplier Threat | Stock Market Today: Dow Dips, Nvidia Falls On This Report; Energy Play Clears Entry As Oil Pops (Live Coverage)

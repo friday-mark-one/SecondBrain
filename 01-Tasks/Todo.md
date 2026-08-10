@@ -6,15 +6,14 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
+- [ ] Olympics ticket
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
 - [ ] Fix TFCC
 - [ ] Engine oil
 - [ ] Car service
 - [ ] Investment
-	- [ ] 401k
-	- [ ] IRA
-	- [ ] Backdoor ROTH IRA
+	- [ ] Covered calls 
 - [ ] Clean chimney
 - [ ] Canada visa
 - [ ] Jailbreak Kindle
