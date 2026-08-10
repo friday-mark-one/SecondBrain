@@ -1,5 +1,19 @@
 # Deals
 
+## 2026-08-10
+- Kohl's — 30% off fall home finds (Kohl's Cash eligible) — expires no date — link in email
+- Lumosity — 35% off subscription — expires no date — code NEWSLETTER-35-26
+- Fabletics — tees on sale — expires no date — link in email
+- Costco — Weekly Warehouse Insider roundup — expires no date — link in email
+- H&M — SANTOS BRAVOS LA collection launch — expires no date — no code
+- NerdWallet — car insurance cost calculator / rate compare — expires no date — no code
+- Etsy — personalized special-finds picks (bridesmaid gift bags, vintage) — expires no date — no code
+- H&M — 15% or 20% off your order (online only) — expires 2026-08-10 last day — code in email
+- Costco — online-only showcase deals — expires no date — link in email
+- UNiDAYS — weekly student discount drop (Regal, Hollister, etc.) — expires no date — via UNiDAYS
+- Algo Monster — newsletter (no deal) — expires no date — no code
+- Kohl's — Active Sale: 30% off active brands + Kohl's Cash — expires no date — link in email
+
 ## 2026-08-09
 - Fabletics — VIP: 60% off 2 items (Bharath's Weekend Deal) — expires 8/11 — auto at checkout, no code
 - Musescore — subscription exit survey (auto-renewal canceled) — no date — not a deal
