@@ -1,0 +1,3 @@
+- [ ] Nothing to do todo list
+- [ ] AI interest group
+- [ ] Cron to tell you what to do for optimal performance review - eg. At least one PR per day
