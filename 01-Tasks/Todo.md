@@ -6,6 +6,9 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
+- [ ] Birthday planning
+	- [ ] Decorations 
+	- [ ] Trip
 - [ ] Olympics ticket
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
