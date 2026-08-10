@@ -16,6 +16,7 @@
 - [ ] Notion
 - [ ] Spotify
 - [ ] Synthesia
+- [ ] Neothesia
 - [ ] VS Code
 - [ ] VLC
 - [ ] Maccy
