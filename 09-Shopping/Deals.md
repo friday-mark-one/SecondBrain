@@ -1,5 +1,78 @@
 # Deals
 
+## 2026-08-11
+- The Leela — A Living Raga music evening — expires no date — no code
+- Educative — Strands Agents SDK newsletter (platform update) — expires no date — not a deal
+- Club Pilates Bothell — Teacher Training: 50% off manuals (enroll Aug 15–Sep 15) — expires 2026-09-15 — session starts Sep 5
+- Bellevue Badminton Club — 26% off mixers & court reservations (Summer26); $25 off Wild Waves gate — expires no date — code Summer26
+- Coinbase — product tips (recurring buys, watchlist) — expires no date — not a deal
+- Fabletics — VIP offer expiring soon, use on anything — expires soon — no code
+- CardPointers — offer streak: add bank offers weekly — expires no date — not a deal
+- Going — New Orleans roundtrip from $248 (Oct) — expires no date — flight deal
+- Chase Sapphire — refer-a-friend: 15k pts each, up to 100k — expires no date — via referral link
+- Genesis Motor America — monthly vehicle health report — expires no date — not a deal
+- Michaels — new fall floral arrivals (spooky/spicy) — expires no date — no code
+- NerdWallet — car insurance rate compare — expires no date — not a deal
+- Chipotle — new bonus challenge in app — expires no date — via app
+- Costco — premium tech & home essentials — expires no date — link in email
+- Nordstrom Rack — Marc Jacobs up to 50% off; DVF up to 60% off — expires no date — link in email
+- Life Time — membership refresher tour / summer pricing — expires no date — not a deal
+- NerdWallet — personal loan primer — expires no date — not a deal
+- Lyft — 20% off 3 rides — expires no date — claim in email
+- H&M — lace + leather edit (modern romance) — expires no date — no code
+- Google Play — summer deals on gift cards — expires no date (limited time) — via Google Play
+- Vida Integrated Health — new functional medicine physician (Dr. Cheri Wood) — expires no date — not a deal
+- JetBlue — Plus Card: 70,000 bonus points (~$700 award travel) — expires no date — card application
+- ID.me Shop — back-to-school savings up to 50% (tech, apparel, dorm) — expires soon — via ID.me student discount
+- Chipotle — Happy Half-Birthday reward — expires no date — check app
+- Macy's — 30% off top styles (exclusive) — expires 2026-08-30 — sign in to redeem
+- Going — Seattle→St. Kitts from $499 (Sep–Mar) — expires no date — flight deal
+- Going — Elite membership 51% off — expires soon — code SUMMER51
+- Algo Monster — newsletter (all patterns, one price) — expires no date — not a deal
+- Michaels — party supplies from 99¢ — expires no date — link in email
+- Macy's — $20 off $100 ($30 off w/ Macy's Card), app only — expires 2026-08-11 — in app
+- J.Crew Factory — extra 70% off clearance — expires 2026-08-11 (tonight) — link in email
+- Kohl's — 30% off fall home finds + Kohl's Cash — expires no date — link in email
+- Skechers — privacy policy update — expires no date — not a deal
+- Macy's — up to 70% off end-of-season clearance — expires no date — link in email
+- Macy's — up to 70% off toy clearance (Barbie, LEGO) — expires no date — link in email
+- HomeGoods — wall décor/gallery savings — expires no date — link in email
+- Michaels Rewards — exclusive weekly member offers — expires no date — via rewards account
+- Michaels — Flash Cyber Sale up to 60% off — expires 2026-08-11 (today) — link in email
+- Chipotle — free guac reward — expires 2026-08-11 (tonight) — in app
+- Macy's — up to 50% off kids' brands (Levi's, abercrombie kids) — expires no date — Back to Style ends tonight
+- Michaels — Maker Haul: save on 1,000s of items — expires no date — link in email
+- Kohl's — 30% off + Kohl's Cash (Active Sale) — expires no date — link in email
+- Macy's — up to 60% off home upgrades — expires no date — link in email
+- J.Crew Factory — 50% off everything — expires no date — link in email
+- Skechers Plus — 791 member points expiring — expires 2026-09-22 — finish enrollment to use
+- Genesis of Kirkland — overdue maintenance reminder — expires no date — not a deal
+- Michaels — Maker Haul up to 50% off (reminder) — expires no date — link in email
+- Nordstrom — fall style edit (Mix, match, repeat) — expires no date — link in email
+- Macy's — fall beauty preview — expires no date — no code
+- HomeGoods — bed & bath savings (college dorm) — expires no date — link in email
+- Nordstrom Rack — new arrivals up to 50% off — expires no date — link in email
+- Macy's — up to 40% off guys' denim & activewear — expires no date — link in email
+- Kohl's — 30% off fall home + up to 40% off Nike/adidas — expires no date — link in email
+- Michaels — Maker Haul stock-up event — expires no date — link in email
+- Bellevue Badminton Club — UBR Top 100 mixer Aug 16 (invite-only); Session 1 reg opens Aug 17 — expires no date — no code
+- Nordstrom — Anniversary Sale up to 40% off — expires no date — link in email
+- Sephora at Kohl's — $25 & under beauty picks — expires no date — 🔔 [[Gift ideas]]
+- Michaels — Flash Cyber Sale starts now — expires no date — link in email
+- Nordstrom Rack — up to 50% off tote bags — expires no date — link in email
+- Michaels Custom Framing — 70% off custom framing (wedding pics) — expires no date — link in email
+- Macy's — up to 40% off shirts/shoes (back-to-school) — expires no date — link in email
+- J.Crew Factory — 50% off everything (stores & online) — expires no date — link in email
+- Kohl's — 30% off fall home must-haves — expires no date — link in email
+- Macy's — up to 70% off end-of-summer clearance — expires no date — link in email
+- Michaels — Maker Haul is back — expires no date — link in email
+- Nordstrom Rack — dressy styles on sale — expires no date — link in email
+- Famous Footwear — $10 reward + BOGO + free shipping — expires no date — link in email
+- The EyeCare Center — annual eye exam reminder — expires no date — not a deal
+- Hallmark — holiday getaway sweepstakes — expires no date — entry link
+- Macy's — up to $80 off Ninja appliances — expires no date — link in email
+- Michaels — Halloween décor & DIYs — expires no date — link in email
+
 ## 2026-08-10
 - Kohl's — 30% off fall home finds (Kohl's Cash eligible) — expires no date — link in email
 - Lumosity — 35% off subscription — expires no date — code NEWSLETTER-35-26
