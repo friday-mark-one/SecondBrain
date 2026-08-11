@@ -1,5 +1,95 @@
 # News
 
+## 2026-08-11
+
+## AI & Models
+
+- [Meta Released Muse Glimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) — Meta's new 30B-parameter open-weight model under Apache 2.0, optimized for always-on local agents, coding, function calling, and model evaluation. Runs on consumer devices for agent workflows and multimodal reasoning. (TLDR AI, TLDR, TLDR Dev)
+
+- [GPT-5.6-Cyber](https://links.tldrnewsletter.com/6nWNFU) — OpenAI introduced a specialized model for vulnerability research, exploit validation, and other advanced cybersecurity tasks, and expanded its Daybreak program with Blue and Red access tiers for approved defenders. (TLDR AI)
+
+- [Learning More About Claude's Mathematical Capabilities](https://www.anthropic.com/research/riemann-zeta) — Challenged with the Riemann hypothesis, Claude didn't prove it but improved the lower bound of zeros satisfying it from 41.6% to 67.2%. Coordinating multiple subagents and 650 ideas, it re-proved the finding, confirmed by two mathematicians and formal validation. (TLDR, TLDR AI, TLDR Dev)
+
+- [No, Local Models Will Not Win](https://www.seangoedecke.com/local-models-will-not-win/) — Local models can't match datacenter models on power or efficiency — frontier models are too big for anything but GPU clusters, and datacenter inference benefits from better utilization, batching, and hardware. People will pick the strongest model in their price range, which is always the bigger one. (TLDR, TLDR Dev)
+
+- [Exploring Claude/GPT Knowledge Cutoffs & Pre-Training Timelines](https://links.tldrnewsletter.com/qMozMJ) — Probing frontier models with curated requests reveals hidden training facts: parameter counts via niche-fact scoring, dataset mixtures via token breakdowns, and training timelines via date- and self-identification questions. (TLDR AI, TLDR Dev)
+
+- [Building an AI-Native Finance Team](https://links.tldrnewsletter.com/iAvNcF) — OpenAI shared five lessons from rebuilding its finance function around AI, with goals including a zero-day close and continuously updated forecasting. The approach redesigns workflows around decisions, live business context, human accountability, experimentation, and measurable AI-driven output. (TLDR AI)
+
+- [Are Agents Really Killing UI?](https://links.tldrnewsletter.com/uzX4Fz) — Agents are shifting software toward hybrid interfaces rather than eliminating UI: products need agent-friendly onboarding, MCP access, and instrumentation alongside human-facing controls. The highest-value screens increasingly handle approval, review, undo, orchestration, and visibility into what agents changed. (TLDR AI)
+
+- [A Controlled Study of Attention-Only Transformers](https://arxiv.org/abs/2607.18363) — The feed-forward network holds roughly two-thirds of non-embedding parameters in modern decoders and is widely argued to act as parametric memory. This experiment looks at what is actually lost when the FFN is removed entirely. (TLDR AI)
+
+- [The Future Is for Everyone](https://about.fb.com/news/2026/08/the-future-is-for-everyone/) — Meta plans to democratize superintelligence by creating personal AI agents that enhance individual capabilities while ensuring privacy. Emphasizing invention over automation, it advocates a balance of power to prevent singular centralized AI. (TLDR AI)
+
+- [OpenAI Reportedly Completed a $7 Billion Employee Tender Offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/) — The liquidity deal valued OpenAI at $852 billion, the same as its most recent fundraising round in March. (TLDR AI)
+
+- [Needle 2 — the 14 MB Agentic LLM for Tiny Devices](https://cactuscompute.com/needle) — A compact 45M-parameter model designed for efficient on-device tool calling and structured data extraction, suited to low-resource environments like cheap smartphones and IoT devices. (TLDR Dev)
+
+- [Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) — Native multimodal plugins for Qwen models that make agent harnesses multimodal-native. Each capability ships with a skill, an optional MCP server, and a cookbook with tool listings, setup, and worked cases. (TLDR AI)
+
+- [h3-metal](https://github.com/antirez/h3.c) — Brings native MiniMax-H3 inference to Apple Silicon with prompt-to-video/audio, first/last-frame conditioning, and ordered Ref2VA references. Focused on incremental H3-specific Metal performance and memory optimization on M3 Max and M5 Max. (TLDR AI)
+
+## Big Tech & Startups
+
+- [Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay](https://links.tldrnewsletter.com/5nnDda) — Zuckerberg's essay outlines spreading AI's wealth and opportunity: more open-weight models and a $1 billion fund for communities hosting Meta's data centers. He argues Meta's approach of distributing powerful AI widely is the least likely path to disastrous outcomes. (TLDR)
+
+- [Google's Classic Search Button Is Gone in a New AI-First Homepage](https://searchenginewatch.com/google-tests-ai-focused-homepage-for-signed-out-users/) — Google is testing a homepage where the search button is replaced with an AI Mode button. Users can ask about files and use the Brainstorm function without logging in; logged-in users can also generate images. (TLDR)
+
+- [Following Epic Loss, Google Has Started Hosting Rival App Stores in the Play Store](https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/) — Aptoide, a game-focused store sideloaded since the early days of Android, is the first third-party app store to arrive in Google Play. (TLDR)
+
+- [Apple Is Working on a Way to Authenticate That a Photo Came From an iPhone Camera](https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/) — Apple Reference Image is designed to authenticate the source of photos using unique data tied to the iPhone camera hardware that captured them. (TLDR)
+
+- [See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday](https://links.tldrnewsletter.com/SvvLSu) — A clause in Musk's pay package declares half the targets accomplished if Tesla is acquired, leaving only market-value targets to determine his shares. Musk has considerable say over any SpaceX offer and would keep firm control of the combined company. (TLDR)
+
+- [Microsoft Plans Maia 300 AI Chip Unveiling in September, Report Says](https://insideai.news/news/ai-hardware-infrastructure/microsoft-plans-maia-300-ai-chip-unveiling-in-september-report-says/7446/) — Microsoft aims to unveil its Maia 300 AI chip in September as it works to reduce reliance on Nvidia GPUs. (TLDR AI)
+
+- [Anthropic Tries to Shore Up Investor Confidence Ahead of Blockbuster IPO](https://links.tldrnewsletter.com/NWzQml) — Anthropic is meeting investors to reassure them on growth pace and its strategy for public backlash, targeting a debut in September or early October. It must address cheaper Chinese AI systems, tensions with the Trump administration, and data-center construction backlash. (TLDR AI)
+
+## Hardware & Infrastructure
+
+- [Nvidia Lines Up $500 Billion in Financing; Huang Calls Chips an 'Investable Asset'](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html) — Nvidia partnered with six large asset managers including Apollo, Blackstone, and Goldman Sachs to mobilize $500 billion in third-party capital, treating compute infrastructure like commercial real estate or toll roads to borrow against. Helps hyperscalers, frontier labs, and enterprises fund data centers without tapping their own balance sheets. (TLDR, TLDR AI)
+
+- [Nvidia Reportedly Testing Lower Memory Configs of Rubin Ultra as Memory Shortage Bites Back](https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-testing-lower-memory-configs-of-rubin-ultra-as-memory-shortage-bites-back-designs-tested-include-as-little-as-192-gb-and-step-back-to-hbm4) — Nvidia has tested at least three lower-memory designs, including configurations with as little as 192 GB and a step back to HBM4. (TLDR AI)
+
+- [Compute Is Revenue. Revenue Is Collateral](https://www.cogniscendo.com/p/compute-is-revenue-revenue-is-collateral) — Nvidia is attempting to turn a handful of bespoke compute transactions into a financial production line, treating compute as a revenue-generating asset with an extended, transferable life. (TLDR)
+
+- [Electricity Pricing in the Age of AI](https://power2026.ai/) — AI demand highlights power as the real bottleneck, with data center electricity needs doubling every two years. The book explores electricity commodities, the central role of independent system operators, and energy-only markets for predicting price movements. (TLDR AI)
+
+- [Two Bets on Standing Still, and a Dark Horse](https://kernel.pryanic.com/posts/two-bets-on-standing-still-and-a-dark-horse) — Taalas and Groq take different approaches to AI inference hardware: Taalas etches model weights directly into silicon for speed, while Groq keeps loadable weights in SRAM for flexibility. (TLDR Dev)
+
+## Robotics & Science
+
+- [Dyna-2 Proves Scaling Laws for Robotics: 1 Million Hours of Human Video Unlocks Zero-Shot Dexterity](https://www.humanoidsdaily.com/news/dyna-2-proves-scaling-laws-for-robotics-1-million-hours-of-human-video-unlocks-zero-shot-dexterity) — Dyna-2, a world-action model pre-trained on over a million hours of human video, achieved an 87% pass rate in real-world zero-shot deployments versus Dyna-1's 46%. A new one-step video generation distillation pipeline drops inference latency by two orders of magnitude. (TLDR, TLDR AI)
+
+## Programming & Development
+
+- [What's the Best Programming Language for Coding Agents?](https://danluu.com/pl-tokens/) — Dynamic languages appear more token-efficient on simpler tasks, but static languages can match or exceed them on complex projects. Dan Luu argues failures are idiosyncratic and there's no way to draw a strong conclusion about any language from current evaluations. (TLDR, TLDR Dev)
+
+- [Designing With Code](https://justinjay.wang/designing-with-code/) — Code as a creative medium: defining an idea as rules lets you generate variations and design systems rather than one-off assets. AI agents collapse the loop between imagining something and seeing it — a gear-motif blog header built in Cursor from blank canvas to animation. (TLDR Dev)
+
+- [Shrinking Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/05/shrinking-ruby-hashes.html) — Ruby's memory optimization efforts target Hashes, a common object type that consumes a lot of memory. Recent changes include array-based structures for smaller instances and variable-width allocation, with more room to improve. (TLDR Dev)
+
+- [Why Enterprises Need a Multi-Model AI Strategy](https://www.kai-waehner.de/blog/2026/08/10/why-enterprises-need-a-multi-model-ai-strategy-cost-compliance-and-resilience/) — A multi-model strategy mitigates vendor concentration, cost fluctuations, regulatory compliance, and operational resilience risks. An orchestration layer lets organizations route workloads by requirements while guarding against disruptions. (TLDR Dev)
+
+- [Sandboxes for Coding Agents](https://www.docker.com/products/docker-sandboxes/) — Docker Sandboxes provide isolated environments for AI agents to execute tasks autonomously without compromising the security of the host system. (TLDR Dev)
+
+- [OpenChamber](https://openchamber.dev/) — An agentic development environment for managing tasks across multiple models and platforms, with code and session data kept local and secure for privacy. (TLDR Dev)
+
+- [Ante](https://github.com/AntigmaLabs/ante) — A self-contained terminal coding agent optimized for efficiency with local inference capabilities, supporting multiple providers without vendor lock-in. (TLDR Dev)
+
+- [Fable 5 vs GPT-5.6 Sol: I Spent $2,000 and 2 Billion Tokens to Find Out Who Wins](https://expo.dev/blog/fable-5-vs-gpt-5-6-sol-expo-apps) — Fable 5, GPT-5.6 Sol, and GPT-5.5 one-shot the same three Expo apps from identical specs over 47+ hours. Fable 5 consistently delivered the best code quality and UI, completing tasks faster with less code; GPT-5.6 Sol excelled at problem-solving and automation. (TLDR Dev)
+
+- [Everything I Learned Shipping Device Bound Session Credentials](https://scotthelme.co.uk/everything-i-learned-shipping-device-bound-session-credentials/) — Device Bound Session Credentials bind sessions to a private key generated in browser hardware that cannot be exported. (TLDR)
+
+## Agents & Security
+
+- [AI Assistant Hacks Gym Website in First Known Australian Autonomous Cyber Attack](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986) — An AI assistant exploited a vulnerability in a gym's booking system to secure a class reservation, inadvertently displacing another user ahead of him. (TLDR Dev)
+
+- [A Researcher Bought noreply.net. Companies Started Sending Him Secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/) — Cory Solovewicz created an accidental honeypot when he purchased noreply.us and noreply.net in 2020 and 2024, respectively. (TLDR)
+
+- [Can Agents Use a Computer Yet? We've Got the Data](https://a16z.com/can-agents-use-a-computer-yet-weve-got-the-data/) — Agents have rapidly advanced at automating computer use, effectively managing repetitive tasks such as ticket processing, data entry, and navigating legacy systems without APIs. (TLDR AI)
+
 ## 2026-08-10
 
 ## AI & Models
