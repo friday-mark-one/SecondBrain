@@ -161,3 +161,4 @@
  1. Adversarial review all designs and code changes
  2. Credential failures
  3. Investigate the root cause, then present findings ONLY as a table: | Claim | Evidence (file:line or metric query + value) | Confidence (high/med/UNVERIFIED) |. Anything you inferred rather than observed must be marked UNVERIFIED. No prose narrative until after the table.
+ 4. Don't add a wall of comments to the code 
