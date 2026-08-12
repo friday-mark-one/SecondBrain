@@ -6,6 +6,7 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
+- [ ] Update SSN / ITIN
 - [ ] Birthday planning
 	- [ ] Decorations 
 	- [ ] Trip
