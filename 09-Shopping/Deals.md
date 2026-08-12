@@ -1,5 +1,29 @@
 # Deals
 
+## 2026-08-12
+- Kohl's — Save 30% + earn Kohl's Cash — expires no date — promo link
+- Tata Capital Wealth — 'Leading Investors' investing newsletter — no date — info only
+- Etsy — Summer book club / gifts promo — no date — newsletter
+- Fabletics (Bellevue Square) — Summer Deals: $20 tops/bras/shorts, $25 leggings/joggers — limited time — VIP pricing, in-store/online
+- Citi — Promotional APR offer — expires 9/4/2026 — activate via link
+- Fabletics — 'Going, Going…Almost GONE' exclusive offer — no date — members
+- Apple Card — $300 new-card bonus — expires 8/31 — spend $1,500 in first 60 days
+- NerdWallet — Auto insurance savings up to $1,079/yr — no date — quote comparison
+- NerdWallet — High-yield savings up to 4.10% APY — no date — banking
+- Linux Foundation — 35% off sitewide (training, certs, bundles) — expires 8/18
+- Cinemark — The Brink of War movie spotlight — no date — movie promo
+- H&M — Denim update (new arrivals) — no date — no code
+- UNiDAYS — New-semester student deals — no date — student discount app
+- PointsYeah — Family & Friends Points Wallet; 25% off Premium — limited time — code WALLET25
+- Chase Sapphire Preferred — 5x total points on Peloton over $150 — expires 12/31/2027 — cardmember offer
+- Going — 'No-brainer travel card' recommendation — no date — newsletter
+- Algo Monster — Newsletter: The map vs. the maze — no date — info only
+- Going — Puerto Rico flights from $320 (Sep) — no date — flight deal
+- IndiGo — Credit card: first year free — no date — apply link
+- Bath & Body Works — Fall steals from $3.95 (candles/body care) — expires today 8/12 — 'today only'
+- Kohl's — Up to 70% off clearance + extra 30% off — no date — intimates sale
+- Club Pilates Bothell — Enrollment fee waived (save up to $149) — no date — Bothell studio
+
 ## 2026-08-11
 - The Leela — A Living Raga music evening — expires no date — no code
 - Educative — Strands Agents SDK newsletter (platform update) — expires no date — not a deal
