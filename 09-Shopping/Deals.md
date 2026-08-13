@@ -1,5 +1,27 @@
 # Deals
 
+## 2026-08-13
+- Kohl's — Save 30% on intimates + earn Kohl's Cash — expires no date — promo link
+- Tata Capital Wealth — RBI holds repo rate at 5.25% — no date — info only
+- Educative — Up to 66% off Unlimited (Perseid flash sale) — no date — promo link
+- NerdWallet — High-yield savings up to 4.10% APY — no date — banking
+- Going — 1 new deal to Hawaii — no date — flight deal
+- DoorDash — 'Craving something different?' food promo — no date — no code
+- Etsy — Curated edit: gifts & deals — no date — newsletter
+- Fabletics — The College Shop (200+ schools) — no date — membership
+- H&M — 25% off flash sale — no date — no code
+- T-Mobile — Pixel 11 Pro XL 'On Us' pre-order — no date — carrier promo
+- Chase Sapphire Preferred — Travel benefits guide — no date — info only
+- PointsYeah — Biz class to Europe from 47k pts (Turkish 40% transfer bonus) — no date — points deal
+- Empower — Customer feedback survey — no date — info only
+- Costco — Epic Gaming Deals — no date — member prices
+- Life Time — Rejoin for Summer Pricing — no date — membership
+- ID.me Shop — Summer deals: 20% off On Running, up to 45% off LG monitors, up to 30% off Samsung — no date — member discounts
+- Going — Vancouver: 'city, sea, and sky' guide — no date — newsletter
+- evo — Up to 40% off Santa Cruz bikes + free shipping on select bikes — no date — bike sale
+- Algo Monster — Interview season newsletter — no date — info only
+- KrisFlyer — Account statement — no date — info only
+
 ## 2026-08-12
 - Kohl's — Save 30% + earn Kohl's Cash — expires no date — promo link
 - Tata Capital Wealth — 'Leading Investors' investing newsletter — no date — info only
