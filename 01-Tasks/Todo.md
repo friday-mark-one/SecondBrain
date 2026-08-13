@@ -10,7 +10,7 @@ pinned: true
 - [ ] Birthday planning
 	- [ ] Decorations 
 	- [ ] Trip
-- [ ] Olympics ticket
+- [x] Olympics ticket
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
 - [ ] Fix TFCC
