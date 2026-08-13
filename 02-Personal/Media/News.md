@@ -1,5 +1,91 @@
 # News
 
+## 2026-08-13
+
+## AI & Models
+
+- [SpaceXAI Debuts Grok 4.6, Overtaking Kimi K3 and Matching GPT-5.6 Sol](https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis?utm_source=tldrnewsletter) — SpaceXAI released Grok 4.6, a model focused on long-running agents, coding, and knowledge work. It surpasses Kimi K3 and ties GPT-5.6 Sol Max on the Artificial Analysis Intelligence Index, with sizable gains over its predecessor across coding, terminal, knowledge-work, and agent benchmarks. The API starts at $2 per million input tokens and $6 per million output tokens — less than half of what GPT-5.6 Sol costs in standard mode. (TLDR, TLDR AI, TLDR Dev)
+
+- [Grok 4.6 — A Field Guide](https://links.tldrnewsletter.com/dry1ml) — Grok 4.6 stands out less for a single capability jump than for speed, dense communication, stronger polish, and reliable work across coding and knowledge tasks. The highest-leverage prompting pattern is short instructions plus explicit acceptance criteria and repeated self-verification. (TLDR AI)
+
+- [DeepSeek Prices Its New V4-Pro-0813 Model at $0.87 Per 1 Million Output Tokens](https://wccftech.com/deepseek-prices-its-new-v4-pro-0813-model-at-0-87-per-1-million-output-tokens-as-the-high-flying-chinese-ai-lab-wows-with-its-soaring-token-consumption/?utm_source=tldrai) — DeepSeek-V4-Pro-0813 is rolling out on the DeepSeek API and DeepSeek chat at $0.435 per 1M input tokens and $0.87 per 1M output tokens. It outcompetes Opus 4.8 on Terminal Bench 2.1, Cybergym, DeepSWE, and AutomationBench, and DeepSeek was second only to Anthropic in total tokens consumed in July. (TLDR AI)
+
+- [Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B?utm_source=tldrai) — Based on Qwen3.5's architecture, Qwen3.8 introduces advanced coding and long-horizon task capabilities with improved agent execution for reliable task completion. It supports deployment frameworks like SGLang and vLLM, and adjusts reasoning depth through reasoning_effort settings. (TLDR AI)
+
+- [Microsoft Launches MAI-Thinking-1](https://microsoft.ai/news/introducing-mai-thinking-1/?utm_source=tldrai) — A medium-sized reasoning model aimed at cost-efficient enterprise workloads across coding, math, and knowledge tasks. (TLDR AI)
+
+- [MAI-Image-2.6 Reaches No. 2 on Arena](https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai/?utm_source=tldrai) — Microsoft's MAI-Image-2.6 reached second place on the Arena text-to-image leaderboard. (TLDR AI)
+
+- [Claude's Chrome Side Panel Becomes a Full Cowork Session](https://claude.com/claude-in-chrome?utm_source=tldrai) — Anthropic upgraded Claude in Chrome so the side panel now runs a full Claude Cowork session. Conversations save to your Claude account and resume on desktop, web, or mobile, and your existing skills and connectors work in the browser without setup. (TLDR AI)
+
+- [DeepSeek Publicizes Efforts to Challenge Anthropic's Claude Code](https://links.tldrnewsletter.com/Rbhlff) — DeepSeek has set up an official social media account and posted job listings for a new team focused on developing AI agents. (TLDR)
+
+- [What Sort of Maths Are LLMs Good At?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/?utm_source=tldrai) — OpenAI's recent math announcement is extraordinarily impressive, but LLMs aren't better than all humans at all aspects of mathematics — if they were, there would be much more of a flood of results. (TLDR AI)
+
+## Big Tech & Startups
+
+- [Google Reveals 2026 Hardware Lineup: Pixel 11, Pixel Watch 5, and Pixel Tag](https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/?utm_source=tldrnewsletter) — The Pixel 11 series looks a lot like last year's lineup, but with minor tweaks, a few new hardware extras, and even more Gemini-powered AI, joined by an updated Pixel Watch 5 and the Pixel Tag, Google's first in-house tracker device. The most notable innovation is the return of a notification LED for the Pro phones — a ring of RGB LEDs inside the flash assembly that lights up during Gemini use or for calls from specific contacts. (TLDR)
+
+- [Nvidia Is Speedrunning the Creation of a Synthetic Hyperscaler](https://taekim.substack.com/p/nvidia-is-speedrunning-the-creation?utm_source=tldrai) — Nvidia has built software and infrastructure that make its hardware easy to install and run, plus financing products that smooth utilization across a distributed fleet. The complaint that these platforms keep capital tethered to Nvidia and away from other ASICs/accelerators is a moat dressed up as a risk. (TLDR AI)
+
+- [Vibe-Coding Startup Lovable Hits $13 Billion Valuation](https://links.tldrnewsletter.com/XDnvrN) — The startup is on track to generate a revenue run rate of close to $600 million by the end of this month. (TLDR AI)
+
+- [As AI Safety Concerns Mount, Three Pioneers Make the Case for Staying Open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/?utm_source=tldrai) — AI researchers Geoffrey Hinton, Fei-Fei Li, and Andrew Ng advocate for keeping AI open to prevent a few large firms from monopolizing advancements. (TLDR AI)
+
+## Enterprise AI & Industry
+
+- [Cracks in the AI Thesis](https://ramp.com/data/ai-index-august-2026?utm_source=tldrnewsletter) — The share of businesses using model serving platforms rose again last month — 6.1% of businesses using AI now use these platforms — but adoption of OpenAI and, to a lesser extent, Anthropic, has slowed in recent months. Their growth has to come from existing businesses spending on AI, and those businesses are increasingly spending on open source. (TLDR, TLDR Dev)
+
+- [Enterprise AI Shifts Toward Execution](https://links.tldrnewsletter.com/CnBxe1) — OpenAI published two studies showing enterprise AI use moving from assistance toward more delegated, agentic work. The highest-usage firms generated many times more output tokens per active user than typical firms and adopted connected tools and workflows more frequently. (TLDR AI)
+
+- [Hiring Agents Is the Easy Part](https://links.tldrnewsletter.com/tlTCN1) — Agent adoption will be constrained less by capability than by verification: companies need systems that define quality, evaluate ongoing performance, and compound feedback. The hardest problems are tacit standards, company-specific evals, feedback ownership, permissions, liability, and self-improving learning loops. (TLDR AI)
+
+- [GitHub vs Vercel vs Replit: What Dev Platforms Do When AI Code Is Cheap](https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev?utm_source=tldrnewsletter) — GitHub, Vercel, and Replit are trying to rebuild themselves around solving hard problems in the software development process other than coding. (TLDR)
+
+- [AI Is Removing the Middle Class of Software Engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html?utm_source=tldrnewsletter) — AI makes projects with weak engineering culture fail much faster. Bad engineers were always a liability, but there used to be a limit to how fast changes could be implemented; companies can't afford to hire them anymore, and money will increasingly funnel toward a small number of people who can actually be trusted. (TLDR, TLDR Dev)
+
+- [9 Theses on AI](https://smunshi.net/posts/ai-theses.html?utm_source=tldrnewsletter) — A look at the horizon problem, job losses vs new company creation, specialized AI, system skills, and more. (TLDR)
+
+- [Input-Based Pricing vs Output-Based Pricing](https://www.elliotcsmith.com/input-based-pricing-vs-output-based-pricing/?utm_source=tldrnewsletter) — Input-based pricing charges users for the consumption of some resource, while output-based pricing charges based on a positive outcome. (TLDR)
+
+- [Inside an Applied AI Company](https://links.tldrnewsletter.com/yU2bOU) — An applied AI company focuses on providing complete solutions for complex workflows, improving accuracy and efficiency through tight integration, continuous evaluation, and a unique operational structure that bridges engineering and customer engagement. (TLDR Dev)
+
+- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/?utm_source=tldrnewsletter) — Be intentional about when to use AI and when to leave it out, and try to be honest about what you're actually gaining and losing with your choices. (TLDR)
+
+- [Why You Can't Copy Palantir](https://ethanding.substack.com/p/why-you-cant-copy-palantir?utm_source=tldrnewsletter) — Palantir is a vertically integrated, outcome-based software provider whose extreme elitist attitude toward using its own software lets it bypass the trade-offs of both traditional consulting and software companies. There's little hope of any company catching up, as investors allow Palantir to do R&D over an extremely long and unspecified time horizon. (TLDR)
+
+## Programming & Development
+
+- [How We Tracked Down a 16-Year-Old SQLite Bug](https://tailscale.com/blog/sqlite-wal-reset-bug?utm_source=tldrnewsletter) — Tailscale faced recurring database corruption in its SQLite implementation that persisted for six months and affected service reliability. After a massive cross-functional effort involving dozens of people — including Tailscale's engineering and support teams and SQLite's core maintainers — they identified and resolved the 16-year-old bug, improving backup and recovery processes to prevent future incidents. (TLDR, TLDR Dev)
+
+- [How We Built a Software Factory to Drive Astro's GitHub Issue Count to Zero](https://blog.cloudflare.com/astro-issue-triage/?utm_source=tldrdev) — The Astro team automated GitHub issue triage with isolated AI subagents running in GitHub Actions that reproduce bugs, diagnose root causes, and ship preview releases for reporters to verify. They drove open issues from 200+ down to about 30, with zero expected within a month; the pipeline runs as a state machine driven by issue labels, and agent failures are treated as signals of underlying problems like opaque abstractions or missing tests. (TLDR Dev)
+
+- [HTML Over WebSockets: Real-Time SPAs With Barely Any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/?utm_source=tldrdev) — Instead of JavaScript rendering views and a separate JSON API, the server sends pre-built HTML directly to the client over a persistent bidirectional channel. This consolidates rendering logic on the server, reducing complexity and improving real-time capabilities. (TLDR Dev)
+
+- [Why Tiny JPEGs Look Different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/?utm_source=tldrnewsletter) — What looks like a rendering bug is actually a clever JPEG decoding optimization: Chrome delegates decoding and rendering to Skia, which computes the closest fraction with a denominator of 8, decodes at that scale, then scales with a more traditional downsampling algorithm — which is why small images can look thicker on some machines. (TLDR, TLDR Dev)
+
+- [Specula: Scaling Formal Specifications for Autonomous Model Checking of System Code](https://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html?utm_source=tldrai) — Specula is an agentic system that automates bug finding by deriving TLA+ specifications from code, checking conformance through trace validation, model-checking for concurrency bugs, and reproducing bugs with precisely timed integration tests. It's a great pragmatic idea that works for what it does, but it skirts the hard problem of composition — it can't say whether per-module guarantees add up to a system-level guarantee. (TLDR AI)
+
+- [Building Safer MCP Servers](https://blog.pamelafox.org/2026/08/building-safe-mcp-servers-for-your.html?utm_source=tldrai) — Several ways to expose PostgreSQL through MCP, ranging from flexible agent-generated SQL to tightly constrained, typed query tools — the tradeoff is between agent flexibility and limiting access to only permitted database operations. (TLDR AI)
+
+- [Programming Language Adoption Patterns at Meta](https://links.tldrnewsletter.com/klu13q) — Rust and TypeScript have experienced exceptional year-over-year growth at Meta, with TypeScript up +1,200% in recent months, while Haskell and Java steadily lose market share. (TLDR Dev)
+
+- [Introducing Delta](https://zed.dev/blog/introducing-delta?utm_source=tldrdev) — A new multiplayer coding environment that lets developers and agents collaborate in real time, keeping code and conversations interconnected; DeltaDB keeps comments on code synchronized and relevant as the code evolves. (TLDR Dev)
+
+- [How a Three-Person Team Ships Hundreds of PRs](https://wesmckinney.com/blog/agentic-engineering-aug-2026/?utm_source=tldrai) — Kenn Software's agent-assisted engineering workflow lets three developers merge hundreds of pull requests per week while maintaining a low production bug rate. (TLDR AI)
+
+- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow?utm_source=tldrdev) — The traditional workflow of tightly planning features before coding has evolved: broader initial builds and iterative improvements through AI-assisted development, demoing work before code reviews, and breaking tasks into smaller, independently reviewable pull requests. (TLDR Dev)
+
+- [Agentic Engineering Is Just Everything We Haven't Been Doing](https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/?utm_source=tldrdev) — Effective implementation of AI tooling requires addressing existing issues within teams rather than relying solely on automation. (TLDR Dev)
+
+- [Migrating a Large Flow Monorepo to TypeScript](https://engineeringblog.yelp.com/2026/08/migrating-a-large-flow-monorepo-to-typescript.html?utm_source=tldrdev) — Yelp migrated its large codebase from Flow to TypeScript over three years by gradually converting one package at a time while maintaining type integrity throughout the process. (TLDR Dev)
+
+## Science & Futurism
+
+- [Workers Are Teaching AI-Powered Robots to Take Over Their Jobs](https://links.tldrnewsletter.com/qUxBXp) — Tens of thousands of workers in India are being recruited to record their work in first-person, and the footage is being fed into AI systems built to teach robots how to do things. Robotics companies lack the data needed to train machines that interact with the physical world, and real footage of humans doing mundane tasks was in short supply — until now. (TLDR)
+
+- [Northrop's Robot Space Mechanic Is a New Way to Keep Satellites at Work Longer](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/?utm_source=tldrnewsletter) — Northrop Grumman launched a Mission Robotic Vehicle (MRV) with two advanced robotic arms plus three Mission Extension Pods (MEPs) — modular propulsion systems — on a Falcon 9 in July. In 2027 the MRV will use its arms to attach an MEP to a telecommunications satellite, keeping it in orbit for years to come. (TLDR)
+
 ## 2026-08-12
 
 ## AI & Models
