@@ -1,21 +1,11 @@
 ## One-off
 
-Add non-recipe items here as the pantry runs low. Format: `- [[Item]] | amount`.
-Bought items (checked on the grocery list) are removed by "After Shopping";
-unbought ones stay for next time.
+Add non-recipe items here as the pantry runs low. Format: `- [ ] [[Item]] | amount`.
+Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`) removes
+checked items automatically; unchecked ones stay for next time.
 
-- [[Water pack]] | 1
-- [[Tofu]] | 1
-- [[Tempeh]] | 1
-- [[Seitan]] | 1
-- [[Cabbage]] | 1
-- [[Anaheim peppers]] | 1
-- [[Cucumber]] | 1
-- [[Ghost protein cereal]] | 1
-- [[Avocado oil spray]] | 1
-- [[Pista]]
-- [[Ghee]]
-- [[Toor Dal]]
+- [ ] [[Paper towel]]
+
 
 ## Regulars
 - [ ] [[Milk]]
