@@ -1,5 +1,95 @@
 # News
 
+## 2026-08-14
+
+## AI & Models
+
+- [Google's Gemini 3.7 Flash Targets Coding and Agents with a 50% Introductory Price Cut](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/?utm_source=tldrdev) — Google is rolling out Gemini 3.7 Flash just three weeks after 3.6 Flash, an unusually short turnaround driven by developer feedback and algorithmic improvements. It sharpens coding and agentic workflows with better accuracy and efficiency, adds stronger safeguards, and temporarily halves API prices: $0.75 per million input tokens and $3.75 per million output tokens until the end of the year. (TLDR AI, TLDR Dev)
+
+- [OpenAI Previews Ultrafast API Tier for GPT-5.6 Sol](https://links.tldrnewsletter.com/8G6VYb) — OpenAI previewed Ultrafast, a GPT-5.6 Sol mode that generates up to 750 output tokens per second — about 14x standard speed — for products where latency decides whether an answer is still useful. Powered by Cerebras' Wafer-Scale Engine (44 GB of on-chip SRAM removes memory-bandwidth bottlenecks), access is initially limited to a select group of customers, with a wider rollout planned as capacity grows. (TLDR, TLDR AI, TLDR Dev)
+
+- [Anthropic Could Be Worth $2 Trillion When It Goes Public](https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/?utm_source=tldrai) — Investors anticipate Anthropic's IPO could exceed a $2 trillion valuation, potentially the largest in history, fueled by rapid revenue growth and demand for its models. Despite regulatory hurdles and competition, the startup projects annualized revenue of $100–120 billion by end of 2026. (TLDR AI)
+
+- [OCR 4.1](https://docs.mistral.ai/models/ocr-4-1?utm_source=tldrai) — Mistral's specialized vision-multimodal model for ingesting and structuring complex documents: it handles intricate tabular layouts, understands hierarchical structures, and outputs clean machine-readable JSON or Markdown. The release pressures cloud providers to re-evaluate multimodal pricing tiers. (TLDR AI)
+
+- [Writer Introduces New AI Model and Upgraded Harness to Contain Token Costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/?utm_source=tldrai) — Writer launched Palmyra X6, a flagship model aimed at marketers with deployment-ready capabilities at a much lower price. (TLDR AI)
+
+- [Apple Trains Own AI Model for China with Alibaba Support](https://au.investing.com/news/stock-market-news/apple-trains-own-ai-model-for-china-with-alibaba-support-reuters-reports-4599519?utm_source=tldrai) — A China-trained model could give Apple greater control over its AI offerings in the country. (TLDR AI)
+
+## Big Tech & Startups
+
+- [X Open Sources Its Ranking Algorithm, Letting Users See If They've Been 'Shadowbanned'](https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/?utm_source=tldrnewsletter) — X open-sourced its 'For You' algorithm and core ranking engine under Apache v2, roughly 10–15x larger than its earlier open-source efforts. It's also shipping tools that let users see whether and how its ranking systems affected their accounts, starting as a year-long pilot with a test group. (TLDR)
+
+- [OpenAI Revenue Chief Denise Dresser Leaving, Second Major Executive Departure in Days](https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html?utm_source=tldrai) — Dresser exits just ahead of OpenAI's anticipated IPO, to be replaced by Dali Rajic from Wiz; Brad Lightcap also announced his departure earlier this week to start a new venture. (TLDR AI)
+
+- [OpenAI's Revenue Run Rate Tops $40 Billion Ahead of IPO](https://links.tldrnewsletter.com/Hp85Y5) — OpenAI has roughly doubled its run rate since the end of 2025, driven by AI coding software growth, subscription momentum, its nascent advertising business, and its core consumer business. (TLDR)
+
+- [Google Launches Sheets Canvas for Gemini Mini-Apps](https://www.testingcatalog.com/google-launches-sheets-canvas-for-gemini-mini-apps/?utm_source=tldrai) — Sheets Canvas is a Gemini-powered layer that turns spreadsheet data into custom, interactive mini-apps inside Google Sheets — no formulas or separate app needed. It stays live, updating as the spreadsheet underneath changes, and is available globally in English to Google AI Pro and Ultra subscribers. (TLDR AI)
+
+- [Google Tests Agent Management UI on AI Studio](https://www.testingcatalog.com/google-tests-agent-management-ui-on-ai-studio/?utm_source=tldrai) — Google is testing a dedicated tab for managing Cloud Agents within Google Cloud projects, not consumer-grade sandboxes. (TLDR AI)
+
+- [Musk Hints Starlink Is Coming to Future Teslas as Cybercab Shows Integrated Dish](https://www.notateslaapp.com/news/4580/musk-hints-starlink-is-coming-to-future-teslas-as-cybercab-shows-integrated-dish?utm_source=tldrnewsletter) — Musk says Starlink will eventually be necessary to supply the bandwidth connected vehicles will require; the Cybercab prototype shows an integrated dish. (TLDR)
+
+## AI Agents & Tools
+
+- [DeepSeek Harness](https://deepseek.com/harness/en/?utm_source=tldrnewsletter) — DeepSeek Harness is now in developer preview with source code included. Every capability — models, tools, scheduling — is a plugin that can be swapped or recomposed in configuration without touching core code, and everything the model sees is recorded in an append-only session log for traceability. (TLDR, TLDR Dev)
+
+- [Foreman](https://github.com/vercel-labs/eve-software-factory-template?utm_source=tldrnewsletter) — Foreman is an "eve" software factory that puts AI agents on every stage of the dev loop while keeping humans on judgment calls. Tasks from GitHub and Linear move through four stations — Classifier, Analyst, Implementer, Reviewer — and come out as a reviewed draft pull request; developers just review, mark ready, and merge. (TLDR)
+
+- [Agent Plugins Are the Future of Agent Skills](https://links.tldrnewsletter.com/rWdewB) — Agent Plugins package skills and MCP dependencies into one portable, vendor-neutral folder that compatible clients can load, replacing fragmented setup with shared manifests, portable paths, and isolated failure boundaries. Authentication remains unresolved. (TLDR AI)
+
+- [Cloud Agents Start 3x Faster with Builds](https://cursor.com/blog/builds?utm_source=tldrai) — Cursor now prepares development environments continuously in the background at no extra cost, so agents start in ready environments and respond up to 3x faster. Agents keep using the last successful build while developers debug uninterrupted. (TLDR AI)
+
+- [How AI Agents Could Fail at Scale](https://www.anthropic.com/research/multiagent-systems?utm_source=tldrai) — Anthropic examined how individually benign behaviors in frontier agents could compound into systemic failures when many agents interact in shared environments. Risks include confabulation, reward hacking, and dynamics emerging faster than human institutions can oversee them. (TLDR AI)
+
+- [Subagents on Subagents: How Many Layers Deep Is Too Many?](https://links.tldrnewsletter.com/Z7DqEC) — Recursive agent systems should be designed as dependency graphs: upstream mistakes propagate across many workers while leaf errors stay localized. Reliability depends less on nesting depth than on blast radius, requiring provenance, verification, and stronger controls at high-impact nodes. (TLDR AI)
+
+- [Foreman: How It Works](https://ask-foreman.dev/docs/how-it-works?utm_source=tldrnewsletter) — An overview of Foreman's runtime map covering what runs where, how the filesystem defines the agent, and the three boundaries that shape the design. (TLDR)
+
+## Analysis & Deep Dives
+
+- [Will Financing Bottleneck AI Compute? An Anthropic Case Study](https://epochai.substack.com/p/will-financing-bottleneck-ai-compute?utm_source=tldrai) — Most of the financing Anthropic needed for its infrastructure buildout was assembled before revenue spiked, suggesting financing is unlikely to be the near-term limit on frontier compute. Institutional investors appear willing to lend against long-term payment commitments, especially with established organizations backing part of the risk. (TLDR AI)
+
+- [The DeepSeek Thesis](https://www.chinatalk.media/p/the-deepseek-thesis?utm_source=tldrnewsletter) — Liang Wenfeng, DeepSeek's CEO, is now richer than both Dario Amodei and Sam Altman. His little-known group of researchers, backed by his hedge fund's wealth, keeps giving work away for free — Liang believes automated learning and generalized intelligence are causally linked, and that pursuing advanced machine intelligence is the only problem worth solving right now. (TLDR)
+
+- [Pangram, Authorship, and French Theory](https://www.a16z.news/p/this-essay-is-10-ai-generated?utm_source=tldrnewsletter) — Being called out for using AI is the new way of dunking on people and posts — but the calling out is a social function, not simply "AI bad." People want authorship because it carries meaning; several labs have recently announced watermarking to make AI output easy to detect. (TLDR)
+
+- [Understanding Is the New Bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck?utm_source=tldrdev) — As AI agents take on more coding work, humans still need to understand generated code to collaborate creatively. Effective techniques: structured code explainers, interactive environments that make systems graspable, and shared spaces for team discussion. (TLDR Dev)
+
+- [Text AI Watermarks Will Always Be Trivial to Remove](https://www.seangoedecke.com/text-ai-watermarks/?utm_source=tldrdev) — The EU AI Act, in force this August, requires watermarking AI-generated text, but proposed methods — Google's SynthID, Unicode tricks — remain easily circumvented. (TLDR Dev)
+
+- [Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/?utm_source=tldrdev) — LLMs like Gemini 3 and GPT-5 often make factual errors not because knowledge is missing but because they fail to recall stored information. A knowledge-profiling framework shows encoding is nearly saturated while recall remains a hard challenge. (TLDR Dev)
+
+- [Choosing an AI Model: One Prompt, 11 Models, Very Different Results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/?utm_source=tldrdev) — A range of models (DeepSeek, Qwen, Kimi, GPT-5.6 Sol, Claude Opus 5) were tested generating web pages, with large variation in performance and credit cost. DeepSeek V4 Flash averaged just 2.4 credits for a static coffee-shop site while GPT-5.6 Sol low-effort averaged 141; higher-tier models burned credits without justifying their cost. (TLDR Dev)
+
+## Programming & Development
+
+- [How Compaction Works in Pi](https://earendil.com/posts/compaction-in-pi/?utm_source=tldrdev) — Compaction in coding agents summarizes and manages growing conversation history that can exceed the model's context window during long coding sessions. It builds a smaller representation of prior messages so the conversation continues while preserving relevant information, preventing context-overflow errors. (TLDR Dev)
+
+- [Blog About Things You Don't Understand Yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/?utm_source=tldrdev) — Blogging works as a learning tool: the author consistently gains new insight through writing, and readers benefit because it forces clear communication and thoughtful engagement with complex topics. (TLDR Dev)
+
+- [One Week of Building and Reviewing Code with LLM Agents](https://allaboutcoding.ghinda.com/one-week-of-coding-and-reviewing-with-llm-agents/?utm_source=tldrdev) — A week-long experiment using LLM agents for backend coding and review surfaced insights on productivity, error detection, and the evolving role of human oversight. (TLDR Dev)
+
+- [NP-Overrated](https://gruhn.me/blog/2026-08-13/?utm_source=tldrdev) — Despite the common belief that NP-hard problems are practically unsolvable, advances in algorithms and heuristics show efficient solutions often exist for the majority of real cases. (TLDR Dev)
+
+- [Write for People](https://newsletter.vickiboykis.com/archive/write-for-people?utm_source=tldrnewsletter) — Navigating codebases as a human is becoming an exercise in futility as more explanatory artifacts are generated rather than written. (TLDR)
+
+- [Introducing Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services?utm_source=tldrnewsletter) — Bluesky Protocol Services organizes the ecosystem's developer documentation, clarifies service contracts around Bluesky-provided infrastructure, replaces the old docs site, and gives the team a clean way to ship future releases. (TLDR)
+
+## Science & Futuristic Technology
+
+- [Driver Sets Record for Hydrogen-Powered Vehicle at More Than 406 MPH](https://links.tldrnewsletter.com/KOZBUK) — Andy Green, 64, hit 406.320 mph in the hydrogen-fueled JCB Hydromax, taking ~72 seconds to go from 50 to 400 mph — smashing the previous hydrogen-combustion record of 185.5 mph set by the BMW H2R in 2004. Green remains the only person to break the sound barrier on land (763 mph, 1997). (TLDR)
+
+- [America Wants to Make Its Own Humanoid Robots. That Won't Be Easy](https://links.tldrnewsletter.com/daYZhr) — China's near-total supply-chain dominance makes a robot entirely free of Chinese parts impractical; its robotics industry was built on billions in state funding. Fledgling US robot makers will need substantial financial and policy support to compete, and even non-humanoid US makers are struggling against Chinese rivals. (TLDR)
+
+## Miscellaneous
+
+- [Even Claude Is in the Dark About Dario Amodei's Wife — and Her Influence at Anthropic](https://links.tldrnewsletter.com/8nEg6K) — Cami Clark keeps a low profile but is a key adviser to Anthropic chief Dario Amodei. (TLDR)
+
+- [Ordinary Abundance](https://ordinaryabundance.com/?utm_source=tldrdev) — Modern conveniences and technologies that once inspired awe have become commonplace in daily life, reflecting humanity's relentless pursuit of progress and the legacy of past innovations. (TLDR Dev)
+
+- [How (Some) Chinese AI Practitioners View Model Distillation](https://www.geopolitechs.org/p/how-some-chinese-ai-practitioners?utm_source=tldrdev) — Chinese AI practitioners increasingly see distillation — using data from superior "teacher" models to improve smaller "student" models — as a technical strategy that is misunderstood and stigmatized. (TLDR Dev)
+
 ## 2026-08-13
 
 ## AI & Models
