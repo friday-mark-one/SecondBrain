@@ -183,12 +183,16 @@ def sweep_checklists():
 # BUY LIST SWEEP LOGIC
 # ==========================================
 def sweep_buy_list():
-    """Remove checked (- [x]) lines from the Buy List.
+    """Sweep the Buy List (checklist semantics).
 
-    The Buy List is a checklist: items are added as '- [ ] [[Item]] | amount'.
-    Checking an item means it's bought/done; every sweep removes checked items
-    so the list only shows what's left to buy. Removed items are returned so
-    the caller can log them.
+    ## One-off — items are added as '- [ ] [[Item]] | amount'. Checking an item
+    means it's bought/done; every sweep removes checked One-off items so the list
+    only shows what's left to buy.
+
+    ## Regulars — a persistent menu: a checked Regular is only UNTICKED by the
+    sweep (never removed), so it stays in the menu.
+
+    Removed items are returned so the caller can log them.
     """
     if not os.path.exists(BUY_LIST_FILE):
         return []
@@ -199,12 +203,26 @@ def sweep_buy_list():
     new_lines = []
     swept_items = []
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+    section = None  # "oneoff" | "regulars" | None (content before any heading)
 
     for line in lines:
+        h = re.match(r'^##\s+(.+?)\s*$', line.strip())
+        if h:
+            name = h.group(1).strip().lower()
+            section = "oneoff" if name == "one-off" else ("regulars" if name == "regulars" else None)
+            new_lines.append(line)
+            continue
+
         match = re.match(r'^(\s*)[-*]\s+\[[xX]\]\s+(.*)', line)
         if match:
+            indent = match.group(1)
             task_content = match.group(2).strip()
-            swept_items.append(f"- [{now}] (Buy List) {task_content}\n")
+            if section == "regulars":
+                # Regulars persist: just untick, keep in the menu
+                new_lines.append(f"{indent}- [ ] {task_content}\n")
+            else:
+                # One-off (or legacy pre-section): checked = bought -> remove + log
+                swept_items.append(f"- [{now}] (Buy List) {task_content}\n")
         else:
             new_lines.append(line)
 
