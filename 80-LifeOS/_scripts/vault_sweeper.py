@@ -18,10 +18,13 @@ def _p(rel):
 # 1. Shopping Tracker File
 SHOPPING_FILE = _p(_CFG["shoppingTracker"])
 
-# 2. Vault root to scan for checklist notes (frontmatter: type: checklist)
+# 2. Buy List File — checked (- [x]) items are removed from here on every sweep
+BUY_LIST_FILE = _p(_CFG["buyList"])
+
+# 3. Vault root to scan for checklist notes (frontmatter: type: checklist)
 VAULT_ROOT = _VAULT_ROOT
 
-# 3. The Hidden Log File
+# 4. The Hidden Log File
 TRASH_LOG_FILE = os.path.join(_p(_CFG["logs"]), ".swept_tasks_log.md")
 
 # ==========================================
@@ -174,14 +177,50 @@ def sweep_checklists():
                 f.writelines(new_lines)
             swept_items_total.extend(swept_items)
 
-    if swept_items_total:
-        os.makedirs(os.path.dirname(TRASH_LOG_FILE), exist_ok=True)
-        with open(TRASH_LOG_FILE, 'a') as f:
-            f.writelines(swept_items_total)
+    return swept_items_total
+
+# ==========================================
+# BUY LIST SWEEP LOGIC
+# ==========================================
+def sweep_buy_list():
+    """Remove checked (- [x]) lines from the Buy List.
+
+    The Buy List is a checklist: items are added as '- [ ] [[Item]] | amount'.
+    Checking an item means it's bought/done; every sweep removes checked items
+    so the list only shows what's left to buy. Removed items are returned so
+    the caller can log them.
+    """
+    if not os.path.exists(BUY_LIST_FILE):
+        return []
+
+    with open(BUY_LIST_FILE, 'r') as f:
+        lines = f.readlines()
+
+    new_lines = []
+    swept_items = []
+    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+
+    for line in lines:
+        match = re.match(r'^(\s*)[-*]\s+\[[xX]\]\s+(.*)', line)
+        if match:
+            task_content = match.group(2).strip()
+            swept_items.append(f"- [{now}] (Buy List) {task_content}\n")
+        else:
+            new_lines.append(line)
+
+    if len(lines) != len(new_lines):
+        with open(BUY_LIST_FILE, 'w') as f:
+            f.writelines(new_lines)
+
+    return swept_items
 
 # ==========================================
 # MAIN EXECUTION
 # ==========================================
 if __name__ == "__main__":
     sweep_shopping_list()
-    sweep_checklists()
+    swept_items = sweep_checklists() + sweep_buy_list()
+    if swept_items:
+        os.makedirs(os.path.dirname(TRASH_LOG_FILE), exist_ok=True)
+        with open(TRASH_LOG_FILE, 'a') as f:
+            f.writelines(swept_items)
