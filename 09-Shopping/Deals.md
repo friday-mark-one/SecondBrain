@@ -1,5 +1,24 @@
 # Deals
 
+## 2026-08-14
+- Kohl's — Save 30% on active gear & more — expires no date — promo link
+- Etsy — Shop coupon: 50% off from TolentinoshopStore — expires no date — code in email
+- NerdWallet — Bank bonus roundup: hundreds of $ per state — expires no date — banking
+- Cinemark — New & Now: Paw Patrol: The Dino Movie + rewards — expires no date — movie promo
+- Etsy — Item review request — expires no date — info only
+- Fabletics — $30 off your next pair (new denim) — expires no date — VIP members
+- Etsy — Special finds edit (gift bags, party favors) — expires no date — newsletter
+- Costco Travel — Hawaii/South Pacific getaways + hot buys — expires no date — travel
+- Going — Tromsø, Norway from $526 (Oct–Mar) — expires no date — flight deal
+- Sephora at Kohl's — $25 & under beauty + hair care — expires no date — promo link
+- Life Time — Refresher tour / rejoin summer pricing — expires no date — membership
+- H&M — Preppy layering edit — expires no date — no code
+- PointsYeah — 4 Chase business cards at highest offers (up to 200k pts / $1,000) — expires no date — points deal
+- NerdWallet — Bask savings up to 4.10% APY (limited-time boost) — expires no date — banking
+- Huel — Black Edition protein, 40g before 9am — expires no date — subscribe & save 20%
+- Algo Monster — Q&A newsletter — expires no date — info only
+- Bath & Body Works — $2.95 lowest price of the season — expires no date — promo link
+
 ## 2026-08-13
 - Kohl's — Save 30% on intimates + earn Kohl's Cash — expires no date — promo link
 - Tata Capital Wealth — RBI holds repo rate at 5.25% — no date — info only
