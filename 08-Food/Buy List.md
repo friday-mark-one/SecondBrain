@@ -8,5 +8,8 @@ checked items automatically; unchecked ones stay for next time.
 
 
 ## Regulars
+
+Persistent menu — checked Regulars are unticked by the sweep, never removed.
+
 - [ ] [[Milk]]
 - [ ] [[Roti]]
