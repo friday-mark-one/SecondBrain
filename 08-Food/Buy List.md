@@ -6,7 +6,6 @@ checked items automatically; unchecked ones stay for next time.
 
 - [ ] [[Paper towel]]
 
-
 ## Regulars
 
 Persistent menu — checked Regulars are unticked by the sweep, never removed.
