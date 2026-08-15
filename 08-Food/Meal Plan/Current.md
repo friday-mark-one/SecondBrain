@@ -5,7 +5,7 @@
 - [[Rasam]]
 - [[Capsicum poriyal]]
 ### Dinner
-- [[Paneer Butter Masala]]
+- [[Paneer Butter Masala]] (bhurji)
 
 ## Sun 08-16
 ### Lunch
@@ -23,16 +23,21 @@
 
 ## Tue 08-18
 ### Lunch
+- [[Morkuzhambu]]
+- Kovakkai poriyal
 ### Dinner
 - [[Dosa]]
 
 ## Wed 08-19
 ### Lunch
+- [[Morkuzhambu]]
+- Kovakkai poriyal 
 ### Dinner
 
 ## Thu 08-20
 ### Lunch
 ### Dinner
+SURPRISE dinner by kutti
 
 ## Fri 08-21
 ### Lunch
