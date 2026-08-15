@@ -1,59 +1,39 @@
-# Meal Plan — week of 2026-07-09
+# Meal Plan — week of 2026-08-15
 
-## Thu 07-09
+## Sat 08-15
 ### Lunch
-- [[Bisibelebath]]
+- [[Rasam]]
+- [[Capsicum poriyal]]
 ### Dinner
-- [[Idly]]
+- [[Paneer Butter Masala]]
 
-## Fri 07-10
+## Sun 08-16
 ### Lunch
-- [[Bisibelebath]]
+- [[Rasam]]
+- [[Capsicum poriyal]]
 ### Dinner
-- [[Idly]]
+- [[Paneer Butter Masala]]
 
-## Sat 07-11
+## Mon 08-17
 ### Lunch
-- [[Idly]]
+- [[Rasam]]
+- Beans poriyal
 ### Dinner
-Priya 
+- [[Dosa]]
 
-## Sun 07-12
+## Tue 08-18
 ### Lunch
 ### Dinner
-- [[Pongal]]
-- [[Tomato Chutney]]
+- [[Dosa]]
 
-## Mon 07-13
+## Wed 08-19
 ### Lunch
-- [[Vangi Bath]]
 ### Dinner
-- [[Ramen]]
 
-## Tue 07-14
+## Thu 08-20
 ### Lunch
-- [[Vangi Bath]]
 ### Dinner
-- [[Ramen]]
 
-
-## Wed 07-15
+## Fri 08-21
 ### Lunch
-- Sambar
-- capsicum
 ### Dinner
-- [[Channa masala]]
-
-## Thu 07-16
-### Lunch
-- sambar
-- capsicum
-### Dinner
-- [[Channa masala]]
-
-## Fri 07-17
-### Lunch
-- sambar 
-- cabbage
-### Dinner
-Restaurant
