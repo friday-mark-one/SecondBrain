@@ -35,7 +35,6 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [ ] Move skills and most agent .md files and scripts to Obsidian
 	- [ ] Setup model routing
 		- [ ] this means different model for different work
-	- [ ] 
 - [ ] LiteLLM
 	- [ ] Setup caching with redis
 		- [ ] https://gemini.google.com/app/e257d9d1a2368724
@@ -55,5 +54,5 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 - [x] Move notion notes
 	- [x] Restaurant journal
 	- [x] Duplicate project ideas notes
-- [ ] Trading agent 
-	- [ ] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==
+- [x] Trading agent 
+	- [x] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==
