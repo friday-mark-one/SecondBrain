@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
+                "file": "03-Career/Snap/Enterprise AI tutorial/03-topic3-rag.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02-topic2-mcp"
+              "title": "03-topic3-rag"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
+                "file": "03-Career/Snap/Enterprise AI tutorial/03-topic3-rag.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +210,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
     "03-Career/Snap/Enterprise AI tutorial/01-topic0-cloud-infra-notes.md",
     "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
     "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
@@ -217,7 +218,6 @@
     "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
     "03-Career/Snap/Enterprise AI tutorial/04-topic5-observability.md",
     "03-Career/Snap/Enterprise AI tutorial/03-topic3-rag.md",
-    "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
     "03-Career/Snap/Enterprise AI tutorial/00-curriculum-and-resources.md",
     "00-Dashboard/Home.md",
     "80-LifeOS/logs/08-15-26.md",
