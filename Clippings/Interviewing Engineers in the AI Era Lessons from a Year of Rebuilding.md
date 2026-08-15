@@ -1,4 +1,6 @@
 ---
+status: digested
+digested: 2026-08-15
 title: "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding"
 source: "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding?utm_source=tldrnewsletter"
 author:

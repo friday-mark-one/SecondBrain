@@ -1,4 +1,6 @@
 ---
+status: digested
+digested: 2026-08-15
 title: "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
 source: "https://simonwillison.net/2026/Aug/7/openai-timeline/?utm_source=tldrnewsletter"
 author:
