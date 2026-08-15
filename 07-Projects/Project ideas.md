@@ -46,10 +46,6 @@ pinned: true
 - [x] AI fashion store
 
 ### QoL ideas
-- [ ] A cron job that reminds me what needs to be done to improve my performance at work in a cheap way possible
-    - [ ] split PRs
-    - [ ] create visibility in slack
-    - [ ] pump up metrics so it shows I'm a high performer
 - [ ] AI that knows everything about me - Jarvis with home integration and rag llm
 - [ ] AI personal assistant
     - [ ] Custom trigger word to wake up / a chain on my neck with a button I can push to talk

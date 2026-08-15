@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "05-topic6-data-pipeline"
             }
+          },
+          {
+            "id": "c59c821c7d19efd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Learning/AI/Claude setup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Claude setup"
+            }
           }
         ]
       }
@@ -65,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +110,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,15 +235,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03-Career/Snap/Enterprise AI tutorial/04-topic5-observability.md",
     "06-Learning/AI/Claude setup.md",
+    "07-Projects/Project ideas.md",
+    "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
+    "03-Career/Snap/Enterprise AI tutorial/04-topic5-observability.md",
     "03-Career/Snap/Enterprise AI tutorial/03-topic3-rag.md",
     "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
     "03-Career/Snap/Enterprise AI tutorial/01-topic0-cloud-infra-notes.md",
     "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
     "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
     "03-Career/Snap/Enterprise AI tutorial/06-topic4-llm-serving.md",
-    "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
     "03-Career/Snap/Enterprise AI tutorial/00-curriculum-and-resources.md",
     "00-Dashboard/Home.md",
     "80-LifeOS/logs/08-15-26.md",
@@ -239,7 +265,6 @@
     "06-Learning/Untitled",
     "Clippings/The Future is for Everyone.md",
     "10-Admin/Immigration/US stays.md",
-    "10-Admin/Immigration/Untitled.md",
     "03-Career/Mira",
     "03-Career/Untitled",
     "03-Career/Airbnb",
