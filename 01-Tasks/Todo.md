@@ -6,6 +6,7 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
+- [ ] Add Mira to Friday 
 - [ ] Update SSN / ITIN
 - [ ] Trip planning
 	- [ ] Birthday
