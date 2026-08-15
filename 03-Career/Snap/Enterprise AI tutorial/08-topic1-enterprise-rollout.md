@@ -1,16 +1,10 @@
 # Topic 1 notes — enterprise AI rollout & governance (capstone)
 
-​
-
 Session date: 2026-08-09. Condensed review notes; sources in 00-curriculum-and-sources.md.
 
 Maps to: new team's vertical 1 (own a vendor) + the 2-year consolidate-and-sunset roadmap.
 
-​
-
 ## The rollout lifecycle (Snap's arc)
-
-​
 
 ```mermaid
 
@@ -28,91 +22,35 @@ flowchart LR
 
 ```
 
-​
+0. **Shadow AI**: employees paste company data into consumer chatbots. Prohibition alone fails (topic 2 lesson: shadow usage = demand signal).
 
-0. **Shadow AI**: employees paste company data into consumer chatbots. Prohibition alone
+1. **Build the sanctioned outlet** (SEAI, Q3 2024): fastest way to give a safe option; differentiator = RAG on internal docs. Build-first is about SPEED + control, not beating vendors on features.
 
-   fails (topic 2 lesson: shadow usage = demand signal).
+2. **The buy wave** (2025–26): vendors became signable — no-training-on-your-data clauses, Okta SSO/SCIM, retention controls (90-day), admin feature controls. Portfolio: chat (ChatGPT Enterprise, all FTEs), search (Glean), workspace AI (Gemini/NotebookLM/Studio), dev tools (Cursor / Claude Code 2,500 seats / Codex riding the ChatGPT contract / Copilot), pilots for the rest (Slack AI — closed, Agentspace, Agentforce, creative tools).
 
-1. **Build the sanctioned outlet** (SEAI, Q3 2024): fastest way to give a safe option;
+3. **Sprawl**: overlapping tools, seat costs, "which tool for what?" confusion (the FAQ literally has to explain SEAI vs ChatGPT), admin burden per tool (each = SSO + reviews + feature audits + comms).
 
-   differentiator = RAG on internal docs. Build-first is about SPEED + control, not beating
-
-   vendors on features.
-
-2. **The buy wave** (2025–26): vendors became signable — no-training-on-your-data clauses,
-
-   Okta SSO/SCIM, retention controls (90-day), admin feature controls. Portfolio: chat
-
-   (ChatGPT Enterprise, all FTEs), search (Glean), workspace AI (Gemini/NotebookLM/Studio),
-
-   dev tools (Cursor / Claude Code 2,500 seats / Codex riding the ChatGPT contract / Copilot),
-
-   pilots for the rest (Slack AI — closed, Agentspace, Agentforce, creative tools).
-
-3. **Sprawl**: overlapping tools, seat costs, "which tool for what?" confusion (the FAQ
-
-   literally has to explain SEAI vs ChatGPT), admin burden per tool (each = SSO + reviews +
-
-   feature audits + comms).
-
-4. **Consolidation posture**: hedge publicly ("each tool serves different needs… feedback
-
-   will guide future investments"), measure usage, sunset quietly (SEAI = obvious casualty;
-
-   SnappyBot got a buy-vs-scale evaluation), consolidate channels (#ai-general) and docs
-
-   (go/ai-docs) too. THE NEW TEAM'S 2-YEAR ROADMAP = STAGE 4 AS A MANDATE.
-
-​
+4. **Consolidation posture**: hedge publicly ("each tool serves different needs… feedback will guide future investments"), measure usage, sunset quietly (SEAI = obvious casualty; SnappyBot got a buy-vs-scale evaluation), consolidate channels (#ai-general) and docs (go/ai-docs) too. THE NEW TEAM'S 2-YEAR ROADMAP = STAGE 4 AS A MANDATE.
 
 ## What "owning a vendor" means day-to-day (vertical 1 job description)
 
-- **Feature gating cadence**: vendors ship features monthly; each needs review before
+- **Feature gating cadence**: vendors ship features monthly; each needs review before enablement. Snap's ChatGPT disabled list: chat/canvas sharing, voice, Codex-in-ChatGPT, Record, external GPT publishing, Skills, all connectors except Google Workspace; an "under review" queue behind it. A tool is a FEATURE MATRIX, not a yes/no.
 
-  enablement. Snap's ChatGPT disabled list: chat/canvas sharing, voice, Codex-in-ChatGPT,
+- **Connector veto**: ChatGPT's Drive Synced Connector FAILED Snap security review → users told to use Glean/Gemini for Drive data. Owning the vendor = power to say no per feature.
 
-  Record, external GPT publishing, Skills, all connectors except Google Workspace; an
+- **Seat & credit management**: 2,500-seat cap + waitlist + inactivity audits to reclaim; pooled credits (12,500/user/mo) + asking the vendor for better guardrails.
 
-  "under review" queue behind it. A tool is a FEATURE MATRIX, not a yes/no.
+- **Population tiers**: FTEs vs contingent workers get different defaults (Gemini default for CWs; Glean needs justification).
 
-- **Connector veto**: ChatGPT's Drive Synced Connector FAILED Snap security review → users
-
-  told to use Glean/Gemini for Drive data. Owning the vendor = power to say no per feature.
-
-- **Seat & credit management**: 2,500-seat cap + waitlist + inactivity audits to reclaim;
-
-  pooled credits (12,500/user/mo) + asking the vendor for better guardrails.
-
-- **Population tiers**: FTEs vs contingent workers get different defaults (Gemini default
-
-  for CWs; Glean needs justification).
-
-- **Usage pipeline** (topic 5) feeding renewals: usage receipts = negotiation leverage and
-
-  consolidation evidence.
+- **Usage pipeline** (topic 5) feeding renewals: usage receipts = negotiation leverage and consolidation evidence.
 
 - Escalation channel to vendor; comms + training around every change.
 
-​
-
 ## The governance stack (see diagram; bottom-up)
 
-Policy (what data where — e.g. "never put user data in any AI tool") → Identity & contracts
-
-(SSO/SCIM everywhere, no-training, retention, DPA) → Feature gating → Data protection
-
-(Glean Protect redaction, tented-space/repo exclusions, bot auto-disable with external
-
-guests, session expiry) → Process (go/ihub intake; human review of AI output before prod/
-
-external; security reviews — Cursor case: 4th-party subprocessor risk formally accepted,
-
-MDM-enforced config, Workspace Trust on) → Measurement → People & enablement.
+Policy (what data where — e.g. "never put user data in any AI tool") → Identity & contracts (SSO/SCIM everywhere, no-training, retention, DPA) → Feature gating → Data protection (Glean Protect redaction, tented-space/repo exclusions, bot auto-disable with external guests, session expiry) → Process (go/ihub intake; human review of AI output before prod/external; security reviews — Cursor case: 4th-party subprocessor risk formally accepted, MDM-enforced config, Workspace Trust on) → Measurement → People & enablement.
 
 Punchline: a tool is never just "approved" — it's admitted into every layer.
-
-​
 
 ## Adoption engineering (the soft machinery that makes rollouts stick)
 
@@ -120,47 +58,23 @@ Punchline: a tool is never just "approved" — it's admitted into every layer.
 
 - Training ladder: tool 101/201s (vendor-delivered), office hours, facilitator programs.
 
-- **Wins marketing**: #ai-wins digests, newsletters, demo forums — social proof drives
+- **Wins marketing**: #ai-wins digests, newsletters, demo forums — social proof drives adoption more than mandates.
 
-  adoption more than mandates.
+- **The AI Loop** forum: recurring "stop doing X, start doing Y" retros — rollout as an iterating product, not a launch event.
 
-- **The AI Loop** forum: recurring "stop doing X, start doing Y" retros — rollout as an
-
-  iterating product, not a launch event.
-
-- Adoption KRs (e.g. 70% dev WAU target) + "signal, not score" culture (topic 5): usage
-
-  data motivates, never punishes.
-
-​
+- Adoption KRs (e.g. 70% dev WAU target) + "signal, not score" culture (topic 5): usage data motivates, never punishes.
 
 ## The consolidation playbook (the 2-year roadmap's engine)
 
-Per overlapping tool, score: **usage receipts** (real data) × **unique capability** (what
+Per overlapping tool, score: **usage receipts** (real data) × **unique capability** (what would break?) × **contract timing** (renewals = decision windows) × **switching cost** (data export, workflow migration, retraining) → keep / scale / sunset.
 
-would break?) × **contract timing** (renewals = decision windows) × **switching cost**
+- Sunsetting is a MIGRATION PROJECT (export, workflow porting, comms, deadline), not an email announcement.
 
-(data export, workflow migration, retraining) → keep / scale / sunset.
+- Political air cover matters: CTO visibility (the new team has it) + usage receipts are what let you sunset a tool with fans.
 
-- Sunsetting is a MIGRATION PROJECT (export, workflow porting, comms, deadline), not an
+- Expect vendor gravity: LLM-vendor suites (Claude/ChatGPT enterprise) absorb adjacent tools' features every quarter (connectors ≈ search; agents/apps ≈ no-code platforms) — the roadmap's "consolidate onto Claude and OpenAI" bet.
 
-  email announcement.
-
-- Political air cover matters: CTO visibility (the new team has it) + usage receipts are
-
-  what let you sunset a tool with fans.
-
-- Expect vendor gravity: LLM-vendor suites (Claude/ChatGPT enterprise) absorb adjacent
-
-  tools' features every quarter (connectors ≈ search; agents/apps ≈ no-code platforms) —
-
-  the roadmap's "consolidate onto Claude and OpenAI" bet.
-
-- HR as main partner: owns training/comms reach into every department; HR data is also the
-
-  MOST sensitive corpus (topic 3 permissions) — trust with HR = trust with the hardest case.
-
-​
+- HR as main partner: owns training/comms reach into every department; HR data is also the MOST sensitive corpus (topic 3 permissions) — trust with HR = trust with the hardest case.
 
 ## Day-1 senior questions
 
@@ -176,39 +90,17 @@ would break?) × **contract timing** (renewals = decision windows) × **switchin
 
 6. Who are the champions/power users per department — especially in HR?
 
-​
-
 ## Recap in one breath
 
-Shadow AI → build the sanctioned outlet fast → buy the portfolio once contracts are signable
-
-(no-training, SSO/SCIM, retention) → sprawl arrives as cost, confusion, and admin burden →
-
-measure relentlessly, hedge publicly, sunset quietly — a tool is admitted into every layer
-
-of the governance stack, and consolidation runs on usage receipts, renewal windows, and
-
-air cover.
-
-​
+Shadow AI → build the sanctioned outlet fast → buy the portfolio once contracts are signable (no-training, SSO/SCIM, retention) → sprawl arrives as cost, confusion, and admin burden → measure relentlessly, hedge publicly, sunset quietly — a tool is admitted into every layer of the governance stack, and consolidation runs on usage receipts, renewal windows, and air cover.
 
 ## Self-test (answers included)
 
-- **Why hedge publicly about sunsets?** Pre-announcing kills adoption of current tools and
+- **Why hedge publicly about sunsets?** Pre-announcing kills adoption of current tools and triggers hoarding/backlash before usage data justifies the decision.
 
-  triggers hoarding/backlash before usage data justifies the decision.
+- **What makes a vendor contract "signable"?** No-training-on-your-data clause, SSO/SCIM, retention controls, per-feature admin gating.
 
-- **What makes a vendor contract "signable"?** No-training-on-your-data clause, SSO/SCIM,
-
-  retention controls, per-feature admin gating.
-
-- **Why is HR both the partner and the hardest case?** HR has training/comms reach into
-
-  every department — and the most sensitive data corpus in the company (topic 3's
-
-  permissions problem at maximum difficulty).
-
-​
+- **Why is HR both the partner and the hardest case?** HR has training/comms reach into every department — and the most sensitive data corpus in the company (topic 3's permissions problem at maximum difficulty).
 
 ## Status
 
