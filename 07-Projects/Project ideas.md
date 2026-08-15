@@ -8,6 +8,7 @@ pinned: true
 # Project ideas
 
 ### Business ideas
+- [ ] Food recall tracker
 - [ ] 3D printer marketplace for people to print stuff (shef but for 3D printers)
 - [ ] Fun game or exercise to prevent brain rot from ai takeover
 - [ ] Openworld like Minecraft, but people use AI and software to build the world - very vague idea
