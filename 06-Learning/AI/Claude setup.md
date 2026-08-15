@@ -167,3 +167,4 @@
  2. Remove AI slop - YAGNI
  3. For each PR, give me an English translation.
  4. Open PRs in draft always and I open it after I review
+5. TLDR version of PR ping -> context, problem, solution, tested cases -> one line each
