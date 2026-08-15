@@ -1,4 +1,6 @@
 ---
+status: digested
+digested: 2026-08-15
 title: "The Future is for Everyone"
 source: "https://www.meta.com/thefutureisforeveryone/?srsltid=AfmBOooQDfhx9F6o33_pkXba0TXsaVbiszEz8GvfhRYGcre8nzIHitZU"
 author:
