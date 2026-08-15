@@ -7,8 +7,9 @@ pinned: true
 
 - [ ] H1B appointment 
 - [ ] Update SSN / ITIN
-- [ ] Birthday planning
-	- [ ] Decorations 
+- [ ] Trip planning
+	- [ ] Birthday
+	- [ ] Anniversary
 	- [ ] Trip
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
