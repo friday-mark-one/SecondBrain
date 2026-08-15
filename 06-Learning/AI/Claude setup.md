@@ -158,13 +158,18 @@
  - Remove or rewrite sections that become wrong or stale rather than stacking corrections.
 
  ## Insights
- 1. Adversarial review all designs and code changes
- 2. Credential failures
- 3. Investigate the root cause, then present findings ONLY as a table: | Claim | Evidence (file:line or metric query + value) | Confidence (high/med/UNVERIFIED) |. Anything you inferred rather than observed must be marked UNVERIFIED. No prose narrative until after the table.
+1. Adversarial review all designs and code changes
+2. Credential failures
+3. Investigate the root cause, then present findings ONLY as a table: | Claim | Evidence (file:line or metric query + value) | Confidence (high/med/UNVERIFIED) |. Anything you inferred rather than observed must be marked UNVERIFIED. No prose narrative until after the table.
 
 ## More improvement ideas
- 1. Don't add a wall of comments to the code 
- 2. Remove AI slop - YAGNI
- 3. For each PR, give me an English translation.
- 4. Open PRs in draft always and I open it after I review
-5. TLDR version of PR ping -> context, problem, solution, tested cases -> one line each
+- [ ]   A cron job that reminds me what needs to be done to improve my performance at work in a cheap way possible
+    - [ ] split PRs
+    - [ ] create visibility in slack
+    - [ ] pump up metrics so it shows I'm a high performer
+- [ ] Don't add a wall of comments to the code 
+- [ ] Remove AI slop - YAGNI
+- [ ] For each PR, give me an English translation.
+- [ ] Open PRs in draft always and I open it after I review
+- [ ] TLDR version of PR ping -> context, problem, solution, tested cases -> one line each
+- [ ] Tell me what next day looks like and what to prepare before ending current day
