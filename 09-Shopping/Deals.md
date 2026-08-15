@@ -1,5 +1,25 @@
 # Deals
 
+## 2026-08-15
+- Tata Capital Wealth — "From Freedom to Financial Growth" Independence Day newsletter — expires no date — info only
+- Stanford Online — Autumn quarter enrollment open, new courses added — closes 9/6 — tuition from $4,866/unit
+- Amazon — Terms & Conditions update — expires no date — info only
+- Amazon — SDE recruiting outreach (Srivani, Seattle) — expires no date — not a deal
+- Fabletics — Your VIP Credit Just Got an Upgrade — expires no date — VIP members
+- Chase — Offer confirmed: free consultation with a J.P. Morgan advisor — expires no date — offer
+- Cinemark — Lock in tickets for AVENGERS: DOOMSDAY (in theaters 12/18) — expires no date — movie promo
+- Etsy — Four shops worth knowing this summer — expires no date — newsletter
+- LA28 — Olympics tickets: 24 hours left — expires 8/15 — official ticket sales
+- Linux Foundation — Last chance: 35% off sitewide — expires 8/18 — code TUX35
+- NerdWallet — Car insurance rate compare — expires no date — not a deal
+- Life Time — Rejoin the club: unlimited classes (Pilates, HIIT, Barre) — expires no date — membership
+- Costco — Fresh tech & living upgrades (home tech, bedding, essentials) — expires no date — member prices
+- H&M — New semester essentials (campus/dorm edit) — expires no date — no code
+- Algo Monster — "What interview-ready looks like" newsletter — expires no date — info only
+- NerdWallet — High-yield savings up to 4.10% APY — expires no date — banking
+- Bath & Body Works — $2.95 foaming hand soaps; Buy 3 Get 3 body care — expires 8/17 (soaps), 8/16 (B3G3) — no code
+- Going — Nonstop SEA→London economy 12k-18k pts + $492-506 (Sep–Jun) — expires no date — points deal
+
 ## 2026-08-14
 - Kohl's — Save 30% on active gear & more — expires no date — promo link
 - Etsy — Shop coupon: 50% off from TolentinoshopStore — expires no date — code in email
