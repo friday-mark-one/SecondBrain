@@ -1,45 +1,45 @@
 # Meal Plan — week of 2026-08-15
 
-## Sat 08-16
+## Sun 08-16
 ### Lunch
 - [[Rasam]]
 - [[Capsicum poriyal]]
 ### Dinner
 - [[Paneer Butter Masala]] (bhurji)
 
-## Sun 08-16
+## Mon 08-17
 ### Lunch
 - [[Rasam]]
 - [[Capsicum poriyal]]
 ### Dinner
 - [[Paneer Butter Masala]]
 
-## Mon 08-17
+## Tue 08-18
 ### Lunch
 - [[Rasam]]
 - Beans poriyal
 ### Dinner
 - [[Dosa]]
+- [[Sambar]]
 
-## Tue 08-18
+## Wed 08-19
 ### Lunch
 - [[Morkuzhambu]]
 - Kovakkai poriyal
 ### Dinner
 - [[Dosa]]
+- [[Sambar]]
 
-## Wed 08-19
+## Thu 08-20
 ### Lunch
 - [[Morkuzhambu]]
 - Kovakkai poriyal 
 ### Dinner
-
-## Thu 08-20
-### Lunch
-### Dinner
+- [[Creamy Mushroom]]
 SURPRISE dinner by kutti
 
 ## Fri 08-21
 ### Lunch
+Varalakshmi vratham
 ### Dinner
 Date night
