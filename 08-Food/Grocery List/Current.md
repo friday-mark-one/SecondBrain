@@ -16,18 +16,18 @@
 ## Fred Meyer
 - [x] [[Tomato]]
 - [ ] [[Cilantro]]
-- [ ] [[Capsicum]]
-- [ ] [[Onion]]
-- [ ] [[Ginger]]
+- [x] [[Capsicum]]
+- [x] [[Onion]]
+- [x] [[Ginger]]
 - [x] [[Sugar]]
 - [x] [[Carrot]]
-- [ ] [[Baby bella mushrooms]]
+- [x] [[Baby bella mushrooms]]
 - [x] [[Italian seasoning]]
 - [x] [[Basil leaves]]
 - [x] [[Heavy whipping cream]]
-- [ ] [[Parmesan cheese]]
+- [x] [[Parmesan cheese]]
 - [ ] [[Bread]]
-- [ ] [[Beans]]
+- [x] [[Beans]]
 - [ ] [[Vanilla extract]]
 
 ## Indian Store
@@ -58,7 +58,7 @@
 - [x] [[Coconut]]
 - [x] [[Turmeric]]
 - [x] [[Kovakkai]]
-- [ ] [[Rusk]]
+- [x] [[Rusk]]
 
 ## ⚠️ Missing item note
 - [x] [[Mustard seeds]]
