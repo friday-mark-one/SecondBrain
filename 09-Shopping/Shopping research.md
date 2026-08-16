@@ -23,6 +23,3 @@ pinned: true
 - [ ] Skiing bag
 - [ ] Clothes iron stand
 - [ ] Seitan
-
-
-[[Shopping Tracker]]

@@ -22,6 +22,3 @@ pinned: true
 
 ### Fabletics
 - [ ] 
-
-
-[[Shopping Tracker]]
