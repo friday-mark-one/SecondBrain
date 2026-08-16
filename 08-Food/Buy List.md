@@ -21,3 +21,6 @@ Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
 - [ ] [[Milk]]
 - [ ] [[Roti]]
+- [ ] [[Tofu]]
+- [ ] [[Seitan]]
+- [ ] [[Tempeh]]
