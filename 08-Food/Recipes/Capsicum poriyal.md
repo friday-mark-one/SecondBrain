@@ -8,11 +8,10 @@ fodmap_friendly: false
 ## Ingredients
 - [[Groundnut oil]] | 2 tsp
 - [[Mustard seeds]] | ½ tsp
-- [[Chana dal]] | 1 tsp
-- [[Asafoetida]] | a pinch
-- [[Green chili]] | or dry red chili, as per requirement
-- [[Vegetables]] | cut, of choice
-- [[Salt]] | to taste
+- [[Channa dal]] | 1 tsp
+- [[Asafotida]] | a pinch
+- [[Green chilli]] | or dry red chili, as per requirement
+- [[Capsicum]] | cut, of choice
 - [[Curry powder]] | as required
 - [[Capsicum]] | 1
 
