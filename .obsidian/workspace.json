@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Learning/AI/Claude setup.md",
+                "file": "03-Career/Mira/Careers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Claude setup"
+              "title": "Careers"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Learning/AI/Claude setup.md",
+                "file": "03-Career/Mira/Careers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,11 +235,13 @@
   },
   "active": "c59c821c7d19efd0",
   "lastOpenFiles": [
+    "03-Career/Mira/Interview notes.md",
+    "03-Career/Mira/Careers.md",
+    "06-Learning/AI/Claude setup.md",
     "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
     "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
     "03-Career/Snap/Enterprise AI tutorial/06-topic4-llm-serving.md",
     "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
-    "06-Learning/AI/Claude setup.md",
     "00-Dashboard/Home.md",
     "80-LifeOS/logs/08-16-26.md",
     "08-Food/Archive/2026-08-15 Grocery List.md",
@@ -259,10 +261,8 @@
     "80-LifeOS/logs/08-15-26.md",
     "08-Food/Archive/2026-08-14 Meal Plan.md",
     "08-Food/Archive/2026-08-14 Grocery List.md",
-    "03-Career/Snap/Enterprise AI tutorial/Untitled.md",
     "03-Career/Snap/Enterprise AI tutorial",
     "03-Career/Snap/Untitled",
-    "80-LifeOS/logs/08-14-26.md",
     "06-Learning/AI",
     "06-Learning/Untitled",
     "03-Career/Mira",
