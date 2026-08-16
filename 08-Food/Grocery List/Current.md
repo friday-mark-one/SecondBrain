@@ -28,7 +28,7 @@
 - [x] [[Parmesan cheese]]
 - [ ] [[Bread]]
 - [x] [[Beans]]
-- [ ] [[Vanilla extract]]
+- [x] [[Vanilla extract]]
 
 ## Indian Store
 - [x] [[Tamarind paste]]
