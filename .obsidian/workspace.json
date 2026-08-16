@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
+                "file": "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07-topic7-agents-vibe-coding"
+              "title": "08-topic1-enterprise-rollout"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "Claude setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
+                "file": "06-Learning/AI/Claude setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,8 +233,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c59c821c7d19efd0",
   "lastOpenFiles": [
+    "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
+    "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
     "03-Career/Snap/Enterprise AI tutorial/06-topic4-llm-serving.md",
     "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
     "06-Learning/AI/Claude setup.md",
@@ -252,8 +255,6 @@
     "03-Career/Snap/Enterprise AI tutorial/03-topic3-rag.md",
     "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
     "03-Career/Snap/Enterprise AI tutorial/01-topic0-cloud-infra-notes.md",
-    "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
-    "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
     "03-Career/Snap/Enterprise AI tutorial/00-curriculum-and-resources.md",
     "80-LifeOS/logs/08-15-26.md",
     "08-Food/Archive/2026-08-14 Meal Plan.md",
