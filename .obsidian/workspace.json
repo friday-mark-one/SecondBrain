@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80-LifeOS/Capture instructions.md",
+                "file": "80-LifeOS/logs/2026-07-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Capture instructions"
+              "title": "2026-07-28"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80-LifeOS/Capture instructions.md",
+                "file": "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,8 +232,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c59c821c7d19efd0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "80-LifeOS/logs/2026-07-28.md",
+    "80-LifeOS/logs/08-08-26.md",
+    "80-LifeOS/logs/07-22-26.md",
+    "80-LifeOS/logs/07-10-26.md",
+    "80-LifeOS/logs/07-05-26.md",
+    "80-LifeOS/logs/06-28-26.md",
+    "80-LifeOS/logs/05-31-26.md",
+    "80-LifeOS/logs/08-16-26.md",
+    "80-LifeOS/Capture instructions.md",
     "03-Career/Mira/Careers.md",
     "03-Career/Mira/Interview notes.md",
     "06-Learning/AI/Claude setup.md",
@@ -243,7 +251,6 @@
     "03-Career/Snap/Enterprise AI tutorial/06-topic4-llm-serving.md",
     "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
     "00-Dashboard/Home.md",
-    "80-LifeOS/logs/08-16-26.md",
     "08-Food/Archive/2026-08-15 Grocery List.md",
     "08-Food/Archive/2026-08-15 Buy List Bought.md",
     "08-Food/Items/Vanilla extract.md",
@@ -253,14 +260,6 @@
     "08-Food/Grocery List/Current.md",
     "Shopping Tracker.md",
     "07-Projects/Project ideas.md",
-    "03-Career/Snap/Enterprise AI tutorial/04-topic5-observability.md",
-    "03-Career/Snap/Enterprise AI tutorial/03-topic3-rag.md",
-    "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
-    "03-Career/Snap/Enterprise AI tutorial/01-topic0-cloud-infra-notes.md",
-    "03-Career/Snap/Enterprise AI tutorial/00-curriculum-and-resources.md",
-    "80-LifeOS/logs/08-15-26.md",
-    "08-Food/Archive/2026-08-14 Meal Plan.md",
-    "08-Food/Archive/2026-08-14 Grocery List.md",
     "03-Career/Snap/Enterprise AI tutorial",
     "03-Career/Snap/Untitled",
     "06-Learning/AI",
