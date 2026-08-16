@@ -4,7 +4,7 @@
 - [x] [[Tomato]] — Rasam (1, boiled & smashed) ×3, Paneer Butter Masala (3-4) ×2
 - [x] [[Toor Dal]] — Rasam (~100 ml dal water) ×3, Sambar (¾ cup, cooked) ×2, Morkuzhambu (2 tsp, soaked) ×2
 - [x] [[Ghee]] — Rasam (for tadka) ×3
-- [ ] [[Paneer]] — Paneer Butter Masala (soaked, cubed) ×2, One-off (200g (about 7 oz))
+- [x] [[Paneer]] — Paneer Butter Masala (soaked, cubed) ×2, One-off (200g (about 7 oz))
 - [x] [[Cashews]] — Paneer Butter Masala (5-7) ×2
 - [x] [[Salted butter]] — Paneer Butter Masala (for cooking) ×2, Creamy Mushroom (2 tbsp)
 - [x] [[Coconut oil]] — Morkuzhambu (for tadka) ×2
@@ -15,7 +15,7 @@
 
 ## Fred Meyer
 - [x] [[Tomato]] — Rasam (1, boiled & smashed) ×3, Paneer Butter Masala (3-4) ×2
-- [ ] [[Cilantro]] — Rasam (to garnish) ×3, Sambar (to garnish) ×2, Morkuzhambu (few) ×2
+- [x] [[Cilantro]] — Rasam (to garnish) ×3, Sambar (to garnish) ×2, Morkuzhambu (few) ×2
 - [x] [[Capsicum]] — Capsicum poriyal (cut, of choice) ×2, Capsicum poriyal (1) ×2
 - [x] [[Onion]] — Paneer Butter Masala (1) ×2, Dosa (½, to rub on the griddle) ×2, One-off (3 large yellow)
 - [x] [[Ginger]] — Paneer Butter Masala (1 inch) ×2, Morkuzhambu (small piece) ×2

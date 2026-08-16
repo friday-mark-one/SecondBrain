@@ -4,5 +4,5 @@ store: Fred Meyer
 category: 
 shelf_life_days: 30
 heads_up_days: 3
-expires: 2026-09-13
+expires: 2026-09-14
 ---
