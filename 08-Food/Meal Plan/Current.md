@@ -1,6 +1,6 @@
 # Meal Plan — week of 2026-08-15
 
-## Sat 08-15
+## Sat 08-16
 ### Lunch
 - [[Rasam]]
 - [[Capsicum poriyal]]
