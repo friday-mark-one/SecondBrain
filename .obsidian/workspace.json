@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Career/Mira/Careers.md",
+                "file": "80-LifeOS/Capture instructions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Careers"
+              "title": "Capture instructions"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Career/Mira/Careers.md",
+                "file": "80-LifeOS/Capture instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,8 +235,8 @@
   },
   "active": "c59c821c7d19efd0",
   "lastOpenFiles": [
-    "03-Career/Mira/Interview notes.md",
     "03-Career/Mira/Careers.md",
+    "03-Career/Mira/Interview notes.md",
     "06-Learning/AI/Claude setup.md",
     "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
     "03-Career/Snap/Enterprise AI tutorial/07-topic7-agents-vibe-coding.md",
