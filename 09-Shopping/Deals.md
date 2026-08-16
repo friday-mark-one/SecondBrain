@@ -1,5 +1,15 @@
 # Deals
 
+## 2026-08-16
+- H&M — 15% or 20% off all weekend — expires 8/16 — no code
+- Costco — Treasure Hunt weekly: Bosch espresso $749.99, Novaform mattress $779.99 after $200 off, Lucille's $100 eGift for $50 — no date — member only
+- NerdWallet — $500 checking account bonus (Washington banks) — no date — sign-up offers roundup
+- Going — Elite half off (biggest sale of the year, extended 1 day) — expires 8/16 — flight deal alerts
+- Algo Monster — Pro Lifetime $189 (50% off; $170.10 w/ code LEARNPATTERNS) — expires 8/16 11:59pm ET — code LEARNPATTERNS
+- Bath & Body Works — All single wick candles $5.95 (code GLOWFAR), foaming hand soaps $2.95, Halloween 50% off — expires 8/16 today only — code GLOWFAR 🔔 [[Gift ideas]]
+- Kohl's — Intimates 30% off + Kohl's Cash; up to 40% off activewear & shoes — no date — no code
+- Grok — SuperGrok 50% off first 2 months — no date — limited-time
+
 ## 2026-08-15
 - Tata Capital Wealth — "From Freedom to Financial Growth" Independence Day newsletter — expires no date — info only
 - Stanford Online — Autumn quarter enrollment open, new courses added — closes 9/6 — tuition from $4,866/unit
