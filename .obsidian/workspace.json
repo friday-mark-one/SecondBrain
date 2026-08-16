@@ -55,7 +55,8 @@
               "title": "Claude setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
+                "file": "06-Learning/AI/Claude setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,8 +234,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c59c821c7d19efd0",
   "lastOpenFiles": [
+    "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
     "80-LifeOS/logs/08-16-26.md",
     "08-Food/Archive/2026-08-15 Grocery List.md",
     "08-Food/Archive/2026-08-15 Buy List Bought.md",
@@ -246,7 +248,6 @@
     "Shopping Tracker.md",
     "06-Learning/AI/Claude setup.md",
     "07-Projects/Project ideas.md",
-    "03-Career/Snap/Enterprise AI tutorial/05-topic6-data-pipeline.md",
     "03-Career/Snap/Enterprise AI tutorial/04-topic5-observability.md",
     "03-Career/Snap/Enterprise AI tutorial/03-topic3-rag.md",
     "03-Career/Snap/Enterprise AI tutorial/02-topic2-mcp.md",
