@@ -5,15 +5,6 @@ Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`)
 checked items automatically; unchecked ones stay for next time.
 
 - [ ] [[Paper towel]]
-- [ ] [[Onion]] | 3 large yellow
-- [ ] [[Garlic]] | 1 whole head (for roasting)
-- [ ] [[Garlic]] | 7-8 loose cloves
-- [ ] [[Paneer]] | 200g (about 7 oz)
-- [ ] [[Beans]] | frozen
-- [ ] [[Kovakkai]]
-- [ ] [[Rusk]]
-- [ ] [[Skimmed milk]]
-- [ ] [[Vanilla extract]]
 
 ## Regulars
 
