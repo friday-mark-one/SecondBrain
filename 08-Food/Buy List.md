@@ -5,6 +5,7 @@ Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`)
 checked items automatically; unchecked ones stay for next time.
 
 - [ ] [[Paper towel]]
+- [ ] [[Dishwashing liquid]]
 
 ## Regulars
 
