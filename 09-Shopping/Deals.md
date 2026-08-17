@@ -1,5 +1,20 @@
 # Deals
 
+## 2026-08-17
+- Costco — weekly warehouse insider roundup — no date — in-store featured items
+- Best Buy Visa (Citi) — promotional APR offer — expires 9/4/2026 — activate promo APR
+- Daily Harvest — $30 off Best Sellers Bundle (14 smoothies/oat bowls) — expires 8/16 — no subscription needed
+- Fabletics — Pure Run Performance collection unlocked — no date — new run gear
+- NerdWallet — car insurance cost calculator — no date — informational
+- MOD Pizza — kids eat free every Sunday w/ MOD-size pizza or salad — expires 12/31/2026 — ages 12 & under, no limit
+- H&M — 15% off $75+ / 20% off $100+ — expires 8/16 — online only
+- Costco — home promo: comfort, smart tech & seasonal home items — no date — Elevate Every Room
+- Etsy — inspiration email, custom photo gifts picks — no date — no specific offer
+- UNiDAYS — Sunday treat: student deals (10% off, Uber Eats $10x3, 20% sitewide, BOGO vitamins) — no date — student verification needed
+- Going — Elite flight deals 51% off ($97/yr, reg $199) — expires 8/16 — code SUMMER51
+- Huel — Digest Editorial #228 (nutrition content) — no date — editorial, no offer
+- Kohl's — extra savings + Kohl's Cash earn — expires 8/16 — 5% rewards on card
+
 ## 2026-08-16
 - H&M — 15% or 20% off all weekend — expires 8/16 — no code
 - Costco — Treasure Hunt weekly: Bosch espresso $749.99, Novaform mattress $779.99 after $200 off, Lucille's $100 eGift for $50 — no date — member only
