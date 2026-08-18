@@ -1,5 +1,53 @@
 # News
 
+## 2026-08-18
+
+# News
+
+## 2026-08-18
+
+## AI & Models
+
+- [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/?utm_source=tldrdev) — OpenAI's GPT-5.6 lineup, particularly the Sol model, shows major vision gains with improved object detection and counting over GPT-5.5. It still faces cost, latency, and occasional detection errors. (TLDR Dev)
+- [State of open models: summer 2026 observations](https://huggingface.co/blog/state-of-open-models-summer-2026?utm_source=tldrdev) — Chinese labs now set the open-model size ceiling, yet downloads still go overwhelmingly to small, years-old models. Qwen is the community's default base model with 151,448 derivatives; the runtime layer grows far faster than the modeling core, letting trillion-parameter models run locally via llama.cpp. Agents are now the Hub's top user, with their traffic share swinging wildly month to month. (TLDR Dev)
+- [Red Agent exploits Snowflake vuln missed by GitHub Copilot](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug?utm_source=tldrdev) — Wiz Red Agent autonomously identified and exploited a critical GitHub Actions vulnerability in Snowflake's public repository, reaching sensitive internal Jira data just five days after the flaw appeared. It highlights how AI-assisted coding tools can introduce vulnerabilities that automated security agents quickly find. (TLDR Dev)
+- [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing?utm_source=tldrdev) — Anthropic's text watermarking subtly biases word choices to comply with EU regulations, and is criticized for prioritizing detection over the quality and integrity of generated writing. (TLDR Dev)
+- [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/?utm_source=tldrdev) — A powerful yet slow vision-capable model that over-analyzes prompts by default; adjusting its reasoning settings yields more efficient outputs. (TLDR Dev)
+
+## Big Tech & Startups
+
+- [Tesla Cybercab launch preparations have begun](https://www.teslarati.com/tesla-cybercab-launch-preparations-have-begun/#google_vignette?utm_source=tldrnewsletter) — Tesla plans to launch the Cybercab in Austin, Texas as soon as the end of this month. Employees have been told to prepare, a lottery will pick riders for the launch event, and the vehicle has been in production since April with testing across US environments and climates. (TLDR)
+- [Google just bought a bunch of Spirit Airlines data for AI training](https://9to5google.com/2026/08/17/google-just-bought-a-bunch-of-spirit-airlines-data-for-ai-training/?utm_source=tldrnewsletter) — Google paid $10 million for a huge dump of operations, business, and software code data from the defunct Spirit Airlines — no personal information, which a third party will rigorously scrub before receipt. The data will improve Google's products and AI models. (TLDR)
+- [Anthropic tells investors annualized revenue run rate climbed to $65 billion in July](https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html?utm_source=tldrnewsletter) — Anthropic's run rate hit $65B at the end of July as enterprise popularity surges ahead of an expected blockbuster IPO. It filed its prospectus with the SEC in June and has held preliminary investor meetings; no official debut timeline yet. (TLDR)
+- [AI usage patterns in software teams (How teams build)](https://linear.app/data?utm_source=tldrnewsletter) — Tens of thousands of teams build inside Linear daily, giving the company a full view of product-building workflows. AI adoption has risen across functions with executive engagement, coding agents dramatically increasing output, and a trend of non-engineers getting involved in coding and product development. (TLDR, TLDR Dev)
+
+## Research & Science
+
+- [Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/?utm_source=tldrnewsletter) — Startup 1872, founded by three ex-SpaceX engineers, aims to automate most of the steel fabrication process for critical infrastructure components by 2027, targeting suppliers for AI data centers and small modular nuclear reactors. It starts with rectangular steel skids. (TLDR)
+- [Clinic-in-the-loop](https://press.asimov.com/articles/clinic-loop?utm_source=tldrnewsletter) — Faster clinical testing creates a feedback loop: ideas become trials that generate rich data, which improves data models, which inform the next generation of ideas. Even failed trials are useful; optimizing trial efficiency is about learning fast enough to make success more likely. (TLDR)
+- [Waymo vs Tesla: two ways to build self-driving cars](https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build?utm_source=tldrnewsletter) — Both approaches lean heavily on machine learning but differ in how much is fixed in advance. Waymo reports 220.6 million rider-only miles while almost all of Tesla's miles have a responsible driver behind the wheel. (TLDR)
+
+## Programming & Dev Tools
+
+- [Origin code hosting](https://cursor.com/changelog/origin-code-hosting?utm_source=tldrdev) — Cursor now hosts code through Origin, built for agent scale: repositories, pull requests, code browsing, and real-time GitHub sync, with deployment/CI integrations like Vercel, Depot, and Buildkite. Rolling out in early beta to all paid plan users (enterprise admins can opt out). (TLDR Dev, TLDR)
+- [How to ship a database every day](https://turbopuffer.com/blog/control-plane?utm_source=tldrdev) — A local state machine in each turbopuffer cluster lets it operate autonomously without direct control-plane access. A custom API and user-friendly dashboard manage over 100 database clusters with rapid, multiple daily deployments and fleet operations. (TLDR Dev)
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/?utm_source=tldrdev) — Bluesky hides its logo during normal app use but shows it in screenshots by using a UITextField whose property masks content when a screenshot is taken, exploiting iOS's snapshot-at-gesture-start behavior. (TLDR Dev)
+- [Cut your Fastify log volume with LogController](https://backend.cafe/million-log-lines-a-month?utm_source=tldrdev) — A health check polled every 5 seconds produces over a million log lines a month; Fastify has two built-in fixes: registering noisy routes in a plugin with `logLevel: 'silent'`, or subclassing LogController to override only the methods you care about. (TLDR Dev)
+- [Hunk](https://github.com/modem-dev/hunk?utm_source=tldrdev) — A terminal-based diff viewer focused on interactivity and agent-assisted features, with inline AI annotations, responsive layouts, and integration with popular version control systems via configurable extensions. (TLDR Dev)
+- [A simple fix for LLM tail latency](https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/?utm_source=tldrdev) — For real-time LLM apps, sending each request twice for faster responses beats paying for a more expensive priority service tier. (TLDR Dev)
+- [Ask HN: alternatives to GitHub](https://news.ycombinator.com/item?id=49331033&utm_source=tldrdev) — Growing interest in code-hosting alternatives after GitHub's recent consistent outages. (TLDR Dev)
+- [Your CI should be disposable](https://oppi.li/posts/disposable_ci/?utm_source=tldrnewsletter) — CIs have one job: scheduling. (TLDR)
+
+## Opinion & Industry
+
+- [The benchmarkpocalypse](https://danluu.com/benchpocalypse/?utm_source=tldrnewsletter) — It is now easier than ever to reward-hack a benchmark and fabricate fake performance gains. (TLDR)
+- [AI;DR (AI; didn't read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read?utm_source=tldrdev) — As unedited AI-generated content proliferates, AI;DR has emerged as a way to dismiss it; a new policy emphasizes reviewing and editing AI output to keep quality and human touch in communication. (TLDR Dev)
+- [Help peer](https://www.seangoedecke.com/help-peer/?utm_source=tldrnewsletter) — Modern AI research teams are full of people who believe they're building an artificial God, but in reality they're building beings that are superhuman yet fallible, each with their own interests and vulnerable to the same race-to-the-bottom dynamics as humans. (TLDR)
+- [TBM 437: tokens, hours, points, and other curious proxies](https://cutlefish.substack.com/p/tbm-437-tokens-hours-points-and-other?utm_source=tldrnewsletter) — AI introduces genuinely new twists on measuring ROI, but it still hinges on a theory of value. (TLDR)
+- [How I use AI in 2026 (coding, writing, learning, assistant-ing)](https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing?utm_source=tldrnewsletter) — One of the best ways to learn effective AI use is seeing how power users employ these technologies. (TLDR)
+- [Intriguing stories in computer science](https://inventwithpython.com/blog/intriguing-stories-in-cs.html?utm_source=tldrdev) — A compilation of anecdotes and lessons from CS and software history showing both notable successes and critical failures. (TLDR Dev)
+- [A good move is constructive](https://www.davesresearch.com/good-move-constructive/?utm_source=tldrnewsletter) — Every good move in the product game creates strategic possibility. (TLDR)
+
 ## 2026-08-17
 
 ## AI & Models
