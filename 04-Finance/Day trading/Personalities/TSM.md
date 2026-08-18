@@ -14,7 +14,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-08-18 — Trades on AI demand and the foundry cycle; new swing factor: AI-spending fears are hitting foundries (TSM slid >4% despite +45% revenue surge; peers UMC -7%, Tower -10%, GFS -7%)
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -23,3 +23,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-30 — AUTO: +7.6% day (≥2× its typical range); opening gap +4.8%. Headlines: Intel Scores Needed Win, But Bigger Test Remains | Lam Research Stock Soars 18.9% on $8.1 Billion AI Forecast | TSMC's next AI chip move sends Intel stock soaring
 - 2026-07-31 — AUTO: opening gap +4.0%. Headlines: 1 AI Stock I’d Buy Before It Hits Another All-Time High | AI’s Biggest Winners Today Will Share the Spotlight as Technology Spreads Across the Entire Market | Why Apple Needs Intel to Overcome Supply Worries
 - 2026-08-12 — AUTO: crossed above its 50d average. Headlines: TSMC Stock Rises 2.2% as $4.69 Billion Sony Venture Launches | Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three | ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says it Can Keep Up With the AI Boom
+- 2026-08-18 — AUTO: opening gap -3.2%; crossed below its 50d average. Headlines: TSMC Stock Slides Over 4% Despite 45% Revenue Surge | United Microelectronics Falls 7%, Tower Semiconductor Sinks 10%, GlobalFoundries Drops 7% as AI Spending Fears Hit Foundries | Famous Billionaires Were Rushing to Buy Taiwan Semiconductor (TSM). Here’s Why
