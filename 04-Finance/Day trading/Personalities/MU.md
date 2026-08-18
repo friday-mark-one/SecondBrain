@@ -17,6 +17,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-31 — Trades on memory/HBM supply-demand; the AI memory-shortage supercycle (Samsung warning through 2028, Cook's '100-year flood') is the swing factor, though the rebound still faces resistance
 - 2026-08-03 — New bear hook: Apple testing Chinese memory chips (CXMT) puts a China-competition discount on the shortage-supercycle thesis — China fears now swing it alongside HBM supply-demand
 - 2026-08-06 — New demand-side hook: NVDA reportedly weighing lower-memory Rubin Ultra GPU designs to ease the HBM bottleneck — a potential headwind to the AI memory-demand supercycle, joining the China-supply concern as a swing factor
+- 2026-08-18 — New bear hook: the AI memory trade is reversing — MU crashed ~7% as the memory trade unwound on the bond sell-off ('bears back in control'); reversal fears now swing it alongside HBM supply-demand
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -31,3 +32,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-06 — AUTO: opening gap -5.6%. Headlines: Micron & 2 Profitable Stocks Smart Investors Are Buying in August | NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron | Micron Pares Most of Its Losses Even as Other Memory Stocks Reel
 - 2026-08-12 — AUTO: opening gap +5.1%. Headlines: AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro | Apple’s CXMT Bet Could Strengthen Its Memory Supply, But Risks Remain | Samsung Sends Fresh Signal to Micron Investors
 - 2026-08-14 — AUTO: opening gap +3.1%; crossed above its 50d average. Headlines: The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea | Marvell Technology, MACOM, Micron, Western Digital, and Semtech Shares Skyrocket, What You Need To Know | Micron Stock Jumps 2.1% as Memory Pricing Tightens Again
+- 2026-08-18 — AUTO: opening gap -5.4%; crossed below its 50d average. Headlines: Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Global bond sell-off pressures stocks: AlphaCheck | Micron Stock Crashes 7% as AI Memory Trade Suddenly Reverses
