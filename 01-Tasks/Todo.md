@@ -33,3 +33,4 @@ pinned: true
 - [ ] GTA V
 - [ ] Restring rackets
 - [ ] TreasuryDirect mail
+- [ ] Clean the bathroom
