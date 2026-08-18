@@ -1,5 +1,22 @@
 # Deals
 
+## 2026-08-18
+- Educative — CCAR-P (Claude Certified Architect) prep course — no date — course promo
+- CardPointers — extension auto-adds bank card offers — no date — app promo
+- Going — Hawaii deals (HNL $517 nonstop PAE, OGG $562, LIH $599) — expires 2-3 days — flight deals
+- Going — Hawaii (OGG $290, LIH $313 from SEA) — book within 1-2 days — Sep-Dec 2026
+- Going — Stockholm $436 roundtrip from SEA — book within 2-3 days — Jan-Feb 2027 (Icelandair)
+- Fabletics — personalized picks, no promo — no date — VIP membership
+- NerdWallet — car insurance shopping reminder — no date — info
+- Club Pilates — referral contest, win $5,000 — expires 9/16 — refer via app/portal
+- Costco — Gaming laptops & PCs sale (laptops from $999.99, desktops from $1,399.99) — expires 8/23 — while supplies last
+- Life Time — membership with summer pricing — no date — Bellevue club
+- NerdWallet — personal loan pre-qualification — no date — info
+- Lumosity — Premium 35% off — no date — code NEWSLETTER-35-26
+- H&M — City chic tops & dresses $22.99-$39.99 — no date — new arrivals
+- Going — In the Know: top airports for deals; Rosetta Stone 20% off (sponsored) — no date — newsletter
+- Kohl's — Fall home + back-to-school sale — no date — coupons on qualifying brands
+
 ## 2026-08-17
 - Costco — weekly warehouse insider roundup — no date — in-store featured items
 - Best Buy Visa (Citi) — promotional APR offer — expires 9/4/2026 — activate promo APR
