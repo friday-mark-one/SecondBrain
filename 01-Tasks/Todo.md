@@ -6,7 +6,7 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
-- [ ] Add Mira to Friday 
+- [ ] Fix Google home automations 
 - [ ] Update SSN / ITIN
 - [ ] Trip planning
 	- [ ] Birthday
