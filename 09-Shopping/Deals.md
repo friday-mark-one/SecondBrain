@@ -1,5 +1,35 @@
 # Deals
 
+## 2026-08-19
+- Kohl's — Save up to 40% during Back-to-School Sale + Intimates Sale — no date — kohls.com
+- Buy Nothing Project — newsletter: buy-nothing wedding tips — no date — newsletter
+- NerdWallet — auto insurance comparison, save up to $1,079/yr — no date — info
+- Chase — up to $1,000 cash bonus on new J.P. Morgan Self-Directed Investing account — no date — open & fund; terms apply
+- Apple Card — $300 bonus with new Apple Card — expires 8/31 — spend $1,500 in first 60 days
+- Etsy — ocean/aqua vibe gift inspiration — no date — no specific offer
+- Going — Scandinavia roundtrip $443-$593 (Oct-May) — book within ~2 days — flight deals
+- Cinemark — Mutiny opens in theatres 8/21 — no date — movie spotlight
+- Xfinity — what's new on Xfinity.com — no date — newsletter
+- Going — Denver ski season nonstop $267 (Sep-Feb) — book within ~2 days — flight deals
+- H&M — SANTOS BRAVOS collection live 12pm PST — no date — new arrivals
+- PointsYeah — Business class to Europe from 50k pts; Chase 20% Aeroplan transfer bonus — no date — points deals
+- Aroma Restaurant — coupon when you text JOIN to (833) 605-4560 — no date — text marketing signup
+- Cinemark — Dune: Part Three tickets on sale (XD/D-BOX/IMAX/70mm); early access 12/15, opens 12/18 — no date — tickets now
+- Lake Washington Dermatology — Evening of Beauty event — no date — event promo
+- UNiDAYS — 20% off fashion (Cotton On) + new-semester student offers — limited time — student verification
+- H&M — tennis look new arrivals — no date — new arrivals
+- Going — Borneo/Sabah roundtrip $931 (Aug-Nov / Jan-Mar) — book within ~2 days — flight deals
+- Kohl's — Intimates Sale stock-up — no date — kohls.com
+- Huel — new launches, save on new products — no date — new products
+- Fabletics — denim surprise deal — no date — VIP members
+- Going — Top airports for points deals — no date — newsletter
+- NerdWallet — high-yield savings up to 4.10% APY — no date — info
+- evo — HSA/FSA-eligible gear — no date — pay with HSA/FSA
+- Bath & Body Works — new fall fragrance — no date — new arrivals
+- The Leela Palace — Massimo Bottura culinary event — no date — dining event
+- Club Pilates Bothell — no enrollment fee, save up to $149 — limited time
+- Best Buy Visa (Citi) — 60th Anniversary Sale: 5% back in rewards or up to 18-mo financing — expires 9/7/26 — minimums apply
+
 ## 2026-08-18
 - Educative — CCAR-P (Claude Certified Architect) prep course — no date — course promo
 - CardPointers — extension auto-adds bank card offers — no date — app promo
