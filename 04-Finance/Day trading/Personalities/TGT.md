@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - (add what this name trades on)
 - 2026-08-03 — Policy is now a swing factor: Supreme Court tariff ruling (up to $175B in refunds) is a tailwind for import-heavy retailers — tariff news moves it alongside retail/consumer sentiment
+- 2026-08-19 — Earnings day (Q2): raised sales guidance — the turnaround/guidance trajectory is now a live swing factor alongside tariff policy, with retail-sector read-throughs (Walmart's outlook) moving it
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -30,3 +31,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-11 — AUTO: new 52-week high. Headlines: Target names first chief AI officer Chandhu Nair | Target Turnaround Gains Traction, Guidance Raise Possible, Oppenheimer Says | Are Costco's July Sales Solid Enough to Justify Its Premium Valuation?
 - 2026-08-12 — AUTO: new 52-week high. Headlines: Why consumers are still spending despite uncertainty and who's spending most | EBAY Stock: Where Compounding Could Take The Price | AOC documents her egg-freezing journey on Instagram, sharing costs that can hit $20,000 per cycle
 - 2026-08-13 — AUTO: new 52-week high. Headlines: Should You Buy Target Stock Before Aug. 19? | Costco Is Priced Like The Best Of Its Group. Is It? | Walmart, Tesla, FedEx, and More Winners and Losers From Shipping’s Rough Seas
+- 2026-08-19 — AUTO: opening gap -3.1%; new 52-week high. Headlines: If Walmart doesn't raise its outlook, the stock will fall: CFRA Research | Target raises sales guidance: A closer look at retail earnings so far | Target and Lowe's earnings, Fed meeting minutes: What to Watch
