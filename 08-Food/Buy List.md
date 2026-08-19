@@ -8,6 +8,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Toilet paper]]
 - [ ] [[Body wash]]
 - [ ] [[Dishwashing liquid]]
+- [ ] [[Greek Yogurt]]
 
 ## Regulars
 
