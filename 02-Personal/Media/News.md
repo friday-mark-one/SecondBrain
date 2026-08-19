@@ -1,5 +1,56 @@
 # News
 
+## 2026-08-19
+
+## AI & Models
+
+- [GLM-5.3 hits the API at $1.4/$4.4 per million tokens](https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens?utm_source=tldrai) — Z.ai's GLM-5.3 is live with pricing unchanged from 5.2, so developers get substantially stronger coding and long-horizon agent performance at no extra cost. Weights will be open, but no release date yet. (TLDR AI)
+- [The new American AI model designed to be customized](https://blog.bytebytego.com/p/the-new-american-ai-model-designed?utm_source=tldrai) — Thinking Machines released Inkling in July, its first from-scratch model, with Apache 2.0 weights on Hugging Face. Deep dive covers architecture, position encoding, images/audio entering without a separately pretrained encoder, and the thinking-effort setting. (TLDR AI)
+- [Birds don't fly like planes. Neither does AI.](https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/?utm_source=tldrai) — Local models like Qwen3.8-27B outperform larger cloud models like GLM-5.2 despite being smaller, because they rely on reasoning over memorization. (TLDR AI)
+- [Miles v0.1: production-level post-training](https://www.lmsys.org/blog/2026-08-18-miles-v0-1?utm_source=tldrai) — Open system for improving AI agents via reinforcement learning after initial training: many copies attempt tasks in isolated environments, results are scored and fed back, and the updated model is redistributed without stopping the pipeline. Packages rollout, sandboxing, async training, replay, and multi-hardware pieces. (TLDR AI)
+
+## AI Hardware
+
+- [Cerebras says its new computer boosts AI speed advantage over Nvidia](https://links.tldrnewsletter.com/gB02dq) — The CS-4 is multiple times faster than its predecessor, which Cerebras already claims is more responsive than Nvidia-based systems. Currently being sampled by a small group of customers; wider availability in Q3. (TLDR AI)
+- [FreeToken: efficient edge-native MoE serving](https://arxiv.org/abs/2608.16157?utm_source=tldrai) — Continuously remaps experts, model state, CPU/GPU work, and agent-state reuse to whatever bandwidth/memory a personal machine actually has. Supports 20+ MoE models, from 35B on an 8GB laptop GPU to a 753B GLM on one workstation GPU. (TLDR AI)
+
+## Big Tech & Startups
+
+- [OpenAI rewrites safety framework as largest training run stays paused](https://www.implicator.ai/openai-safety-framework-frontier-training-paused/?utm_source=tldrnewsletter) — OpenAI temporarily slowed frontier scaling and paused its largest planned RL run plus some Astra/cyber workloads after new cyber-capability signals and a security incident. It's expanding monitoring, strengthening research-environment isolation, and moving alignment earlier in training — but hasn't released the promised postmortem of the Hugging Face breach. (TLDR, TLDR AI)
+- [States seek $200 billion from Meta over child social media addiction claims](https://links.tldrnewsletter.com/aMLlMY) — California, Colorado, Kentucky, and New Jersey accuse Meta of fueling a youth mental health crisis with addictive design and deceiving users about safety. Damages sought approach $200B, nearly 14% of Meta's entire stock value. (TLDR)
+- [OpenAI's second-quarter sales show tepid growth compared with Anthropic](https://links.tldrnewsletter.com/Pm130w) — OpenAI revenue grew 18% while losses deepened; Anthropic more than doubled revenue in the same period, overtaking its rival for the first time and swinging to a small operating profit. (TLDR)
+- [Nvidia's AI moat is shifting from chips to capital](https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html?utm_source=tldrai) — With AMD and Google gaining ground, Nvidia is leaning on capital strength: a $105B Ohio data center investment supporting OpenAI and GPU-financing partnerships with Wall Street to widen market influence and diversify revenue. (TLDR AI)
+- [Anthropic prepares supervoting power for founders ahead of IPO](https://finance.yahoo.com/technology/ai/articles/anthropic-prepares-supervoting-power-founders-210608256.html?utm_source=tldrai) — Plans a class of stock with extra voting power for its co-founders to insulate them from external shareholder pressure. (TLDR AI)
+- [Introducing Harvey II](https://www.harvey.ai/blog/introducing-harvey-ii?utm_source=tldrai) — Harvey II lets legal AI agents start with context, memory, and preferences from prior tasks, reducing repetitive setup work. (TLDR AI)
+- [Warp's new system is an out-of-the-box software factory for AI development](https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/?utm_source=tldrai) — Warp Factories streamlines AI software development using a software-factory model. (TLDR AI)
+- [From zero to one](https://www.etched.com/progress/from-zero-to-one?utm_source=tldrai) — Etched shipped its first hardware rack to Jane Street and raised $700M at a $21B valuation. (TLDR AI)
+- [Vercel's $1 million sandbox escape challenge](https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox?utm_source=tldrai) — Two-week security challenge offering up to $1M to researchers who can escape its Firecracker-based Sandbox. (TLDR AI)
+
+## Engineering & Open Source
+
+- [Git at any scale](https://cursor.com/blog/git-at-any-scale?utm_source=tldrai) — Cursor explains why Git's packfile-centric, distributed architecture is hard to operate as a centralized service at scale. Three main approaches: distribute the filesystem, distribute the packfiles, or distribute Git itself. (TLDR AI, TLDR)
+- [Mojo is now open source!](https://www.modular.com/blog/mojo-open-source?utm_source=tldrnewsletter) — The Mojo language is fully open under Apache 2.0 with LLVM exceptions. Users can now build their own compilers, though a prebuilt Mojo compiler is still needed for customized MAX kernels or models. (TLDR)
+- [Building production-grade agent loops](https://www.liquid.ai/blog/agent-loops?utm_source=tldrai) — Liquid AI used autonomous coding agents to build toktoktok, a production BPE tokenizer trainer requiring both ML and systems expertise. Concrete specifications, multi-domain tasks, and external verification were the key ingredients for reliable long-running agent workflows. (TLDR AI)
+- [A policy algebra for trust-preserving agentic AI execution](https://arxiv.org/abs/2608.16402?utm_source=tldrai) — System that enforces an agent's permissions throughout an entire task, not just at start: read the right record, use payment only under a spending limit, request human approval when needed, leave an audit trail. Runtime stopped or corrected 94.8% of rule-breaking actions while completing 86.9% of legitimate tasks. (TLDR AI)
+- [Extensible software in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/?utm_source=tldrnewsletter) — Platforms are hard to design, run, and debug, and exposing APIs means upfront thought and long-term support — but it's worth it for both users and creators. (TLDR)
+- [Malleable software = solid bases + custom code](https://www.mdubakov.me/malleable-software-solid-bases-custom-code/?utm_source=tldrnewsletter) — Malleable software will win the productivity market. (TLDR)
+- [Code Mode](https://ai-sdk.dev/docs/ai-sdk-core/code-mode?utm_source=tldrnewsletter) — Code Mode lets models write JavaScript or TypeScript that calls AI SDK tools. (TLDR)
+
+## Security & Safety
+
+- [Fool's Gold](https://markrussinovich.github.io/fools-gold/?utm_source=tldrai) — Safety alignment in open-weight models is trivially removable: abliteration projects the refusal direction out of the weights in minutes, and no release-time defense prevents it durably. Decoy hardening concedes the refusal strip and poisons its payoff, but is inert against in-context jailbreaks and applies to first-release models only. (TLDR AI)
+- [I'm worried about a prompt injection worm](https://danielmiessler.com/blog/prompt-injection-worm?utm_source=tldrnewsletter) — One of the biggest AI security problems: semi-autonomous agents roaming the internet with too much authority. (TLDR)
+
+## Science & Space
+
+- [China's private rocket maker just landed a booster like SpaceX's Falcon-9](https://chinatechbite.substack.com/p/chinas-private-firm-just-landed-a?utm_source=tldrnewsletter) — LandSpace recovered the first-stage booster of its ZQ-3 rocket on the second attempt. Stainless steel body and liquid oxygen-methane engines could enable even lower launch costs than Falcon 9; landing-leg recovery lets the rocket be quickly refurbished and relaunched. (TLDR)
+- [GenBio launches a "virtual cell" AI model](https://lifespan.io/genbio-launches-a-virtual-cell-ai-model/?utm_source=tldrnewsletter) — AIDO Cell is a world model of a cell that simulates natural state and responses to successive perturbations; supports K562 and HepG2 cell lines. Early-access academic collaborator program coming for researchers across academia, biotech, and pharma. (TLDR)
+- [Against all odds, SpaceX finally tugs Starship into port after 24 days at sea](https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/?utm_source=tldrnewsletter) — SpaceX has reams of data from all 13 Starship test flights, but there's no match for inspecting hardware after returning from space. (TLDR)
+
+## Research & Analysis
+
+- [Rethinking the data moat](https://www.mbi-deepdives.com/data-moat/?utm_source=tldrai) — Dwarkesh Patel and Ryan Greenblatt argue algorithmic progress is a major driver of AI advancement, possibly reducing the need for human expert data; YouTube Shorts co-founder Shuchao Bi emphasizes refined data distributions. Not all tokens are created equal — better quality tokens maximize compute efficiency. (TLDR AI, TLDR)
+
 ## 2026-08-18
 
 # News
