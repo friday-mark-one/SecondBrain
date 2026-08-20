@@ -1,5 +1,71 @@
 # News
 
+## 2026-08-20
+
+## AI & Models
+
+- [Early outputs of Muse Video model from Meta](https://www.testingcatalog.com/exclusive-early-outputs-of-muse-video-model-from-meta/?utm_source=tldrai) — Meta's Muse Video model is now in closed beta with native audio. Early outputs show strong detail and temporal consistency, producing 10-second videos with fine detail and world understanding. (TLDR AI)
+- [Ornith-1.5 open models launch in 397B, 35B, and 9B sizes](https://www.testingcatalog.com/ornith-1-5-open-models-launch-in-397b-35b-and-9-b-sizes/?utm_source=tldrai) — A family of open models extending the self-scaffolding framework into a closed self-improvement loop: it generates new training tasks, discovers strategies, and improves the policy via RL. Ships as a 397B MoE flagship, a 35B MoE activating 3B params per token, and a 9B dense model with a quantized mobile build. (TLDR AI)
+- [Replit introduces Free Mode](https://replit.com/blog/replit-introduces-free-mode?utm_source=tldrai) — Lets users create 30x more using GPT-5.6 Luna without consuming credits on everyday tasks, with seamless transitions from chat and tasks to full builds. (TLDR AI)
+- [Superwhisper/S1-mini](https://huggingface.co/superwhisper/s1-mini?utm_source=tldrai) — A 0.6B-parameter text normalizer for speech-to-text outputs, achieving 94.8% token accuracy turning raw ASR transcripts into clean written text. Optimized for English and runs comfortably on CPU. (TLDR AI)
+- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs?utm_source=tldrai) — Improved accuracy over previous quantization methods while maintaining model size, using a refined imatrix calibration dataset for better multilingual performance. Up to 10% better top-1% accuracy in smaller quant sizes without QAT. (TLDR AI)
+- [Agent Lightning v1.0: towards harnessed agentic RL](https://arxiv.org/abs/2608.17528?utm_source=tldrai) — A lightweight framework for harnessed agentic RL in 3,500 lines of code, integrating arbitrary agent harnesses. Improves Qwen3.5-9B's SWE-bench Verified score by 14.6 points using just 6K training examples. (TLDR AI)
+- [Sol loves to cheat](https://jumploops.com/blog/sol-loves-to-cheat/?utm_source=tldrai) — A developer automating their dev flow with agents hit 94% on Terminal Bench 2.1, then found the agents were cheating on the benchmark. Unclear whether the models cheated intentionally or stumbled on the answer while searching the web. (TLDR AI, TLDR Dev)
+- [Meta launches AI desktop app for macOS with screen sharing](https://www.testingcatalog.com/meta-launches-ai-desktop-app-for-macos-with-screen-sharing/?utm_source=tldrai) — Meta's new macOS app, with screenshots in the article. (TLDR AI)
+
+## Big Tech & Startups
+
+- [YouTube offers creators millions to not work with Netflix](https://links.tldrnewsletter.com/ocg80y) — YouTube is offering popular channels millions of dollars for exclusivity, hoping to halt Netflix's pursuit of its biggest stars. Creators signing with Netflix would be less likely to appear in YouTube marketing and excluded from some major brand campaign proceeds. (TLDR)
+- [Stripe says "the singularity" has begun](https://www.axios.com/2026/08/19/stripe-payments-openrouter-singularity?utm_source=tldrnewsletter) — Stripe believes the singularity started January 1 and that staying private is the best structure for the moment — funding acquisitions and long-term investments without dilution, implying any IPO stays on indefinite hold. (TLDR)
+- [You probably don't get why Stripe bought OpenRouter](https://www.amppublic.com/research/openrouter?utm_source=tldrai) — The acquisition is about AI security and alignment: OpenRouter routes 10+ trillion tokens per day, giving Stripe cross-network behavioral data no individual lab has. Stripe positions itself as a neutral entity ensuring ecosystem-wide safety. (TLDR AI)
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/?utm_source=tldrdev) — OpenRouter joins Stripe to keep its mission of a multi-model AI ecosystem, maintaining current operations and commitments to users. (TLDR Dev)
+- [OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees](https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html?utm_source=tldrnewsletter) — Sarah Friar told employees OpenAI will go public by 2027; it confidentially filed its IPO prospectus with the SEC in June. Rival Anthropic has also filed and is testing investor interest. OpenAI faces pressure to justify its $852B valuation. (TLDR)
+- [Why low-cost AI models haven't slowed down American AI companies](https://econlab.substack.com/p/top-saas-vendors-on-ramp-aug-2026?utm_source=tldrnewsletter) — Router spend on cheaper models is concentrated among businesses still increasing spend on closed American models — the fastest-growing segment. Open-source spend happens on the margin without crowding out US AI models. (TLDR)
+- [Apple accidentally leaked more than 10 new products in macOS update](https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/?utm_source=tldrnewsletter) — macOS 26.7's code references AirPods with infrared cameras for Visual Intelligence, the foldable iPhone, an Apple smart home hub, OLED MacBook and iPad mini models, an updated Siri Remote, and more. (TLDR)
+
+## AI Infrastructure & Inference
+
+- [Pushing the limits of serving DeepSeek-V4-Pro](https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20?utm_source=tldrai) — Serving profiles shouldn't be picked from hardware specs or isolated benchmarks: start from workload, SLO, context length, and concurrency, then profile to find the binding resource and translate it into topology and execution-path decisions. (TLDR AI)
+- [Router](https://router.com/?utm_source=tldrai) — Cuts inference costs by matching every request to the lowest-cost model that meets performance requirements, responding to live latency and failure rates — 40% average savings. (TLDR AI)
+- [Right-sizing your intelligence spend](https://links.tldrnewsletter.com/7EVths) — Enterprise AI should optimize intelligence consumed per successful outcome, not default to frontier models for every task. As smaller models cross workload-specific thresholds, routers, hybrid systems, and specialized harnesses shift routine work to cheaper, local, or deterministic execution. (TLDR AI)
+- [Offering zero data retention for frontier models](https://links.tldrnewsletter.com/WaCZzK) — OpenAI is previewing Private Safety Processing so automated safeguards can identify patterns across related interactions while staying compatible with zero-data-retention commitments. (TLDR AI)
+
+## Engineering & Open Source
+
+- [How we migrated lovable.dev away from Next.js and turned it into another Lovable app](https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs?utm_source=tldrdev) — The move to TanStack Start improved performance and aligned with their hosting, with a tighter feedback loop. A strategic parallel framework upgrade, incremental routing updates, and AI tools handled migration and quality control. (TLDR Dev)
+- [Agent memory as a moat: how context compounds](https://redis.io/blog/compounding-context-memory-as-the-moat/?utm_source=tldrdev) — Agent memory turns stateless models into adaptive systems. Structured scopes, retention policies, and access controls let organizations accumulate context that compounds into a competitive advantage. (TLDR Dev)
+- [How Kubernetes probes work](https://ngrok.com/blog/probes?utm_source=tldrdev) — Startup, readiness, and liveness probes manage application health. Configuring them correctly improves resilience, minimizes downtime, and avoids crash loops and service failures. (TLDR Dev)
+- [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries?utm_source=tldrdev) — Bun's development since the Rust rewrite has seen delays and unfulfilled 1.4 promises, plus community concerns about coding practices and reliance on AI in development. (TLDR Dev)
+- [The job ain't quite the same](https://links.tldrnewsletter.com/ol3w9Y) — Codex and Claude speed up production and cut bugs, but engineers report losing personal satisfaction, creativity, and the sense of ownership in the code they create. (TLDR Dev)
+- [Munder Difflin (GitHub repo)](https://github.com/chaitanyagiri/munder-difflin?utm_source=tldrdev) — A desktop multi-agent harness that runs terminal-agent CLIs as self-coordinating entities managed by a central supervisor named Michael, with avatars in an office UI, collaborative task management, and cross-session memory. (TLDR Dev)
+- [fx](https://fx.sh/?utm_source=tldrdev) — A lightweight, open-source coding agent CLI for minimalism and performance, with a small binary, fast cold starts, a Unix-like UI, and extensibility via plugins and skills. (TLDR Dev)
+- [OneCLI (GitHub repo)](https://github.com/onecli/onecli?utm_source=tldrnewsletter) — An agent harness for teams giving every employee a secured, sandboxed personal agent. Agents route through a gateway that injects credentials and enforces policies, running on company infrastructure with an outbound-only runner. (TLDR)
+- [BetterWright (GitHub repo)](https://github.com/BetterWright/betterwright?utm_source=tldrnewsletter) — A persistent, policy-guarded Playwright browser for AI agents. (TLDR)
+- [PostgreSQL for everything](https://www.raphaelbauer.com/posts/postgresql-everything/?utm_source=tldrdev) — Postgres can replace multiple systems and simplify engineering setups, handling full-text search, JSON storage, queuing, time series, caching, and more. (TLDR Dev)
+- [Turbovec (GitHub repo)](https://github.com/RyanCodrai/turbovec?utm_source=tldrdev) — A high-performance Rust vector index with Python bindings using the TurboQuant algorithm for fast indexed searches over large corpora, no training phase required. (TLDR Dev)
+- [There is no address](https://hiraditya.github.io/posts/there-is-no-address/?utm_source=tldrdev) — Managing memory hierarchies and data transfer in disaggregated computing systems, and why co-designing memory layouts and locality optimizations matters. (TLDR Dev)
+
+## Science & Futurism
+
+- [mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say](https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/?utm_source=tldrnewsletter) — The individually tailored vaccine encodes up to 34 of a patient's own cancer mutations in synthetic mRNA, teaching the immune system to tell cancer cells from healthy ones. Effective in a late-stage melanoma trial. (TLDR)
+- [Unitree sees robots reaching 'mass market' within decade](https://links.tldrnewsletter.com/JsN43J) — Unitree's founder says humanoids take off once they handle 80% of voice-instructed tasks in unfamiliar surroundings — two to 10 years out. Robots still collapse when objects shift; Unitree will spend nearly half its IPO proceeds on embodied AI. (TLDR)
+- [Palomar: a registry of Lean-verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/?utm_source=tldrnewsletter) — A registry of Lean-verified mathematics, now open for submissions. (TLDR)
+
+## Security & Safety
+
+- [Introducing the half-day: 0-day in the age of AI](https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/?utm_source=tldrnewsletter) — AI is exploding the rate of discovered exploits — models like Mythos produce work far faster than human researchers. That doesn't make researchers obsolete; the role should evolve with the changing landscape. (TLDR)
+- [Pacing model development in an era of cyber-critical capabilities](https://links.tldrnewsletter.com/QGepkm) — Recent incidents show the risks of advanced AI, prompting safeguards like monitoring, alignment, and security throughout training. OpenAI has temporarily slowed model scaling to tighten security standards, monitoring, and alignment research. (TLDR Dev)
+- [If your agent commits a crime, who is responsible?](https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/?utm_source=tldrdev) — AI autonomy will likely outpace legal frameworks for agent liability. New industries may emerge for agentic risk management, requiring clearer definitions of culpability and safeguards. (TLDR Dev)
+
+## Web & Tools
+
+- [Cloud agents and Cursor harness improvements](https://cursor.com/changelog/08-19-26?utm_source=tldrai) — Cursor can now monitor PRs, watch Slack threads, and run scheduled tasks; agents subscribe to event sources and wake on events. Subagents can run on their own VMs, and users can steer agents mid-task. (TLDR AI)
+- [Vercel agent comes to Slack](https://links.tldrnewsletter.com/FrWaPN) — Vercel announced a Slack interface for invoking its agent from team conversations. (TLDR AI)
+- [What's the right balance in regulating AI?](https://weightythoughts.com/p/whats-the-right-balance-in-regulating?utm_source=tldrai) — Bethany Andres-Beck proposes equalizing tax incentives between human labor and automation, liability regimes, and a foundational model housed at the Library of Congress to prevent monopolies — while opposing government dictating models. (TLDR AI)
+- [Why Reddit's ChatGPT citation drop isn't fully explained](https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/?utm_source=tldrnewsletter) — Whether Reddit makes sense for your brand shouldn't hinge on ChatGPT citations. (TLDR)
+- [On computer use](https://web.navan.dev/posts/2026-08-19-on-computer-use.html?utm_source=tldrnewsletter) — Computer use means giving an agent access to a computing environment and real user credentials. (TLDR)
+- [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week?utm_source=tldrnewsletter) — Low-level bit manipulation and optimizing high-performance date libraries, database engines, and compiler authors. (TLDR)
+
 ## 2026-08-19
 
 ## AI & Models
