@@ -1,5 +1,16 @@
 # Deals
 
+## 2026-08-20
+- Fabletics — sitewide sale — no date — no code
+- Going — Iceland from $592 (Sep-Feb) — no date — flight deals
+- point.me — Madrid biz 32K pts, Quebec from 4.5K pts — no date — points deals
+- Domino’s — FREE 16-piece Parmesan Bread Bites — no date — rewards offer
+- Going — Hong Kong $716 (Oct-May) — no date — flight deals
+- Lake Washington Dermatology — BOGO Juvéderm $75 gift card — expires 8/20 — Allē members
+- NordVPN — Coveron $25 off, $3.91/mo identity protection — expires 8/20 — 1-day offer
+- H&M — 20% off in app — expires 8/20 — app only
+- ID.me Shop — summer deals: Crocs, Aeropostale, Bose — ends soon — student discount
+
 ## 2026-08-19
 - Kohl's — Save up to 40% during Back-to-School Sale + Intimates Sale — no date — kohls.com
 - Buy Nothing Project — newsletter: buy-nothing wedding tips — no date — newsletter
