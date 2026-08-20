@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - (add what this name trades on)
+- 2026-08-20 — Trades on crypto-regulatory momentum: Trump admin advancing crypto rules (CLARITY Act) and bitcoin price spikes (gap +5.3% today) move it, alongside meme-coin trading volumes
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -22,3 +23,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-28 — AUTO: opening gap -3.1%. Headlines: SpaceX Erased Tesla’s Marketcap in Little Over a Month | Robinhood Chain’s Trading Volumes Slump As Memecoin Interest Fades | Can Stock Trading and Prediction Markets Offset Robinhood’s Crypto Slump?
 - 2026-08-13 — AUTO: crossed above its 50d average; crossed above its 200d average. Headlines: Robinhood's co-founder wants to build AI data centers in space, not in people's backyards | Robinhood Co-founder's plans to take over space | Sector Update: Financial Stocks Rise Late Afternoon
 - 2026-08-14 — AUTO: crossed below its 50d average; crossed below its 200d average. Headlines: Robinhood Expands Private Market Push With Y Combinator-Focused Venture Fund | Robinhood Exec Says AI Boom Could Keep Stocks Ripping Higher but Bonds Could Crash the Party | MSTR, BMNR, COIN, CRCL Stocks Slide After Bitcoin Falls Below $63K
+- 2026-08-20 — AUTO: opening gap +5.3%. Headlines: Trump administration moves ahead with new crypto rules, with key bill stalled in Congress | Bitcoin price spikes after Trump meets with crypto leaders and pushes CLARITY Act | Solana, Robinhood, BNB Clash for Meme Coin Season: Who is Winning the $3 Billion Rally?
