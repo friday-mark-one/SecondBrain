@@ -18,6 +18,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - Massive buybacks cushion drawdowns; moves less than the other mega-caps
 - 2026-07-31 — Memory/component supply is a new recurring scare: Cook warned a memory shortage is squeezing Apple (~10% slide) and called it a '100-year flood'
 - 2026-08-10 — Analyst sentiment is now a live bearish swing factor: Jefferies downgraded Apple over iPhone yields and growth concerns (stock crossed back below its 50d)
+- 2026-08-21 — AI competitiveness and leadership/succession questions are now a live bearish swing factor: reports that the next CEO will spend more to catch up in AI, with leadership questions deepening Apple's AI dilemma (crossed back below its 50d)
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -27,3 +28,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-05 — AUTO: crossed above its 50d average. Headlines: Price hikes on consumer electronics could be here to stay. Here's why. | The Calm Surface of Alphabet Stock Hides a Turbulent Forecast | SpaceX’s $1T Goal and 3 More Shockers From Musk on the Earnings Call
 - 2026-08-10 — AUTO: crossed below its 50d average. Headlines: Apple downgraded at Jefferies over iPhone yields and growth concerns | Micron Stock Rises Despite Reported Apple Supplier Threat | Stock Market Today: Dow Dips, Nvidia Falls On This Report; Energy Play Clears Entry As Oil Pops (Live Coverage)
 - 2026-08-18 — AUTO: crossed above its 50d average. Headlines: Wall Street clearly loves Google stock, 13F filings reveal | Apple Cuts EU App Fees to 5% Outside the App Store | Apple Changes App Store Terms to Resolve E.U. Antitrust Dispute
+- 2026-08-21 — AUTO: crossed below its 50d average. Headlines: Anthropic's IPO could come sooner than you think — likely beating OpenAI to the punch | Apple's Next CEO Could Spend More to Catch Up in AI | Apple Falls as Leadership Questions Deepen Its AI Dilemma
