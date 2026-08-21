@@ -1,5 +1,25 @@
 # Deals
 
+## 2026-08-21
+- Tata Capital Wealth — NPS vs PPF comparison blog — no date — info
+- Club Pilates Bothell — Teacher Training $200 off tuition + 50% off manuals — expires 9/4 — sessions start Sep 5
+- NerdWallet — HYSA rates on the rise — no date — banking info
+- Coinbase — crypto adoption push — no date — info
+- Chase Sapphire Reserve for Business — Earn 200,000 bonus points — no date — new card offer
+- Fabletics — Up to 60% off everything — no date — VIP pricing
+- Going — Japan nonstop economy 42k-89k pts roundtrip — no date — points deal
+- Sephora at Kohl's — 15% off Beauty Insiders — no date — no code
+- Etsy — custom photo gifts — no date — gift promo
+- Life Time — welcome back refresher tour + membership — no date — club membership
+- Costco — Appliance Spend & Save: $230-$900 off select fridges, washers, dryers, dishwashers — expires 9/16 — online-only, limit 1 per membership
+- H&M — Back-to-school & fall arrivals ($39.99-$49.99 hero pieces) — no date — new arrivals
+- PointsYeah — United Cardmember pricing: 10%+ off award flights — no date — new feature
+- Huel — Today only: double savings — expires 8/21 — subscription discount
+- evo — Labor Day Sale up to 50% off summer & snow gear — no date — shop online/in-store
+- Amazon Pharmacy — meds delivered to your door — no date — info
+- Bath & Body Works — fall favorites in season — no date — new arrivals
+- Kohl's — Back-to-School Sale up to 40% off + up to 70% clearance — no date — no code
+
 ## 2026-08-20
 - Fabletics — sitewide sale — no date — no code
 - Going — Iceland from $592 (Sep-Feb) — no date — flight deals
