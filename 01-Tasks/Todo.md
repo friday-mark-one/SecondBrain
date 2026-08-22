@@ -5,8 +5,7 @@ hint: general todo list
 pinned: true
 ---
 
-- [ ] Snap workday account
-- [ ] Google One expiry 
+- [x] Snap workday account
 - [ ] H1B appointment 
 - [ ] Fix Google home automations 
 - [ ] Update SSN / ITIN
