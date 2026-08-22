@@ -21,13 +21,13 @@ pinned: true
 - [ ] Clean chimney
 - [ ] Canada visa
 - [ ] Jailbreak Kindle
-- [ ] Make marinara and pesto sauce
+- [x] Make marinara and pesto sauce
 - [ ] Car
 	- [ ] Stick LA magnet
 	- [ ] Window tint
 - [ ] Create a DIY mini house
 - [ ] Install Zed editor
-- [ ] dietician with kaiser
+- [x] dietician with kaiser
 - [ ] Futureme letter
 - [ ] GTA V
 - [ ] Restring rackets
