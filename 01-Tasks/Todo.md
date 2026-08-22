@@ -12,7 +12,6 @@ pinned: true
 - [ ] Update SSN / ITIN
 - [ ] Trip planning
 	- [ ] Birthday
-	- [x] Anniversary
 	- [ ] Trip
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
