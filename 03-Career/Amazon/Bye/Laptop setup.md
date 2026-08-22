@@ -3,21 +3,20 @@
 ---
 ### Apps
 
-- [ ] BetterTouchTool
+- [x] BetterTouchTool
 - [ ] oh-my-zsh
-- [ ] Android File Transfer
+- [x] Android File Transfer
 - [ ] Digital Quarantine
 - [ ] Firefox
-- [ ] Grand Perspective
+- [x] Grand Perspective
 - [ ] Karabiner Elements - keyboard override
 - [ ] Logi Options+
-- [ ] iTerm2
+- [x] iTerm2
 - [ ] TablePlus
-- [ ] Notion
+- [x] Notion
 - [ ] Spotify
-- [ ] Synthesia
 - [ ] Neothesia
-- [ ] VS Code
+- [x] VS Code
 - [ ] VLC
 - [ ] Maccy
 - [ ] Alfred5
