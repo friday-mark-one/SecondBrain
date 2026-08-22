@@ -1,5 +1,56 @@
 # Deals
 
+## 2026-08-22
+- Kohl's — Instant Kohl's Cash Giveaway (in-store only, starts today) — no date — plus up to 40% off back-to-school
+- Fabletics — VIP member promo — no date — no details in email
+- Michaels — Early access: Lemax Christmas collectibles online — no date — new arrivals
+- J.Crew Factory — 50% off pants & shorts + free shipping — no date
+- HomeGoods — New fall drops — no date — new arrivals
+- Chipotle — Free guac reward — no date — rewards member
+- Amazon Health — One Medical on-demand men's health care — no date — info
+- NerdWallet — Cheapest car insurance guide — no date — info
+- Costco — Sleep/mattress promo — no date — no details
+- Etsy — Four curated shops — no date — gift shopping
+- H&M — Weekend deal: 20% off your order — expires 8/23 — weekend promo
+- Life Time — Fall wellness: membership, LTH supplements, LifeCafe — no date
+- Michaels Custom Framing — New website & store experience — no date — info
+- Going — Tahiti flights $754-$894 (Sep-Nov) — no date — deal alert
+- HomeGoods — New finds on a Friday — no date — new arrivals
+- Nordstrom Rack — Private Sale: Reiss — no date — private sale
+- evo — 20% off select Arc'teryx + extra 10% off snowboard gear — no date — 4 days only
+- Macy's — Summer Weekend Sale: swim $29.96 & under, cover-ups $19.96 & under — expires 8/23 — plus 40-60% off linen
+- Bath & Body Works — Fall items $5.95 — expires 8/22 — today only
+- Going — Hong Kong price drop $686 (Sep-May) — no date — deal alert
+- Michaels — Fine Art Month: deals & demos — no date — seasonal
+- Kohl's — Up to 40% off back-to-school; Instant Kohl's Cash giveaway starts tomorrow — no date
+- Macy's — $595 14k gold necklace & more — no date — jewelry
+- Macy's — Up to 50% off men's shirts: polos, button-downs, linen shorts — no date — plus 20-40% shoes & sunglasses
+- Michaels — Clearance: up to 70% off storewide — no date
+- Sephora at Kohl's — 15% off for Beauty Insiders — no date — no code
+- Lyft — 30% off 3 rides — no date — claim offer
+- Famous Footwear — LAST CHANCE: $10 off any pair — no date — free shipping for members
+- Nordstrom Rack — Top 100: fall's best deals — no date
+- Sephora — OLIVE YOUNG collab — no date — new collab
+- Macy's — Up to 50% off dresses, suits & more: 30-60% designer suits, 25-50% tops — no date — plus 15% beauty
+- Michaels — Halloween decorating inspiration — no date — seasonal
+- Kohl's — Back-to-School Sale up to 40% + up to 70% clearance — no date
+- Famous Footwear — LifeStride latest — no date — new arrivals
+- Macy's — Treat yourself promo — no date — no details
+- Michaels — Save on 1,000s of items all week — no date
+- Macy's — Bellevue Square: 100th Thanksgiving Parade — no date — event
+- Nordstrom Rack — Women's contemporary shoes feat. Reformation | FRAME up to 60% off — no date
+- Macy's — Early access: up to 65% off — no date
+- Macy's — New fall denim under $200 — no date
+- Michaels — Fine Art Month: BOGOs watercolor, oil & pastels — no date
+- Kohl's — Up to 40% Back-to-School; Intimates Sale — no date
+- Macy's Star Rewards — Tuesday Drop: exclusive North Face offer — no date
+- Macy's — Flash Sale: sandals under $25 — no date
+- Michaels — One stop for all things creative — no date — new arrivals
+- Nordstrom Rack — Save on fall staples — no date
+- Macy's — Up to 60% off home updates — no date — home
+- Macy's — Flash Sale: up to 70% off shoes, handbags & more — no date
+- Kohl's — Intimates Sale: stock up & save — no date
+
 ## 2026-08-21
 - Tata Capital Wealth — NPS vs PPF comparison blog — no date — info
 - Club Pilates Bothell — Teacher Training $200 off tuition + 50% off manuals — expires 9/4 — sessions start Sep 5
