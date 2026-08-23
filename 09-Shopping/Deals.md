@@ -1,5 +1,68 @@
 # Deals
 
+## 2026-08-23
+- Kohl's — Up to 40% off Back-to-School Sale — expires 8/23 — in-store Kohl's Cash giveaway
+- Fabletics — Sitewide savings — expires soon — VIP pricing
+- MOD Pizza — Buy one MOD pizza or salad, get one Kids Meal free — Sundays only — no code
+- Michaels — New clearance: up to 70% off storewide — no date — no code
+- Nordstrom Rack — Save on shoes: UGG, Nike & more — no date — no code
+- Macy's Beauty — 15% off Lancôme + free gift with $39.50 purchase — no date — no code
+- H&M — 20% off sweaters — no date — no code
+- Costco — This week's Treasure Hunt new deals — no date — in-warehouse
+- Macy's — Up to 75% off men's suits, 30% off dresses & more — no date — no code
+- Michaels — Watercolor, Oil & Pastels week: save on art supplies — no date — no code
+- Bath & Body Works — Select items $6.95 — expires 8/22 — today only
+- Kohl's — Instant Kohl's Cash giveaway (in-store) + up to 40% off BTS — no date — in-store
+- Michaels — Week of Jewelry Making: 150+ new jewelry items — no date — no code
+- Macy's — Exclusive 25% off The North Face — no date — no code
+- Michaels — Back-to-school party supplies — no date — no code
+- Nordstrom Rack — Stuart Weitzman up to 60% off; designer fragrance feat. Marc Jacobs — no date — no code
+- Macy's — Bras from $16.99 (Bali, Vanity Fair & more) — no date — no code
+- Michaels — Fine Art Month: Watercolor, Oil & Pastels Week — no date — no code
+- Kohl's — Get your home ready for fall + BTS picks — no date — no code
+- Michaels Rewards — Weekly exclusive member offers — no date — member pricing
+- Hallmark — $5 off + free shipping — expires 8/16 — Crown Rewards
+- Nordstrom Rack — Up to 60% off dresses: French Connection & more — no date — no code
+- HomeGoods — Halloween decor, lighting & more — no date — no code
+- Michaels — BOGO deals on watercolor, oil & pastels supplies — no date — BOGO
+- Macy's — One Day Sale & Bonus Days: up to 60% off denim, shorts, dresses — expires 8/16 — no code
+- Kohl's — Extra savings today, gone tomorrow + Kohl's Cash — expires 8/16 — no code
+- Michaels — Maker Haul: up to 50% off 1,000s of items — no date — no code
+- Nordstrom Rack — Flats up to 50% off: Stuart Weitzman, Dolce Vita & more — no date — no code
+- Macy's Beauty — 50% off beauty fan faves (Shiseido, Kiehl's, Benefit) — no date — no code
+- Michaels — ENDS TODAY: biggest stock-up event of the year — expires 8/15 — no code
+- Kohl's — Intimates Sale 30% off + Kohl's Cash — no date — no code
+- Michaels — Stock up & save on 1,000s of items — no date — no code
+- Macy's — One Day Sale + Bonus Days (now-Sun): 30% off Levi's & more — expires 8/16 — no code
+- Nordstrom Rack — Private Sale: Nike — no date — no code
+- Michaels — Maker Haul: deals on 1,000s of items — no date — no code
+- Kohl's — Save 30% on active gear + Kohl's Cash — no date — no code
+- Lyft — 20% off rides — no date — in-app promo
+- Michaels — BIGGEST stock-up event is back — no date — no code
+- Sephora at Kohl's — $25 & under beauty picks — no date — no code
+- Macy's — Save 30% on late-summer Levi's — no date — no code
+- Chipotle — Your BOGO offer — no date — rewards member
+- Nordstrom Rack — Save on Off-White, Longchamp & more — no date — no code
+- Lyft — Ends soon: 20% off 3 rides — expires soon — in-app promo
+- Hallmark — $5 off + Member Appreciation — no date — Crown Rewards
+- Macy's — Up to 70% off trending gold jewelry — no date — no code
+- Michaels — Dark & moody Halloween décor — no date — no code
+- HomeGoods — Housewarming gifts: candles, kitchen essentials & more — no date — no code
+- Kohl's — Save 30% on intimates + college must-haves + Kohl's Cash — no date — no code
+- J.Crew Factory — LAST CALL: BOGO 50% off shirts & shorts — expires 8/12 — no code
+- Nordstrom Rack — TravisMathew up to 50% off; Splendid up to 55% off — no date — no code
+- Macy's — Big Home Event ends tonight: up to 60% off every room — expires 8/12 — no code
+- Michaels — New fall décor — no date — no code
+- Kohl's — Save 30% + Kohl's Cash + fall home picks — no date — no code
+- Macy's — Save on Ninja, KitchenAid, Cuisinart & more — no date — no code
+- J.Crew Factory — 2 days only: BOGO 50% off shirts & shorts — expires 8/12 — no code
+- Macy's — Up to 50% off bras — no date — no code
+- Michaels — Up to 50% off gotta-haves — no date — no code
+- Famous Footwear — $10 reward on any brand + free shipping — no date — rewards member
+- Nordstrom Rack — Up to 60% off tote bags for fall — no date — no code
+- Michaels — Fine Art Month: Acrylic Painting week — no date — no code
+- Kohl's — Up to 70% off clearance + extra 30% off — no date — no code
+
 ## 2026-08-22
 - Kohl's — Instant Kohl's Cash Giveaway (in-store only, starts today) — no date — plus up to 40% off back-to-school
 - Fabletics — VIP member promo — no date — no details in email
