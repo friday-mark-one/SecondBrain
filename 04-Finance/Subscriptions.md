@@ -18,3 +18,5 @@ Auto insurance $1400 for 6 months
 Phone bill $100 per month
 Robinhood Gold $5 per month
 Leetcode $129
+Going $50 per year
+Spotify $3 per month

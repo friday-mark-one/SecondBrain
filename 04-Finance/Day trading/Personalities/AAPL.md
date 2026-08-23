@@ -3,11 +3,11 @@
 > The stats section is auto-refreshed by the copilot (`personality AAPL`) — it describes how this stock MOVES, to calibrate stops, dip entries, and earnings-week expectations. The narrative and observations sections are maintained by hand (or Friday): append dated entries, don't rewrite history.
 
 <!-- personality:generated:start -->
-Refreshed 2026-08-16 from 5.0y of daily data (1255 days).
-**Movement**: typical day ±2.1% (14d ATR) | current 20d volatility is at the 86% percentile of its own history | overnight gaps ≥1% on 19% of mornings (worst single gap -9.4%) | 2-day drops ≥2.1% (enough to threaten a fresh −15% stop at ~7× leverage) happened ~37×/year.
-**Trend habits**: above its 50-day average 57% of days | long-run drift +15.7%/yr over the sample.
+Refreshed 2026-08-23 from 5.0y of daily data (1255 days).
+**Movement**: typical day ±2.0% (14d ATR) | current 20d volatility is at the 82% percentile of its own history | overnight gaps ≥1% on 19% of mornings (worst single gap -9.4%) | 2-day drops ≥2.1% (enough to threaten a fresh −15% stop at ~7× leverage) happened ~36×/year.
+**Trend habits**: above its 50-day average 57% of days | long-run drift +16.2%/yr over the sample.
 **Baseline first** — EVERY overlapping 5-day window in this sample: +0.4%, positive 55% of the time. Read the two lines below as lift vs this, not as raw numbers.
-**Dip response** (after 2-day drops ≥3%, n=116, overlapping): next 5 days averaged +0.7%, positive 52% → lift vs baseline +0.3%.
+**Dip response** (after 2-day drops ≥3%, n=115, overlapping): next 5 days averaged +0.7%, positive 51% → lift vs baseline +0.3%.
 **Run continuation** (after 5-day gains ≥5%, n=135, overlapping): next 5 days averaged +0.1%, positive 54% → lift vs baseline -0.3%.
 **Analyst tape (12mo)**: 6 upgrades / 7 downgrades / 102 other actions.
 _Descriptive statistics only — expectations for stops, dips, and earnings weeks. No directional edge lives here (measured, Phases 0–11)._
