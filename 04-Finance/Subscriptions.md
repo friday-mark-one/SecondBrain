@@ -1,5 +1,8 @@
 Obsidian $5.40 per month
 Amazon subscribe and save ?
+- Shampoo $66 every 3 months
+- Conditioner $42 every 3 months
+- Moisturizer $12 every 6 weeks
 Tidal $6.07 pretty month
 Torbox $33 per year
 Chase annual membership fee $95
@@ -20,3 +23,4 @@ Robinhood Gold $5 per month
 Leetcode $129
 Going $50 per year
 Spotify $3 per month
+Huel $
