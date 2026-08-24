@@ -1,5 +1,101 @@
 # News
 
+## 2026-08-24
+
+## AI & Models
+
+- [Hugging Face's $13B valuation](https://runtimewire.com/article/hugging-face-explores-13-billion-sale) — Hugging Face reportedly worked with a bank to gauge buyer interest at a valuation of $13B or more, nearly triple its 2023 figure. The price reflects the value of its model hub, developer ecosystem, and AI infrastructure. No agreement had been reached. (TLDR AI)
+
+- [DeepSeek releases experimental flash vision model that rivals Opus 4.8 on agent benchmarks](https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/) — V4-Flash-Vision-Exp adds image understanding to DeepSeek's text capabilities and nearly matches Opus 4.8 on agent tasks. It describes images, extracts text from screenshots, and analyzes diagrams, and works with OpenAI's Chat Completions/Responses APIs and Anthropic's Messages endpoint. (TLDR AI)
+
+- [Anthropic will give defenders what its strongest model finds, but not the model itself](https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund) — Claude Mythos 5 is now available for code scanning in Claude Security, with deeper integration into partners' defensive projects planned. Users of partner tools receive suggested patches or alerts but have no way to prompt the model, so it can't be used to write exploits. (TLDR AI)
+
+- [Anthropic's cheaper Opus 5 overtakes Fable 5 in corporate spending](https://www.implicator.ai/anthropic-opus-5-overtakes-fable-5-corporate-spending/) — Opus 5 overtook Fable 5 in corporate model spending within a month of launch thanks to low switching costs and roughly half the price. But the cheaper system may need more attempts, longer prompts, or more human review, so cost per successful task adds up; Fable stays aimed at long autonomous projects. (TLDR AI)
+
+- [The summer of open weights](https://martinalderson.com/posts/the-summer-of-open-weights/) — Open-weight models are hitting a tipping point with aggressive pricing moves, and Anthropic's most expensive tier is struggling to attract users as cheaper tools thrive. A wave of competent open models makes serving them efficiently a major competitive advantage. (TLDR AI)
+
+- [Open source AI is taking share from OpenAI and Anthropic](https://threadreaderapp.com/thread/2091542026072338623.html) — At Vercel, open-source models' token share went from 28% to 62% over the last two months. (TLDR AI)
+
+- [OpenAI temporarily cuts GPT-5.6 Sol API pricing](https://links.tldrnewsletter.com/qmKncF) — GPT-5.6 Sol API prices were cut by more than 20% for three months. (TLDR AI)
+
+- [Grok Bot is now included with more plans](https://links.tldrnewsletter.com/SHR6Ri) — Grok Bot expands to all SuperGrok Plus, Cursor Pro+, and Cursor Teams plans. Users can run multiple bots for roles like Sales Prospector, Website Builder, and Inbox Manager, operating across apps with minimal supervision. (TLDR AI)
+
+- [Inherent's AI 'teammate' outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) — DeepMind alumni-founded Inherent says its Faraday agent beat larger Anthropic and OpenAI models at replicating research papers, using a smaller 27B-parameter model. (TLDR AI)
+
+- [A startup trains AI on living human skin tissue](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/) — Outer Biosciences keeps donated human skin tissue alive, measures how it responds to compounds, and trains models on the resulting biological data. (TLDR AI)
+
+- [Who eats memory costs?](https://streetsignal.substack.com/p/who-eats-memory-costs-2a1) — Nvidia plans to pass rising memory costs onto customers, with AI server prices up over 15% for systems shipping next year. HBM cost pressure is being managed to protect gross-profit dollars now, but FY28's new memory generations could squeeze margins. (TLDR AI)
+
+- [Verifiable domains will eat the world](https://links.tldrnewsletter.com/WunxH9) — "Best" is an unverifiable concept: there's no objective measure of the best next word an LLM should optimize for, since it depends on author intent. If you can't measure second-best words or their cost, "the best words in the best order" barely exists as a training target. (TLDR AI)
+
+- [The evolution of the agent harness](https://www.latent.space/p/attention-interface) — Models improved when capabilities and agent harnesses advanced together, moving from next-token prediction to interacting with digital environments. The focus is now shifting to optimizing human attention and decision-making without over-dependence on the harness. (TLDR AI)
+
+- [Building a 24/7 multi-agent system: the SpaceXAI playbook](https://drive.google.com/file/d/1ek73IrUN6wIwGkx70FuewOTEIVFPw3l4/view) — Grok Bot becomes a persistent multi-agent system when given explicit ownership, reusable Skills, event-driven Routines, typed handoffs, verification rules, and approval boundaries — a practical path from a single bot to an always-on team. (TLDR AI)
+
+- [Measuring benchmark optimization in speech recognition](https://huggingface.co/blog/asr-benchmark-optimization) — Speech models often optimize for benchmark patterns rather than real tasks ("benchmaxxing"). New tests found models reproducing benchmark errors in VoxPopuli and LibriSpeech; fully held-out evaluation sets and metadata-aware testing help separate genuine gains from benchmark-induced ones. (TLDR AI)
+
+## Big Tech & Startups
+
+- [Apple's foldable iPhone will help bring some magic back](https://links.tldrnewsletter.com/vQXFLn) — Apple is set to introduce its foldable iPhone at a launch event on or around September 9, with Samsung having previewed a similar design. The device reportedly excels as a camera viewfinder but lacks a telephoto lens, relies on Touch ID rather than Face ID, and costs over $2,000. (TLDR)
+
+- [Nvidia customers notified about AI-related price hikes above 15%](https://links.tldrnewsletter.com/xuDr1s) — Some of Nvidia's biggest customers were told AI servers with flagship Vera Rubin and Grace Blackwell chips will rise more than 15% early next year due to soaring memory chip costs, with gaming PC graphics cards also getting pricier. (TLDR)
+
+- [Nvidia is spending $6 billion to build a powerful US alternative to Chinese AI](https://links.tldrnewsletter.com/NrUO4T) — Nvidia will invest $1B in AI startup Poolside at a $12B pre-money valuation and pay $6B to license its technology and hire the bulk of its engineers. (TLDR)
+
+- [Meta hires OpenAI veteran Luke Metz](https://www.axios.com/2026/08/24/meta-hires-openai-luke-metz) — Luke Metz left OpenAI in 2024 to join Thinking Machines, then rejoined OpenAI earlier this year before moving to Meta. (TLDR AI)
+
+- [Amazon's toaster-shaped robotaxis are hitting the road](https://links.tldrnewsletter.com/T2c78f) — Amazon's Zoox taxis are the first robotaxis operating without dashboards or pedals: bidirectional, seating four passengers facing each other, rolling out across San Francisco and Las Vegas. Tesla's Cybercab lacks the same regulatory approval to offer rides to the public. (TLDR)
+
+## Science & Futuristic Technology
+
+- [Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing Robot Games](https://apnews.com/article/china-humanoid-robot-games-us-86cb8e310843151a77057e4cb764b4e2) — The opening day of the World Humanoid Robot Games in Beijing saw robots break human records, including Usain Bolt's 100m mark, with 2,000+ robots across 51 events. Experts caution mass real-world deployment is still far off; most robots remain for demonstrations, performances, and research. (TLDR)
+
+## Engineering & Development
+
+- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/) — AI has drastically cut the cost of optimization, turning days or weeks of risky performance work into a trivial loop. More developers can now ship workload-specific, dynamically optimized software with minimal effort. (TLDR, TLDR Dev)
+
+- [The new MCP roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) — MCP's updated roadmap centers five priorities: agentic messaging primitives, HTTP-native transport unification and hardening, agent identity and enterprise-ready security, improved primitives, and better SDK developer experience. SEPs in these areas get expedited review and the best odds of acceptance. (TLDR, TLDR Dev)
+
+- [AI chip architectures](https://www.jepeake.com/ai-chip-architectures) — A deep look at NVIDIA GPUs, Google TPUs, AMD Instinct, and Cerebras' Wafer-Scale Engine: NVIDIA bets on programmability and scalable architecture, Google on single-purpose matrix-multiply design, AMD on memory capacity and open standards, and Cerebras on wafer-scale integration for ultra-fast memory access. (TLDR Dev)
+
+- [AI and infrastructure engineering](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/) — AI automates routine tasks and lookups in infrastructure engineering, freeing engineers for higher-level decision-making — but risks eroding foundational skills. (TLDR Dev)
+
+- [On teaching AI how you work](https://karlkoch.me/writing/on-teaching-ai-how-you-work/) — A framework of eleven skills consolidates how to teach AI your design and engineering conventions, keeping design intent and output consistent without repeated explanations. (TLDR Dev)
+
+- [Maka (GitHub repo)](https://github.com/apache/maka) — Apache's incubating project is a local-first AI agent workspace: interactions and data stay on your machine while agents execute tasks. (TLDR Dev)
+
+- [Proliferate (GitHub repo)](https://github.com/proliferate-ai/proliferate) — An open-source AI IDE that runs coding agents like Claude Code and Codex in parallel isolated workspaces, self-hostable with reusable workflows. (TLDR Dev)
+
+- [I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model — it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) — A 27B local model cracked a commercial app's license check in half an hour with impressive self-correction, working offline — challenging assumptions about when frontier models are needed. (TLDR Dev)
+
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) — Local LLM quality varies hugely with hardware, software, and quantization choices; experiments show benchmarks and configuration drive much of the perceived gap, and the issues are common across setups. (TLDR Dev)
+
+- [How complex systems fail](https://how.complexsystems.fail/) — Complex systems are inherently hazardous; safety comes from multiple layers of defense rather than eliminating risk. (TLDR Dev)
+
+## Opinion & Advice
+
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) — Finding worthwhile problems comes from staying engaged with people's work long enough to see what no single request reveals — absorbing feedback and connecting seemingly unrelated issues into impactful solutions. (TLDR, TLDR Dev)
+
+- [Fable & the end of the free lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html) — Moore's Law made optimization pointless; the mid-2000s slowdown changed that, and now Fable's high cost has developers thinking again about where work should go and how to give weaker models enough context to perform well. (TLDR)
+
+- ['Maybe I'm psycho': why tech founders and VCs are so online](https://www.upstartsmedia.com/p/column-tech-twitter-is-too-online) — With news moving so fast, staying plugged in feels mandatory for founders: posting builds presence and drives inbound interest. Tech Twitter surfaces emerging consensus but few immediately actionable insights, so cognitive hygiene matters. (TLDR)
+
+- [Fast and hard code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) — AI enables developers to pick less common languages and take on much harder technologies. (TLDR)
+
+- [An agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) — A good coding harness can dramatically improve LLM-assisted code quality. (TLDR)
+
+- [Starting a quantitative trading firm with 0 experience](https://jaechung.net/writings/starting-a-quant-trading-firm/) — In markets, table/game selection is as important as execution. (TLDR)
+
+- [The asteroid currently hitting frontend web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/) — The front end is low-risk enough that many AI coders will hand it to agents unsupervised, reshaping who does that work. (TLDR)
+
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) — Experiments with peripherals revealed vulnerabilities giving unauthorized control over microphones and webcams; the ease of reverse engineering raises concerns about a future of malware-infected accessories and IoT devices. (TLDR Dev)
+
+- [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/) — After constant shutdowns on an Amazon Fire HD tablet, the author used four AI models to root the device and strip unwanted software. (TLDR Dev)
+
+- [I dream of quieter computing](https://henry.codes/writing/i-dream-of-quieter-computing/) — A case for a more intimate, personal internet that prioritizes exploration and creativity over fast, feed-driven consumption. (TLDR Dev)
+
+- [The AI-native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook) — AI accelerates code writing, but outdated SDLC processes slow potential productivity gains. (TLDR AI)
+
 ## 2026-08-21
 
 ## Big Tech & Startups
