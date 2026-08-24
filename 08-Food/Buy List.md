@@ -9,6 +9,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Body wash]]
 - [ ] [[Dishwashing liquid]]
 - [ ] [[Greek Yogurt]]
+- [ ] [[Frozen peas]]
 
 ## Regulars
 
