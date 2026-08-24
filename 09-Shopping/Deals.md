@@ -1,5 +1,28 @@
 # Deals
 
+## 2026-08-24
+- Macy's — Tommy Hilfiger new arrivals: fall jackets, updated denim & more — no date — no code
+- Costco — Member-only savings start 8/24: KS butter $7.99, thick bacon $9.99, beef patties $24.99, pepperoni pizza $9.99, mixed nuts/cashews $12.99 — expires 9/6 — warehouse pricing
+- Fabletics — 40-60% off everything — no date — VIP member pricing
+- Michaels Rewards — Exclusive weekly member deals — no date — member pricing
+- Aroma Restaurant — coupon when you text JOIN to (833) 605-4560 — no date — text marketing signup
+- Lyft — 30% off 3 rides (max $6/ride) — expires 8/27 — in-app claim
+- Frontier — Flight add-ons for less: seat upgrades, bags, up to 35% off Avis/Budget — no date — confirmation code EIMKUD
+- Nordstrom Rack — Bags up to 65% off — no date — no code
+- HomeGoods — New Halloween drops — no date — no code
+- Macy's Beauty — 15% off Lancôme Absolue Longevity MD + free 7-pc gift with $39.50 — no date — no code
+- Coinbase — Crypto portfolio re-engagement — no date — info
+- Etsy — Gold waterproof jewelry finds — no date — gift shopping
+- H&M — 20% off + free shipping — expires 8/23 — last day
+- Costco — Home favorites sale: sofas, mattresses, Jackery solar generator, up to $900 off — expires 8/23 — ended today
+- Macy's — 30% off trending styles (personal offer) — expires 8/30 — sign in to redeem
+- evo — Up to 20% off select Arc'teryx — expires 8/24 — plus Labor Day Sale up to 50% off
+- UNiDAYS — Student partner deals (DoorDash & more) — no date — student verification
+- J.Crew Factory — Extra 70% off clearance — expires 8/25 — 48 hours only
+- Macy's — Summer Weekend Sale: under $50 shorts & shirts, activewear from $14.99 — expires 8/23 — ends tonight
+- Michaels — Stock Your Studio Week: BOGO art supplies — no date — BOGO
+- Kohl's — Up to 40% off Back-to-School Sale + in-store Kohl's Cash giveaway — expires 8/23 — ends today
+
 ## 2026-08-23
 - Kohl's — Up to 40% off Back-to-School Sale — expires 8/23 — in-store Kohl's Cash giveaway
 - Fabletics — Sitewide savings — expires soon — VIP pricing
