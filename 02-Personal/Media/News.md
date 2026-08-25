@@ -1,5 +1,99 @@
 # News
 
+## 2026-08-25
+
+## AI & Models
+
+- [NVIDIA enters full production of Groq 3 LPX AI inference accelerator chips, supercharging Vera Rubin](https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/?utm_source=tldrai) — Groq 3 LPX racks extend the NVIDIA Vera Rubin platform with ultra-fast token generation for response-sensitive agentic workloads. Agentic AI tasks that took hours now finish in minutes, with a 4x response-time boost over the nearest alternative platform. (TLDR AI)
+
+- [Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record](https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec?utm_source=tldrai) — OpenCode users ran 26 trillion tokens through Ox Alpha in its first four days: 327,000 unique users and 8.3M completed sessions, free via an OpenAI-compatible endpoint. The model page lists no maker, release date, knowledge cutoff, or output-limit metadata. (TLDR AI)
+
+- [Alibaba launches Wan3.0 AI video model after record $10B share sale](https://finance.yahoo.com/technology/ai/articles/alibaba-launches-wan3-0-ai-131300534.html?utm_source=tldrai) — Wan3.0 generates 30-second videos from text and data. (TLDR AI)
+
+- [Anthropic hires Google TPU veteran Amir Salek for its own chip push](https://runtimewire.com/article/anthropic-hires-google-tpu-veteran-amir-salek-chip-team?utm_source=tldrai) — Salek founded Google's custom-chip program and ran its Tensor Processing Unit business. (TLDR AI)
+
+- [Goodfire launches $1M research grant program for AI interpretability](https://www.goodfire.com/grants?utm_source=tldrai) — The grants provide free access to Silico, Goodfire's frontier AI research and interpretability platform. (TLDR AI)
+
+- [The economics of the intelligence frontier](https://links.tldrnewsletter.com/FfDJQe) — AI tasks become commodities once models exceed the maximum necessary intelligence, shifting competition to cost, latency, infrastructure, and distribution. Frontier labs can still become enormous businesses if new capability creates valuable markets faster than competitors reproduce and commoditize those advances. (TLDR AI)
+
+- [The AI bullwhip](https://tomtunguz.com/the-ai-cost-stack/?utm_source=tldrai) — The AI infrastructure supply chain hit a classic Bullwhip Effect: GPU prices spiked, server shipments declined, and memory makers shifted focus to HBM, inflating hardware prices and data-center construction costs. (TLDR AI)
+
+- [Reinforcement learning for LLMs: the complete guide](https://cameronrwolfe.substack.com/p/llm-rl?utm_source=tldrdev) — A comprehensive overview of RL's role in LLM development — alignment, reasoning, and safety — covering policy-gradient methods and recent advances like Group Relative Policy Optimization (GRPO). (TLDR Dev)
+
+- [Speculative Programmatic Tool Calling](https://alexzhang13.github.io/blog/2026/spec-ptc/?utm_source=tldrai) — sPTC pre-launches tool calls during token generation like a JIT compiler, overlapping computation with execution for 1–1.2x runtime speedups. It's especially useful for memory-bound local LLMs and high-volume serving systems. (TLDR AI)
+
+## Big Tech & Startups
+
+- [Apple gears up to launch its first new Mac mini in two years](https://links.tldrnewsletter.com/lxKq0F) — The new Mac mini could debut within days, following a surge in demand for the current model as a popular local-AI workhorse. It's part of a wave of Apple products ahead of its September 9 event: a foldable iPhone, the iPhone 18 Pro line, new Apple Watches, and fresh AirPods. (TLDR)
+
+- [Tesla confirms Cybercab launch coming next week](https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/?utm_source=tldrnewsletter) — Tesla's invite-only Cybercab launch is set for September 3 in Austin, with invites going to the most frequent Robotaxi riders and draw winners. The active unsupervised fleet is estimated at roughly 20–30 vehicles, with ~380,000 cumulative unsupervised miles as of its July earnings call. (TLDR)
+
+- [The biggest dogs in streaming want you to use only their app](https://links.tldrnewsletter.com/iIiycd) — YouTube and Roku are racing to become one-stop shops for TV content; some paying YouTube subscribers will soon get Peacock content under a new deal. The streaming wars have morphed into a bundling war over who becomes the main entry point. (TLDR)
+
+- [How universities should prepare founders](https://paulgraham.com/prepare.html?utm_source=tldrnewsletter) — Universities should give students time back instead of loading more coursework: student founders thrive on projects that are entirely their own, and many wouldn't survive official recognition. (TLDR)
+
+## Science & Futuristic Technology
+
+- [Data centers become 'killer application' for new power transformer tech](https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/?utm_source=tldrnewsletter) — The AI data-center boom is accelerating solid-state power transformers: high-frequency semiconductor switching (e.g., silicon carbide) in smaller, lighter, modular designs that convert grid AC directly into the DC data centers need. (TLDR)
+
+- [Approaching robotics hardware takeoff](https://itcanthink.substack.com/p/approaching-robotics-hardware-takeoff?utm_source=tldrnewsletter) — The World Humanoid Games in Beijing showed robots that are faster, more intelligent, and more capable than a year ago. Rapid hardware and software innovation is building an ecosystem that can build things — and isn't afraid to break them. (TLDR)
+
+- [Starlink's interesting approach to cellular](https://potsandpansbyccg.com/2026/08/24/starlinks-interesting-approach-to-cellular/?utm_source=tldrnewsletter) — Starlink plans to enter the terrestrial cellular business by building a large number of cell sites provisioned with satellite backhaul. (TLDR)
+
+- [AI's next big leap is into the real world](https://links.tldrnewsletter.com/tCK9t4) — Doing real physical work requires world models — aka 'large action models'. (TLDR)
+
+## Engineering & Development
+
+- [How to design an animation](https://kciter.so/posts/how-to-design-animation/en/?utm_source=tldrdev) — Animation clarifies interactions and conveys brand personality, but it's complex: designers break intricate motions into mathematically represented components using graphs, easing functions, and physics simulations. (TLDR Dev)
+
+- [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database?utm_source=tldrdev) — A new prototype called SELF replaces the traditional ELF executable format with SQLite, letting you query and modify executable files with SQL. (TLDR Dev, TLDR)
+
+- [How to report a bug so it actually gets fixed](https://blog.tymscar.com/posts/howtoreportabug/?utm_source=tldrdev) — Effective bug reporting means owning the bug, creating a reproducible environment, version bisecting, and documenting thoroughly while assuming initial responsibility — a structured process that materially improves the odds of a fix. (TLDR Dev)
+
+- [Stop using conventional commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/?utm_source=tldrdev) — Conventional Commits prioritizes commit type over scope, producing a misleading format that fails to communicate essential changes. The article argues for scope-prefixed commit messages instead. (TLDR Dev)
+
+- [Why code verification matters more than ever in the age of AI](https://blog.bytebytego.com/p/why-code-verification-matters-more?utm_source=tldrdev) — AI made writing code cheap; verifying that it's correct and safe is now the bottleneck, so verification should be built as a layered, risk-adjusted stack. (TLDR Dev)
+
+- [An unlikely experiment](https://rushed-reflections.bearblog.dev/an-unlikely-experiment/?utm_source=tldrdev) — The 'unlikely' macro tells the compiler which execution paths are less likely to be taken, enabling meaningful code optimizations. (TLDR Dev)
+
+- [GlassBox (website)](https://glassbox.codecanary.org/?utm_source=tldrdev) — A client-side tool that reveals the various signals a website can collect from a browser. (TLDR Dev)
+
+- [Kern (GitHub repo)](https://github.com/getkern/kern?utm_source=tldrdev) — A lightweight, rootless container runtime with kernel-enforced execution, achieving ~3.5 ms cold starts with no daemon. (TLDR Dev)
+
+- [PicoMQ (GitHub repo)](https://github.com/picomq/picomq?utm_source=tldrdev) — A framework for durable, real-time streaming over HTTP using S3-compatible object storage, with CLI and Docker tooling for install, node management, and stream operations. (TLDR Dev)
+
+- [Graph Engineering (GitHub repo)](https://github.com/DEEP-JLU/Awesome-Graph-Engineering?utm_source=tldrai) — A curated collection of papers, benchmarks, and open-source projects exploring how dynamic graph structures can organize tasks, coordinate agents, track runtime state, and support multi-agent system evolution. (TLDR AI)
+
+- [Rome (GitHub repo)](https://github.com/rome-os/rome?utm_source=tldrai) — Runs persistent AI agents, workflows, and apps inside a guardrailed collaboration environment. (TLDR AI)
+
+- [When code is abundant](https://about.gitlab.com/blog/when-code-is-abundant/?utm_source=tldrai) — LLMs make code generation faster and cheaper, shifting the challenge from creating code to trusting and verifying it. Stripe, Spotify, and Amplitude are shipping AI-generated code in production, with robust governance, context, and verification systems. (TLDR AI)
+
+## Security
+
+- [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines?utm_source=tldrai) — Hosts running LLMs are high-value targets: enough compute for a frontier model, easy access to its weights, and privileged datacenter access. Research shows models can run token sequences that exploit vulnerabilities in the software that loads an LLM onto GPUs. Mitigations: separate GPUs from token parsers, restrict GPU-host permissions, and treat all GPU-emitted data as untrusted. (TLDR AI)
+
+## AI Agents & Coding
+
+- [How Uber built a software factory for agentic coding: the MCP gateway and the platform underneath](https://newsletter.port.io/p/how-uber-built-a-software-factory?utm_source=tldrnewsletter) — More than 70% of Uber's PRs are now written by AI agents, and code shipped per engineer has doubled in a year. The platform gives agents the pieces they need to work safely across thousands of engineers — the post covers MCP gateways, workflows, and why they're needed for agentic coding at scale. (TLDR)
+
+- [The state machine nobody designed](https://www.vedanshh.com/blog/context-engineering?utm_source=tldrnewsletter) — Every part of an agent harness adds information to context, controls what's allowed in, or checks output — that's context engineering. Since the context window is the whole state machine, the question isn't just what you can add but what's worth keeping. (TLDR)
+
+- [What language are agent skills written in?](https://plicara.ai/research/agent-skill-languages/?utm_source=tldrdev) — The share of newly created agent skills written in languages other than English rose from 13.0% to 16.3% in H1 2026, with Chinese leading — reflecting growing contributions from India, Brazil, and elsewhere. (TLDR Dev)
+
+- [AI coding will prevent expertise](https://larsfaye.com/articles/ai-coding-will-prevent-expertise?utm_source=tldrdev) — Growing reliance on AI coding tools may stunt the development of true expertise among junior developers — while effectively using AI may itself require expert-level skills. (TLDR Dev)
+
+- [The harness is the company](https://blog.sshh.io/p/the-harness-is-the-company?utm_source=tldrnewsletter) — Leaders should build an organization where great people can do their best work, then use AI to multiply that. (TLDR)
+
+## Opinion & Advice
+
+- [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs?utm_source=tldrdev) — New EU packaging regulations impose disproportionate costs and administrative burdens on micro-businesses, risking job losses and stifling innovation — and pushing many makers to sell exclusively outside the EU. (TLDR Dev)
+
+- [Anger, anxiety and agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/?utm_source=tldrdev) — Anger in the workplace is counterproductive: it doesn't improve situations and damages those around you, compared with more constructive responses like curiosity. (TLDR Dev)
+
+- [The American people really hate data centers](https://thezvi.substack.com/p/the-american-people-really-hate-data?utm_source=tldrnewsletter) — 75% oppose local data center development, despite the economic benefits. (TLDR)
+
+- [Good culture is the biggest productivity hack, not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity?utm_source=tldrnewsletter) — Making employees worry about their jobs breaks a good culture, because it destroys psychological safety. (TLDR)
+
 ## 2026-08-24
 
 ## AI & Models
