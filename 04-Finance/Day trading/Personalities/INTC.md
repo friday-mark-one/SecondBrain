@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-07-31 — Trades on the foundry turnaround (18A) and PC/data-center share; new angle: analysts see an Apple supply opportunity amid the memory/component shortage
+- 2026-08-25 — The $20B dilution/raise is now a live swing factor: funding the foundry push via dilution (Pelosi's buy adding retail attention) is moving the stock alongside turnaround sentiment
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -26,3 +27,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-10 — AUTO: opening gap -3.3%. Headlines: Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock pulls back | Wall Street ends down as expectations of Hormuz deal fade | Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line
 - 2026-08-12 — AUTO: opening gap +3.7%. Headlines: Forget big tech: the real AI money is in plumbing | Intel: BofA sees $20B raise fueling foundry and server CPU growth | Intel Dropped After Strong Earnings. Here Is What $1,000 Invested Could Return Over 3 Years.
 - 2026-08-18 — AUTO: opening gap -4.2%. Headlines: Global bond sell-off pressures stocks: AlphaCheck | Nvidia Reveals a $21 Billion Position in SpaceX. Here's How That Could Impact Its Earnings | Intel Stock Plunges 7% as UBS Cuts Price Target to $112
+- 2026-08-25 — AUTO: opening gap +3.0%. Headlines: Investors rotate into tech stocks as inflation concerns ease: AlphaCheck | Intel Rises as Pelosi's $1.5 Million Bet Meets $20 Billion Dilution | AMD Just Got a Major AI Vote of Confidence
