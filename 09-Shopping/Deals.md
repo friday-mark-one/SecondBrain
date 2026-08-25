@@ -1,5 +1,20 @@
 # Deals
 
+## 2026-08-25
+- Fabletics — Last chance VIP deal sitewide + Back to Savings — no date — VIP price
+- Apple Card — $300 bonus with new Apple Card (spend $1,500 in 60 days) — expires 8/31 — apply via card.apple.com
+- Going — Hawaii (Maui/OGG) $393 roundtrip (Nov) from Everett PAE — expires 2-3 days — price drop from $780
+- Chase Sapphire — Refer a friend: 15K pts each, up to 100K/yr — no date — referral link in email
+- Costco — Weekly warehouse: Kirkland butter $7.99, thick bacon $9.99, grass-fed patties $24.99 (after $8), pepperoni pizza $9.99 (after $5), mixed nuts/cashews $12.99 — various thru 8/30-9/6 — in-warehouse
+- Costco — Member-only savings: $80 off Michelin tire sets, $100 off Dyson V10, Vital Proteins $23.99 (after $6), Bounty/Tide/Cascade $5 off — expires 9/20 — in-warehouse + online
+- H&M — New arrivals: SANTOS BRAVOS Atelier menswear + utility chic (blouse $37.99, tunic dress $59.99) — no date — no code
+- Cinemark — BYOBucket: fill your own bucket (up to 400oz) with popcorn for $5 — one day only — Lincoln Square Bellevue
+- MOD Pizza — Free Kids Meal with MOD-size pizza or salad — Sundays only — no code
+- Going — Uzbekistan $928 roundtrip (Jan-Feb) — no date — rare Silk Road deal
+- PointsYeah — Family & Friends Points Wallet 25% off — expires 8/31 — premium feature
+- evo — Up to 20% off Arc'teryx + 10% off snowboard gear (ends today); Labor Day Sale up to 50% off — expires 9/8 — select styles
+- Kohl's — Friends & Family 20% off + Kohl's Cash — no date — coupon on qualifying brands
+
 ## 2026-08-24
 - Macy's — Tommy Hilfiger new arrivals: fall jackets, updated denim & more — no date — no code
 - Costco — Member-only savings start 8/24: KS butter $7.99, thick bacon $9.99, beef patties $24.99, pepperoni pizza $9.99, mixed nuts/cashews $12.99 — expires 9/6 — warehouse pricing
