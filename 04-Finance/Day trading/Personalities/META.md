@@ -16,9 +16,11 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - Ad revenue + capex discipline story; reacts violently to spend-guidance changes
 - History of −20%+ single-day earnings moves — respect the blackout
+- 2026-08-26 — Legal overhang largely cleared: Meta agreed to pay up to $16.7B to settle the social media addiction trial (stock gapped +3.6%); litigation risk is now a smaller swing factor
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-30 — AUTO: -8.0% day (≥2× its typical range); opening gap -10.2%. Headlines: Amazon beats Q2 earnings expectations, as AI, chip businesses see $25 billion run rate | Expect to see less stock buybacks from Big Tech as companies ramp up AI capex | Meta stock poised for a new losing streak: Earnings call takeaways
 - 2026-08-11 — AUTO: crossed above its 50d average. Headlines: Why this week's CoreWeave earnings are so important for markets | Airbnb CEO Brian Chesky on AI's future: One person can be a billion-dollar company | Jabil upgraded by UBS as AI demand, healthcare growth support outlook
 - 2026-08-12 — AUTO: crossed below its 50d average. Headlines: Tech stocks today: CoreWeave and Supermicro results win over investors | CoreWeave jumps 10% following Q2 earnings | Wells Fargo Has Fresh Message for Microsoft Investors
+- 2026-08-26 — AUTO: opening gap +3.6%. Headlines: Nvidia tops Q2 expectations, offers strong outlook, but stock falls | Is Meta a buy after its $16.68 billion social media case settlement? | Meta settles social media trial, agreeing to pay up to $16.7B: Reuters
