@@ -11,6 +11,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Greek Yogurt]]
 - [ ] [[Frozen peas]]
 - [ ] [[Dates]]
+- [ ] [[Ghost protein cereal]]
 
 ## Regulars
 
