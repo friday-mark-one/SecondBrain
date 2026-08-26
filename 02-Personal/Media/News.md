@@ -1,5 +1,71 @@
 # News
 
+## 2026-08-26
+
+## AI & Models
+
+- [OpenAI's Jalapeño inference accelerator moves toward deployment](https://links.tldrnewsletter.com/kvqYvn) — OpenAI reported first results from Jalapeño, an inference accelerator designed around low-latency agent workloads, and plans to deploy it in its own infrastructure by year-end. Early benchmarks show higher peak throughput per kilowatt and lower token latency than commercial systems tested on GPT-OSS 120B; created in partnership with Broadcom, the chip should significantly reduce costs as it rolls out more widely. (TLDR AI, TLDR)
+
+- [Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs](https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs?utm_source=tldrai) — Perplexity's Portable Computer runs its agentic Computer platform entirely on hardware users already own — model, user data, and work stay local with no billing credits. Every task starts on device and asks permission before sending any step to a cloud model; available for Pro/Max/Enterprise subscribers on Linux (Windows in September), requiring an RTX GPU with at least 24GB VRAM. (TLDR AI)
+
+- [OpenAI and Anthropic could dominate global AI compute](https://www.dwarkesh.com/p/dylan-patel-3?utm_source=tldrai) — Dylan Patel discusses how OpenAI and Anthropic could control most usable AI compute by 2028 as their ability to monetize FLOPs lets them outbid competitors. The conversation also covered rising AI capex, potential sovereign debt risks, and the economic forces pushing the industry toward greater centralization. (TLDR AI)
+
+- [Vocab break](https://ianbarber.blog/2026/08/24/vocab-break/?utm_source=tldrai) — Claude's current tokenizer appears to have only about 15,000 entries, surprising given the "more is better" trend. One theory: Anthropic worked around a bottleneck caused by the final softmax layer; the post examines how and what it means for model training. (TLDR AI)
+
+- [Moats in the age of floods](https://links.tldrnewsletter.com/9PwM3w) — Abundant frontier intelligence won't eliminate application-layer moats — it shifts value toward companies that translate models into real outcomes. Durable winners will own coordination, workflow data, customer transformation, narrative, higher-level abstractions, outcome-based economics, and structural necessity. (TLDR AI)
+
+- [Granite 4.2 LLMs: how they're built](https://huggingface.co/blog/ibm-granite/granite-4-2?utm_source=tldrai) — IBM's Granite 4.2 are dense, decoder-only reasoning LLMs in 3B, 8B, and 30B sizes, trained on 15T tokens with a five-phase strategy including a multi-stage RL pipeline and native tool calling with a THINKING/NON-THINKING switch. The 8B and 30B models learn agentic behavior through RL in real environments. (TLDR AI)
+
+- [Open Omnimodal World Models (GitHub repo)](https://github.com/jd-opensource/JoyAI-Echo?utm_source=tldrai) — EchoWM is an omnimodal world model that follows continuous 6-DoF camera trajectories while jointly generating 720p video, environmental sound, music, and speech. It supports first- and third-person interaction with progressive plus autoregressive training for synchronized long-horizon generation. (TLDR AI)
+
+- [Keenable builds a web index and query layer for AI agents](https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/?utm_source=tldrai) — Keenable emerged from stealth with a claimed index of more than 100 billion documents, an API already used by unnamed AI labs, and a planned query language for combining evidence across sources. (TLDR AI)
+
+- [Applied Compute Agent Cloud](https://www.appliedcompute.com/platform/introducing-ac2?utm_source=tldrai) — Applied Compute launched AC2, a platform enabling AI teams to train, serve, and improve custom models. (TLDR AI)
+
+- [OpenAI's head of data centers has left the company](https://links.tldrnewsletter.com/5dFh1C) — Chris Malone, the executive overseeing OpenAI's data-center build-out, left the company last week. (TLDR AI)
+
+## Big Tech & Startups
+
+- [Apple's new desktop computers are designed specifically for local AI development](https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/?utm_source=tldrnewsletter) — Apple announced new Mac mini and Mac Studio iterations along with the M6, the first 2nm chip in its M-series lineup, and the M5 Ultra, its most powerful chip. Popular for local AI inference thanks to unified memory and fast CPUs/GPUs, the Mac mini with M6 starts at $899 with 16GB, and the Mac Studio with the M5 Max starts at $2,499. (TLDR, TLDR AI)
+
+- [Apple holds farewell party for Tim Cook as Ternus prepares to take over](https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/?utm_source=tldrnewsletter) — Tim Cook steps down as Apple's CEO on September 1 and becomes executive chairman; a celebration on August 23 — the day before his 15th anniversary as CEO — drew ~200 attendees with a OneRepublic performance. John Ternus, at Apple since 2001, takes over as CEO. (TLDR)
+
+- [Amazon eyes 'fully automated' delivery stations to bring robotics to the last mile](https://www.geekwire.com/2026/amazon-eyes-fully-automated-delivery-stations-to-bring-robotics-to-the-last-mile/?utm_source=tldrnewsletter) — Amazon's delivery stations remain mostly manual even as its fulfillment centers are highly automated. Project Tetromino aims to change that, with technology possibly coming from Boxbot (conveyors and AI-driven storage trays that sequence packages for vehicle loading); Amazon opened a Last Mile Innovation Center in Germany to test the tech. (TLDR)
+
+- [Could Nvidia default?](https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/could-nvidia-default-2026-08/?utm_source=tldrnewsletter) — Credit default swaps insuring against an Nvidia debt default have doubled in price in two months. Nvidia gave a $105 billion residual value guarantee for OpenAI's Ohio data center and has been involved in 300+ financing deals over five years; analysts worry an AI downturn could unravel the circular deals with other AI players and cause cascading losses. (TLDR)
+
+## AI Agents & Coding
+
+- [Anthropic merges Claude Chat and Cowork memory, on by default](https://thenextweb.com/news/anthropic-claude-cowork-shared-memory-default?utm_source=tldrai) — Anthropic merged Claude and Claude Cowork's memory systems, so both platforms now remember the same conversations. The feature is on by default — Claude adds topics to memory mid-conversation, stored as a list of files under Topics that users can read, edit, or delete individually. (TLDR AI)
+
+- ['The world seems to be ready': an interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/?utm_source=tldrai) — Sottiaux — widely known as the guy who resets people's token limits whenever Codex hits a growth milestone — discusses Codex, winning over skeptics, discovery as a product design philosophy, and the cost of intelligence. OpenAI plans the same treatment for ChatGPT Work, a platform for white-collar workers leveraging AI agents. (TLDR AI)
+
+- [Short-lived credentials for AI agents](https://vercel.com/blog/the-end-of-credential-sprawl-for-agents?utm_source=tldrai) — Vercel Connect replaces long-lived API tokens with runtime-issued credentials scoped to individual tasks that expire automatically. Its generally available release added more than 100 connectors along with a unified integration model and production governance controls. (TLDR AI)
+
+- [Introducing Run SDK: secure eval for your agents](https://vercel.com/blog/introducing-run?utm_source=tldrnewsletter) — Vercel's Run SDK executes untrusted JavaScript or TypeScript in a fresh QuickJS context inside a worker thread, exposing only selected operations through hostFunctions. Calls cross the sandbox boundary via serialization, and host functions can return promises, so existing service clients sit behind the interface without entering the sandbox. (TLDR)
+
+## Science & Futuristic Technology
+
+- [SpaceX to spend $100 billion on new spaceport in Louisiana](https://links.tldrnewsletter.com/6tqNG0) — SpaceX is committing $100 billion to build Starbase Louisiana, a launch facility on 125,000 acres of coastal marshland that will bring 3,000 jobs, as part of its plan to send multiple rockets into space every day. The company is constantly exploring sites to support its goal of thousands of launches a year. (TLDR)
+
+## Engineering & Development
+
+- [Knowledge Compressor](https://githubnext.com/posts/knowledge-compressor/?utm_source=tldrnewsletter) — Natural language is full of repetition, which costs tokens when working with substantial knowledge content. This study found typical technical documentation can have its token count cut in half via compression without substantially reducing its usefulness to language models. (TLDR)
+
+## Quick Links
+
+- [X sends cease-and-desist to open source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping?utm_source=tldrnewsletter) — Nitter and its instances offer a way to keep up with posts on X without an account. (TLDR)
+
+- [Introducing Index: building the world's largest and most diverse physical dataset](https://www.figure.ai/news/introducing-index?utm_source=tldrnewsletter) — Figure's Index is an app created to collect the physical data its AI stack needs, directly from humans at scale. (TLDR)
+
+- [Some recent applications of AI](https://www.natemeyvis.com/some-recent-applications-of-ai/?utm_source=tldrnewsletter) — Recent AI applications include gathering mostly unstructured real-world data and high-judgment lifestyle questions. (TLDR)
+
+- [Engineering theatre](https://www.elliotcsmith.com/engineering-theatre/?utm_source=tldrnewsletter) — Engineering theater is when something looks like engineering but really isn't. (TLDR)
+
+- [Let me click](https://ilyabirman.net/meanwhile/all/let-me-click/?utm_source=tldrnewsletter) — Examples of the 'Let me click' principle in user interface design. (TLDR)
+
+- [A cautionary tale about data breach claims, verification, and Carhartt](https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/?utm_source=tldrnewsletter) — Take headline numbers with a grain of salt unless you're confident in the processes of those making the claims. (TLDR)
+
 ## 2026-08-25
 
 ## AI & Models
