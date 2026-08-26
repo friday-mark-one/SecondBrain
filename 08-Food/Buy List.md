@@ -10,6 +10,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Dishwashing liquid]]
 - [ ] [[Greek Yogurt]]
 - [ ] [[Frozen peas]]
+- [ ] [[Dates]]
 
 ## Regulars
 
