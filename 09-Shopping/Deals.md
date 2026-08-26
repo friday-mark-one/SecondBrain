@@ -1,5 +1,23 @@
 # Deals
 
+## 2026-08-26
+- Tata Capital — 5 questions for your mutual fund portfolio — no date — financial newsletter
+- Fabletics — College Shop back: 200+ school styles on #1 fits — no date — no code
+- Interactive Brokers — Why Treasuries Are Back in Focus — no date — newsletter
+- Cinemark — "By Any Means" in theatres 9/4 (Yahya Abdul-Mateen II, Mark Wahlberg) — no date — Lincoln Square
+- Etsy — Summer color trend curation: sky blue vs butter yellow — no date — gift shopping
+- NerdWallet — Car insurance: how to get the best rate — no date — rate comparison
+- Canva — One million nonprofits milestone — no date — info
+- Frontier — Avis/Budget car rentals up to 35% off + $10 off $175 (3-day) + up to 500 miles — expires 9/30 — AWD K850100 / BCD D446200
+- H&M — New arrivals: light knits & easy denim — no date — no code
+- Going — Mumbai roundtrip $785 (Oct) — expires 2-3 days — rare India deal
+- Going — Japan roundtrip $824 (Sep) — expires 2-3 days — widespread cheap fares
+- Chase Travel — Cardmember travel booking benefits — no date — acct ending 5235
+- Huel — 33% student discount (up from 20%, limited time); 40% medical — no date — student/medical verification
+- ID.me — Federal investment account info (some kids get $1,000) — no date — info
+- Going — Tokyo award travel via airline card (JAL business class) — no date — points/miles strategy
+- Kohl's — Friends & Family 20% off + Kohl's Cash — no date — coupon on qualifying brands
+
 ## 2026-08-25
 - Fabletics — Last chance VIP deal sitewide + Back to Savings — no date — VIP price
 - Apple Card — $300 bonus with new Apple Card (spend $1,500 in 60 days) — expires 8/31 — apply via card.apple.com
