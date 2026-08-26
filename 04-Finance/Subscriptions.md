@@ -3,7 +3,7 @@ Amazon subscribe and save ?
 - Shampoo $66 every 3 months
 - Conditioner $42 every 3 months
 - Moisturizer $12 every 6 weeks
-Tidal $6.07 pretty month
+~~Tidal $6.07 pretty month~~
 Torbox $33 per year
 Chase annual membership fee $95
 Venture x $395 per year
