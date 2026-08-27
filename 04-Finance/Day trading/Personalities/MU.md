@@ -19,6 +19,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-06 — New demand-side hook: NVDA reportedly weighing lower-memory Rubin Ultra GPU designs to ease the HBM bottleneck — a potential headwind to the AI memory-demand supercycle, joining the China-supply concern as a swing factor
 - 2026-08-18 — New bear hook: the AI memory trade is reversing — MU crashed ~7% as the memory trade unwound on the bond sell-off ('bears back in control'); reversal fears now swing it alongside HBM supply-demand
 - 2026-08-20 — Supply-side confidence reasserting: SK Hynix's record buyback and Micron's $10B capex bet have memory 'defying the tech selloff' — counters last week's reversal hook, keeps it swinging on HBM supply-demand
+- 2026-08-27 — New political hook: Trump hails Micron's $10B US research-lab investment ('one of the hottest companies in the world') — presidential attention/government-support now swings it alongside HBM supply-demand and the China-competition discount
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -36,3 +37,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-18 — AUTO: opening gap -5.4%; crossed below its 50d average. Headlines: Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook | Global bond sell-off pressures stocks: AlphaCheck | Micron Stock Crashes 7% as AI Memory Trade Suddenly Reverses
 - 2026-08-20 — AUTO: crossed above its 50d average. Headlines: Waymo is making its own AI chip for its robotaxi service | SK Hynix Climbs 4% on Record Buyback, Micron Ticks Up as Memory Defies the Tech Selloff | Micron Quietly Pours $10 Billion Into Next Big Move
 - 2026-08-24 — AUTO: opening gap -3.3%; crossed below its 50d average. Headlines: Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions | Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck | Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know
+- 2026-08-27 — AUTO: opening gap +3.0%. Headlines: Why Nvidia probably just lit a new fire under these once-hot trades | MU Stock In Focus After Trump Hails Micron’s $10B Investment In US Research Labs — ‘One Of The Hottest Companies In The World’ | Trump Just Mentioned Micron Stock, But Its Down 5% This Week
