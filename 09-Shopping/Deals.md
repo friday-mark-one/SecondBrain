@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-08-27
+- HOTWORX Bothell — 50% off this week only — no date — Bothell-Everett Hwy #100B, local studio
+- Pandora — Welcome to My Pandora — no date — account welcome
+- Fabletics — LIVE NOW: styles from $15 (shorts, pants, tees) — no date — sitewide sale
+- NerdWallet — High-yield savings rates as high as 4.10% — no date — rate roundup
+- point.me — 6K pts to Europe; Tokyo & Hawaii deals — no date — points search
+- Best Buy Visa — Promo APR activation to save on interest — expires 9/4 — activate by 9/4/2026
+- Chase — Up to $100 back with Paze — no date — Paze enrollment
+- Etsy — Kitchen curation: “just call us chef” — no date — kitchen/gift picks
+- DoorDash — “Make today taste a little different” — no date — restaurant promos
+- HOTWORX Bothell — Still thinking about HOTWORX? Membership offer — no date — local studio
+- H&M — 25% off flash sale — no date — code in email
+- Chase — Refer a friend: earn a bonus — no date — referral link in email
+- Going — Bike-friendly Midwest city with 22 lakes — no date — travel content
+- Edmunds — Rivian R2 vs Tesla Model Y comparison — no date — content
+- PointsYeah — Business class to Europe from 48.5k pts (Iceland, France, Italy) — no date — 6 routes
+- Life Time — Weekly wellness guide — no date — newsletter
+- Costco — Upgrade Your Sleep & Home Comfort: mattresses, home essentials, electronics — no date — sale
+- Going — Italy roundtrip $616 (Oct) — expires 2-3 days — cheap fares
+- ID.me Shop — Student deals: LG monitors + free air purifier, 20% Tommy Hilfiger — no date — ID.me student
+- Wikipedia — Donation thank-you & impact update — no date — info
+- Going — Las Vegas roundtrip $230 (Oct-Nov) — expires 2-3 days — cheap fares
+- Kohl's — Friends & Family 20% off + Kohl's Cash — no date — coupon on qualifying brands
+- Club Pilates Bothell — $0 enrollment when you join today — no date — local studio
+- Summit at Snoqualmie — New activities & events coming up — no date — local mountain
+- UNiDAYS — Self-care & beauty student savings — no date — student discounts
+- Costco — Next-level performance: electronics & appliances — no date — member savings
+
 ## 2026-08-26
 - Tata Capital — 5 questions for your mutual fund portfolio — no date — financial newsletter
 - Fabletics — College Shop back: 200+ school styles on #1 fits — no date — no code
