@@ -174,3 +174,4 @@
 - [ ] TLDR version of PR ping -> context, problem, solution, tested cases -> one line each
 - [ ] Tell me what next day looks like and what to prepare before ending current day
 - [ ] AI;DR
+- [ ] Cron for improvements based on my daily coding session
