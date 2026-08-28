@@ -1,5 +1,51 @@
 # Deals
 
+## 2026-08-28
+- Best Buy Visa — Labor Day Appliances Sale — no date — Citi/Best Buy card
+- Fabletics — VIP End of Summer Sale (select styles) — no date — VIP member exclusive
+- NerdWallet — High-yield savings rates roundup — no date — rate comparison
+- Cinemark — New & Now: this week's releases + rewards — no date — 29 points
+- MOD Pizza — Classics return: Maddy's, OG Pepperoni, Spicy Thai, CinnaMOD — no date — limited time + B2S sweepstakes
+- Costco Travel — Getaway deals + Travel HOT BUYS — no date — costcotravel.com
+- Etsy — Minimalist stacking rings — no date — jewelry picks
+- Macy's — $15 off $75+ — no date — code ZT4H7FN5NJ97
+- Going — Australia economy 50k points roundtrip — no date — points deal
+- Costco — Smarter Appliances sale — no date — members
+- Michaels — BOGOs on top brands — no date — no code
+- H&M — Modern heritage collection — no date — new arrivals
+- Chipotle Rewards — Free Double Protein Day (any protein) — expires 8/27 — digital only
+- Nordstrom Rack — Up to 70% off new arrivals — no date — no code
+- Going — Amsterdam $660 roundtrip (Oct) — no date — flight deal
+- Going — Phoenix/Grand Canyon $257 roundtrip (Sep-Feb) — no date — flight deal
+- evo — Bike brands up to 50% off — no date — no code
+- Michaels — Birthday party supplies — no date — no code
+- Macy's — 30% off new late-summer Levi's — no date — no code
+- Kohl's — Friends & Family 20% off fall home — no date — coupon
+- Kohl's — Friends & Family 20% off fall home (2nd email) — no date — coupon
+- Famous Footwear — LifeStride new arrivals — no date — no code
+- Macy's — Wedding Week up to 70% off shoes & accessories — no date — no code
+- Michaels — Game day-ready + Patch Bar — no date — no code
+- Nordstrom Rack — Longchamp up to 50% off; new Levi's, Joe's & Hudson jeans — no date — no code
+- Macy's — Fall Preview Sale up to 60% off dresses, denim & more — no date — no code
+- Michaels — Stock Your Studio Week BOGOs — no date — art supplies
+- J.Crew Factory — 40% off 515 new arrivals + extra 20% off $125+ — no date — no code
+- Kohl's — Friends & Family 20% off (tell a friend) — no date — coupon
+- Macy's — Sandal clearance 40-80% off, $29.99 & under — no date — no code
+- Michaels — Art supplies one-stop — no date — no code
+- Chipotle Rewards — Free guac (claim) — no date — rewards
+- Nordstrom Rack — Up to 70% off new shoe markdowns — no date — no code
+- Macy's — Flash Sale up to 60% off Nike, adidas & more — no date — no code
+- Michaels — Fiskars cutting tools — no date — no code
+- Kohl's — Friends & Family 20% off + Kohl's Cash — no date — coupon
+- J.Crew Factory — Extra 70% off clearance (last chance) — no date — no code
+- Michaels — Fine Art Month essentials — no date — no code
+- Chipotle Rewards — Final bonus challenge — no date — rewards
+- Nordstrom Rack — Free People up to 60% off | Annie Bing up to 60% off — no date — no code
+- Macy's — Up to 70% off new clearance markdowns (40-70% off) — no date — no code
+- J.Crew Factory — Extra 70% off clearance — expires 8/24 — ends tonight
+- Michaels — Pumpkin spice season (fall & Halloween) — no date — no code
+- Kohl's — Friends & Family 20% off + Kohl's Cash — no date — Martha Stewart collection
+
 ## 2026-08-27
 - HOTWORX Bothell — 50% off this week only — no date — Bothell-Everett Hwy #100B, local studio
 - Pandora — Welcome to My Pandora — no date — account welcome
