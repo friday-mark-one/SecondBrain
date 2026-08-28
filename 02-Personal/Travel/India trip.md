@@ -6,6 +6,7 @@ pinned: false
 ---
 
 - [ ] Pondy
+- [ ] Mat for Sandhyavandhana
 - [ ] Small gift bag
   - [ ] Succulents/ return gift items
 - [ ] Pooja items
