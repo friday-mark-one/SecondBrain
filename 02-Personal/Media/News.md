@@ -1,5 +1,51 @@
 # News
 
+## 2026-08-28
+
+## AI & Big Tech
+
+- [Anthropic's new hardware standard lets AI agents control the physical world](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/?utm_source=tldrnewsletter) — The Model Harness Standard is a set of standardized drivers giving AI agents a common interface and data format to control arbitrary lab devices. It could cut experimental setup from weeks or months of custom integration work down to hours or minutes. (TLDR)
+- [Nvidia insists it can keep printing money to fund the AI boom](https://links.tldrnewsletter.com/rsm5iq) — Critics call Nvidia's AI investments circular financing, but Nvidia sees it as powering a flywheel: frontier labs are growing faster than their balance sheets can support and can't borrow huge sums cheaply on their own, so Nvidia supplies compute until the labs become self-sustaining. (TLDR)
+- [Meta took aim at Anthropic. It is also one of its largest customers](https://links.tldrnewsletter.com/OWAEC1) — Zuckerberg's 6,500-word essay attacked rival labs for consolidating power and painting a doom-filled future, arguing larger institutions would win at individuals' expense. Meanwhile Meta is internally projected to spend up to $10 billion annually on Anthropic's services, making it one of the lab's biggest customers. (TLDR)
+- [Why did Stripe acquire an AI model routing company?](https://thefinancialengineer.substack.com/p/why-did-stripe-acquire-an-ai-model?utm_source=tldrnewsletter) — OpenRouter lets Stripe become the bank every AI company is currently forced to build for itself. (TLDR)
+- [An update on AI's most important number](https://epochai.substack.com/p/an-update-on-ais-most-important-number?utm_source=tldrnewsletter) — Each quarter of continued hypergrowth in frontier AI revenue provides fresh evidence on AI's trajectory. (TLDR)
+
+## AI & Models
+
+- [Small models have arrived](https://calv.info/small-models-have-arrived?utm_source=tldrnewsletter) — Demand for frontier-level models will keep compounding, but demand for fast, cheap, "good enough" models is about to take off — most people just want something responsive that handles basic tasks. Recent models like gpt-5.6-luna and GLM 5.3 show smaller, faster models getting increasingly capable and cost-effective. (TLDR, TLDR Dev)
+
+## Science & Futurism
+
+- [Hugging Face is selling a cute $399 open source duck robot, Microduck](https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/?utm_source=tldrnewsletter) — The 25-centimeter open-source robot ships before Christmas: it waddles, picks up objects up to 800 grams with its beak, gets up after falling, crouches, and even roller skates. Behaviors can be trained in simulation and deployed directly on the robot, with the SDK, simulation, and full RL stack on GitHub. (TLDR)
+- [Some scientists have 'magic hands' in the lab. This AI is learning why](https://links.tldrnewsletter.com/v8cdCT) — Transfyr exited stealth with $25 million in seed funding to uncover why some experiments succeed and others fail. It absorbs lab data in the form of video, audio, and sensor logs; its analysis has already revealed lab workers perform identical protocols in surprisingly different ways. (TLDR)
+
+## AI Coding & Agents
+
+- [We need to talk about migrations with AI](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/?utm_source=tldrnewsletter) — OpenAI's case study claims it cleared five years of Asana engineering work in two weeks with Codex, saving $5.9 million — though the four-engineers-for-five-years baseline seems inflated. Regardless, AI clearly makes previously impractical migrations viable; Airbnb and Uber report similar successes. (TLDR, TLDR Dev)
+- [Audit your agent files](https://addyo.substack.com/p/audit-your-agent-files?utm_source=tldrnewsletter) — Coding agents' configurations have a half-life: models improve, harnesses add capabilities, codebases change. Research shows people get inconsistent value from personalized skills, so run Claude's /doctor every few weeks, review memory separately, and make each instruction earn its place again. (TLDR)
+- [Closing the AI agent trust gap with graduated autonomy](https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/?utm_source=tldrdev) — AWS proposes escaping the binary of full-access (risky) vs read-only (wasteful) agents: agents earn expanded permissions through sustained reliability and lose them instantly when performance drops. A weighted 0-100 score over a rolling 50-action window feeds four tiers (T1 Probation → T4 Autonomous) that promote slowly with hysteresis but demote immediately. (TLDR Dev)
+- [Why AI coding agents need context graphs](https://blog.postman.com/why-ai-coding-agents-need-context-graphs/?utm_source=tldrdev) — AI coding agents fail in real codebases because team context is scattered and missing. The fix is an externally queryable context graph of typed entities and relationships — the API layer teams already have — published with ownership metadata and MCP access so agents can perform better. (TLDR Dev)
+- [Harness engineering](https://habitat-thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/?utm_source=tldrnewsletter) — The practice of surrounding AI-assisted code generation with deterministic tooling, agent-based review, and periodic entropy checks so AI-generated code stays correct and coherent over time. (TLDR)
+- [Agent swarms are a distributed systems problem](https://www.trychroma.com/engineering/transactions?utm_source=tldrnewsletter) — Chroma's Foundation is a memory layer that operates through a swarm of agents modifying shared state, ingesting coding agent traces and company data to build a durable record and index. (TLDR)
+- [The load-bearing vocabulary of Claude](https://louisabraham.github.io/load-bearing/?utm_source=tldrdev) — An analysis of 100 daily GitHub pull requests found a vocabulary cluster identified in 2026 accounted for 45% of human-attributed pull requests last month. (TLDR Dev)
+
+## Engineering & Infrastructure
+
+- [How we saved 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/?utm_source=tldrnewsletter) — Five successive changes to how cache entries are stored cut the per-entry memory footprint by over 50%, saving roughly 100 TB across the fleet — while improving performance: 43% higher insert throughput and 19% lower lookup latency. (TLDR, TLDR Dev)
+- [The best workflow engine is a programming language](https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language?utm_source=tldrdev) — Using a programming language as a workflow engine simplifies orchestrating long-running, stateful logic on unreliable infrastructure. Vercel's Workflow SDK integrates retries, ad-hoc webhooks, and a unified data hook to make durable workflows more efficient and scalable. (TLDR Dev)
+- [Making your data ready for agentic AI](https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html?utm_source=tldrdev) — Organizations must move from data systems designed for human analysts to structures where data is trusted, contextualized, and actionable for autonomous agents — data contracts, context layers, and controlled access, backed by governance, traceability, and well-defined semantic models. (TLDR Dev)
+- [The Markdown Database Pattern](https://wayofmarkdown.com/markdown-database?utm_source=tldrdev) — Treating a collection of markdown files as records in a database gives structured queryability while keeping the flexibility of plain text documents. (TLDR Dev)
+
+## Launches & Tools
+
+- [Growing Lazyweb to 50K+ agents](https://read.first1000.co/p/growing-lazyweb-to-50k-agents?utm_source=tldrdev) — Lazyweb reached over 50,000 agents with no marketing spend, experimenting with distribution channels and growth tactics from reducing user friction to storytelling and community engagement. (TLDR Dev)
+- [Gemini Omni 1.1 Flash lets you build with more control](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/?utm_source=tldrdev) — Improves generative video production with scene extension, 4K upscaling, and efficient prototyping. (TLDR Dev)
+- [Cohere Parse](https://cohere.com/blog/parse?utm_source=tldrdev) — A cost-effective, high-performance document intelligence model for enterprises, processing varied document types and visual elements at scale and integrating with existing workflows for automated extraction and retrieval. (TLDR Dev)
+- [Experiential (GitHub repo)](https://github.com/experientiallabs/experiential?utm_source=tldrdev) — An open-source gateway for managing agent workflows through a unified API compatible with OpenAI and other models, supporting local and hosted setups with real-time traffic optimization, telemetry, and custom routing. (TLDR Dev)
+- [BrowserSkill (GitHub repo)](https://github.com/Tencent/BrowserSkill?utm_source=tldrdev) — Lets AI agents interact with your logged-in browser without interrupting your work, via a local CLI and browser extension, with tab management across OSes and browsers. (TLDR Dev)
+- [Context Engineering Toolkit (GitHub repo)](https://github.com/NeoLabHQ/context-engineering-kit?utm_source=tldrdev) — A development toolkit for improving AI-generated code quality through specification-driven development, subagent-driven workflows, and plugins that optimize coding practices. (TLDR Dev)
+- [Good taste doesn't exist](https://blog.ravi-mehta.com/p/taste-is-a-skill-not-a-gift?utm_source=tldrnewsletter) — Taste is about making choices, and whether those choices are good depends on who they are made for. (TLDR)
+
 ## 2026-08-27
 
 ## AI & Models
