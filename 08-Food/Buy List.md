@@ -12,6 +12,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Frozen peas]]
 - [ ] [[Dates]]
 - [ ] [[Ghost protein cereal]]
+- [ ] [[Avocado oil spray]]
 
 ## Regulars
 
