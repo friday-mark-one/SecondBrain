@@ -1,5 +1,26 @@
 # Deals
 
+## 2026-08-29
+- Tata Capital Wealth — ULIP explainer blog (insure + invest) — no date — informational, no offer
+- Pandora — $10 off next purchase for survey feedback — expires 6 mo from receipt — survey link in email
+- Fabletics — End of Summer Sale, VIP member exclusive — expires 8/30 — auto-applied, no code
+- TurboTax — budget-boosting tips newsletter — no date — informational, no offer
+- Apple Card — $300 new-card bonus, spend $1,500 in 60 days — expires 8/31 — apply by 8/31
+- NerdWallet — car insurance rate explainer — no date — informational, no offer
+- CardPointers — 24-hr birthday sale, pick your price $3–$8/mo — expires 8/29 — links in email
+- Etsy — featured independent sellers (10th-anniv shops) — no date — informational, no discount
+- Cinemark — Harry Potter 25th-anniv merch (popcorn buckets, tees) — in theatres 8/27–9/2 — shop in theatres/app
+- NerdWallet — HYSA rates up to 4.10% — no date — informational, no offer
+- Life Time — rejoin membership push (Bellevue) — no date — REJOIN US link in email
+- H&M — Early Labor Day: up to 25% off select styles — no date — online, limited time
+- UNiDAYS — student tech deals (up to 30% off, 50% HBO Max) — no date — via myunidays.com
+- Costco — Samsung Savings Event: TVs, appliances, audio — expires 9/13 — e.g. 65" S90F OLED $1,299.99 w/ 5-yr coverage
+- Fabletics — loyalty: $5 reward + 550 pts, Platinum tier — no date — reward redeemable
+- Going — Cabo $468 RT flights (Feb–Mar 2027) — book within ~2–3 days — flight deal
+- evo — 20% off select bindings w/ ski or board — expires 8/31 — evo.com; Labor Day sale to 9/8
+- Pandora — new season collection — no date — no discount stated
+- Kohl's — 20% off Friends & Family + 50% off select Sephora — no date — excl. Sephora; coupons don't apply there
+
 ## 2026-08-28
 - Best Buy Visa — Labor Day Appliances Sale — no date — Citi/Best Buy card
 - Fabletics — VIP End of Summer Sale (select styles) — no date — VIP member exclusive
