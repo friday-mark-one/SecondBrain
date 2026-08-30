@@ -51,9 +51,9 @@
   "closed": [],
   "kill_until": null,
   "alerts": {},
-  "last_weekly": "2026-08-23",
+  "last_weekly": "2026-08-30",
   "cooloff": {},
   "last_pulse": "2026-08-28",
-  "monitor_runs": 2435,
-  "last_monitor": "2026-08-30T02:53-04:00"
+  "monitor_runs": 2436,
+  "last_monitor": "2026-08-30T03:08-04:00"
 }

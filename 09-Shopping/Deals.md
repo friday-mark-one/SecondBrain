@@ -1,5 +1,23 @@
 # Deals
 
+## 2026-08-30
+- Kohl's — 40% off qualifying brands (Apt. 9, Sonoma, FLX, Tek Gear...) — expires 8/30 (today) — last day to earn Kohl's Cash
+- Pandora — 10% off your next visit — expires no date — 50% off Jewelry Care Kit for members
+- Fabletics — 'styles you eyed are selling fast' restock nudge, no offer — expires no date
+- Huel — editorial digest #230 (micronutrient gaps), no offer — expires no date
+- Cinemark — $5 popcorn bucket refill ('you bring it, we fill it', up to 400 oz) — expires no date — Movie Fan member promo
+- Edmunds — newsletter (best crossovers/electric SUVs, used-car tips), no offer — expires no date
+- NerdWallet — car insurance shopping guide (content), no offer — expires no date
+- H&M — 20% off your order for Members — expires 8/31 — online only, auto-applied when signed in
+- Costco — Stock Up sale: P&G essentials $5–6 off (Bounty paper towels $5.60 off), Snapdragon PCs $200–400 off, TVs & more — expires 9/20 — valid 8/24–9/20 🔔 [[Buy List]]
+- Amica — life insurance at new lower rates — expires no date
+- NerdWallet — high-yield savings up to 4.10% (content), no offer — expires no date
+- evo — Labor Day sale up to 50% off summer & snow gear (POC to 50%, Patagonia to 30%); 20% off bindings with ski/snowboard purchase — expires 9/8 — sale valid 8/20–9/8, bindings deal ends 8/31
+- Etsy — 'Fresh new faves' new-arrivals teaser, no offer — expires no date
+- Kohl's — Friends & Family 20% off home, shoes & styles — expires no date
+- Genesis — GV90 first look (new icon reveal), no offer — expires no date
+- Sephora at Kohl's — 50% off select beauty must-haves; $25 & under picks — expires no date
+
 ## 2026-08-29
 - Tata Capital Wealth — ULIP explainer blog (insure + invest) — no date — informational, no offer
 - Pandora — $10 off next purchase for survey feedback — expires 6 mo from receipt — survey link in email
