@@ -19,3 +19,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-29 — AUTO: new 52-week low. Headlines: ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission. | Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure | Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans
+- 2026-08-31 — AUTO: crossed above its 50d average. Headlines: Here comes the AI capex shocker, Goldman Sachs says | Next Up for Tesla’s Self-Driving Tech: Potholes | Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today’s Market
