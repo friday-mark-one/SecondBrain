@@ -1,5 +1,50 @@
 # Deals
 
+## 2026-08-31
+- Macy's — jacket season: up to 30% off — no date
+- Macy's — Fall Preview Sale: men's dress pants $44.99+ & more — no date
+- Costco — a few new finds for this week's visit — no date
+- point.me — keep a card after earning a bonus? + up to 200K bonus points — no date
+- Michaels Rewards — exclusive rewards offers inside — no date
+- HomeGoods — new finds at prices too good to pass up — no date
+- NerdWallet — how many savings accounts should you have? — no date
+- PointsYeah — 25% off Family Wallet (family points tracker) — expires Aug 31 — code WALLET25
+- NORDSTROM RACK — up to 60% off fall dresses (Alice + Olivia & more) — no date
+- Frontier — Denver trip deals & upgrades — no date
+- Macy's — trending & seasonal New Balance sneakers — no date
+- H&M — 20% off ends tomorrow — expires Aug 31
+- Walgreens — Beauty Savings Event: earn $10 Rewards on $30+ — no date
+- UNiDAYS — student deals roundup (DoorDash etc.) — no date
+- Macy's — 30% off new styles — expires Aug 30 (last day)
+- Costco — essentials for every room — no date
+- evo — Labor Day Sale up to 50% off (Santa Cruz, POC, Fox) — no date
+- Etsy — minimalist stacking rings — no date
+- Macy's — up to 50% off best brands for fall refresh — no date
+- J.Crew Factory — 40% off new arrivals + extra 20% off $125+ — no date
+- Michaels — The Big Fall Sale up to 50% off — no date
+- Kohl's — TODAY ONLY: 40% off + last day for Kohl's Cash — expires Aug 31
+- Macy's — save big on KitchenAid, Ninja, Shark & more — no date
+- Macy's — summer sale on Levi's — no date
+- Michaels — fun tutorials, anyone? — no date
+- NORDSTROM RACK — new markdowns up to 70% off — no date
+- Michaels — Fine Art Month: artist-approved brands & materials — no date
+- Macy's — Fall Preview Sale: up to 30% off dresses — no date
+- J.Crew Factory — 40% off new arrivals — no date
+- Kohl's — 20% off home, shoes & styles — no date
+- Michaels Custom Framing — magazine-worthy frames (AD collab) — no date
+- Macy's — up to 65% off mattresses — no date
+- Michaels — BOGO on 1,000s of favorites — no date
+- Macy's — top shoes for juniors & young men — no date
+- Chipotle Rewards — 25 extra points now, 200 coming — no date
+- Sephora at Kohl's — 50% off select beauty must-haves + $25 & under picks — no date
+- HomeGoods — price drops just landed in store — no date
+- Sephora Daily Deals — 50% off select beauty starts today — no date
+- Macy's — Levi's at 30% off — no date
+- NORDSTROM RACK — Private Sale: Reformation — no date
+- Michaels — Fine Art Month: grab art essentials — no date
+- CUHK MBA — online info session for 2027 intake — no date
+- Kohl's — 20% off new styles + 50% select Sephora beauty — no date
+
 ## 2026-08-30
 - Kohl's — 40% off qualifying brands (Apt. 9, Sonoma, FLX, Tek Gear...) — expires 8/30 (today) — last day to earn Kohl's Cash
 - Pandora — 10% off your next visit — expires no date — 50% off Jewelry Care Kit for members
