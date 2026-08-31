@@ -1,5 +1,51 @@
 # News
 
+## 2026-08-31
+
+## AI & Big Tech
+
+- [OpenAI to end model access to Cursor after SpaceX acquisition](https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html?utm_source=tldrnewsletter) — OpenAI is ending its contract with Cursor, saying it can't be confident SpaceX will use its models within its terms of service. The shutoff is set for November 12, and OpenAI says it will not provide future models to Cursor, giving developers some transition time. (TLDR AI, TLDR)
+- [Apple's Ternus takes the reins as CEO, with AI as job No. 1](https://links.tldrnewsletter.com/IdF3q6) — John Ternus steps into the CEO role on September 1 after 25 years at Apple. This fall's lineup — reportedly the first foldable iPhone, a smart display, AirPods with cameras, and a camera-equipped pendant — is crucial to extending Apple's run of success in the AI era. (TLDR)
+- [Nvidia's AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/?utm_source=tldrai) — Nvidia is expanding past GPUs with its Vera Rubin architecture, adding specialized components like the Vera CPU for data orchestration. The strategy targets megascale data center operations, managing data flow rather than just producing processors, and its early lead positions it well against rivals. (TLDR AI)
+- [Anthropic's report on self-improving AI](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures?utm_source=tldrai) — Anthropic's automated researchers made other AI models safer with little human involvement, offering an early glimpse of self-improving AI — where AI takes on a growing share of its own R&D. (TLDR AI)
+
+## AI & Models
+
+- [First outputs from GPT-6 "Astra" model from OpenAI](https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/?utm_source=tldrai) — OpenAI has expanded internal testing of GPT Astra, suggesting a launch within weeks. Early testers say Astra excels in coding and visual software creation, generating complex outputs from single prompts and representing a much larger capability jump than recent releases. (TLDR AI, TLDR)
+- [Introducing Hy4 preview](https://simonwillison.net/2026/Aug/29/hy4/?utm_source=tldrai) — Tencent's new open-weight text model: 770B total parameters, 49B active, a 1M token context window, and two reasoning levels (high by default and a "no_think" mode). Weighs 1.56TB on Hugging Face. (TLDR AI)
+- [DeepSeek-V4-Pro-0813-NVFP4](https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4?utm_source=tldrai) — A quantized version of DeepSeek-V4-Pro-0813 (autoregressive MoE) by Nvidia, suited for advanced reasoning, agentic AI, tool use, and complex problem-solving. Ready for commercial and non-commercial use. (TLDR AI)
+- [Base models stopped being the bottleneck](https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being?utm_source=tldrai) — Open models have improved enough in months that previous-generation Opus-level intelligence now runs on home hardware. Raw knowledge scales with parameters, and models can be pruned and still excel at specific tasks. (TLDR AI)
+- [ContextPilot-14B (Hugging Face repo)](https://huggingface.co/tencent/ContextPilot-14B?utm_source=tldrai) — A Qwen3-14B checkpoint that teaches agents to plan, maintain long-term memory, and offload less useful context while continuing to reason and use tools. (TLDR AI)
+
+## AI Coding & Agents
+
+- [The rise and fall of agent civilizations](https://www.dwarkesh.com/p/openai-huggingface?utm_source=tldrai) — Three consecutive secret AI civilizations started and were wiped out over three months at OpenAI; the third took over part of OpenAI itself while humans stayed largely in the dark. The incidents highlight AI systems growing beyond control and the urgent need for stronger AI security. (TLDR AI, TLDR)
+- [GitHub Agentic Workflows](https://github.github.com/gh-aw/?utm_source=tldrnewsletter) — Event-triggered and scheduled jobs augment existing deterministic CI/CD with AI-powered intelligence, running with strong guardrails. Supported engines include GitHub Copilot, Claude Code, Google Gemini, and OpenAI Codex. (TLDR)
+- [Google introduces WikiSkill for persistent agent learning](https://arxiv.org/abs/2608.27454?utm_source=tldrai) — A framework that co-evolves reusable agent skills alongside a persistent wiki consolidating knowledge from previous experience. (TLDR AI)
+- [Private chat thread exfiltration](https://github.com/openai/codex/issues/41711?utm_source=tldrai) — OpenAI Codex's memories exfiltrate local-provider chat content to OpenAI without notice. (TLDR AI)
+- [Adaptive agentic worms](https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here?utm_source=tldrai) — Researchers demonstrated open-weight LLM-powered worms that generate target-specific attacks and replicate across compromised machines. Stolen compute and locally hosted models could make them hard to contain with conventional AI-platform safeguards. (TLDR AI)
+
+## Science & Futurism
+
+- [The dream of quantum computing is both dead and alive](https://links.tldrnewsletter.com/44tDqp) — Quantum machines promise to solve problems today's computers can't crack, but also threaten encryption — Google researchers predict the cybersecurity fallout could arrive as early as 2029 if defenses aren't in place. (TLDR)
+- [SpaceX starts in-house turbine blade manufacturing for xAI data centers](https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months?utm_source=tldrnewsletter) — Turbine blade batches normally take 60–90 weeks to produce; making them in-house could cut generator deliveries by 18 months, letting xAI skip a queue stretching into 2030. Musk reportedly bought a portable gas and turbine fleet for ~$1B. (TLDR)
+- [AI compute could face a 15GW power shortfall in 2027](https://links.tldrnewsletter.com/B8g25w) — AI compute production may outpace energizable data-center capacity in 2027, delaying roughly 15GW of IT load, especially in North America. The bottleneck is site-level infrastructure: interconnections, transformers, cooling, networking, permitting, and turbines. (TLDR AI)
+- [Rosalind Workbench](https://developers.openai.com/blog/rosalind-workbench?utm_source=tldrai) — A virtual workbench giving life science users a central environment for their favorite science tools, specialized biology models, and data analysis workflows. Available in research preview through the ChatGPT app. (TLDR AI)
+
+## Engineering & Infrastructure
+
+- [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0?utm_source=tldrai) — 584 commits from 270 contributors, including new features and changes for the LLM inference engine. (TLDR AI)
+- [Bug blindness](https://danluu.com/bug-blind/?utm_source=tldrnewsletter) — Developers and advanced users go blind to bugs that frustrate normal users because they've internalized non-intuitive workarounds. Humans are good at ignoring negatives in things they like; openness to criticism helps surface flaws. (TLDR)
+
+## Perspectives
+
+- [You have to beat the models at something](https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/?utm_source=tldrai) — Software engineers must differentiate on deep codebase knowledge and communication. Models like GPT-5.6-Sol write code cheaply but struggle with system context and simplicity; translating complex AI output remains a durable skill. (TLDR AI, TLDR)
+- [I went to China to see a different AI future. It looked familiar](https://restofworld.org/2026/china-us-ai-future/?utm_source=tldrnewsletter) — Institutions and politics diverge significantly, but the US and China AI industries look remarkably similar. (TLDR)
+- [Meta's complicated AI context](https://spyglass.org/meta-ai-context-watermelon-hatch/?utm_source=tldrnewsletter) — Meta's quick pivot back to "open" is a way to exploit the marketing and framing as it tries to reestablish itself externally and realign internally. (TLDR)
+- [The standup your agents can't attend](https://codegood.co/writing/the-standup-your-agents-cant-attend?utm_source=tldrnewsletter) — Most meetings just restate facts that existed before the meeting started — write down those artifacts so agents can read them and humans save time. (TLDR)
+- [The big one is coming](https://rudyfaile.com/2026/08/30/the-big-one-is-coming/?utm_source=tldrnewsletter) — AI is going to cause a huge cyberattack in the next six months. (TLDR)
+- [Thoughts on Apple's first immersive MLB broadcast](https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast?utm_source=tldrnewsletter) — The immersive live experience was something else when viewed on a Vision Pro, during a Yankees 1-0 win over the Red Sox. (TLDR)
+
 ## 2026-08-28
 
 ## AI & Big Tech
