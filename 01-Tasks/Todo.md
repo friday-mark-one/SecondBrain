@@ -6,11 +6,12 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
+- [ ] 401k rollover
 - [ ] Fix Google home automations 
 - [ ] Update SSN / ITIN
-- [ ] Trip planning
-	- [ ] Birthday
-	- [ ] Trip
+- [x] Trip planning
+	- [x] Birthday
+	- [x] Trip
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
 - [ ] Fix TFCC
