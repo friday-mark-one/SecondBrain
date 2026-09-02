@@ -9,9 +9,6 @@ pinned: true
 - [ ] 401k rollover
 - [ ] Fix Google home automations 
 - [ ] Update SSN / ITIN
-- [x] Trip planning
-	- [x] Birthday
-	- [x] Trip
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
 - [ ] Fix TFCC

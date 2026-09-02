@@ -13,6 +13,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Dates]]
 - [ ] [[Ghost protein cereal]]
 - [ ] [[Avocado oil spray]]
+- [ ] [[Channa]]
 
 ## Regulars
 
