@@ -1,5 +1,86 @@
 # Deals
 
+## 2026-09-02
+- Michaels — Fall floral & greenery, décor & more sale — expires Sep 5, 2026 — in-store & michaels.com; varies by location
+- Fandango — FanRewards: $5 reward per 4 tickets + free birthday gift; FanClub waives ticket fees — no date — no code, account-linked
+- Alaska/Atmos — Members' September offers: Save $10 on CLEAR+ membership, 250k bonus-points giveaway; Global Getaways travel deals — no date (CLEAR+); book getaway trips by Sep 5, 2026 — no code, sign-in required
+- Domino's — Free 16-pc Parmesan Bread Bites redeemable with 20 rewards points — expires Jan 18, 2027 — redeem online; rewards status email
+- MuseScore — 24th-birthday retrospective, no discount offered — no date — informational
+- T-Mobile — Fall perks: AAA roadside free 1 yr, Pandora Premium 4 mo on us, SiriusXM 6 mo on us — no date (limited time; Pandora link expires in 30 days) — via T-Life app; qualifying plan required
+- PointsYeah — Domestic award flights from 7.5k points (LAX–Maui 12.5k AA & more) — no date — award availability varies; no code
+- H&M — 20% off H&M Home w/ $60 order — expires Sep 2, 2026 (LAST DAY) — H&M Home items only; min $60 before tax 🔔 [[Gift ideas]]
+- Life Time — Rejoin-the-club wellness nudge, no discount — no date — informational
+- GEICO — Business insurance quote upsell, no discount — no date — informational
+- Macy's — Labor Day Sale: up to 60% off jackets, home finds & more (19 curated deals) — no date — macys.com & in-store
+- Going — Iceland round-trip fares from $591 (Sep) — no date — fare alert; availability limited
+- ID.me Shop — Early Labor Day student deals: up to 40% off GE Appliances, T-Mobile, DreamCloud mattresses & more — no date — ID.me verified-student pricing
+- Kohl's — Rewards snapshot: Kohl's Cash balance + earn 7.5% w/ Kohl's Card (5% other) — no date — check wallet for expiry; no code
+- Etsy — Curated picks email, no discount offered — no date — informational
+- Michaels — Party supplies from $1.49: balloons, bakeware, gift wrap & wedding DIY — expires Sep 5, 2026 — in-store & michaels.com
+- Kohl's — Fall home picks sale + up to 85% off clearance finds — no date — kohls.com; home décor/furnishings
+- Fabletics — VIP Labor Day event: sale on select styles (excl. scrubs) — expires Sep 3, 2026 8:59 AM PT — auto-applied at checkout; no code; VIP members
+- Best Buy Visa (Citi) — 5% back in rewards (2.5 pts/$1) on chosen category, up to $75 — expires Sep 30, 2026 — activate category online; max 3,750 pts
+- Coinbase — Recurring-buy feature marketing (no discount) — no date — informational; education email
+- Etsy — Zodiac-accessory curated picks, no discount — no date — informational
+- TurboTax — 'Not too late to file' nudge, no discount — no date — informational
+- Macy's — New arrival: Samsonite Spin Tech 7 luggage — no date — macys.com; text signup offers 25% off (new subscribers)
+- Skechers Plus — Points balance 791; earn 209 more for a $5 reward — no date — account-linked; $5 reward at 1,000 pts
+- Famous Footwear — Back-to-school BOGO 1/2 off (mix & match shoes/bags) + 2X points, $10 store-pickup reward — expires Sep 7, 2026 — no code; rewards members signed in
+- Grok — Grok Bot free for 3 days with SuperGrok trial — no date — trial; link in email
+- CardPointers — New Sept credits: $10 DoorDash promo on Chase Sapphire Preferred — no date (monthly reset) — add via CardPointers; 50% off CardPointers sub
+- Cinemark — 'Avengers: Endgame Encore' event-screening news (member, 29 pts) — no date — cinemark.com
+- Fandango — Avengers: Endgame Encore (Sep 25) tickets on sale — no date — all formats via Fandango
+- Hallmark — FREE Shoebox (or Just Because) card w/ coupon — expires Sep 30, 2026 — code SUIC1151743365 in-store & online; text signup 900 bonus pts
+- H&M — H&M Home exclusive 20% off $60+ order (repeat of today's earlier H&M Home offer) — no date — member; details in account
+- NerdWallet — Car-insurance guide + card-match pitch, no discount — no date — informational
+- Nordstrom Rack — A.L.C. up to 60% off, Tommy Bahama up to 55% off, work styles up to 50% off — no date — nordstromrack.com; free ship $89+
+- Chase Business — Business Complete Checking bonus $400/$750/$1,500 w/ $2k/$20k/$100k new deposit — expires Sep 30, 2026 — code QE249294736CFN3Y; new accounts
+- Huel — Subscribe & Save: 25% off every order — no date — huel.com subscription; ongoing
+- Going — Sweden round-trip $482 from Seattle (also BOS/PDX/RDU) — no date (book within ~2-3 days) — travel Sep–Oct 2026; $850 elsewhere
+- Going — 'Points 101' educational newsletter, no deal — no date — informational
+- NerdWallet — HYSA roundup: rates up to 4.10% APY — no date — informational
+- Fabletics — Ja'Marr Chase collection drop (Labor Day event pricing) — expires Sep 3, 2026 8:59 AM PT — auto-applied; VIP members
+- Going — Bangkok round-trip $807 from Seattle (also ATL/MDW/DEN/HOU/LAX/OAK) — no date (book within ~2-3 days) — travel Sep–Oct 2026; Asiana
+- Macy's — Earn $10 Star Money (1,000 bonus pts) shopping any 2 of 5 categories (shoes, dresses, jewelry, bed & bath) — expires Sep 30, 2026 — Star Rewards members
+- Frontier — Seat-upgrade pitch on upcoming flight — no date — account-linked; not a promo
+- Kohl's — Game-day/season gear sale + up to 85% off clearance — no date — kohls.com; sports apparel & accessories
+- Michaels — Up to 50% off fall: Halloween floral, décor & craft pumpkins (personalized) — expires Sep 5, 2026 — in-store & michaels.com
+- Educative — Labor Day sale: up to 55% off (early access live early) — no date — educative.io; logged-in link, no code
+- Pandora — 'My Pandora' rewards signup: birthday treat, sneak peeks, 50% off Jewelry Care Kit at Silver — no date — membership; not a discount promo
+- Macy's — Fall Preview Sale + Buy More, Save More: 20-70% off by category incl. 25-45% Lenox dining & entertaining — no date ('hours left'); furniture/rug sale ends Sep 14 — macys.com; auto at checkout 🔔 [[Gift ideas]]
+- Going — Thailand round-trip from $807 (Sep–Oct) — no date — fare alert; availability limited
+- Macy's — Extra $10 Star Money when you shop any 2 qualifying categories (shoes, dresses, fashion jewelry, bed & bath) — no date — Star Rewards members; no code, offer-linked
+- Frontier — UpFront Plus seat-upgrade offer for upcoming SEA–DEN flights — no date — booking ref EIMKUD; via upgrade portal
+- Kohl's — Football/fall gear sale; up to 85% off clearance picks — no date — kohls.com; coupon exclusions apply
+- Michaels — Personalized deals: up to 50% off fall — expires Sep 5, 2026 — michaels.com & in-store; rewards-member pricing
+- CardPointers — Weekly add-your-offers reminder (streak: 0 wks), no deal — no date — informational
+- NerdWallet — Cheapest-car-insurance guide, no discount — no date — informational
+- Going — Istanbul round-trip $822 from Seattle — price lasts ~2-3 days — travel Mar–Apr 2027; economy 1-stop
+- MOD Pizza — New menu: Thai Chili & Cilantro pizzas + Sunday BOGO: free Kids Meal w/ MOD-size pizza or salad — no date (Sundays) — participating US locations; 4x $1k B2S sweepstakes thru Nov 15
+- Going (Points) — Delta SkyMiles to Tokyo (HND): 61k-69k pts + $63 roundtrip from Seattle — no date (flash sale) — travel Sep 2026–Mar 2027; Amex transfer; one-way bookable
+- Daily Harvest — 25% off GLP-1 Bundle — expires Sep 2 (tonight) — no code or subscription needed
+- Best Buy Visa (Citi) — Promo APR offer: activate to save on interest — expires Sep 4, 2026 — activate in account; not a discount
+- Michaels — 'Grandmacore' trend: Knit & Sew Shop picks — valid thru Sep 5, 2026 — michaels.com; craft/yarn
+- Aroma Restaurant & Venue (Bothell, WA) — BOGO drinks + $5 join credit — no date — coupon via email; venue tours & gift cards
+- Fabletics — Labor Day sitewide 50% off (early access) — expires Sep 3, 2026 8:59 AM PT — auto-applied, no code; stack 550 VIP pts
+- Fandango — FanRewards welcome: $5 per 4 tickets, birthday gift, FanClub $10 monthly credits — no date — rewards account; informational
+- Fandango — Receipt: The Odyssey IMAX 70mm, Wed Sep 9 11:00 AM, Regal UA Colorado Center (Denver) — n/a — $34.68 paid w/ gift card; $0 due
+- CardPointers — Labor Day sale: 50% off membership ($3.75/mo) — no date (through Monday) — link in email; auto-add offers
+- Life Time — Fall membership rejoin nudge, no discount — no date — informational
+- UNiDAYS — Labor Day student deals live: 30% off full price, 6-mo streaming promos, extra 10% off, $10 Uber Eats — no date — myunidays.com; verified students
+- H&M — LAST DAY: 20% off for Members (online) — expired Aug 31, 2026 (stale by send date) — auto-applied signed in; excl. sale & furniture
+- Nordstrom Rack — Favorite Daughter up to 65% off; designer watches feat. Citizen; rag & bone/Theory up to 60% — no date — nordstromrack.com; free ship $89+
+- EaseMyTrip — Payday travel-deals push (flights/hotels), no specifics — no date — easemytrip.com; informational
+- ID.me Shop — Vivid Seats student offer: 10% off tickets (up to $30) — no date — via ID.me verification; sports/concerts
+- evo — Buy skis/snowboard, get 20% off select bindings — expired Aug 31, 2026 (stale by send date) — evo.com; snow & bike gear
+- Going — 'In the Know' newsletter: holiday fares up, book early; award miles hold value — no date — informational
+- Macy's — Fall Preview Sale ends in hours: 20-40% off retro/loafer/sneaker styles (Good American, GUESS, Tommy Hilfiger, BOSS) — no date (hours left) — macys.com; BMSM at checkout
+- Michaels — New frames: modern/romantic/bohemian/maximalist décor styles — valid thru Sep 5, 2026 — michaels.com; new arrivals, no stated % off
+- Kohl's — Up to 85% off clearance + Denim Deal Days priced-right styles — no date — kohls.com
+- Frontier — Flight details: seat-upgrade upsell for upcoming booking — no date — informational; not a promo
+- Summit at Snoqualmie — Winter 2026-27 season pass summer sale: from $459 (Off-Peak / Summit Plus / Alpental w- Ikon add-ons) — summer prices end Sep 9, 2026 — summiti90.com; payment plan at checkout
+- Kohl's — Clearance up to 85% off + Denim Deal Days — no date — kohls.com; no code
+
 ## 2026-08-31
 - Macy's — jacket season: up to 30% off — no date
 - Macy's — Fall Preview Sale: men's dress pants $44.99+ & more — no date

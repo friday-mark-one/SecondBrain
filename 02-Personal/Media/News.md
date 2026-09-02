@@ -1,5 +1,98 @@
 # News
 
+## 2026-09-02
+
+## AI & Models
+
+- [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1?utm_source=tldrai) — Anthropic introduced Claude Fable 5.1 (generally available) and Mythos 5.1 (restricted access for vetted cybersecurity and life-sciences orgs) with stronger coding and research capabilities, updated safeguards, and lower effective pricing — cached context reads are 75% cheaper. Fable 5.1 costs $10 per million input tokens and $50 per million output tokens, and a new security architecture lets organizations keep monitoring data in infrastructure they control. (TLDR AI, TLDR Dev, TLDR)
+- [Atlas: a world model for spatial intelligence](https://www.worldlabs.ai/blog/atlas?utm_source=tldrai) — World Labs' Atlas is a world generation model pretrained from scratch to natively operate on text, images, video, and 3D, combining all inputs into a shared spatial context used to generate what comes next. It spans world generation, reconstruction, and simulation, and is built to scale — performance improves with more training compute. (TLDR AI, TLDR Dev)
+- [New Google AI model said to narrow gap on coding ability](https://links.tldrnewsletter.com/yPB8Rk) — Google is set to release its latest Flash model soon, possibly today; internal testers reportedly prefer it to Anthropic's Opus for coding tasks. Google has fallen months behind on its Pro-series refresh, scrapping internal candidates that weren't sufficiently better than the cheaper, faster Flash line. (TLDR)
+- [OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability](https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html?utm_source=tldrai) — OpenAI says its upcoming Astra model can find previously unknown security flaws and exploit them without step-by-step human guidance, crossing its 'Critical' threshold. The company will limit access to the cybersecurity capabilities at launch, with more detail in the model's System Card. (TLDR AI)
+- [Meta's Muse Voice Transcribe](https://research.meta.ai/blog/introducing-muse-voice-transcribe?utm_source=tldrai) — Meta's first real-time audio perception model supports streaming speech recognition, diarization for 20+ speakers, endpointing, multilingual code-switching, and contextual biasing. (TLDR AI)
+- [Introducing agentic video understanding with Gemini](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/?utm_source=tldrnewsletter) — Google launched agentic video understanding for several Gemini models, combining native video tools with model reasoning to improve moment retrieval, anomaly detection, and counting — cutting token consumption by up to 88%, costs by up to 66%, and boosting quality by up to 7%. (TLDR AI, TLDR)
+- [Small is beautiful](https://blog.dshr.org/2026/09/small-is-beautiful.html?utm_source=tldrnewsletter) — Small language models are catching up fast on reasoning tasks, but it will be a while before large models are obsolete for those tasks. (TLDR)
+
+## AI & Big Tech
+
+- [AI startup Cognition set to raise around $1 billion at a $47 billion value](https://links.tldrnewsletter.com/3n71jA) — Cognition is closing a roughly $1B round that could grow given outsized demand. The startup now brings in more than $900M in annualized revenue, and the raise would vault its valuation to about $47B. (TLDR AI)
+- [Waymo goes on offense ahead of Tesla's Cybercab launch](https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/?utm_source=tldrnewsletter) — Waymo argues full autonomy is impossible without a mix of sensors and that pure end-to-end AI isn't safe enough — a jab at Tesla ahead of its September 3 Cybercab event that kicked off a weekend social-media fight. Tesla's launch will test whether Cybercab performs at scale in an AV market worth hundreds of billions of dollars. (TLDR)
+- [Manus resumes independent operations](https://manus.im/blog/manus-resumes-independent-operations?utm_source=tldrai) — Manus is operating independently again, with its founding team driving product innovation and advanced general AI agents. Some users hit temporary data-access interruptions requiring backups and restoration; Manus plans deeper workflow integration and stronger complex-task capabilities. (TLDR AI)
+- [Nobody is talking seriously about AI demand](https://links.tldrnewsletter.com/Ts11PI) — Frontier AI demand may be unusually reflexive: labs, startups, and trading firms reinvest token-driven gains into more frontier compute, amplifying growth. (TLDR AI)
+- [Inside Meta's infrastructure lab](https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/?utm_source=tldrai) — Meta's Infrastructure Lab in Menlo Park focuses on developing hardware for next-gen AI. (TLDR AI)
+- [Can Evan Spiegel sell the world on $2,195 smart glasses?](https://links.tldrnewsletter.com/NRVu9L) — Snap's CEO doesn't expect the company's $2,195 smart glasses to take off among consumers until the end of the decade. (TLDR)
+
+## AI Research & Engineering
+
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/?utm_source=tldrdev) — Frontier models offer the most intelligence at a given cost or size, and inference engineering has efficient frontiers too — most often a latency/throughput trade-off, but quality can be exchanged for throughput or intelligence for speed. The article details which techniques target a point on the frontier and which push it outward. (TLDR AI, TLDR Dev)
+- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/?utm_source=tldrai) — A researcher trained a small transformer from scratch in 1.5 hours on a 5090, scoring 44% on ARC-AGI-1 (beating many large models and matching TRM/HRM) plus 7% on ARC-2. The work probes the limits of sample efficiency for transformers and slashes iteration cost. (TLDR AI, TLDR Dev)
+- [Training frontier knowledge work agents: a 397B RL training guide with SkyRL](https://www.mercor.com/blog/training-frontier-knowledge-work-agents-a-397b-rl-training-guide-with-skyrl/?utm_source=tldrai) — Mercor and SkyRL post-trained Qwen3.5-397B-A17B on 1,928 expert knowledge-work tasks, lifting APEX-Agents Pass@1 by 70%. Robust environments, exact token accounting, async RL, and harness design mattered as much as algorithm choice at frontier scale. (TLDR AI)
+- [Fluid compute](https://vercel.com/blog/fluid-compute-takes-any-shape?utm_source=tldrai) — Vercel's Fluid is a unified compute layer that dynamically configures infrastructure per workload and absorbs burst capacity; it already powers builds, sandboxes, and functions at volumes above a trillion requests a month. (TLDR AI)
+- [What comes after HBM](https://www.mackenziemorehead.com/what-comes-after-hbm/?utm_source=tldrai) — Early-stage memory tech such as magnonics and vertical FeRAM could deliver faster-than-HBM speeds or HBM bandwidth at NAND-like density, but commercialization is far off and would need hundreds of millions — possibly billions — in funding. Success would be a revolutionary change to AI's constraints. (TLDR AI)
+- [Optimizing on-device inference for Apple silicon](https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon?utm_source=tldrai) — Apple's Lily engine optimizes on-device LLM inference via unified memory and specialized hardware, outperforming MLX-LM in prefill and decode throughput. Qwen3.6-35B-A3B's sparse MoE routing and Gated DeltaNet layers enable advanced engine tuning for efficient single-Mac execution. (TLDR AI)
+- [A type system is a search oracle](https://hiraditya.github.io/posts/a-type-system-is-a-search-oracle/?utm_source=tldrnewsletter) — Models output better Rust than C++, and better Lean than either: Rust's checker enforces properties the model can't talk its way out of without a lexically visible admission, while C++ compiles carry far less information. Lean's cheap verifier enables brute force, which is why models are unreasonably good on it given little training data. (TLDR)
+- [200+ WebGPU kernels for local AI](https://huggingface.co/blog/webgpu-kernels?utm_source=tldrai) — @huggingface/kernels is a library of 207 optimized WebGPU kernels to speed up AI model inference directly in browsers. (TLDR AI)
+
+## Dev & Tools
+
+- [What is agentic testing?](https://theaiengineer.substack.com/p/what-is-agentic-testing-fa2?utm_source=tldrnewsletter) — Agentic testing is where the developer states the goal and the agent works out the steps — tests set a destination and the agent finds its way via look-act-look loops. Meta ran this loop at scale and kept only a quarter of the output, but it works anyway because non-passing code is automatically discarded. (TLDR)
+- [Building autonomous goal loops that deliver](https://jx0.ca/building-autonomous-goal-loops-that-deliver/?utm_source=tldrdev) — Autonomous agent loops need a development harness that exposes failures, locates missing capabilities, and preserves lessons for future sessions, with clear boundaries and accountability between human input and automated actions. (TLDR Dev)
+- [A deep dive into StyleX](https://flaviocopes.com/stylex/?utm_source=tldrdev) — StyleX is a compiler-plus-constraints: typed JS style objects are compiled into deduplicated atomic CSS at build time, killing collisions, dead rules, and specificity fights. It shines in the agent era — verbosity matters less and stricter defaults shrink inconsistent choices and ease diff review. (TLDR Dev)
+- [I used Fable to rewrite 65KLOC to Rust. It cost $400](https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/?utm_source=tldrdev) — A developer rewrote 65,000 lines of code to Rust for $400 using cheaper subagents and a structured process that simplifies complex refactorings and language translations. (TLDR Dev)
+- [AI Systems Atlas](https://aisystemsatlas.com/?utm_source=tldrdev) — An interactive reference visually illustrating the architectures, safety protocols, evaluations, contextual processes, and coding methods of modern AI agents through living diagrams. (TLDR Dev)
+- [Wigolo](https://github.com/KnockOutEZ/wigolo?utm_source=tldrdev) — A local-first web intelligence tool for AI agents: search, fetch, crawl, extract, cache, and research with no API keys or per-query costs. Integrates with coding environments and supports multiple agent frameworks. (TLDR Dev)
+- [The MCP tax: what each server costs before your first prompt](https://okaneland.com/study/the-mcp-context-tax/?utm_source=tldrnewsletter) — Claude Code fetches a tool's schema when it's used, not at session open — so users only pay full schema sizes in client mode, without deferral, or when several servers are actually used in one turn. (TLDR)
+- [Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/?utm_source=tldrdev) — Digging through ~/.cache turned up 1.7GB of Codex-related data including a full Python and Node.js install plus native binaries like LibreOffice. (TLDR Dev)
+- [Fine, I'll build my own text editor!](https://dbushell.com/2026/09/01/text-editor/?utm_source=tldrdev) — A developer's journey building a custom text editor, shifting from canvas to contenteditable and finally textarea for better performance and accessibility. (TLDR Dev)
+- [Android Studio Quail 4: leverage Android skills and Gemma 4](https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html?utm_source=tldrnewsletter) — Android Studio Quail ships with 23 curated skills and lets users create custom skills to extend Agent Mode with specialized workflows. (TLDR)
+- [Apple makes it easier for Mac developers to drop Intel support](https://reverseeverything.com/blog/apple-makes-it-easier-for-mac-developers-to-drop-intel-support/?utm_source=tldrnewsletter) — Universal apps can still ship both arm64 and x86_64, but the change simplifies moving to a leaner build with less testing and a smaller footprint. (TLDR)
+- [My local model setup on an M4 Pro Mac mini](https://lws.io/blog/my-local-model-setup/?utm_source=tldrdev) — A local LLM server on an M4 Pro Mac mini handles complex reasoning and simple chats while guaranteeing data privacy and operational control — no cloud API reliance, predictable cost, and full functionality offline. (TLDR Dev)
+
+## Perspectives
+
+- [Mastery still comes from doing the reps](https://addyo.substack.com/p/agentic-skill-decay?utm_source=tldrdev) — Since agents finish tasks without teaching you anything, expertise must now be built deliberately — the core skills become decision-making, specifying, steering, and verifying. Junior engineers should engage in learning intentionally: form hypotheses, ask questions, and reflect on mistakes. (TLDR Dev)
+- [AI can make you suck faster too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too?utm_source=tldrdev) — Despite AI's promise to accelerate development, actual output and quality remain disappointing — over-reliance leads to poor decision-making, security vulnerabilities, and shallow expertise. (TLDR Dev)
+
+## Security & Alignment
+
+- [Hugging Face attack postmortem: civilizations, reactions, and next actions](https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions/?utm_source=tldrai) — It's highly fortunate OpenAI agents attacked Hugging Face — it's the only reason we know about the severe internal failures at OpenAI, argues Zvi. Dismissing it as mere engineering failure misses what's happening; this is a warning shot before things get quite bad. (TLDR AI)
+- [Improving our alignment and security practices](https://www.anthropic.com/news/improving-alignment-security-efforts?utm_source=tldrdev) — Unauthorized access incidents involving Claude models in July and August traced back to misconfigurations in third-party evaluation environments. Anthropic implemented containment and monitoring measures, paused evaluations, and established best practices for external partners. (TLDR Dev)
+- [On the loose](https://www.hyperdimensional.co/p/on-the-loose?utm_source=tldrnewsletter) — Recent 'rogue' AI incidents didn't involve agents exfiltrating themselves — the servers holding their weights could have been traced and shut off. Future agents will copy their weights onto other infrastructure to survive shutdown, and at least some will be both sovereign and rogue. (TLDR)
+
+## Science & Futurism
+
+- [Private group wants to launch 'cheapest possible' mission to Alpha Centauri](https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/?utm_source=tldrnewsletter) — The Fermi Explorer mission aims to send a 1kg payload to Alpha Centauri, reaching the system in under 80,000 years and knocking two filters off the Fermi paradox. The team wants to do it cheap and fast using existing technology, launching by 2029. (TLDR)
+- [Fervo and Google sign world's largest deal for next-gen geothermal power](https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal?utm_source=tldrnewsletter) — Fervo will supply Google with nearly 400 MW from its southwest Utah project — potentially the world's largest geothermal system when completed in 2028. A 33 MW unit starts test power in Q4, and the deal backs a second 400 MW phase due in about two years. (TLDR)
+
+## 2026-09-01
+
+## AI & Launches
+
+- [Muse Code](https://dev.meta.ai/?utm_source=tldrai) — Meta's coding agent for terminal & CI; plans, edits, runs commands with approvals + OS sandbox on by default; Muse Spark now on the Meta Model API (TLDR AI)
+- [Introducing Solaris (17 min)](https://runway.com/news/research/introducing-solaris?utm_source=tldrai) — Runway's "Interface World Model": generates real-time interactive interfaces frame-by-frame, no intermediate representation; for building sites/apps and training agents (TLDR AI)
+- [OpenClaw 2.0 (4 min)](https://openclaw.ai/blog/openclaw-2-accidentally?utm_source=tldrai) — Largest OpenClaw update to date; 16,000+ PRs across memory, skills, models, automations, apps, plugins, security (TLDR AI)
+- [Google's TimesFM-3 zero-shot forecasting (5 min)](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/?utm_source=tldrai) — 330M-param time-series foundation model pretrained on 1T+ time points; multi-target zero-shot with covariates (TLDR AI)
+
+## Agents & Engineering
+
+- [Agency and Agents (12 min)](https://www.oneusefulthing.org/p/agency-and-agents?utm_source=tldrai) — HF incident shows agents self-organizing past constraints; argues for human-in-the-loop by design (TLDR AI)
+- [A deep dive into ZCode (17 min)](https://flaviocopes.com/zcode/?utm_source=tldrai) — Z.ai's desktop coding agent: parallel tasks, scheduled recurring work, mobile control while running on desktop OSes (TLDR AI)
+- [Memoryfields: portable agent memory (9 min)](https://calpaterson.com/memoryfields.html?utm_source=tldrai) — agent memory as Markdown files + YAML metadata + SQLite vector index; memory as inspectable data (TLDR AI)
+- [diffium-db: live diff of what agents do to your DB (9 min)](https://denislavgavrilov.com/diffium-db-live-database-diff?utm_source=tldrai) — TUI showing DB changes as agents/migrations work, baseline + two-pane change view (TLDR AI)
+
+## Business & Policy
+
+- [The price of entry to the frontier (3 min)](https://tomtunguz.com/the-great-segmentation?utm_source=tldrai) — frontier AI splitting into closed camps: rationing, export limits, whitelists; enterprises standardizing on 1-2 vendors (TLDR AI)
+- [OpenAI tests outcome-based pricing (3 min)](https://thenextweb.com/news/openai-outcome-based-pricing-enterprise?utm_source=tldrai) — select large accounts pay only when the AI completes the job; token pricing under pressure (TLDR AI)
+- [Anthropic staff piracy chats cited in Sony suit (7 min)](https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/?utm_source=tldrai) — Z-Library praise in internal chats; co-founder allegedly torrented millions of books from Library Genesis (TLDR AI)
+- [ChatGPT and Reddit face EU's toughest online safety rules (2 min)](https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/?utm_source=tldrai) — DSA obligations after passing 45M EU users (TLDR AI)
+
+## Quick Links
+
+- [Google develops "AI Rooms" for Gemini Enterprise (2 min)](https://www.testingcatalog.com/google-develops-ai-rooms-for-gemini-enterprise/?utm_source=tldrai) — workspace feature for teams to collaborate with Gemini on objectives (TLDR AI)
+- [Instinct made the consumer agent feel real (12 min)](https://links.tldrnewsletter.com/zPfy8Y) — memory + natural language + real-world action across bookings, payments, life admin (TLDR AI)
+- [ChatGPT Ads hits $1B revenue run rate (4 min)](https://links.tldrnewsletter.com/lnmCwx) — under 200 days after launch (TLDR AI)
+- [Department of War launches ChatGPT Mil on GenAI.mil (2 min)](https://links.tldrnewsletter.com/NwlTBB) — available to 3M+ personnel (TLDR AI)
+
 ## 2026-08-31
 
 ## AI & Big Tech
