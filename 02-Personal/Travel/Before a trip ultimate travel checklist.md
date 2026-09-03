@@ -9,7 +9,7 @@ pinned: false
 
 - [ ] Take out trash
 - [x] Empty water bottle
-- [ ] Check baggage requirements for airline
+- [x] Check baggage requirements for airline
 - [x] Dopp kit
 - [x] Multivitamin tablets
 - [x] Gifts / Chocolates?
@@ -22,14 +22,14 @@ pinned: false
 - [x] Masks
 - [x] Kerchief
 - [x] Phone charger
-- [ ] Watch
+- [x] Watch
 - [x] USB cable
 - [ ] Clean out fridge
-- [ ] Start dishwasher
+- [x] Start dishwasher
 - [x] Wash clothes
-- [ ] Plug bathroom sinkholes
+- [x] Plug bathroom sinkholes
 - [x] Charge laptop
-- [ ] Flight entertainment downloads
+- [x] Flight entertainment downloads
 - [x] Belt
 - [x] Outdoor wear
 - [x] Indoor wear
@@ -53,5 +53,5 @@ pinned: false
 - [ ] Plan for food or snacks
 - [x] Extra pair of clothes, socks
 - [x] Jacket
-- [ ] Hiking shoe
-- [ ] Sandals for beach or hostel
+- [x] Hiking shoe
+- [x] Sandals for beach or hostel
