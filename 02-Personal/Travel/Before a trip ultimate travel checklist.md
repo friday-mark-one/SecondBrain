@@ -35,15 +35,15 @@ pinned: false
 - [x] Indoor wear
 - [x] Socks
 - [x] Shoes
-- [ ] Vests
+- [x] Vests
 - [x] Neck rest
 - [x] Compression sock
 - [x] Eye mask
 - [x] Check mailbox
-- [ ] Cooling glass
-- [ ] Cap
+- [x] Cooling glass
+- [x] Cap
 - [x] Towel
-- [ ] Gloves
+- [x] Gloves
 - [x] Mac mini remote setup
 - [x] Formal shirt and pant
 - [x] Swim shorts
@@ -52,6 +52,6 @@ pinned: false
 - [ ] Offline spotify
 - [ ] Plan for food or snacks
 - [x] Extra pair of clothes, socks
-- [ ] Jacket
+- [x] Jacket
 - [ ] Hiking shoe
 - [ ] Sandals for beach or hostel
