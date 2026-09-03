@@ -8,7 +8,7 @@ pinned: false
 ### Ultimate travel checklist
 
 - [ ] Take out trash
-- [ ] Empty water bottle
+- [x] Empty water bottle
 - [ ] Check baggage requirements for airline
 - [ ] Dopp kit
 - [ ] Multivitamin tablets
