@@ -1,5 +1,18 @@
 # Deals
 
+## 2026-09-03
+- Kohl's — Labor Day Sale: $10 off $25+ w/ code SHOP10, extra 15% off home w/ HOME15, earn $5 Kohl's Cash per $25; up to 75% off Sephora at Kohl's beauty — no date — kohls.com; codes in wallet
+- MOD Pizza — Labor Day Bundle: 2 regular pizzas or salads + CinnaMOD for $28 — expires Sep 9, 2026 — rewards members; in-restaurant, modpizza.com, or app; limit 1
+- Nordstrom Rack — Nordy Club pitch: rewards, early access to Clear the Rack, extra 5% off — no date — informational; membership signup
+- Pandora — 10% off next purchase (welcome gift; Pink member) — expires Sep 30, 2026 — log in; exclusive code at checkout
+- Cinemark — Monthly Movie Rewards recap (Movie Fan member, 29 pts) — no date — informational; account-linked
+- Famous Footwear — LifeStride new-arrivals showcase (slip-ons, sandals, wedges, boots) — no date — informational; no discount offered
+- Fabletics — VIP Labor Day event 'a sale so good we had to upgrade you': select styles, excl. scrubs — expires Sep 8, 2026 11:59 PM PT — auto-applied at checkout; no code; VIP members
+- point.me — Weekly award-fare deals (LAX–Tahiti biz 60K, BOS–Amsterdam 12K/30K, NYC–Turks & Caicos 7.5K) + Premium $195/yr pitch ($65 off) — no date — informational; award availability varies
+- Macy's — Up to 50% off trending fall handbags & accessories — no date — macys.com; handbags/accessories
+- Aroma Restaurant & Venue — Happy Hour daily 5–7 PM (ex. Tue): BOGO first drink — no date — aromarestaurant.us; local Indian restaurant
+- DoorDash — 'Feeling spontaneous' restaurant suggestions (Taco Bell, Chipotle, Royal Biryani House, etc.) — no date — informational; no discount
+
 ## 2026-09-02
 - Michaels — Fall floral & greenery, décor & more sale — expires Sep 5, 2026 — in-store & michaels.com; varies by location
 - Fandango — FanRewards: $5 reward per 4 tickets + free birthday gift; FanClub waives ticket fees — no date — no code, account-linked
