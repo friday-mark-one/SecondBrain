@@ -10,57 +10,48 @@ pinned: false
 - [ ] Take out trash
 - [x] Empty water bottle
 - [ ] Check baggage requirements for airline
-- [ ] Dopp kit
-- [ ] Multivitamin tablets
-- [ ] Gifts / Chocolates?
-- [ ] Earpod
-- [ ] Lightning cable
-- [ ] Indian rupees
-- [ ] I-79
-- [ ] Passport
-- [ ] Pen
-- [ ] Masks
-- [ ] Kerchief
-- [ ] Phone charger
+- [x] Dopp kit
+- [x] Multivitamin tablets
+- [x] Gifts / Chocolates?
+- [x] Earpod
+- [x] Lightning cable
+- [x] Indian rupees
+- [x] I-797
+- [x] Passport
+- [x] Pen
+- [x] Masks
+- [x] Kerchief
+- [x] Phone charger
 - [ ] Watch
-- [ ] USB cable
+- [x] USB cable
 - [ ] Clean out fridge
 - [ ] Start dishwasher
-- [ ] Wash clothes
+- [x] Wash clothes
 - [ ] Plug bathroom sinkholes
-- [ ] Charge laptop
+- [x] Charge laptop
 - [ ] Flight entertainment downloads
-- [ ] Belt
-- [ ] Outdoor wear
-- [ ] Indoor wear
-- [ ] Socks
-- [ ] Shoes
+- [x] Belt
+- [x] Outdoor wear
+- [x] Indoor wear
+- [x] Socks
+- [x] Shoes
 - [ ] Vests
-- [ ] Neck rest
-- [ ] Compression sock
-- [ ] Eye mask
-- [ ] Check mailbox
+- [x] Neck rest
+- [x] Compression sock
+- [x] Eye mask
+- [x] Check mailbox
 - [ ] Cooling glass
 - [ ] Cap
-- [ ] Towel
+- [x] Towel
 - [ ] Gloves
-- [ ] Mac mini remote setup
-- [ ] Formal shirt and pant
-- [ ] Swim shorts
-- [ ] Plastic bag for old clothes
-- [ ] Download offline google maps
+- [x] Mac mini remote setup
+- [x] Formal shirt and pant
+- [x] Swim shorts
+- [x] Plastic bag for old clothes
+- [ ] Offline google maps
 - [ ] Offline spotify
-
-
-- [ ] Travel tips
-  - [ ] Plan for food and water if remote place
-  - [ ] Change of clothes for night, extra pair of socks, toiletries
-  - [ ] Proper shoe
-  - [ ] Correct layering based on weather
-  - [ ] Download Google maps offline
-  - [ ] Spotify offline
-  - [ ] Dopp kit in backpack so it is easy to take things
-  - [ ] Hiking shoe also
-  - [ ] Coolers
-  - [ ] Toiletries refill
-  - [ ] Sandals when staying at hostel
+- [ ] Plan for food or snacks
+- [x] Extra pair of clothes, socks
+- [ ] Jacket
+- [ ] Hiking shoe
+- [ ] Sandals for beach or hostel
