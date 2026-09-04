@@ -10,7 +10,7 @@ pinned: true
 ### Business ideas
 - [ ] Food recall tracker
 - [ ] 3D printer marketplace for people to print stuff (shef but for 3D printers)
-- [ ] Fun game or exercise to prevent brain rot from ai takeover
+- [ ] Fun game or exercise to prevent brain rot from ai takeover ( especially for aging people and maybe young people too )
 - [ ] Openworld like Minecraft, but people use AI and software to build the world - very vague idea
 - [ ] Vegetarian friendly menu for any menu url with photo of how it looks
 - [ ] OOO reason generator with personalization and flexibility of configuration

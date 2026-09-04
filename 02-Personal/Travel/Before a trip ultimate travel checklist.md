@@ -7,7 +7,7 @@ pinned: false
 
 ### Ultimate travel checklist
 
-- [ ] Take out trash
+- [x] Take out trash
 - [x] Empty water bottle
 - [x] Check baggage requirements for airline
 - [x] Dopp kit
