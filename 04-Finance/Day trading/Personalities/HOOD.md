@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - (add what this name trades on)
 - 2026-08-20 — Trades on crypto-regulatory momentum: Trump admin advancing crypto rules (CLARITY Act) and bitcoin price spikes (gap +5.3% today) move it, alongside meme-coin trading volumes
+- 2026-09-04 — New swing factor: tokenized-stock offerings controversy — AMC CEO backlash over "tokenized" equities (securities-law scrutiny) gapped it -3.4%, layering onto its crypto-driven moves
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -26,3 +27,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-20 — AUTO: opening gap +5.3%. Headlines: Trump administration moves ahead with new crypto rules, with key bill stalled in Congress | Bitcoin price spikes after Trump meets with crypto leaders and pushes CLARITY Act | Solana, Robinhood, BNB Clash for Meme Coin Season: Who is Winning the $3 Billion Rally?
 - 2026-08-21 — AUTO: +13.7% day (≥2× its typical range); opening gap +6.3%; crossed above its 50d average; crossed above its 200d average. Headlines: Stocks trade higher, lifted by crypto, commodities: AlphaCheck | Why is HOOD stock up today? | Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today’s Market
 - 2026-09-03 — AUTO: +16.6% day (≥2× its typical range); opening gap +6.4%. Headlines: Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, SpaceX Rise As Cybercab Event Nears (Live Coverage) | Why Your Teen’s Robinhood Gains Can Get Taxed at Your 35% Rate Under the Kiddie Tax | Why Robinhood and Coinbase Are the Top S&P 500 Stocks Today
+- 2026-09-04 — AUTO: opening gap -3.4%. Headlines: 'Detestable, inexcusable, vile': AMC CEO slams Robinhood for tokenized stock offerings | AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading | Sector Update: Financial Stocks Retreat Late Afternoon

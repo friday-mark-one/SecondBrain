@@ -14,10 +14,11 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 <!-- personality:generated:end -->
 
 ## What it trades on (narrative — maintain by hand)
-- (add what this name trades on)
+- 2026-09-04 — Trades on robotaxi/Cybercab event reception and regulatory headlines: a disappointing Cybercab event plus an NHTSA probe (no-steering-wheel review) gapped it -3.8% back below its 50d, reversing pre-event strength
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-29 — AUTO: new 52-week low. Headlines: ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission. | Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure | Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans
 - 2026-08-31 — AUTO: crossed above its 50d average. Headlines: Here comes the AI capex shocker, Goldman Sachs says | Next Up for Tesla’s Self-Driving Tech: Potholes | Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today’s Market
 - 2026-09-03 — AUTO: crossed above its 50d average. Headlines: Tesla's Cybercab event is tonight. Here's what the industry — and Wall Street — expects | Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, SpaceX Rise As Cybercab Event Nears (Live Coverage) | Elon Musk's $30,000 Cybercab is about to face its biggest test
+- 2026-09-04 — AUTO: opening gap -3.8%; crossed below its 50d average. Headlines: No steering wheel, no problem: Can Tesla speed by Cybercab probe? | Are Meta and Nvidia redefining value vs. growth stocks in the era of AI? | TSLA Stock Drops On Disappointing Cybercab Event, NHTSA Probe — But Elon Musk Highlights Growth Since IPO
