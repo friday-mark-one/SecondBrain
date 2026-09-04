@@ -1,5 +1,42 @@
 # Deals
 
+## 2026-09-04
+- Kohl's — Labor Day Sale: earn $5 Kohl's Cash for every $25 + extra 15% off home finds — no date — kohls.com; promo email
+- Airtel (India) — Up to ₹23,000 off on an iPhone — no date — airtel.in; India-market offer
+- Nordstrom Rack — Extra 25% off clearance — no date — online now; in stores Sep 4 — nordstromrack.com
+- Google AI Studio — Gemini 3.8 Flash launch: long-horizon coding & agent model ($0.75/M in, $3.75/M out) — no date — informational; model announcement, no discount
+- Summit at Snoqualmie — Family Adventure Zone Sat–Sun Sep 5–6: $35 tickets incl. scenic lift rides, mountaintop mini golf, live music, axe throwing, kids' obstacle course — expires Sep 6, 2026 — summitatsnoqualmie.com; final summer weekend at Summit West
+- MOD Pizza — Meatatarian spotlight: Loaded Legend & Carnivore pizzas — no date — informational; menu feature, no discount
+- UNiDAYS — $100–$150 Apple gift card with Mac/iPad purchase (student perk via Apple) — no date — myunidays.com; 'we miss you' re-engagement
+- Cinemark — New & Now: By Any Means & Onslaught now playing + coming attractions (Movie Fan, 29 pts) — no date — informational; account-linked
+- Macy's — Fall home trend 'artful layering' styling feature — no date — informational; shoppable editorial
+- Lyft — 20% off a scheduled airport ride — no date — schedule in Lyft app; airport rides
+- Going — SEA–Honolulu $310 roundtrip (1-stop, Sep–Nov; price lasts ~2–3 days) + 3 new saved-destination deals — no date — going.com; member alerts
+- Educative — Fenzo: new library for modern data analysts (AI-assisted data cleaning, SQL, visualization, storytelling) — free to start — no date — educative.io
+- Fabletics — VIP Labor Day sitewide sale is live (Members Only VIP upgrade) — no date — fabletics.com; VIP members
+- Going — Europe roundtrips $428–$578 (Oct–Feb) — no date — going.com; multiple cities/dates
+- NerdWallet — High-yield savings accounts still earning up to 4.10% APY — no date — informational; nerdwallet.com roundup
+- DoorDash — Cheesecake Factory: join Cheesecake Rewards & link account for 20% off up to $10 next order — no date — doordash.com; DoorDash-exclusive
+- Macy's — Member exclusive: 20% off Ana Luisa jewelry & more, online only — expires Sep 7, 2026 — sign in to redeem; macys.com
+- H&M — Labor Day Event: up to 50% off starts now — no date — hm.com & in-store
+- Nordstrom — End-of-Season Clearance: up to 50% off — no date — nordstrom.com
+- Macy's — Up to 65% off mattresses — no date — macys.com; mattress event
+- Amica — 'Count on Amica' (customer-owned 115 yrs) quote pitch — no date — informational; insurance, no discount
+- Etsy — Dainty name chokers (trending jewelry picks) — no date — informational; etsy.com
+- Michaels — Curated deals on favorites: up to 50% off fall — no date — michaels.com & in-store
+- Famous Footwear — You're a STAR: Free Shipping + extras (rewards) — no date — account-linked; famousfootwear.com
+- Hallmark — Free shipping, no minimums — no date — hallmark.com
+- PointsYeah — Chase business card offers ending soon: earn up to 200K pts; two cards no annual fee — no date — pointsyeah.com; sign-up bonuses
+- Life Time — Labor Day weekend personalized club tour welcome-back — no date — informational; no discount
+- H&M — Out now: Kelly Wearstler H&M HOME collection — no date — hm.com; designer collab
+- Going — Hawaii roundtrips $310–$530 (Sep–Nov) — no date — going.com; multiple origin cities
+- Lake Washington Dermatology — 'Your September Treat is Inside' clinic special — no date — lwderm.com; local derm offer
+- Going — Charleston $236 roundtrip (Sep–Nov) — no date — going.com
+- The Leela Palace Chennai — 'A Little More of The Leela' family escape: indulgent buffet breakfast + INR 1,500 hotel credit, kids under 11 stay & dine free — no date — theleela.com; India; dining events too
+- point.me — Labor Day flash sale: Standard annual $96.75 w/ code LABORDAY (~7 months free vs monthly) — expires Sep 7, 2026 midnight — point.me; code LABORDAY
+- Michaels — Halloween costume supplies & ideas — no date — informational; michaels.com
+- Kohl's — Labor Day Sale: $10 off your $25 purchase starts today + 15% off home & $5 Kohl's Cash per $25 — no date — kohls.com
+
 ## 2026-09-03
 - Kohl's — Labor Day Sale: $10 off $25+ w/ code SHOP10, extra 15% off home w/ HOME15, earn $5 Kohl's Cash per $25; up to 75% off Sephora at Kohl's beauty — no date — kohls.com; codes in wallet
 - MOD Pizza — Labor Day Bundle: 2 regular pizzas or salads + CinnaMOD for $28 — expires Sep 9, 2026 — rewards members; in-restaurant, modpizza.com, or app; limit 1
