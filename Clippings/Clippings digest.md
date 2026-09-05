@@ -1,6 +1,17 @@
 > [!note] Clippings digest
 > Weekly digest of saved clips — newest sections on top.
 
+## Saturday, September 5, 2026
+
+### [[The choices we make about AI now are critical]]
+— gatesnotes.com · saved 2026-08-31 · article
+
+Bill Gates' broadest statement yet of his AI-era agenda: the transition will be one of the most turbulent periods in human history, and the world has no plan for it. He lays out three big risks — permanent, cross-sector job displacement (AI substitutes for cognition itself, hitting within a decade rather than generations), AI empowering bad actors and concentrating power (cyberattacks, bioweapons, disinformation, autonomous weapons, possible loss of control), and AI companions/chatbots stunting kids' development and replacing human relationships. On the upside he sees supercharged R&D, emergency diagnostics in small hospitals (Viz.ai in ~2,000 US hospitals), better advice for low-income farmers, streamlined government services, and AI tutors that preserve "productive struggle." His three concrete proposals: build a new national + international governance framework, set aside a "Human Reserved" domain of jobs only humans may do, and tax AI tokens and robots to fund retraining and a stronger safety net.
+
+**Worth a full read?** yes — it's the fullest articulation of the "AI needs a plan" position from someone with real influence, and the Human Reserved and robot-tax ideas are concrete enough to argue with.
+
+---
+
 ## Saturday, August 15, 2026
 
 ### [[Interviewing Engineers in the AI Era Lessons from a Year of Rebuilding]]
