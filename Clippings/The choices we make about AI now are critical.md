@@ -1,4 +1,6 @@
 ---
+status: digested
+digested: 2026-09-05
 title: "The choices we make about AI now are critical"
 source: "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
 author:
