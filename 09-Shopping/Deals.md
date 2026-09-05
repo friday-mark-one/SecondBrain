@@ -1,5 +1,19 @@
 # Deals
 
+## 2026-09-05
+- Fabletics — 65% off new arrivals (VIP member pricing) — no date — fabletics.com
+- Going — With Points: London economy roundtrip ~40k points — no date — going.com; points deal
+- Going — Montana roundtrips $157 (Dec–Jan) — no date — going.com; flight deal
+- Sephora at Kohl's — Up to 50% off select beauty + 500 bonus points with $75+ spend — no date — kohls.com
+- Going — With Points: nonstop Hawaii economy roundtrip ~15k points — no date — going.com; points deal
+- H&M — Denim for the whole family from $12.99 — no date — hm.com
+- Dell — Double Dell Rewards points on every purchase (September 2X Rewards promo) — no date — dell.com; Rewards members
+- Fabletics — $10 off next order for completing VIP membership feedback survey — no date — fabletics.com; survey in email
+- Going — Highest-ever 100,000-point credit card sign-up offer — ending soon — going.com; card offer
+- evo — Labor Day Sale adds brands: Dakine & Norrona up to 25% off, Outdoor Research 20% off; sale up to 50% off — no date — evo.com
+- Going — SEA ↔ California nonstop roundtrips $97 (Oct–Mar) — no date — going.com; flight deal
+- Kohl's — Labor Day Sale: earn $5 Kohl's Cash for every $25 + 15% off home finds — no date — kohls.com
+
 ## 2026-09-04
 - Kohl's — Labor Day Sale: earn $5 Kohl's Cash for every $25 + extra 15% off home finds — no date — kohls.com; promo email
 - Airtel (India) — Up to ₹23,000 off on an iPhone — no date — airtel.in; India-market offer
