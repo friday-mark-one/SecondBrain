@@ -1,5 +1,18 @@
 # Deals
 
+## 2026-09-06
+- Kohl's — Labor Day Sale: $10 off your $25 purchase + earn $5 Kohl's Cash for every $25 — no date — kohls.com; up to 85% off clearance
+- Fabletics — Labor Day Sitewide Sale live in your account: prices dropped — no date — fabletics.com; in-account pricing
+- Macy's — Levi's 30% off — expires Sep 7, 2026 — macys.com
+- Macy's — Levi's up to 40% off select styles — no date — macys.com
+- Nordstrom — End-of-Season Clearance: up to 50% off summer favorites — no date — nordstrom.com
+- Michaels Custom Framing — 70% off custom frames — expires Sep 6, 2026 — michaels.com; excludes value packages/express
+- Michaels — Two 40% off coupons (Big Fall Sale weekend) — no date — michaels.com; coupons in email/account
+- H&M — Up to 50% off cozy fall styles (Labor Day event) — no date — hm.com
+- Nordstrom Rack — Up to 50% off designer: Ferragamo, Off-White & more — no date — nordstromrack.com
+- Macy's — 30% off MANGO (Star Rewards exclusive, $230 min, online only) — expires Sep 7, 2026 — sign in to redeem; macys.com
+- Bath & Body Works — $3.50 room sprays — one-day offer Sep 5 — bathandbodyworks.com
+
 ## 2026-09-05
 - Fabletics — 65% off new arrivals (VIP member pricing) — no date — fabletics.com
 - Going — With Points: London economy roundtrip ~40k points — no date — going.com; points deal
