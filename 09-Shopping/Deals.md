@@ -1,5 +1,17 @@
 # Deals
 
+## 2026-09-07
+- Macy's — up to 60% off suits & blazers (Anne Klein, Tommy Hilfiger) — no date
+- Fabletics — Major VIP savings event (member pricing, in account) — no date
+- Going — BLI→Honolulu roundtrip $522 (was $1,015), Oct 2026–Jul 2027, 1-stop — price lasts 1–2 days
+- Nordstrom Rack — UGG up to 40% off — no date
+- H&M — Labor Day up to 50% off sitewide, knits from $14.99 — expires 09/08 — extra 10% off for new members
+- Walgreens — Weekly Ad beauty deals; 12¢ 4x6 photo prints (100+) w/ code PENNY12 — expires 09/12
+- Macy's — men's designer blazers from $99.99 (Michael Kors & more) — no date
+- evo — Labor Day sale up to 50% off ski/bike/snow gear — expires 09/08 (rewards redemption ends 09/07)
+- Michaels — extra 10% off clearance (already up to 70% off) + two 40% off coupons — no date
+- Kohl's — Labor Day: $5 Kohl's Cash per $25 + $10 off $25 purchase — no date
+
 ## 2026-09-06
 - Kohl's — Labor Day Sale: $10 off your $25 purchase + earn $5 Kohl's Cash for every $25 — no date — kohls.com; up to 85% off clearance
 - Fabletics — Labor Day Sitewide Sale live in your account: prices dropped — no date — fabletics.com; in-account pricing
