@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-09-04 — Trades on robotaxi/Cybercab event reception and regulatory headlines: a disappointing Cybercab event plus an NHTSA probe (no-steering-wheel review) gapped it -3.8% back below its 50d, reversing pre-event strength
+- 2026-09-08 — Regulatory news cuts both ways now: Slovenia clearing Full Self-Driving lifted it +4% and back above its 50d (Uber fell 4% on the same headline) — international FSD approvals are a live positive swing factor alongside the NHTSA-probe overhang
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -23,3 +24,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-03 — AUTO: crossed above its 50d average. Headlines: Tesla's Cybercab event is tonight. Here's what the industry — and Wall Street — expects | Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, SpaceX Rise As Cybercab Event Nears (Live Coverage) | Elon Musk's $30,000 Cybercab is about to face its biggest test
 - 2026-09-04 — AUTO: opening gap -3.8%; crossed below its 50d average. Headlines: No steering wheel, no problem: Can Tesla speed by Cybercab probe? | Are Meta and Nvidia redefining value vs. growth stocks in the era of AI? | TSLA Stock Drops On Disappointing Cybercab Event, NHTSA Probe — But Elon Musk Highlights Growth Since IPO
 - 2026-09-07 — AUTO: opening gap -3.8%; crossed below its 50d average. Headlines: Goldman Sachs Delivers Stark Message on Tesla Stock | Cybercab Could Transform Tesla, But Regulatory Risks Loom | Is Tesla Stock Under $360 a Share an Obvious Buy in September?
+- 2026-09-08 — AUTO: crossed above its 50d average. Headlines: Bond yield worries persist as oil edges higher: AlphaCheck | Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout | Uber Falls 4% on Tesla Cybercab Threat as Slovenia Clears Full Self-Driving; TSLA Stock Rises 4%

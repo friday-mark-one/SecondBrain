@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-07-31 — Trades on AI accelerator demand and hyperscaler data-center capex (Amazon's $220B AI spend was the driver); Wall Street upgrades add fuel
+- 2026-09-08 — Management TAM framing is now a live driver: CFO's claim of a $3T addressable market by 2030 spiked the stock +6% and back above its 50d — same AI-capex story, but company-guided TAM numbers now move it
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -31,3 +32,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-17 — AUTO: crossed below its 50d average. Headlines: Micron stock heats up again, crossing $1,000 | Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth | AMD filing reveals unexpected SpaceX and Nutanix bet
 - 2026-08-18 — AUTO: opening gap -3.6%. Headlines: AMD Stock Tumbles 5.5% Despite 107% Data-Center Growth | AMD (AMD) Stock Gets Fair Value Boost As Analysts Rework AI Growth Expectations | Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets
 - 2026-08-25 — AUTO: opening gap +3.8%. Headlines: Why Nvidia rival AMD may see a 40% rip in its stock | AMD Just Got a Major AI Vote of Confidence | AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know
+- 2026-09-08 — AUTO: crossed above its 50d average. Headlines: AMD Stock Spikes 6% After CFO Claims Total Addressable Market To Hit $3 Trillion In 2030 | AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market | AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion
