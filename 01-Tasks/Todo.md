@@ -6,6 +6,7 @@ pinned: true
 ---
 
 - [ ] H1B appointment 
+- [ ] Mira global entry
 - [ ] 401k rollover
 - [ ] Fix Google home automations 
 - [ ] Update SSN / ITIN
