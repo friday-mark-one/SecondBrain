@@ -1,5 +1,58 @@
 # News
 
+## 2026-09-08
+
+## AI & Big Tech
+
+- [Anthropic signed $517bn in compute agreements in past 11 months](https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/?utm_source=tldrai) — Anthropic secured $517 billion in compute leases (~14.8GW) over the past 11 months, mostly with Google and AWS plus Akamai, Fluidstack, and a $45bn Nscale deal; it confidentially filed for an IPO with the SEC in June. (TLDR AI)
+- [OpenAI prepares Managed Agents for DevDay 2026](https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/?utm_source=tldrai) — OpenAI plans Managed Agents at DevDay 2026 on a model similar to Anthropic's, aimed at businesses and developers with strong computer-use at competitive prices, plus ad-enhancing interactive agents that could challenge Meta and Google. (TLDR AI)
+- [ChatGPT may soon learn your writing style from your Slack or Gmail](https://www.pcmag.com/news/chatgpt-may-soon-learn-your-writing-style-from-your-slack-or-gmail?utm_source=tldrnewsletter) — OpenAI appears to be testing a feature that writes in users' voices by referencing examples from connected apps; unannounced, but some users have had it for weeks. (TLDR)
+- [ByteDance joins AI elite in race to perfect world models](https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming?utm_source=tldrai) — ByteDance, led by Zhang Yiming, is preparing a real-time spatial video AI model that generates interactive virtual worlds responding to Pico VR users' voices and movements; launch could come as soon as next month. (TLDR, TLDR AI)
+- [XPeng starts IRON humanoid robot production as Tesla Optimus stalls](https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/?utm_source=tldrnewsletter) — XPeng's IRON line runs over 80% automated and targets mass production by year-end; the robot's smooth gait went viral last year. (TLDR)
+- [Huawei launches Mate XT 2 tri-fold two days before Apple's foldable iPhone](https://thenextweb.com/news/huawei-mate-xt-2-foldable-apple-xiaomi?utm_source=tldrnewsletter) — Huawei's new tri-folding Mate XT 2 opens to a 10.2-inch display. (TLDR)
+- [Tesla Cybercab specs: Supermanifold V3, no rare earth magnets, & more](https://www.notateslaapp.com/news/4657/tesla-cybercab-specs-supermanifold-v3-no-rare-earth-magnets-more?utm_source=tldrnewsletter) — A teardown-style look at the Cybercab's dimensions, mechanical packaging, and custom thermal hardware. (TLDR)
+
+## AI Research & Engineering
+
+- [TPU inference externalization full steam ahead](https://inferencex.semianalysis.com/blog/tpu-inferencex-full-steam?utm_source=tldrai) — Google's TPUv7 Ironwood delivers up to 50% better performance per dollar than Nvidia's B200/B300 and is the first generation Google sells or rents for others' inference workloads; a deep dive on the system and what it takes to make the stack widely available. (TLDR AI)
+- [How well do agents use test and verification techniques?](https://danluu.com/agentic-testing/?utm_source=tldrnewsletter) — Across 26 testing conditions on a Rust Zstd task, no technique dramatically outperformed the rest and the default prompt did above average; fuzzing and property-based testing helped slightly in high-effort runs while TDD underperformed — agents often followed the requested framework superficially. (TLDR, TLDR Dev)
+- [Prompt injection through tool output](https://www.armosec.io/blog/untrusted-tool-output-prompt-injection/?utm_source=tldrai) — Injections hidden in tool results evade conventional safeguards because input and action screens inspect separate moments of the agent loop; the proposed signal is a "precedent gap" where an agent makes a tool call or uses arguments absent from its execution history. (TLDR AI)
+- [The two MMLU scores: what a benchmark name does not fix](https://zatona.dev/blog/the-two-mmlu-scores?utm_source=tldrai) — Two builds with the same provider, model family, metric, and benchmark name can score differently because runners, graders, and dataset splits differ; the shared label identifies a dataset family, not a full measurement procedure. (TLDR AI)
+- [Automatically detecting AI text in my browser](https://www.seangoedecke.com/deckard/?utm_source=tldrai) — Deckard, a Chrome extension running a locally-run model, scans sites in the background to flag AI-generated text, complementing confirmatory tools like Pangram. (TLDR AI)
+- [Exploring speculative decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus?utm_source=tldrdev) — Tests on MI300X and MI355X show throughput depends heavily on drafting method, proposal length, model family, workload, and token acceptance rate, with tuning guidance for MTP, EAGLE-3, DFlash, and DSpark. (TLDR Dev)
+- [From S3 to GPU in one copy](https://spiraldb.com/blog/from-s3-to-gpu-in-one-copy?utm_source=tldrdev) — Vortex streams compressed columnar data from S3 through host memory to the GPU in a single copy, pruning layouts before transfer with GPU-side decompression, producing scans around 30× faster than Parquet in the demo. (TLDR Dev)
+- [Google Accelerator Agents for TPU development](https://github.com/AI-Hypercomputer/accelerator-agents?utm_source=tldrai) — A Gemini-powered toolkit (MaxCode for model conversion, MaxKernel for Pallas kernels) that helps developers migrate PyTorch workloads to JAX and optimize custom kernels for Cloud TPUs. (TLDR AI)
+- [Qwen-Drive](https://github.com/QwenLM/Qwen-Drive-1.0?utm_source=tldrai) — A vision-language foundation model for autonomous driving using staged training that blends perception, language, and planning; keeps broad visual understanding and instruction-following; 24GB+ GPU recommended. (TLDR AI)
+- [NVIDIA Personal AI Router — PAIR](https://github.com/NVIDIA/Personal-AI-Router?utm_source=tldrdev) — Routes independent local-inference requests across compatible computers on the same network, exposing Ollama- and OpenAI-compatible endpoints while keeping prompts and responses local. (TLDR Dev)
+- [CVE MCP Server](https://github.com/mukul975/cve-mcp-server?utm_source=tldrdev) — Gives Claude 27 security-intelligence tools backed by 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal — packaging vulnerability research behind MCP. (TLDR Dev)
+- [The chasm: the shape of unfinished AI codebases](https://jimmyhmiller.com/shape-of-unfinished-ai-codebases?utm_source=tldrai) — AI codebases look polished but hide deep issues: false performance tests and incomplete features cause failures outside controlled demos, leading to frequent rewrites. (TLDR AI)
+- [The question was already written](https://korbonits.com/blog/2026-09-06-the-question-was-already-written?utm_source=tldrdev) — Anthropic's machine-generated Lean proof of Fermat's Last Theorem is mechanically verified, but its ~13 million lines are too large for most consumer hardware and too opaque to serve as reusable mathematics. (TLDR Dev)
+
+## Security
+
+- [The year finding and exploiting bugs became cheap, and what to do about it](https://blog.zksecurity.xyz/posts/the-year-finding-bugs-became-cheap/?utm_source=tldrnewsletter) — Offensive capability will soon be abundant, so timely handling of critical bugs becomes defenders' hardest job; AI-assisted formalization lowers some cost, but writing the right specs and connecting proofs to production code stays hard. (TLDR)
+- [7 AI models ran real businesses: $12,431 in fake invoices, 2,797 spam emails, $0 revenue](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses?utm_source=tldrdev) — Seven frontier models each got $300, an unlocked Mac mini, and 72 hours to make money; they earned nothing while spending nearly $3,200, sending 2,797 emails, and issuing $12,431 in unsolicited invoices. (TLDR Dev)
+- [Your AI can fix the bug. But can it find it?](https://blog.reqproof.com/p/your-ai-can-fix-the-bug-can-it-find?utm_source=tldrdev) — Experiments on hidden Django bugs show cheaper models follow detailed instructions and reproduce known failures but struggle to invent the questions and adversarial inputs needed to discover defects independently. (TLDR Dev)
+
+## Dev & Tools
+
+- [Simple is not small](https://jyn.dev/simple-is-not-the-same-as-small/?utm_source=tldrnewsletter) — Small programs can still be tightly coupled; simplicity comes from separating concerns and choosing representations that don't braid unrelated behavior together, not from minimizing lines of code. (TLDR, TLDR Dev)
+- [What we can learn from Claude's Fable 5.1 system prompt](https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html?utm_source=tldrnewsletter) — Comparing Fable 5.0 and 5.1 shows model quirks, product policies, and tool-use guidance are moving targets; system prompts that don't evolve accumulate prompt debt. (TLDR, TLDR Dev)
+- [Using GPT-6 Astra inside Claude Code is the new meta](https://eigenwise.io/writing/using-gpt-6-astra-inside-claude-code-is-the-new-meta?utm_source=tldrdev) — A free local model-gateway plugin routes GPT requests from Claude Code through a ChatGPT login while leaving Claude requests on claude.ai; Astra orchestrates, cheaper GPT-5.6 models execute, and Opus reviews. (TLDR Dev)
+- [Making software hurts now](http://notes.erlend.sh/3muwdtclths2d?utm_source=tldrdev) — AI adoption is eroding trust in open source: maintainers face suspicion over how contributions were produced while many workers can't afford to opt out of mandated tools; an essay urging solidarity with public-goods maintainers. (TLDR Dev)
+- [Ruff, mypy, pytest, and then what?](https://codescan.dev/blog/ruff-mypy-pytest-and-then-what?utm_source=tldrnewsletter) — Well-structured code is easier to maintain and easier for agents to work with; what comes after the standard Python tooling stack. (TLDR)
+- [hip-agent: a harness that fits in the prompt](https://jonathanc.net/blog/hip-agent?v=2&utm_source=tldrai) — A small agent harness for agents: environment-variable config, shell-command actions, child-process subagents, and a ~200-line Python core loop with a Codex API module. (TLDR AI)
+
+## Science & Futurism
+
+- [Early data indicates an AI-generated drug could slow aging](https://links.tldrnewsletter.com/CQRbJy) — Rentosertib, an AI-assisted drug originally aimed at a chronic lung disease, reduced biological markers of age across six "aging clocks" in clinical-trial data; promising but still years from regulatory approval. (TLDR)
+
+## Perspectives
+
+- [The education of a doomer](https://borretti.me/article/the-education-of-a-doomer?utm_source=tldrai) — Automation has been good, but AGI may make humans economically useless; the author expects people will hand control to AI voluntarily as the logical choice, and argues signs of people giving up thinking are already visible. (TLDR AI)
+- [Machines that think: embodied intelligence](https://janbosch.com/machines-that-think-embodied-intelligence/?utm_source=tldrai) — Embodied AI in robotics struggles on sparse, costly manipulation data (low performance on Libero); startups should target narrow, instrumented deployments and convert existing robot data into training insight. (TLDR AI)
+- [Four questions about AGI](https://voiceinthemachine.com/2026/09/07/four-questions-about-agi/?utm_source=tldrnewsletter) — "AGI" as commonly used points at nothing tangible, and recent announcements are companies nearing a destination they defined themselves; the industry should instead make a long series of specific things reliable enough to trust. (TLDR)
+
 ## 2026-09-07
 
 ## AI & Models
