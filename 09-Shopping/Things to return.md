@@ -6,8 +6,10 @@ pinned: true
 ---
 
 ## Costco
+- [ ] 
 
 ## Kohls
+- [ ] 
 
 ## Fedex
 - [ ] 
@@ -16,9 +18,13 @@ pinned: true
 - [ ] 
 
 ## UPS
+- [ ] 
+
+## REI
+- [ ] Jackets
 
 ## Walmart
 - [ ] 
 
-### Fabletics
+## Fabletics
 - [ ] 
