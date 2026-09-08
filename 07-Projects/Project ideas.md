@@ -8,6 +8,7 @@ pinned: true
 # Project ideas
 
 ### Business ideas
+- [ ] 3D video with side by side stereo optical illusion - insta
 - [ ] Food recall tracker
 - [ ] 3D printer marketplace for people to print stuff (shef but for 3D printers)
 - [ ] Fun game or exercise to prevent brain rot from ai takeover ( especially for aging people and maybe young people too )
