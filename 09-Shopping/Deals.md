@@ -1,5 +1,15 @@
 # Deals
 
+## 2026-09-08
+- Kohl's — clearance up to 80% off at new lower prices (fall/Halloween home & more) — no date
+- Fabletics — sitewide/Labor Day sale on select styles (excl. denim, scrubs, college shop) — ends soon
+- Costco — weekly finds: KS chicken tenderloin $2.99/lb, Lunchables 6-pk $10.99 (after $3.50 off), Gillette razors 30-ct $6 off, Shark FlexStyle $239.99 (after $60 off) — valid thru 9/20 (varies by item)
+- Summit at Snoqualmie — 2026-27 season passes from $459 (Off-Peak; Summit from $709), Flex ticket packs — summer pricing ends 9/9
+- Going — New Zealand roundtrips from $812 (Nov–Dec) — no date
+- Going — Spain roundtrips from $556 (Jan) — no date
+- ID.me Shop — Labor Day member deals: Samsung up to 30% off; Oura Ring 10% off; On Running 15% off; Vivid Seats 10% off (up to $30) — no date
+- AquaTru — 20% off purifiers & more (Labor Day sale) — expires 9/9 (~48h from send)
+
 ## 2026-09-07
 - Macy's — up to 60% off suits & blazers (Anne Klein, Tommy Hilfiger) — no date
 - Fabletics — Major VIP savings event (member pricing, in account) — no date
