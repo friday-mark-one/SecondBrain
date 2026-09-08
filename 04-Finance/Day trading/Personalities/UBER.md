@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - 2026-08-04 — Trades on the autonomous-ride race with Waymo (Waymo's latest announcement is a live swing factor) plus mobility/AV-ecosystem news; crossed back above its 50d
 - 2026-08-05 — Q2 bookings guidance disappointed and the stock fell ~5% even as bookings growth stayed strong — earnings now trade on forward guidance more than the print; CEO is doubling down on the robotaxi push, so robotaxi/AV-ecosystem headlines (Waymo, Tesla robotaxi, AV regulation) remain the swing narrative.
+- 2026-09-08 — Tesla's Cybercab rollout is now the live negative swing factor: Slovenia's FSD clearance had Wall Street sizing up the Cybercab threat and knocked UBER -4% back below its 50d; insider buying ($5.3M after job cuts) is a minor counterpoint
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -26,3 +27,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-12 — AUTO: crossed below its 200d average. Headlines: Uber Makes Unexpected Move With Younger Riders | Sector Update: Consumer Stocks Mixed Late Afternoon | Polymarket Hires Former Uber Executive To Lead Growth Initiative
 - 2026-08-19 — AUTO: crossed above its 200d average. Headlines: Temporal Wants $12 Billion to Keep Your Agents From Crashing Mid-Task | Will Arpalus Strengthen Maplebear's Inventory Intelligence Advantage? | UBER or LYFT: Which Player Is Better-Placed Post-Q2 Earnings Results?
 - 2026-08-31 — AUTO: crossed below its 200d average. Headlines: Coinbase CEO Says Tokenized Assets Could Do For Finance What the iPhone Did For Tech: ‘An Entirely New Wave of Companies’ | Autonomous Deliveries Could Go Mainstream By 2030 | The end of the driver’s license: Uber exec calls car ownership ‘the most inefficient asset’ and says no one will need one in 15 to 20 years
+- 2026-09-08 — AUTO: crossed below its 50d average. Headlines: Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout | Top Uber Executive Buys $5.3 Million in Stock After Job Cuts | Uber Falls 4% on Tesla Cybercab Threat as Slovenia Clears Full Self-Driving; TSLA Stock Rises 4%
