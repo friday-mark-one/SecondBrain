@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - Search-ads health vs AI-disruption narrative; antitrust rulings are the overhang
 - Cheapest mega-cap by multiple most of the time — 'cheap' has been the bull case for years (see case study: that thesis rode to $0 once)
+- 2026-09-09 — Now a chip merchant: TPUv7 Ironwood is the first TPU generation Google sells/rents for external inference workloads (AI-chips revenue vector vs Nvidia); ad-tech antitrust trial ended with a no-breakup ruling but forced practice changes (stock crossed below its 200d)
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -27,3 +28,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-07 — AUTO: crossed below its 50d average. Headlines: OpenAI developing $300+ AI speaker to challenge Amazon Alexa | Explainer-How could New Mexico's $567 million ruling change Meta? | Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026
 - 2026-08-10 — AUTO: crossed above its 50d average. Headlines: Tech stocks still have plenty of believers on Wall Street, inflow data shows | JPMorgan’s S&P 500 8,000 target: Is the market getting too expensive? | Google Stock Sputters, But These Catalysts Could Spark A Rebound
 - 2026-08-11 — AUTO: crossed below its 50d average. Headlines: Stock market today: Dow, S&P 500, Nasdaq slip amid US-Iran impasse, Alphabet stock sinks | Wall Street ends down as US-Iran peace optimism fades | Elon Musk’s Newest Data Center ‘Moonshot’ Could Send NVIDIA Shares to $500. It Could Also Crash the Stock.
+- 2026-09-09 — AUTO: crossed below its 200d average. Headlines: How it feels to handle Apple's foldable iPhone Duo | A foldable iPhone is nice, but Apple still needs to improve its AI user experience | Should You Buy Alphabet Stock For The Chips It Now Sells?
