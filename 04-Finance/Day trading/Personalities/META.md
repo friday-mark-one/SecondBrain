@@ -17,6 +17,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - Ad revenue + capex discipline story; reacts violently to spend-guidance changes
 - History of −20%+ single-day earnings moves — respect the blackout
 - 2026-08-26 — Legal overhang largely cleared: Meta agreed to pay up to $16.7B to settle the social media addiction trial (stock gapped +3.6%); litigation risk is now a smaller swing factor
+- 2026-09-09 — Muse, its consumer AI agent (emails, travel, purchases; free tier + $20–100/mo), is a live upside catalyst: launched to Wall Street praise and the stock gapped +5.7% / rose +6.6%, back above its 200d
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -25,3 +26,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-12 — AUTO: crossed below its 50d average. Headlines: Tech stocks today: CoreWeave and Supermicro results win over investors | CoreWeave jumps 10% following Q2 earnings | Wells Fargo Has Fresh Message for Microsoft Investors
 - 2026-08-26 — AUTO: opening gap +3.6%. Headlines: Nvidia tops Q2 expectations, offers strong outlook, but stock falls | Is Meta a buy after its $16.68 billion social media case settlement? | Meta settles social media trial, agreeing to pay up to $16.7B: Reuters
 - 2026-09-03 — AUTO: crossed above its 50d average. Headlines: Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck | For all their talk about AI, few companies are quantifying gains | Amazon Signed a Multibillion-Dollar Deal With a 175-Year-Old Glassmaker. Is Fiber the Next AI Bottleneck?
+- 2026-09-09 — AUTO: +6.6% day (≥2× its typical range); opening gap +5.7%; crossed above its 200d average. Headlines: Meta stock surges with Wall Street bullish on new AI agent | Bond yields tick higher as oil tops $100: AlphaCheck | 3 Reasons Meta Has Turned the Corner

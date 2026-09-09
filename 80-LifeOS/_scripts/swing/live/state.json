@@ -53,8 +53,8 @@
   "alerts": {},
   "last_weekly": "2026-09-06",
   "cooloff": {},
-  "last_pulse": "2026-09-08",
-  "monitor_runs": 3277,
-  "last_monitor": "2026-09-09T16:23-04:00",
+  "last_pulse": "2026-09-09",
+  "monitor_runs": 3278,
+  "last_monitor": "2026-09-09T16:38-04:00",
   "last_month_note": "2026-09"
 }
