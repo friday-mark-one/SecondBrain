@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-09-09
+- Kohl's — fall faves + clearance now up to 80% off — no date — no code
+- Linux Foundation — 40% off certification + extra 20% off THRIVE-ONE Annual when bundled — expires Sep 11 — no code
+- Best Buy Visa (Citi) — 24-mo financing on home theater $999+; 12-mo on storewide $299+ — no date — cardmember, 5% back
+- Fabletics — Labor Day offer last call — expired Sep 8 — no code, VIP pricing
+- Summit at Snoqualmie — Flex Ticket Packs from $139/2 days (~$57/day); season passes from $459 — expires Sep 9 — payment plan available
+- point.me — Standard $96.75/yr (7 months free) — expires Sep 9 midnight — code LABORDAY
+- MOD Pizza — pumpkin spice & pink vanilla seasonal MODs — no date — no code
+- Going — Everett (PAE)→Honolulu nonstop $517, Dec–Jan 2027 — expires ~2-3 days — was $780
+- VSP — September EnVision: Cole Haan sunglasses giveaway, GUESS eyewear launch — no date — newsletter
+- Going — nonstop Iceland $449 (Oct–Feb) — no date — flight deal
+- Groupon — FEELartistic 90-min pottery class for 1–2, save up to 46% (voucher reminder) — voucher expires 12/22/2026 — Everett WA
+- PointsYeah — Capital One Venture: 75k miles + $300 travel credit — no date — $95 AF, $4k/3-mo spend
+- Coinbase — staking up to 13.31% APY & DCA promos — no date — crypto
+- Sephora at Kohl's — up to 50% select beauty + 500 bonus pts at $75+ — no date — new fragrances 🔔 [[Gift ideas]]
+- Cinemark — Forgotten Island in theaters Sep 25 — no date — movie promo
+- Edmunds — trade-in value tracker — no date — free tool
+- Chase/JPM — Self-Directed Investing cash bonus up to $1,000 — no date — $0 commission; tiers $50 ($5k) → $1,000 ($250k+ new money)
+- Lumosity — 35% off subscription — no date — code NEWSLETTER-35-26
+- NerdWallet — best car insurance guide + rate compare — no date — content
+- H&M — up to 50% off sitewide (last day) — expired Sep 8 — extra 10% new members, free ship $50+
+- Going — Best card offers September 2026 — no date — credit card promos
+- JetBlue — JetBlue Plus Card: 70,000 bonus TrueBlue points — no date — $99 AF
+- Huel — 25% off subscribe & save; 33% student discount — no date — free ship $65+
+- evo — Labor Day Sale up to 50% off (snow/bike/apparel) — expired Sep 8 — no code
+- NerdWallet — high-yield savings rates up to 4.10% — no date — banking promo
+- point.me — extended: Standard 7 months free, $96.75/yr — expires Sep 9 — code LABORDAY
+
 ## 2026-09-08
 - Kohl's — clearance up to 80% off at new lower prices (fall/Halloween home & more) — no date
 - Fabletics — sitewide/Labor Day sale on select styles (excl. denim, scrubs, college shop) — ends soon
