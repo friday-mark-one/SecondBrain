@@ -1,7 +1,7 @@
 # Grocery List — 2026-09-09
 
 ## Costco
-- [ ] [[Paneer]] — Palak Paneer (cut, soaked) ×2
+- [x] [[Paneer]] — Palak Paneer (cut, soaked) ×2
 - [x] [[Tomato]] — Palak Paneer (1) ×2, Rasam (1, boiled & smashed) ×2, Brinjal Gojju (1) ×2, Rava Upma (as needed)
 - [x] [[Spinach]] — Palak Paneer (½ box baby spinach) ×2, Palak Kootu (cut, 1 bunch) ×2
 - [x] [[Ghee]] — Palak Paneer (for cooking) ×2, Rasam (for tadka) ×2, Pongal (for tempering) ×2
@@ -13,12 +13,12 @@
 - [x] [[Cashews]] — Pongal (for tempering) ×2
 - [x] [[Salted butter]] — Creamy Mushroom (2 tbsp) ×2
 - [x] [[Milk]] — Creamy Mushroom (½ cup) ×2
-- [ ] [[Curd]] — Morkuzhambu (100 ml) ×3
+- [x] [[Curd]] — Morkuzhambu (100 ml) ×3
 - [x] [[Paper towel]] — One-off
 - [x] [[Toilet paper]] — One-off
 - [ ] [[Body wash]] — One-off
 - [x] [[Dishwashing liquid]] — One-off
-- [ ] [[Greek Yogurt]] — One-off
+- [x] [[Greek Yogurt]] — One-off
 - [ ] [[Dates]] — One-off
 
 ## Fred Meyer
@@ -26,15 +26,15 @@
 - [x] [[Tomato]] — Palak Paneer (1) ×2, Rasam (1, boiled & smashed) ×2, Brinjal Gojju (1) ×2, Rava Upma (as needed)
 - [x] [[Spinach]] — Palak Paneer (½ box baby spinach) ×2, Palak Kootu (cut, 1 bunch) ×2
 - [x] [[Ginger]] — Palak Paneer (1 inch) ×2, Pongal (grated) ×2, Morkuzhambu (small piece) ×3
-- [ ] [[Fresh Cream]] — Palak Paneer (to finish) ×2
-- [ ] [[Basil leaves]] — Avocado Pasta (1 box (~15g)) ×2, Creamy Mushroom (few) ×2
+- [x] [[Fresh Cream]] — Palak Paneer (to finish) ×2
+- [x] [[Basil leaves]] — Avocado Pasta (1 box (~15g)) ×2, Creamy Mushroom (few) ×2
 - [x] [[Lemon]] — Avocado Pasta (~½ (3-4 spoons juice)) ×2
 - [x] [[Chilli flakes]] — Avocado Pasta (to garnish) ×2
 - [x] [[Italian seasoning]] — Avocado Pasta (to garnish) ×2, Creamy Mushroom (to taste) ×2
 - [x] [[Cheese]] — Avocado Pasta (to garnish) ×2
 - [x] [[Cilantro]] — Rasam (to garnish) ×2, Vangi Bath (to garnish) ×2, Morkuzhambu (few) ×3
 - [x] [[Baby bella mushrooms]] — Creamy Mushroom (1 small pack) ×2
-- [ ] [[Heavy whipping cream]] — Creamy Mushroom (as needed) ×2
+- [x] [[Heavy whipping cream]] — Creamy Mushroom (as needed) ×2
 - [x] [[Parmesan cheese]] — Creamy Mushroom (grated, to taste) ×2
 - [x] [[Bread]] — Creamy Mushroom (to serve) ×2
 - [x] [[Capsicum]] — Capsicum poriyal (cut, of choice) ×2, Capsicum poriyal (1) ×2, Rava Upma (as needed)
@@ -42,7 +42,7 @@
 - [x] [[Beans]] — Rava Upma (as needed)
 - [x] [[Potato]] — Rava Upma (as needed)
 - [x] [[Frozen peas]] — One-off
-- [ ] [[Ghost protein cereal]] — One-off
+- [x] [[Ghost protein cereal]] — One-off
 - [x] [[Avocado oil spray]] — One-off
 
 
@@ -77,9 +77,9 @@
 - [x] [[Black urad dal]] — Vangi Bath (½ tsp) ×2
 - [x] [[Fenugreek seeds]] — Vangi Bath (10 pieces) ×2
 - [x] [[Jaggery]] — Vangi Bath (small piece) ×2
-- [ ] [[Bhindi]] — Morkuzhambu (cut, 1 cup) ×3
+- [x] [[Bhindi]] — Morkuzhambu (cut, 1 cup) ×3
 - [x] [[Rava]] — Rava Upma (⅔ cup (double-roasted, for 2))
-- [ ] [[Channa]] — One-off
+- [x] [[Channa]] — One-off
 
 ## ⚠️ Missing item note
 - [x] [[Mustard seeds]] — Capsicum poriyal (½ tsp) ×2
