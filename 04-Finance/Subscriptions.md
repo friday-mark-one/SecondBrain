@@ -24,3 +24,4 @@ Leetcode $129
 ~~Going $50 per year~~
 Spotify $3 per month
 Huel $108 every 6 weeks
+Claude $226 per year
