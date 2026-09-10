@@ -1,45 +1,50 @@
-# Meal Plan — week of 2026-08-15
+# Meal Plan — week of 2026-09-10
 
-## Sun 08-16
+## Thu 09-10
+### Lunch
+- [[Palak Paneer]]
+### Dinner
+- [[Avocado Pasta]]
+
+## Fri 09-11
+### Lunch
+- [[Palak Paneer]]
+### Dinner
+- [[Avocado Pasta]]
+## Sat 09-12
+### Lunch
+- [[Palak Kootu]]
+- [[Rasam]]
+### Dinner
+- [[Pongal]]
+- [[Brinjal Gojju]]
+
+## Sun 09-13
 ### Lunch
 - [[Rasam]]
-- [[Capsicum poriyal]]
+- [[Palak Kootu]]
 ### Dinner
-- [[Paneer Butter Masala]] (bhurji)
+- [[Pongal]]
+- [[Brinjal Gojju]]
 
-## Mon 08-17
+## Mon 09-14
 ### Lunch
-- [[Rasam]]
-- [[Capsicum poriyal]]
+- [[Vangi Bath]]
 ### Dinner
-- [[Paneer Butter Masala]]
 
-## Tue 08-18
+## Tue 09-15
 ### Lunch
-- [[Rasam]]
-- Beans poriyal
+- [[Vangi Bath]]
 ### Dinner
-- [[Dosa]]
-- [[Sambar]]
 
-## Wed 08-19
+## Wed 09-16
 ### Lunch
-- [[Morkuzhambu]]
-- Kovakkai poriyal
 ### Dinner
-- [[Dosa]]
-- [[Sambar]]
 
-## Thu 08-20
+## Thu 09-17
 ### Lunch
-- [[Morkuzhambu]]
-- Kovakkai poriyal 
 ### Dinner
-- [[Creamy Mushroom]]
-SURPRISE dinner by kutti
 
-## Fri 08-21
+## Fri 09-18
 ### Lunch
-Varalakshmi vratham
 ### Dinner
-Date night
