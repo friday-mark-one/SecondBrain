@@ -47,8 +47,8 @@
 
 
 ## Indian Store
-- [ ] [[Garlic]] — Palak Paneer (4 cloves) ×2, Avocado Pasta (2 cloves) ×2, Creamy Mushroom (~50% of mushroom) ×2
-- [ ] [[Green chilli]] — Palak Paneer (5 small) ×2, Palak Kootu (2-3) ×2, Vangi Bath (2) ×2, Morkuzhambu (6) ×3, Capsicum poriyal (or dry red chili, as per requirement) ×2
+- [x] [[Garlic]] — Palak Paneer (4 cloves) ×2, Avocado Pasta (2 cloves) ×2, Creamy Mushroom (~50% of mushroom) ×2
+- [x] [[Green chilli]] — Palak Paneer (5 small) ×2, Palak Kootu (2-3) ×2, Vangi Bath (2) ×2, Morkuzhambu (6) ×3, Capsicum poriyal (or dry red chili, as per requirement) ×2
 - [x] [[Cumin seeds]] — Palak Paneer (1 tsp) ×2, Palak Kootu (1 tsp) ×2, Rasam (for tadka) ×2, Pongal (for tempering) ×2, Brinjal Gojju (1 spoon) ×2, Vangi Bath (½ tsp) ×2, Morkuzhambu (2 tsp) ×3
 - [x] [[Cinnamon]] — Palak Paneer (1 piece) ×2
 - [x] [[Elaichi full]] — Palak Paneer (3-4 pods) ×2
@@ -71,7 +71,7 @@
 - [x] [[Coriander seeds]] — Brinjal Gojju (4 spoons) ×2, Vangi Bath (2 tsp) ×2, Morkuzhambu (2 tsp, soaked) ×3
 - [x] [[Channa dal]] — Brinjal Gojju (2 spoons) ×2, Vangi Bath (1 tsp) ×2, Capsicum poriyal (1 tsp) ×2, Rava Upma (for tempering)
 - [x] [[Urad dal]] — Brinjal Gojju (2 spoons) ×2
-- [ ] [[Brinjal]] — Brinjal Gojju (3, cut) ×2, Vangi Bath (striped purple type) ×2
+- [x] [[Brinjal]] — Brinjal Gojju (3, cut) ×2, Vangi Bath (striped purple type) ×2
 - [x] [[Turmeric]] — Brinjal Gojju (pinch) ×2, Vangi Bath (pinch) ×2, Morkuzhambu (½ tsp) ×3
 - [x] [[Groundnut oil]] — Brinjal Gojju (for tadka) ×2, Vangi Bath (for tadka) ×2, Capsicum poriyal (2 tsp) ×2, Rava Upma (for tempering)
 - [x] [[Black urad dal]] — Vangi Bath (½ tsp) ×2
