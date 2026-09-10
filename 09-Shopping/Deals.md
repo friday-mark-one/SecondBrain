@@ -1,5 +1,62 @@
 # Deals
 
+## 2026-09-10
+- Kohl's — Kohl's Card holder save 30% + Kohl's Cash on fall styles — no date — cardholder coupon
+- Climate Pledge Arena — Sept Greensheet: Kraken Build-A-Pack from $45; Seattle Center Festál free festivals (Sep 13–Oct 4) — no date — events
+- Famous Footwear — latest LifeStride styles — no date — no code
+- Chase Sapphire Preferred — complimentary month of Peloton App (statement credit) — activate by Sep 30, 2026 — Chase Offer; 5x pts on Peloton equipment
+- VeSync — "Juni Has Arrived" (new product) — no date — no code
+- point.me — award deals: Dallas→Madrid 16K/29K, LA→Seoul 60K, Chicago→Rome 60K, DCA→Costa Rica 8K — no date — newsletter
+- HomeGoods — 3 fall-ready decor tips — no date — newsletter
+- DoorDash — promo teaser ("your usual can wait") — no date — no code
+- Aroma Restaurant & Venue — live rock/pop band tonight 7PM, free entry (Bothell) — expired Sep 9 — free entry, reserve
+- Summit at Snoqualmie — 26/27 passes (Off-Peak $459, Summit $709, Alpental Plus $939) & Flex Packs; sale ends tonight — expires Sep 9 (prices rise Sep 10) — payment plan
+- Fandango — rate The Odyssey IMAX 70MM experience — no date — survey
+- Fabletics — VIP Access: Platinum-tier members-only drop — no date — member pricing
+- OpenRouter — webinar: Model Selection — Sep 16, 10AM PT — no date — free webinar
+- Macy's — Flash Sale up to 70% off women's shoes (Arezzo, Franco Sarto, I.N.C.) — no date — macys.com
+- Frontier Airlines — join Frontier Miles, earn miles on your SEA trip — no date — frequent flyer
+- Nordstrom — new markdowns just landed — no date — nordstrom.com
+- PointsYeah — flights from 6,000+ pts to Mexico, Aruba, Peru (Caribbean/LatAm) — no date — points deals
+- Michaels — Halloween Party Shop + $5 Rewards on $30+ — no date — rewards
+- Nordstrom Rack — Ulla Johnson up to 60% off; new-in Vince — no date — nordstromrack.com
+- H&M — game-day looks — no date — hm.com
+- Going — Manila roundtrip $812 (Sep–Dec) — book within ~2–3 days — flight deal
+- Going — Rio de Janeiro destination guide (Going Places) — no date — newsletter
+- GEICO — bundle renters with auto coverage to save — no date — insurance
+- Etsy — curated picks: custom charm necklaces, car keychains — no date — etsy.com
+- ID.me Shop — Student deals: BetterHelp 50% off, Vivid Seats 10% (up to $30), Samsung up to 30%, HOKA 15%, Stanley 20%, Crocs 15%, Bose 10%, Away 10% — no date — member deals
+- Fabletics — new styles of "the best pant ever made" — no date — member pricing
+- Fandango — Special FanClub offer — no date — FanClub
+- Going — Italy roundtrip $598 (Dec–Jan) — book within ~2–3 days — flight deal
+- Wikimedia — Wikipedia renewal/donation notice (Jimmy Wales) — no date — donation
+- Going — Montréal roundtrip $372 (Sep–Oct) — book within ~2–3 days — flight deal
+- Macy's — Flash Sale up to 70% off women's shoes & handbags (Franco Sarto, Steve Madden) — no date — macys.com
+- J.Crew Factory — exclusive surprise for Passport members — no date — member offer
+- Michaels — new sewing supplies (Singer birthday) + $5 Rewards on $30+ — no date — rewards
+- Kohl's — fall faves for the whole family + up to 80% off clearance — no date — no code
+- Sephora — up to 50% off select beauty ends today — expired Sep 9 — no code
+- Skechers Plus — 791 points expiring; finish enrollment — no date (expiring) — member points
+- Macy's — $15 off running out of time to use — expires soon — app offer
+- HomeGoods — Halloween hosting decor — no date — newsletter
+- Sephora at Kohl's — up to 50% off select beauty + 500 bonus pts at $75+; new fragrances 🔔 [[Gift ideas]]
+- Chipotle Rewards — claim your free chips — no date — rewards
+- Famous Footwear — $10 Reward + free shipping — expires Sep 21 — rewards, must be signed in
+- Macy's — 6 iconic designers American fashion capsules (Donna Karan, Michael Kors, Tommy Hilfiger) — no date — macys.com
+- Michaels — balloons & birthday supplies from $1.99 + $5 Rewards on $30+ — no date — rewards
+- Sephora — last chance 50% off select beauty — expired Sep 9 — no code
+- Nordstrom Rack — extra 40% off select clearance — no date — nordstromrack.com
+- Macy's — $20 off $100 ($30 off with Macy's Card) in app — no date — app offer
+- Michaels — new yarn shop supplies + $5 Rewards on $30+ — no date — rewards
+- Kohl's — up to 80% off clearance at new lower prices (fall/Halloween home) — no date — no code
+- Macy's — up to 60% off fall layers, jackets & more (Labor Day final hours) — expired Sep 9 — macys.com
+- Michaels — 40% off Día de los Muertos Collection + $5 Rewards on $30+ — no date — rewards
+- Macy's — Labor Day Sale ends tonight: tops under $60, men's designer blazers from $99.99 — expired Sep 9 — macys.com
+- Famous Footwear — LAST DAY BOGO 1/2 off + markdowns (Nike, adidas, Birkenstock) — expired Sep 9 — in-store & online
+- Nordstrom Rack — LAST CHANCE extra 25% off clearance — no date — nordstromrack.com
+- Michaels — two 40% off coupons delivered — no date — coupons
+- Kohl's — ENDS TODAY Labor Day: $10 off $25 + 15% off home + $5 Kohl's Cash per $25 — expired Sep 9 — no code
+
 ## 2026-09-09
 - Kohl's — fall faves + clearance now up to 80% off — no date — no code
 - Linux Foundation — 40% off certification + extra 20% off THRIVE-ONE Annual when bundled — expires Sep 11 — no code
