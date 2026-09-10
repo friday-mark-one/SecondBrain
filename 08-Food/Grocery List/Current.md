@@ -44,43 +44,43 @@
 - [ ] [[Frozen peas]] — One-off
 - [ ] [[Ghost protein cereal]] — One-off
 - [ ] [[Avocado oil spray]] — One-off
-- [ ] 
+
 
 ## Indian Store
 - [ ] [[Garlic]] — Palak Paneer (4 cloves) ×2, Avocado Pasta (2 cloves) ×2, Creamy Mushroom (~50% of mushroom) ×2
 - [ ] [[Green chilli]] — Palak Paneer (5 small) ×2, Palak Kootu (2-3) ×2, Vangi Bath (2) ×2, Morkuzhambu (6) ×3, Capsicum poriyal (or dry red chili, as per requirement) ×2
-- [ ] [[Cumin seeds]] — Palak Paneer (1 tsp) ×2, Palak Kootu (1 tsp) ×2, Rasam (for tadka) ×2, Pongal (for tempering) ×2, Brinjal Gojju (1 spoon) ×2, Vangi Bath (½ tsp) ×2, Morkuzhambu (2 tsp) ×3
-- [ ] [[Cinnamon]] — Palak Paneer (1 piece) ×2
-- [ ] [[Elaichi full]] — Palak Paneer (3-4 pods) ×2
-- [ ] [[Bay leaf]] — Palak Paneer (1) ×2
-- [ ] [[Kasuri methi]] — Palak Paneer (1 tsp + extra) ×2
-- [ ] [[Garam masala]] — Palak Paneer (½ tsp) ×2
-- [ ] [[Pepper powder]] — Avocado Pasta (to taste) ×2, Pongal (to taste) ×2
-- [ ] [[Coconut]] — Palak Kootu (1 small lid) ×2, Vangi Bath (4 tsp) ×2, Morkuzhambu (4 tsp) ×3
-- [ ] [[Peppercorns]] — Palak Kootu (2-3 corns) ×2, Pongal (for tempering in ghee) ×2, Brinjal Gojju (1 spoon) ×2, Vangi Bath (¼ tsp) ×2
-- [ ] [[Roasted gram]] — Palak Kootu (2-3 tsp) ×2
-- [ ] [[Mustard]] — Palak Kootu (for tadka) ×2, Rasam (for tadka) ×2, Vangi Bath (for tadka) ×2, Morkuzhambu (for tadka) ×3, Rava Upma (for tempering)
-- [ ] [[Asafotida]] — Palak Kootu (a pinch) ×2, Rasam (a pinch) ×2, Pongal (pinch) ×2, Brinjal Gojju (pinch) ×2, Vangi Bath (pinch) ×2, Morkuzhambu (pinch) ×3, Capsicum poriyal (a pinch) ×2, Rava Upma (pinch)
-- [ ] [[Dry red chilli]] — Palak Kootu (1-2) ×2, Brinjal Gojju (5) ×2, Vangi Bath (5) ×2, Rava Upma (2)
-- [ ] [[Tamarind paste]] — Rasam (~75 ml tamarind water) ×2, Brinjal Gojju (1 spoon) ×2, Vangi Bath (1 spoon) ×2
-- [ ] [[Sambar powder]] — Rasam (2 tsp) ×2
-- [ ] [[Pepper jeera powder]] — Rasam (to taste) ×2
-- [ ] [[Crystal sona masoori rice]] — Pongal (1 part) ×2, Vangi Bath (cooked) ×2
-- [ ] [[Moong dal]] — Pongal (1 part) ×2
-- [ ] [[Curry leaves]] — Pongal (few) ×2, Morkuzhambu (few) ×3
-- [ ] [[Coriander seeds]] — Brinjal Gojju (4 spoons) ×2, Vangi Bath (2 tsp) ×2, Morkuzhambu (2 tsp, soaked) ×3
-- [ ] [[Channa dal]] — Brinjal Gojju (2 spoons) ×2, Vangi Bath (1 tsp) ×2, Capsicum poriyal (1 tsp) ×2, Rava Upma (for tempering)
-- [ ] [[Urad dal]] — Brinjal Gojju (2 spoons) ×2
+- [x] [[Cumin seeds]] — Palak Paneer (1 tsp) ×2, Palak Kootu (1 tsp) ×2, Rasam (for tadka) ×2, Pongal (for tempering) ×2, Brinjal Gojju (1 spoon) ×2, Vangi Bath (½ tsp) ×2, Morkuzhambu (2 tsp) ×3
+- [x] [[Cinnamon]] — Palak Paneer (1 piece) ×2
+- [x] [[Elaichi full]] — Palak Paneer (3-4 pods) ×2
+- [x] [[Bay leaf]] — Palak Paneer (1) ×2
+- [x] [[Kasuri methi]] — Palak Paneer (1 tsp + extra) ×2
+- [x] [[Garam masala]] — Palak Paneer (½ tsp) ×2
+- [x] [[Pepper powder]] — Avocado Pasta (to taste) ×2, Pongal (to taste) ×2
+- [x] [[Coconut]] — Palak Kootu (1 small lid) ×2, Vangi Bath (4 tsp) ×2, Morkuzhambu (4 tsp) ×3
+- [x] [[Peppercorns]] — Palak Kootu (2-3 corns) ×2, Pongal (for tempering in ghee) ×2, Brinjal Gojju (1 spoon) ×2, Vangi Bath (¼ tsp) ×2
+- [x] [[Roasted gram]] — Palak Kootu (2-3 tsp) ×2
+- [x] [[Mustard]] — Palak Kootu (for tadka) ×2, Rasam (for tadka) ×2, Vangi Bath (for tadka) ×2, Morkuzhambu (for tadka) ×3, Rava Upma (for tempering)
+- [x] [[Asafotida]] — Palak Kootu (a pinch) ×2, Rasam (a pinch) ×2, Pongal (pinch) ×2, Brinjal Gojju (pinch) ×2, Vangi Bath (pinch) ×2, Morkuzhambu (pinch) ×3, Capsicum poriyal (a pinch) ×2, Rava Upma (pinch)
+- [x] [[Dry red chilli]] — Palak Kootu (1-2) ×2, Brinjal Gojju (5) ×2, Vangi Bath (5) ×2, Rava Upma (2)
+- [x] [[Tamarind paste]] — Rasam (~75 ml tamarind water) ×2, Brinjal Gojju (1 spoon) ×2, Vangi Bath (1 spoon) ×2
+- [x] [[Sambar powder]] — Rasam (2 tsp) ×2
+- [x] [[Pepper jeera powder]] — Rasam (to taste) ×2
+- [x] [[Crystal sona masoori rice]] — Pongal (1 part) ×2, Vangi Bath (cooked) ×2
+- [x] [[Moong dal]] — Pongal (1 part) ×2
+- [x] [[Curry leaves]] — Pongal (few) ×2, Morkuzhambu (few) ×3
+- [x] [[Coriander seeds]] — Brinjal Gojju (4 spoons) ×2, Vangi Bath (2 tsp) ×2, Morkuzhambu (2 tsp, soaked) ×3
+- [x] [[Channa dal]] — Brinjal Gojju (2 spoons) ×2, Vangi Bath (1 tsp) ×2, Capsicum poriyal (1 tsp) ×2, Rava Upma (for tempering)
+- [x] [[Urad dal]] — Brinjal Gojju (2 spoons) ×2
 - [ ] [[Brinjal]] — Brinjal Gojju (3, cut) ×2, Vangi Bath (striped purple type) ×2
-- [ ] [[Turmeric]] — Brinjal Gojju (pinch) ×2, Vangi Bath (pinch) ×2, Morkuzhambu (½ tsp) ×3
-- [ ] [[Groundnut oil]] — Brinjal Gojju (for tadka) ×2, Vangi Bath (for tadka) ×2, Capsicum poriyal (2 tsp) ×2, Rava Upma (for tempering)
-- [ ] [[Black urad dal]] — Vangi Bath (½ tsp) ×2
-- [ ] [[Fenugreek seeds]] — Vangi Bath (10 pieces) ×2
-- [ ] [[Jaggery]] — Vangi Bath (small piece) ×2
+- [x] [[Turmeric]] — Brinjal Gojju (pinch) ×2, Vangi Bath (pinch) ×2, Morkuzhambu (½ tsp) ×3
+- [x] [[Groundnut oil]] — Brinjal Gojju (for tadka) ×2, Vangi Bath (for tadka) ×2, Capsicum poriyal (2 tsp) ×2, Rava Upma (for tempering)
+- [x] [[Black urad dal]] — Vangi Bath (½ tsp) ×2
+- [x] [[Fenugreek seeds]] — Vangi Bath (10 pieces) ×2
+- [x] [[Jaggery]] — Vangi Bath (small piece) ×2
 - [ ] [[Bhindi]] — Morkuzhambu (cut, 1 cup) ×3
-- [ ] [[Rava]] — Rava Upma (⅔ cup (double-roasted, for 2))
+- [x] [[Rava]] — Rava Upma (⅔ cup (double-roasted, for 2))
 - [ ] [[Channa]] — One-off
 
 ## ⚠️ Missing item note
-- [ ] [[Mustard seeds]] — Capsicum poriyal (½ tsp) ×2
-- [ ] [[Curry powder]] — Capsicum poriyal (as required) ×2
+- [x] [[Mustard seeds]] — Capsicum poriyal (½ tsp) ×2
+- [x] [[Curry powder]] — Capsicum poriyal (as required) ×2
