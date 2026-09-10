@@ -24,7 +24,7 @@
 ## Fred Meyer
 - [ ] [[Onion]] — Palak Paneer (1 medium) ×2, Rava Upma (1)
 - [ ] [[Tomato]] — Palak Paneer (1) ×2, Rasam (1, boiled & smashed) ×2, Brinjal Gojju (1) ×2, Rava Upma (as needed)
-- [ ] [[Spinach]] — Palak Paneer (½ box baby spinach) ×2, Palak Kootu (cut, 1 bunch) ×2
+- [x] [[Spinach]] — Palak Paneer (½ box baby spinach) ×2, Palak Kootu (cut, 1 bunch) ×2
 - [ ] [[Ginger]] — Palak Paneer (1 inch) ×2, Pongal (grated) ×2, Morkuzhambu (small piece) ×3
 - [ ] [[Fresh Cream]] — Palak Paneer (to finish) ×2
 - [ ] [[Basil leaves]] — Avocado Pasta (1 box (~15g)) ×2, Creamy Mushroom (few) ×2
@@ -32,18 +32,18 @@
 - [x] [[Chilli flakes]] — Avocado Pasta (to garnish) ×2
 - [x] [[Italian seasoning]] — Avocado Pasta (to garnish) ×2, Creamy Mushroom (to taste) ×2
 - [x] [[Cheese]] — Avocado Pasta (to garnish) ×2
-- [ ] [[Cilantro]] — Rasam (to garnish) ×2, Vangi Bath (to garnish) ×2, Morkuzhambu (few) ×3
-- [ ] [[Baby bella mushrooms]] — Creamy Mushroom (1 small pack) ×2
+- [x] [[Cilantro]] — Rasam (to garnish) ×2, Vangi Bath (to garnish) ×2, Morkuzhambu (few) ×3
+- [x] [[Baby bella mushrooms]] — Creamy Mushroom (1 small pack) ×2
 - [ ] [[Heavy whipping cream]] — Creamy Mushroom (as needed) ×2
 - [ ] [[Parmesan cheese]] — Creamy Mushroom (grated, to taste) ×2
 - [ ] [[Bread]] — Creamy Mushroom (to serve) ×2
-- [ ] [[Capsicum]] — Capsicum poriyal (cut, of choice) ×2, Capsicum poriyal (1) ×2, Rava Upma (as needed)
-- [ ] [[Carrot]] — Rava Upma (as needed)
+- [x] [[Capsicum]] — Capsicum poriyal (cut, of choice) ×2, Capsicum poriyal (1) ×2, Rava Upma (as needed)
+- [x] [[Carrot]] — Rava Upma (as needed)
 - [ ] [[Beans]] — Rava Upma (as needed)
 - [ ] [[Potato]] — Rava Upma (as needed)
 - [ ] [[Frozen peas]] — One-off
 - [ ] [[Ghost protein cereal]] — One-off
-- [ ] [[Avocado oil spray]] — One-off
+- [x] [[Avocado oil spray]] — One-off
 
 
 ## Indian Store
