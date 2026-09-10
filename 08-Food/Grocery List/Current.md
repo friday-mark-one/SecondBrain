@@ -12,12 +12,12 @@
 - [x] [[Coconut oil]] — Palak Kootu (for tadka) ×2, Morkuzhambu (for tadka) ×3
 - [x] [[Cashews]] — Pongal (for tempering) ×2
 - [ ] [[Salted butter]] — Creamy Mushroom (2 tbsp) ×2
-- [ ] [[Milk]] — Creamy Mushroom (½ cup) ×2
+- [x] [[Milk]] — Creamy Mushroom (½ cup) ×2
 - [ ] [[Curd]] — Morkuzhambu (100 ml) ×3
-- [ ] [[Paper towel]] — One-off
-- [ ] [[Toilet paper]] — One-off
+- [x] [[Paper towel]] — One-off
+- [x] [[Toilet paper]] — One-off
 - [ ] [[Body wash]] — One-off
-- [ ] [[Dishwashing liquid]] — One-off
+- [x] [[Dishwashing liquid]] — One-off
 - [ ] [[Greek Yogurt]] — One-off
 - [ ] [[Dates]] — One-off
 
