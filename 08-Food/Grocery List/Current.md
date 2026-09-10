@@ -2,10 +2,10 @@
 
 ## Costco
 - [ ] [[Paneer]] — Palak Paneer (cut, soaked) ×2
-- [ ] [[Tomato]] — Palak Paneer (1) ×2, Rasam (1, boiled & smashed) ×2, Brinjal Gojju (1) ×2, Rava Upma (as needed)
-- [ ] [[Spinach]] — Palak Paneer (½ box baby spinach) ×2, Palak Kootu (cut, 1 bunch) ×2
+- [x] [[Tomato]] — Palak Paneer (1) ×2, Rasam (1, boiled & smashed) ×2, Brinjal Gojju (1) ×2, Rava Upma (as needed)
+- [x] [[Spinach]] — Palak Paneer (½ box baby spinach) ×2, Palak Kootu (cut, 1 bunch) ×2
 - [x] [[Ghee]] — Palak Paneer (for cooking) ×2, Rasam (for tadka) ×2, Pongal (for tempering) ×2
-- [ ] [[Avocado]] — Avocado Pasta (1, scooped) ×2
+- [x] [[Avocado]] — Avocado Pasta (1, scooped) ×2
 - [x] [[Olive oil]] — Avocado Pasta (2 spoons) ×2
 - [x] [[Pasta]] — Avocado Pasta (cooked) ×2
 - [x] [[Toor Dal]] — Palak Kootu (½ cup, cooked) ×2, Rasam (~100 ml dal water) ×2, Morkuzhambu (2 tsp, soaked) ×3
