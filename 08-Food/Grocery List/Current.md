@@ -11,7 +11,7 @@
 - [x] [[Toor Dal]] — Palak Kootu (½ cup, cooked) ×2, Rasam (~100 ml dal water) ×2, Morkuzhambu (2 tsp, soaked) ×3
 - [x] [[Coconut oil]] — Palak Kootu (for tadka) ×2, Morkuzhambu (for tadka) ×3
 - [x] [[Cashews]] — Pongal (for tempering) ×2
-- [ ] [[Salted butter]] — Creamy Mushroom (2 tbsp) ×2
+- [x] [[Salted butter]] — Creamy Mushroom (2 tbsp) ×2
 - [x] [[Milk]] — Creamy Mushroom (½ cup) ×2
 - [ ] [[Curd]] — Morkuzhambu (100 ml) ×3
 - [x] [[Paper towel]] — One-off
@@ -36,7 +36,7 @@
 - [x] [[Baby bella mushrooms]] — Creamy Mushroom (1 small pack) ×2
 - [ ] [[Heavy whipping cream]] — Creamy Mushroom (as needed) ×2
 - [x] [[Parmesan cheese]] — Creamy Mushroom (grated, to taste) ×2
-- [ ] [[Bread]] — Creamy Mushroom (to serve) ×2
+- [x] [[Bread]] — Creamy Mushroom (to serve) ×2
 - [x] [[Capsicum]] — Capsicum poriyal (cut, of choice) ×2, Capsicum poriyal (1) ×2, Rava Upma (as needed)
 - [x] [[Carrot]] — Rava Upma (as needed)
 - [x] [[Beans]] — Rava Upma (as needed)
