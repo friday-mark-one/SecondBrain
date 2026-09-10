@@ -9,11 +9,11 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Body wash]]
 - [ ] [[Dishwashing liquid]]
 - [ ] [[Greek Yogurt]]
-- [ ] [[Frozen peas]]
 - [ ] [[Dates]]
 - [ ] [[Ghost protein cereal]]
 - [ ] [[Avocado oil spray]]
 - [ ] [[Channa]]
+- [ ] [[Hanger]]
 
 ## Regulars
 
@@ -24,3 +24,5 @@ Persistent menu — checked Regulars are unticked by the sweep, never removed.
 - [ ] [[Tofu]]
 - [ ] [[Seitan]]
 - [ ] [[Tempeh]]
+- [ ] [[Bread]]
+

@@ -30,21 +30,30 @@
 ## Mon 09-14
 ### Lunch
 - [[Vangi Bath]]
+- [[Creamy Mushroom]]
 ### Dinner
 
 ## Tue 09-15
 ### Lunch
 - [[Vangi Bath]]
 ### Dinner
+- [[Creamy Mushroom]]
 
 ## Wed 09-16
 ### Lunch
+- [[Morkuzhambu]]
+- [[Capsicum poriyal]]
 ### Dinner
+- [[Rava Upma]]
 
 ## Thu 09-17
 ### Lunch
+- [[Morkuzhambu]]
+- [[Capsicum poriyal]]
 ### Dinner
-
+- Chipotle 
 ## Fri 09-18
 ### Lunch
+- [[Morkuzhambu]]
 ### Dinner
+- Chipotle
