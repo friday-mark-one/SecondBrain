@@ -1,5 +1,23 @@
 # Deals
 
+## 2026-09-11
+- My Best Buy Visa (Citi) — 24-month financing on Best Buy purchases, offer ending — no date — cardholder financing
+- Fabletics — VIP early access: “First Dibs” new drop — no date — member pricing
+- Club Pilates Bothell — Refer-a-friend contest (each referral = prize entry) — ends Sep 16, 2026 — members
+- Going — new deal to Hawaii (saved destination) — no date — flight deal
+- Chase Sapphire — refer a friend, earn up to 100,000 bonus points — no date — referral offer
+- MOD Pizza — Back-to-School Fundraiser contest: 4 × $1,000 prizes — ends Nov 15, 2026 — U.S. nonprofits
+- Bilt — Bilt Card: earn up to 1.25X points on rent, mortgage & HOA — no date — card offer
+- Costco Travel — cruise itineraries (Alaska, Mexico) + weekly travel Hot Buys — no date — costcotravel.com
+- My Best Buy Visa (Citi) — bonus offer — expires Sep 30, 2026 — cardholder offer
+- IndiGo — travel card: first year free (free seats, priority boarding, low forex) — no date — card offer
+- Going — Hawaii roundtrip $310–$343 (Oct) — book soon — flight deal
+- ID.me Shop — T-Mobile student plans from $30/month — no date — member deal
+- Going — Switzerland roundtrip $578 (Oct) — book soon — flight deal
+- evo — EVOTrip Japan: final day to save (Niseko, Hakuba) — last day per email — ski travel
+- Bath & Body Works — $11.95 all 3-wick candles (lowest of season) — no date — starts today 🔔 [[Gift ideas]]
+- Kohl's — Kohl's Card holders save 30% + Kohl's Cash on fall styles — no date — cardholder coupon
+
 ## 2026-09-10
 - Kohl's — Kohl's Card holder save 30% + Kohl's Cash on fall styles — no date — cardholder coupon
 - Climate Pledge Arena — Sept Greensheet: Kraken Build-A-Pack from $45; Seattle Center Festál free festivals (Sep 13–Oct 4) — no date — events
