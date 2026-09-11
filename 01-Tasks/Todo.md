@@ -5,6 +5,7 @@ hint: general todo list
 pinned: true
 ---
 
+- [ ] SBI account fix
 - [ ] H1B appointment 
 - [ ] Mira global entry
 - [ ] 401k rollover
