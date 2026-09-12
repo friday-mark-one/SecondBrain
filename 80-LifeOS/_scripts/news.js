@@ -87,7 +87,10 @@ function todayISO() {
 }
 
 async function sendTelegram(html) {
-  const { bot_token, chat_id } = JSON.parse(fs.readFileSync(CRED_PATH, "utf8"));
+  const creds = JSON.parse(fs.readFileSync(CRED_PATH, "utf8"));
+  const { bot_token } = creds;
+  // Morning digest targets `news_chat_id` when set; falls back to the shared chat_id.
+  const chat_id = creds.news_chat_id || creds.chat_id;
   const res = await fetch(`https://api.telegram.org/bot${bot_token}/sendMessage`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
