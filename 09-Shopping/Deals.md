@@ -1,5 +1,11 @@
 # Deals
 
+## 2026-09-12
+- Kohl's — Save 30% cozy fall home refresh — expires no date — +15% off next purchase; 5% w/ Kohl's Card
+- evo — 20% off 1 full-price item (Patagonia, The North Face, Brooks, Altra…) — expires ~9/15 — 4 days only, online
+- Bath & Body Works — $11.95 3-wick candles / new fall favorites — expires no date — Buy 3 Get 3 Free full-size body care; free ship $50+ 🔔 [[Gift ideas]]
+- Going — mistake fare Orlando ↔ Washington DC $72 roundtrip (Oct–Nov) — expires book soon — JetBlue
+
 ## 2026-09-11
 - My Best Buy Visa (Citi) — 24-month financing on Best Buy purchases, offer ending — no date — cardholder financing
 - Fabletics — VIP early access: “First Dibs” new drop — no date — member pricing
