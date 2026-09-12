@@ -110,7 +110,10 @@ function collectReturns() {
 }
 
 async function sendTelegram(text) {
-  const { bot_token, chat_id } = JSON.parse(fs.readFileSync(CRED_PATH, "utf8"));
+  const creds = JSON.parse(fs.readFileSync(CRED_PATH, "utf8"));
+  const { bot_token } = creds;
+  // Returns reminders go to the family group when set; fall back to the DM chat_id.
+  const chat_id = creds.group_chat_id || creds.chat_id;
   const res = await fetch(`https://api.telegram.org/bot${bot_token}/sendMessage`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
