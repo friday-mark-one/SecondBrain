@@ -12,7 +12,9 @@ the AgentMail skill and the summarizing/matching; the helper scripts own timing 
    b. Judge whether it matches `[[Buy List]]`, `[[Black Friday buy]]`, or `[[Gift ideas]]`.
       If it plausibly matches (has to be same category or product), append ` 🔔 [[<matched note>]]` to the bullet.
    c. `node 80-LifeOS/_scripts/deals.js add "<bullet>"`.
-   d. If it matched, send me a Telegram message (store + offer + which list it matched).
+   d. If it matched, ping the **Friday family** group directly (do NOT rely on the heartbeat
+      reply — that goes to the DM):
+      `node 80-LifeOS/_scripts/notify.js group "<store> — <offer> — matched [[<list>]]"`.
    e. `node 80-LifeOS/_scripts/email-state.js seen deals <this message's id>` — **mark it seen immediately, before moving to the next message**, so a mid-run error never re-posts or re-pings the ones already done.
    f. Mark it processed in AgentMail — remove the `unread` label and add a `processed` label (via the AgentMail skill, or a PATCH to that message). This clears the inbox and is the durable dedup; the local `seen` file in (e) is the backup.
 5. `node 80-LifeOS/_scripts/email-state.js done deals` — mark today's deal triage complete.
