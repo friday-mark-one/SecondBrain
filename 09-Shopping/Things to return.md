@@ -21,7 +21,6 @@ pinned: true
 - [ ] 
 
 ## REI
-- [x] Jackets
 
 ## Walmart
 - [ ] 
