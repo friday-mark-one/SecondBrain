@@ -21,10 +21,13 @@ pinned: true
 - [ ] 
 
 ## REI
-- [ ] Jackets
+- [x] Jackets
 
 ## Walmart
 - [ ] 
 
 ## Fabletics
 - [ ] 
+
+## Whole Foods
+- [ ] Mira t shirts @2026-10-02
