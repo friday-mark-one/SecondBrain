@@ -1,5 +1,15 @@
 # Deals
 
+## 2026-09-13
+- MOD Pizza — buy one MOD-size pizza or salad, get one Kids Meal free (12 & under) — Sundays only — not valid with other offers or 3rd-party delivery
+- Going — London roundtrip ~$614 (Jan–Feb travel) — expires no date — Going flight deal, book soon
+- Going — Paris roundtrip ~$570 (Feb travel) — expires no date — Going flight deal, book soon
+- H&M — 15% off $75 or 20% off $100 on tops & sweaters — ends Sun 9/13 — members; free shipping over $50
+- Fandango — up to $5 off 'The Uprising' movie ticket — code expires 9/27 — code RISEORDIE; limit 1 per person; Fandango account required
+- evo — 20% off one full-price item — expires 9/14 — evo Rewards members; log in for code; select full-price gear
+- Bath & Body Works — $3.50 select items (one day only) + Buy 3 Get 3 Free body care — expires today 9/13 — code FEELGOOD online / barcode in store 🔔 [[Buy List]]
+- Kohl's — extra 30% off + earn Kohl's Cash; up to 80% off clearance at new lower prices — no date — kohls.com
+
 ## 2026-09-12
 - Kohl's — Save 30% cozy fall home refresh — expires no date — +15% off next purchase; 5% w/ Kohl's Card
 - evo — 20% off 1 full-price item (Patagonia, The North Face, Brooks, Altra…) — expires ~9/15 — 4 days only, online
