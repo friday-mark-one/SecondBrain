@@ -1,5 +1,45 @@
 # Deals
 
+## 2026-09-14
+- Macy's — One Day Sale + Bonus Days (signature sale; $34.99 34th cardigans, $59.99 Levi's, men's from $21) — ends tonight — macys.com
+- Macy's — up to 65% off mattresses — no date — macys.com
+- Going — Hawaii price drop $534 (+1 new deal) — no date — Going flight alert
+- Michaels — best BOGO deals (score free supplies) — no date — michaels.com
+- Lyft — 50% off a ride — ends 9/17 — Lyft app
+- NORDSTROM RACK — bestsellers: women's & accessories up to 60% off — no date — nordstromrack.com
+- Going Flight Deals — Ireland roundtrip $547 (Jan–May travel) — no date — Going deal
+- Going Flight Deals — Cabo/Baja California Sur $465–$469 (Nov / Apr–Jun) — no date — Going deal
+- H&M — 15% off $75 or 20% off $100 on fall things — expires today 9/13 — members; free ship over $50
+- Michaels Custom Framing — 70% off ALL custom frames — no date — michaelscustomframing.com
+- evo — 20% off one full-price item — valid 9/11–9/14 — evo members; log in (auto in cart)
+- UNiDAYS — Back-To-School student offers (Olive Garden, Crocs & more) — no date — myunidays.com
+- Macy's — up to 60% off bras, underwear, PJs & more (One Day Sale) — ends tonight 9/13 — macys.com
+- Walgreens — clip $10 Walgreens Cash — no date — myWalgreens app
+- Kohl's — extra 30% off (Customer Appreciation Event) + Kohl's Cash — no date — kohls.com
+- Michaels — Lowest Prices of the Season Sale (in store + online) — no date — michaels.com
+- Kohl's — 30% off with a Kohl's Card + Kohl's Cash — no date — kohls.com
+- Michaels — Big Fall Sale up to 50% off — ends soon — michaels.com
+- NORDSTROM RACK — up to 50% off sweaters & boots — no date — nordstromrack.com
+- Macy's — 40% off women's trending fall dresses (suede, knits) + Bonus Days — no date — macys.com
+- Michaels — Lowest Prices of the Season: up to 60% off (starts online today) — no date — michaels.com
+- Kohl's — take 30% off + get Kohl's Cash; up to 80% off clearance — no date — kohls.com
+- Macy's — $34.99 cardigans, jackets under $100 (fall layers) + Bonus Days — no date — macys.com
+- Macy's — lowest prices on best-selling collections — no date — macys.com
+- Michaels — up to 50% off fall (décor, floral & more) — no date — michaels.com
+- Macy's — up to 60% off: One Day Sale + Bonus Days (now–Sun) — ends Sun 9/14 — members earn Star Money faster
+- NORDSTROM RACK — Private Sale: G/FORE — no date — nordstromrack.com
+- Michaels — Big Fall Sale (décor, floral & more) — no date — michaels.com
+- Kohl's — 30% off home (cozy fall refresh) + Kohl's Cash — no date — kohls.com
+- Michaels — deals (décor & more) — no date — michaels.com
+- Firestone Complete Auto Care — save up to $100 (EPIC Week, prep for fall) — no date — schedule early
+- Lyft — 50% off (go out on the town) — no date — Lyft app
+- Lyft — 5x total points on rides — no date — Lyft Rewards
+- Macy's — $59.99+ men's leather dress shoes (Flash Sale) — ends tonight 9/13 — macys.com
+- NORDSTROM RACK — denim under $50 (Good American & more) — no date — nordstromrack.com
+- Macy's — up to 75% off men's suits, blazers & more (Semi-Annual Suit Sale) — through 9/28 online, 9/29 stores — macys.com
+- Michaels — up to 60% off trees online only + FREE shipping — no date — michaels.com
+- Costco — New Finds for this week's visit — no date — costco.com
+
 ## 2026-09-13
 - MOD Pizza — buy one MOD-size pizza or salad, get one Kids Meal free (12 & under) — Sundays only — not valid with other offers or 3rd-party delivery
 - Going — London roundtrip ~$614 (Jan–Feb travel) — expires no date — Going flight deal, book soon
