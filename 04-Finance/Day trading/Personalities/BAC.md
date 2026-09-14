@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-08-05 — Sitting at a new 52-week high; CEO Moynihan expects three Fed hikes in 2026 (inflation in the mid-2s by end of 2027), so it trades heavily on rate expectations and the yield curve — hikes/rate-hike-call headlines and bank-sector sentiment are the live swing factors.
+- 2026-09-14 — New swing factor: investment-banking fee revenue. BAC's ~5% single-day drop (crossing below its 50d) came on a weak Wall Street fee forecast / IB-fee surprise, not on rates — fee-revenue guidance now moves it alongside rate expectations and the yield curve.
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -25,3 +26,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-10 — AUTO: new 52-week high. Headlines: Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day | 1 Mega-Cap Stock with Impressive Fundamentals and 2 We Brush Off | Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk
 - 2026-08-11 — AUTO: new 52-week high. Headlines: Earnings Are Beating Wall Street’s Boldest Expectations. What Comes Next. | BAC or MS: Which Financial Powerhouse Deserves Your Investment Now? | Here's How Huntington Plans to Achieve Its 18-19% ROTCE Target by 2027
 - 2026-08-12 — AUTO: new 52-week high. Headlines: Sector Update: Financial Stocks Rise Late Afternoon | Intel: BofA sees $20B raise fueling foundry and server CPU growth | Can Bank Of America’s (BAC) $250B Bet Pay Off?
+- 2026-09-14 — AUTO: -5.1% day (≥2× its typical range); crossed below its 50d average. Headlines: Bank of America leads financial services stocks lower on weak Wall Street fee forecast | Stock Market Today, Sept. 14: Bank of America Slides on Investment Banking Fee Surprise | Sector Update: Financial Stocks Decline Late Afternoon
