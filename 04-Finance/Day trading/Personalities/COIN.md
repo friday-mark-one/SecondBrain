@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-07-31 — Trades on crypto market conditions and CLARITY Act regulatory clarity; now also on its own earnings path after a third straight quarterly loss
+- 2026-09-15 — Regulatory-clarity catalyst stalled: the Senate blocked the landmark digital-asset market-structure (CLARITY) bill, gapping crypto stocks (including COIN) lower and pushing COIN back below its 200d — the bill's legislative path now swings it more directly than the broad crypto tape
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -28,3 +29,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-07 — AUTO: opening gap -4.0%. Headlines: Hunter Biden makes new crypto move against Donald Trump | Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin | Strategy Is Down More Than 50% in 12 Months. One Analyst Thinks the Stock Is About to Triple
 - 2026-09-09 — AUTO: opening gap +3.1%. Headlines: NFL Kickoff To Spark Record Betting Season As Prediction Markets Boom. AGA Throws A Flag. | Zcash Is Up More Than 2,000% in a Year While XRP, Solana and Cardano Are All Down. What Zcash Has That They Do Not. | Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States
 - 2026-09-14 — AUTO: opening gap +3.3%; crossed above its 200d average. Headlines: How soon the Clarity Act could pass — and what investors should know | Bullish Stock Is Set to Win Whatever Happens to Crypto Law, Analyst Says | Coinbase CEO Says CLARITY Act Nears 'Finish Line' and Bitcoin Has 'Seen The Bottom'
+- 2026-09-15 — AUTO: opening gap -4.1%; crossed below its 200d average. Headlines: Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote | Crypto stocks fall as Senate blocks landmark digital asset bill | Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood’s Dumping Crypto Stocks.
