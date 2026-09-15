@@ -1,5 +1,37 @@
 # Deals
 
+## 2026-09-15
+- Kohl's — 30% off + Kohl's Cash (Card holder) + fall layers — no date — kohls.com
+- My Best Buy Visa (Citi) — game-day gear picks (wheeled cooler cart & more; rewards/financing) — no date — cardholder email
+- Linux Foundation — up to 40% off bundles & instructor-led training (code SEPT26BTS40) / 35% off e-Learning (SEPT26BTS35) — no date — September sale
+- Educative — Generative AI roundup (Qwen3.8 on a 24 GB GPU; what to build) — no date — newsletter
+- F45 Bothell — Getting Started guide (Part 5/6): protein & fat loss — no date — newsletter
+- Lumosity — 35% off Premium (code NEWSLETTER-35-26) — no date — brain training
+- Fabletics — NEW & ON SALE ($20 GridTech) — no date — member pricing
+- NerdWallet — rates up on high-yield savings accounts — no date — newsletter
+- Michaels — Rewards offers now available — no date — michaels.com
+- Firestone Complete Auto Care — save up to $100 (EPIC Week, fall maintenance) — no date — schedule early
+- Going — Hawaii (Honolulu) roundtrip $442 from Everett (Oct–Nov, 1-stop) — price lasts 1–2 days — flight alert
+- Pandora — Pandora Minis are back (new colorful charms) — no date — pandora.net
+- Going Flight Deals — Seattle→Tokyo roundtrip $773 (Dec–Feb) — book soon — flight deal
+- Going — Hawaii roundtrip $442 (Oct–Nov) — book soon — flight deal
+- Going — Singapore Airlines award sale 47k–75k pts + $76 roundtrip — book soon — points deal
+- Macy's — 25% off Kenneth Cole, Avec Les Filles, Steve Madden & more (Star Rewards) — no date — macys.com
+- PointsYeah — Chase Ink Business Cash/Unlimited $1,000 cash back each (no annual fee) — ends Sep 17, 9 AM EST — card offer
+- Michaels — frightening Halloween finds (get spooky) — no date — michaels.com
+- NerdWallet — personal loan pre-qualification (rate estimates) — no date — newsletter
+- H&M — SculptMove™ new-season activewear — no date — hm.com
+- NORDSTROM RACK — 125 deals up to 65% off — no date — nordstromrack.com
+- evo — 20% off one full-price item (members) — expires 9/14 — evo Rewards members; log in for code
+- Going — In the Know: 11 tricks to get cheap flights from small airports — no date — newsletter
+- Sephora — new K18 serum (graying/thinning hair) — no date — Daily Deals
+- Macy's — Buy one, get one 50% off men's denim (Levi's, True Religion & more) — 3 days only — macys.com
+- Etsy — Oktoberfest small-shop finds — no date — etsy.com
+- Michaels — 60% off (everything in this email) — no date — michaels.com
+- NordVPN — Incogni data-removal: $4.49/mo (1-yr Standard, $53.88) — offer valid 5 days — data removal
+- Kohl's — save 30% with your Kohl's Card + more for less — no date — kohls.com
+- Kohl's — 30% off with a Kohl's Card — no date — kohls.com
+
 ## 2026-09-14
 - Macy's — One Day Sale + Bonus Days (signature sale; $34.99 34th cardigans, $59.99 Levi's, men's from $21) — ends tonight — macys.com
 - Macy's — up to 65% off mattresses — no date — macys.com
