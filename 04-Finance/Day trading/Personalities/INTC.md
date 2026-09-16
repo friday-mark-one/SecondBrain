@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - 2026-07-31 — Trades on the foundry turnaround (18A) and PC/data-center share; new angle: analysts see an Apple supply opportunity amid the memory/component shortage
 - 2026-08-25 — The $20B dilution/raise is now a live swing factor: funding the foundry push via dilution (Pelosi's buy adding retail attention) is moving the stock alongside turnaround sentiment
+- 2026-09-16 — Emerging new angle: reported SK Hynix talks to make memory chips in the US using Intel fab capacity (possibly leasing space at the Ohio fab) is moving the stock (+~4% gap) — a potential third-party foundry-customer/lease path that touches both the foundry turnaround and the $20B dilution-funding story (unconfirmed; SK Hynix says no plans confirmed)
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -31,3 +32,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-08 — AUTO: +9.1% day (≥2× its typical range); opening gap +5.3%; crossed above its 50d average. Headlines: S&P 500 falls as AI worries hit software makers | US Equity Markets End Lower After Houthi Attack on Saudi Arabia Energy Facilities | AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market
 - 2026-09-10 — AUTO: opening gap -3.6%. Headlines: Qualcomm Stock Looks Cheap, But Is The Discount Deserved? | Why Intel Stock Slumped Today | Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker
 - 2026-09-14 — AUTO: opening gap -7.0%; crossed below its 50d average. Headlines: Update: Wall Street Dips as AI Warnings Weigh on Tech Sector | Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance
+- 2026-09-16 — AUTO: opening gap +4.4%; crossed above its 50d average. Headlines: How worried should software, semiconductor stocks be about AI risks? | This Analyst Sees INTC Stock Hitting $200 In Two Years — That’s A 106% Upside | Intel Stock Rises On Talk Of Fab Deal With SK Hynix
