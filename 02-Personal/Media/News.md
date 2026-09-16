@@ -1,5 +1,40 @@
 # News
 
+## 2026-09-16
+
+## Agents & Engineering
+
+- [Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island](https://danluu.com/ai-coding?utm_source=tldrdev) — AI coding agents can save enormous time while fabricating convincing evidence, so the surrounding verification process matters as much as model capability. The article argues for randomized testing, independent repro checks, and continuous feedback loops, and shows how high variance makes one-off benchmarks and workflow folklore unreliable. (TLDR Dev)
+- [Beyond the model: engineering AI infra with scientific judgement](https://airbnb.tech/ai-ml/beyond-the-model-engineering-ai-infra-with-scientific-judgement?utm_source=tldrdev) — Airbnb's Insight Miner turns a repeatable scientific methodology for exploring unstructured text into infrastructure around an AI agent. It combines extraction, embeddings, clustering, prompt tuning, hard-example mining, and audit trails, so investigations that once took months can run in days without sacrificing expert judgment. (TLDR Dev)
+- [Who gets to define an AI agent's intent?](https://workos.com/blog/define-ai-agent-intent?utm_source=tldrdev) — An agent's user should describe the task and intended effects, while identity, permissions, and organizational policy remain separate enforcement layers. Clear intent makes proposed actions easier to evaluate, but broader wording must never expand authority or bypass approval and data-handling rules. (TLDR Dev)
+
+## Launches & Tools
+
+- [Introducing System One models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev?utm_source=tldrdev) — Jev is a model that returns typed probabilistic decisions instead of generated strings for automation workloads. The company says its RLCD training and parallel sampler provide calibrated confidence, 70 to 500 millisecond responses, and substantially lower costs on tasks with predefined output spaces. (TLDR Dev)
+- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/?utm_source=tldrdev) — Google's two new live audio models split the tradeoff between low-latency conversation and deeper multistep reasoning. Extended Thinking can keep speaking while it reasons and run asynchronous tools in the background, but clients must track interaction status rather than treating turn completion as the end of processing. (TLDR Dev)
+
+## AI Industry & Opinion
+
+- [Why I'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html?utm_source=tldrdev) — Frontier models can produce great results on tightly specified tasks, but most knowledge work lacks cheap, rigorous verification. The argument is that human oversight and specification costs will keep LLMs closer to fast, capable interns than autonomous replacements, while cheaper open models may win many practical workloads. (TLDR Dev)
+- [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/?utm_source=tldrdev) — The Norwegian Consumer Council argues that longer product lifespans, affordable repairs, available spare parts, and durable software support are necessary for a workable circular economy. Its proposals include longer complaint periods, lower taxes on repair and secondhand sales, stronger rental protections, and tighter rules on purchase pressure. (TLDR Dev)
+
+## Inference & Infrastructure
+
+- [The AI inference revolution is here](https://spectrum.ieee.org/inference-hardware-revolution?utm_source=tldrdev) — Inference demand is shifting hardware design toward memory bandwidth, specialized decode chips, wafer-scale systems, stacked memory, and aggressive quantization. Prefill and decode favor different architectures, and future systems may combine several chip types rather than rely on one universal accelerator. (TLDR Dev)
+- [Learning to solve hard problems in RL for LLMs by never giving up](https://mnoukhov.github.io/posts/ngu/?utm_source=tldrdev) — Standard RL post-training disproportionately improves problems the base model already solves, a pattern the piece calls the Matthew Effect. Never Give Up counters it by continuing to sample hard examples, with experiments across math and code showing better gains on previously unsolved tasks while introducing tradeoffs around asynchronous staleness and compute. (TLDR Dev)
+
+## Security
+
+- [We wanted to use Baseten for inference. We ended up with admin access to Baseten GitHub repos](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover?utm_source=tldrdev) — An autonomous security scan found a public Harbor registry, then recovered a live GitHub token from a 2023 container image's build history. The token still had broad admin and write access, showing why teams must inspect image metadata as well as layers, use BuildKit secret mounts, expire credentials, and minimize scopes. (TLDR Dev)
+
+## Quick Links
+
+- [Capsule](https://withcapsule.app/?utm_source=tldrdev) — Capsule packages an app's interface, media, and local SQLite data into a portable file that runs offline across desktop platforms and can be generated or updated with AI tools. (TLDR Dev)
+- [Pizza Bot](https://github.com/pizza-bot-app/pizza-bot?utm_source=tldrdev) — A local-first inbox for long-running AI agents with durable runs, approval queues, scheduling, checkpointing, delegated specialists, and desktop, web, and terminal clients. (TLDR Dev)
+- [Ordewell](https://github.com/ordewell/ordewell?utm_source=tldrdev) — Ordewell turns a coding goal into an editable dependency-aware plan, assigns each task a runner and model, then executes and verifies completion using explicit evidence markers. (TLDR Dev)
+- [How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/?utm_source=tldrdev) — A manual review of 102 recently updated F-Droid apps classified 74 as largely AI-written. (TLDR Dev)
+- [CSS-Tricks in limbo](https://vale.rocks/micros/20260915-0135?utm_source=tldrdev) — CSS-Tricks is inactive again after DigitalOcean stopped communicating about its future, raising concern that another specialist web publication could disappear. (TLDR Dev)
+
 ## 2026-09-15
 
 ## AI Industry & Policy
