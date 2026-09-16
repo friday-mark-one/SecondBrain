@@ -1,5 +1,24 @@
 # Deals
 
+## 2026-09-16
+- F45 Bothell — Getting Started guide (Part 6/6): how to set new habits & build a routine — no date — newsletter
+- Pinterest — trending-searches digest (wallpaper, pose refs, outfits & more) — no date — recommendations
+- Adobe Acrobat — AI doc feature: turn dense docs into clear takeaways — no date — product promo
+- Fabletics — VIP Stock Up Sale (stock up your faves) — expires 9/16 11:59pm PT — VIP member pricing
+- Going — Hawaii roundtrip $226–$252 (Oct–Feb) — book soon — flight deal
+- Going Flight Deals — Sweden roundtrip $481 (Sep–Oct) — book soon — flight deal
+- Cinemark — "Shaun the Sheep: The Beast of Mossy Bottom" in the Spotlight — no date — movie pick
+- Going Flight Deals — Morocco roundtrip $627 (Nov / Jan–Mar) — book soon — flight deal
+- Going — Boston roundtrip $244 (Jan–Feb) — book soon — flight deal
+- H&M — the early fall outerwear edit (new season) — no date — hm.com
+- NerdWallet — how to get the best car insurance (tips) — no date — newsletter
+- Etsy — spooky-season Halloween finds (cake toppers & more) — no date — etsy.com
+- Huel — Daily Greens RTD: 25% off every order w/ subscription + free express shipping $65+ — no date — subscription
+- Fabletics — new collab (BIG HART) — no date — fabletics.com
+- Going — last chance: Chase Ink Business Unlimited/Cash $750–$1,000 cashback (or 100k pts) — expires Sep 17 9AM EST — no annual fee
+- Fandango — tickets on sale: "Other Mommy" — no date — fandango.com
+- Kohl's — 30% off + Kohl's Cash (Kohl's Card holders) + fall layers — no date — kohls.com
+
 ## 2026-09-15
 - Kohl's — 30% off + Kohl's Cash (Card holder) + fall layers — no date — kohls.com
 - My Best Buy Visa (Citi) — game-day gear picks (wheeled cooler cart & more; rewards/financing) — no date — cardholder email
