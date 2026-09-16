@@ -4,5 +4,5 @@ store: Indian Store
 category: 
 shelf_life_days: 5
 heads_up_days: 2
-expires: 2026-08-20
+expires: 2026-09-21
 ---

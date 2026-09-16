@@ -16,3 +16,4 @@ pinned: false
 - Honey
 - Citrus fruits for Vitamin C
 - Homoeopathy medicine
+- Linga mudra 
