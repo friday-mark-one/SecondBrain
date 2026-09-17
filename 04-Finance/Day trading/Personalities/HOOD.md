@@ -17,6 +17,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - (add what this name trades on)
 - 2026-08-20 — Trades on crypto-regulatory momentum: Trump admin advancing crypto rules (CLARITY Act) and bitcoin price spikes (gap +5.3% today) move it, alongside meme-coin trading volumes
 - 2026-09-04 — New swing factor: tokenized-stock offerings controversy — AMC CEO backlash over "tokenized" equities (securities-law scrutiny) gapped it -3.4%, layering onto its crypto-driven moves
+- 2026-09-17 — Tokenized-equity theme flipped from regulatory risk to catalyst: the SEC cleared a path for blockchain-based tokenized stocks / 24-7 trading, rallying HOOD (+5.4% gap) — the same tokenization angle that was a securities-law overhang (08-20/09-04) is now a positive regulatory driver
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -29,3 +30,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-03 — AUTO: +16.6% day (≥2× its typical range); opening gap +6.4%. Headlines: Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, SpaceX Rise As Cybercab Event Nears (Live Coverage) | Why Your Teen’s Robinhood Gains Can Get Taxed at Your 35% Rate Under the Kiddie Tax | Why Robinhood and Coinbase Are the Top S&P 500 Stocks Today
 - 2026-09-04 — AUTO: opening gap -3.4%. Headlines: 'Detestable, inexcusable, vile': AMC CEO slams Robinhood for tokenized stock offerings | AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading | Sector Update: Financial Stocks Retreat Late Afternoon
 - 2026-09-07 — AUTO: opening gap -3.4%. Headlines: Robinhood Wins a New Role in the Oura IPO: Underwriter | Robinhood Markets, Inc. (HOOD) Is Up 17.12% in One Week: What You Should Know | Cathie Wood buys $3.5 million of surging tech stock
+- 2026-09-17 — AUTO: opening gap +5.4%. Headlines: SEC Sends Strong Signal to Robinhood, Coinbase Investors | SEC Clears Path For 24/7 Stock Trading Via Blockchain. These Stocks Rally. | Robinhood Rises as the SEC Clears Tokenized Stocks
