@@ -1,5 +1,42 @@
 # Deals
 
+## 2026-09-17
+- Kohl's — extra 30% off for Kohl's Card holders (code KOHLS30) + earn $10 Kohl's Cash per $50 — no date — kohls.com
+- Daily Harvest — spend $100, get 2 free High Protein Oat Bowls (no code) — no date — subscription
+- Fabletics — VIP Stock Up Sale, last chance (stock up on faves) — expires soon — VIP pricing
+- NerdWallet — high-yield savings accounts up to 4.10% APY — no date — newsletter
+- point.me — award deals: SF→Fiji 66K biz, DC→Madrid 32K/13K, Chicago→Aruba 10K — no date — points deals
+- NerdWallet — Fed raised rates 25 bps: what it means for savings — no date — newsletter
+- DoorDash — local restaurant picks (Can Am Pizza, Bollywood 360 & more) — no date — doordash.com
+- Pinterest — trending-searches digest — no date — recommendations
+- Bellevue Badminton Club — 26% off Mixers & Court Reservations (code Summer26) — expires 9/21 — Southcenter only
+- Macy's — Top 100 Gifts (DryBar styler, UGG throw, KitchenAid mixer, ornaments) — no date — macys.com
+- Etsy — curated gift picks (stackable rings & more) — no date — etsy.com
+- Amica — term life insurance in 5 simple steps — no date — insurance info
+- Nordstrom — Fall Savings Event: up to 25% off fashion, 15% off beauty — expires 9/23 — free ship/returns
+- Michaels — Lowest Prices of the Season: BOGOs on art supplies — no date — michaels.com
+- PointsYeah — flights from 4.5k pts (Honolulu, Orlando, Chicago & more) — no date — points deals
+- Kohl's — hiring for the holidays (15% associate discount, weekly pay) — no date — jobs
+- Famous Footwear — $10 Reward + free standard shipping for Famously YOU members — expires 9/21 — must be signed in
+- Nordstrom Rack — TUMI, MCM & more up to 50% off; extra 40% off select clearance — no date — free ship over $89
+- H&M — one-day app-only promo: 20% off in the app — expires no date — H&M app only
+- Chase — offer to book a J.P. Morgan advisor consultation — no date — cardholder offer
+- ID.me Shop — student deals: 15% off hotels, up to 30% off Samsung — no date — students
+- Macy's — 100 Days to Christmas: gift deals + holiday decor — no date — macys.com
+- Incogni (via NordVPN) — data-removal service $4.49/mo (1-yr $53.88) — expires in 3 days — offer
+- Michaels — deals under $5 — no date — michaels.com
+- Going — Hawaii (HNL) price drop from Seattle $226 (was $690) + 2 new deals — book soon — flight alert
+- Kohl's — extra 30% off (Card holders, code KOHLS30) + Kohl's Cash + cozy home finds — no date — kohls.com
+- Kohl's — 30% off + Kohl's Cash for Card holders + cozy finds — no date — kohls.com
+- Michaels — up to 60% off faves — no date — michaels.com
+- Chipotle Rewards — 'Fall For Chipotle' extra: 100 bonus points (activate in app) — no date — free w/ app
+- Nordstrom — summer clearance finds: up to 50% off (UGG & more) — no date — free ship/returns
+- Macy's — online shopping picks + new home finds — no date — macys.com
+- Nordstrom Rack — BOSS up to 50% off, Helmut Lang up to 65% off; extra 40% off clearance — no date — nordstromrack.com
+- Macy's — Flash Sale: 40-60% off fall styles & handbags, 55-70% off fashion jewelry — no date — macys.com
+- Michaels — Lowest Prices of the Season sale (stock up & save) — no date — michaels.com
+- Sephora — new INNBEAUTY PROJECT Extreme Cleanse + fragrance minis — no date — sephora.com 🔔 [[Gift ideas]]
+
 ## 2026-09-16
 - F45 Bothell — Getting Started guide (Part 6/6): how to set new habits & build a routine — no date — newsletter
 - Pinterest — trending-searches digest (wallpaper, pose refs, outfits & more) — no date — recommendations
