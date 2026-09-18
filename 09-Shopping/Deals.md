@@ -1,5 +1,22 @@
 # Deals
 
+## 2026-09-18
+- My Best Buy Visa (Citi) — early access to choose your next bonus category (cardholders) — no date — cardholder email
+- VSP Vision Care — GUESS Eyewear launch: save up to $300 on frames & sunglasses with VSP benefits — no date — Eyeconic
+- Fabletics — flannels & casual fall styles (VIP pricing) — no date — fabletics.com
+- NerdWallet — cheapest car insurance companies (tips + rate match tool) — no date — newsletter
+- Pinterest — trending-searches digest (wedding garlands, engagement photos & more) — no date — recommendations
+- Cinemark — New & Now: this week's new releases (Resident Evil & more) + member rewards — no date — cinemark.com
+- H&M — London runway looks (new-season fashion edit) — no date — hm.com
+- MOD Pizza — new Smokeshow Firebird pizza (order now) — no date — modpizza.com
+- Going Flight Deals — Europe roundtrip $403–$506 (Nov–Mar, SAS network sale) — book soon — flight deal
+- Vida Integrated Health — pediatric functional medicine (root-cause care) — no date — thinkvida.com
+- Huel — Ready-to-drink from $4.42/bottle — no date — huel.com
+- The Leela Palaces — October hotel offer (Discover More) — no date — theleela.com
+- Etsy — small-shop gift picks (personalized bags & more) — no date — etsy.com
+- Pandora — exclusive member rewards (shop for points) — no date — pandora.net
+- Kohl's — extra 30% off for Kohl's Card holders + seasonal home & family finds — no date — kohls.com
+
 ## 2026-09-17
 - Kohl's — extra 30% off for Kohl's Card holders (code KOHLS30) + earn $10 Kohl's Cash per $50 — no date — kohls.com
 - Daily Harvest — spend $100, get 2 free High Protein Oat Bowls (no code) — no date — subscription
