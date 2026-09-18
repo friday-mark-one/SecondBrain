@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - 2026-07-31 — Trades on crypto market conditions and CLARITY Act regulatory clarity; now also on its own earnings path after a third straight quarterly loss
 - 2026-09-15 — Regulatory-clarity catalyst stalled: the Senate blocked the landmark digital-asset market-structure (CLARITY) bill, gapping crypto stocks (including COIN) lower and pushing COIN back below its 200d — the bill's legislative path now swings it more directly than the broad crypto tape
+- 2026-09-18 — Driver rotated from legislation to agency action: with CLARITY stalled in the Senate, the SEC advancing tokenized stocks (plus Armstrong signalling "another path") became the live positive catalyst — COIN +11.7% to reclaim its 200d — so SEC/tokenization headlines now move it nearer-term than the stalled bill
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -32,3 +33,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-15 — AUTO: opening gap -4.1%; crossed below its 200d average. Headlines: Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote | Crypto stocks fall as Senate blocks landmark digital asset bill | Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood’s Dumping Crypto Stocks.
 - 2026-09-16 — AUTO: crossed below its 50d average. Headlines: The Republicans who voted against the Clarity Act | Coinbase CEO says crypto can’t wait on Congress after CLARITY vote fails | Bitcoin Fades, Cipher Leads Miners Higher After Fed, Energy News
 - 2026-09-17 — AUTO: opening gap +3.2%; crossed above its 50d average. Headlines: Coinbase CEO Brian Armstrong is moving past the Clarity Act's failure: 'There's another path' | AI agents will need their own financial infrastructure: Coinbase CEO | Exclusive: Brian Armstrong on crypto’s future after Clarity Act fails
+- 2026-09-18 — AUTO: +11.7% day (≥2× its typical range); crossed above its 200d average. Headlines: The SEC is bringing tokenized stocks to markets: 7 key details you need to know | Trump takes aim at Warsh after Fed hike | COIN Stock Trades at a Premium to Industry: What Should Investors Do?
