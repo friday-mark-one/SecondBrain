@@ -30,7 +30,7 @@ pinned: false
 - [x] Wash clothes
 - [ ] Plug bathroom sinkholes
 - [ ] Charge laptop
-- [x] Flight entertainment downloads
+- [ ] Flight entertainment downloads
 - [x] Belt
 - [x] Outdoor wear
 - [x] Indoor wear
@@ -41,14 +41,14 @@ pinned: false
 - [x] Compression sock
 - [x] Eye mask
 - [x] Check mailbox
-- [ ] Cooling glass
-- [ ] Cap
+- [x] Cooling glass
+- [x] Cap
 - [x] Towel
 - [x] Gloves
 - [x] Mac mini remote setup
 - [x] Formal shirt and pant
 - [x] Swim shorts
-- [ ] Plastic bag for old clothes
+- [x] Plastic bag for old clothes
 - [x] Offline google maps
 - [x] Offline spotify
 - [x] Plan for food or snacks
