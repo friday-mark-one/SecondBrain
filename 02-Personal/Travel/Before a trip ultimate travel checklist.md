@@ -10,7 +10,7 @@ pinned: false
 - [x] Spot saver
 - [ ] Take out trash
 - [ ] Empty water bottle
-- [ ] Check baggage requirements for airline
+- [x] Check baggage requirements for airline
 - [ ] Dopp kit
 - [ ] Multivitamin tablets
 - [ ] Gifts / Chocolates?
