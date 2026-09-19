@@ -57,3 +57,5 @@ pinned: false
 - [x] Hiking shoe
 - [x] Sandals for beach or hostel
 - [x] Pause roborock schedule
+- [ ] Mask 
+- [ ] Trimmer
