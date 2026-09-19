@@ -29,8 +29,8 @@ pinned: false
 - [x] Start dishwasher
 - [x] Wash clothes
 - [ ] Plug bathroom sinkholes
-- [ ] Charge laptop
-- [ ] Flight entertainment downloads
+- [x] Charge laptop
+- [x] Flight entertainment downloads
 - [x] Belt
 - [x] Outdoor wear
 - [x] Indoor wear
@@ -58,4 +58,4 @@ pinned: false
 - [x] Sandals for beach or hostel
 - [x] Pause roborock schedule
 - [x] Mask 
-- [ ] Trimmer
+- [x] Trimmer
