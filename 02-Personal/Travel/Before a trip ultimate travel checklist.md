@@ -7,7 +7,7 @@ pinned: false
 
 ### Ultimate travel checklist
 
-- [ ] Spot saver
+- [x] Spot saver
 - [ ] Take out trash
 - [ ] Empty water bottle
 - [ ] Check baggage requirements for airline
