@@ -1,5 +1,26 @@
 # Deals
 
+## 2026-09-19
+- Fabletics — Best Day Ever! promo (member/VIP styles) — no date — mystore.fabletics.com
+- UNiDAYS — recommended student discounts (PacSun & more) — no date — student perks app
+- Pandora — basics collection promo (shop new arrivals) — no date — official.pandora.net
+- TurboTax — savings/pricing email (file with TurboTax) — no date — intuit
+- Going — flight alerts: new deals to Hawaii from saved destinations — no date — deals.going.com
+- Pinterest — trending-searches digest (library & pre-wedding photo shoots) — no date — recommendations
+- NerdWallet — high-yield savings accounts up to 4.10% APY — no date — newsletter
+- Fabletics — LIVE NOW: 2 styles for 1 VIP credit — no date — VIP members
+- Etsy — Halloween finds (decor & gifts) — no date — etsy.com 🔔 [[Gift ideas]]
+- NerdWallet — auto insurance savings up to $1,079/yr — no date — rate comparison tool
+- Linux Foundation — back-to-school training/certifications up to 40% off — expires Sept 22 — lfedu
+- Sephora at Kohl's — 50% off select beauty today + 4X points on fragrance (Beauty Insiders) — expires today — kohls.com 🔔 [[Gift ideas]]
+- H&M — New: The Fall Edit (new-season fashion) — no date — hm.com
+- UNiDAYS — autumn/cozy picks student discounts — no date — student perks app
+- Fabletics — Best Day Ever returns tomorrow: free short + bag charm with purchase — no date — fabletics.com
+- Fandango — weekend movie guide — no date — movies.fandango.com
+- evo.com — gear picks (ski/snowboard/bike), free ship over $50 — no date — evo.com
+- Incogni (NordVPN) — data-removal 1-yr Standard $4.49/mo ($53.88 total) — expires Sept 19 — Incogni
+- Kohl's — 30% off + Kohl's Cash for a fall home refresh — no date — kohls.com
+
 ## 2026-09-18
 - My Best Buy Visa (Citi) — early access to choose your next bonus category (cardholders) — no date — cardholder email
 - VSP Vision Care — GUESS Eyewear launch: save up to $300 on frames & sunglasses with VSP benefits — no date — Eyeconic
