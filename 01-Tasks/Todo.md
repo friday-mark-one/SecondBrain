@@ -6,6 +6,7 @@ pinned: true
 ---
 
 - [ ] SBI account fix
+- [ ] Cancel 
 - [ ] H1B appointment 
 - [ ] Mira global entry
 - [ ] 401k rollover
