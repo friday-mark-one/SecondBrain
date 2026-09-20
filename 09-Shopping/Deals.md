@@ -1,5 +1,22 @@
 # Deals
 
+## 2026-09-20
+- Huel — Digest editorial, Edition 233 (no offer) — expires no date — newsletter
+- Fabletics — Mid-month new-arrivals drop (no stated discount) — expires no date — mens/womens
+- Grok — "Ask Grok what's happening now" product update (no offer) — expires no date
+- Pandora — "It's fate" jewelry promo (no explicit offer in body) — expires no date
+- Pinterest — Recommended searches: pre-wedding/couple shoot ideas (no offer) — expires no date
+- point.me — 75K bonus points + $300 hotel credit on card ($95 fee) — expires no date — after $4k spend
+- Edmunds — Newsletter: cars with great MPG, SUV rankings (no offer) — expires no date
+- NerdWallet — Auto insurance: compare carriers for cheapest quotes — expires no date — no code
+- Yelp — "Leave another review" reminder (no offer) — expires no date
+- NerdWallet — Up to $500 bank sign-up bonus (WA checking offers) — expires no date
+- H&M — Weekend deal: 20% off $125 + free shipping — expires this weekend — member price
+- Etsy — New arrivals / gifts & deals drop (no specific offer) — expires no date
+- Fandango — Weekly movie deals (pre-sale offers) — expires no date
+- Rotten Tomatoes — "What to Watch This Week" (no offer) — expires no date
+- Kohl's — 40% off + earn Kohl's Cash — expires no date — some exclusions (e.g. Sephora)
+
 ## 2026-09-19
 - Fabletics — Best Day Ever! promo (member/VIP styles) — no date — mystore.fabletics.com
 - UNiDAYS — recommended student discounts (PacSun & more) — no date — student perks app
