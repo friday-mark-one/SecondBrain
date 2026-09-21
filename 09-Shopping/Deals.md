@@ -1,5 +1,19 @@
 # Deals
 
+## 2026-09-21
+- Target — New Weekly Ad (weekly savings, no specific offer) — expires no date — target.com
+- Fabletics — Color Drop x2 (new colors, no stated discount) — expires no date — fabletics.com
+- Daily Harvest — Spend $100 get 2 FREE High Protein Oat Bowls (Bake Sale) — expires tonight Sep 20 — no code, subscription box
+- Pinterest — Trending-searches digest (no offer) — expires no date
+- NerdWallet — Car insurance cost calculator (no offer) — expires no date — nerdwallet.com
+- H&M — 20% off $125 + free shipping — expires tonight Sep 20 — member price
+- Costco — Member-only savings flyer (weekly savings, no specific offer) — expires no date — costco.com
+- UNiDAYS — Student discount roundup: Apple, DoorDash, adidas & more — expires no date — student verification required
+- evo — 2026 Snow Team announcement (no offer) — expires no date — evo.com
+- Pandora — "10 styles everyone's loving" jewelry edit (no offer) — expires no date — official.pandora.net
+- Etsy — Handmade/small-shop promo (no specific offer) — expires no date — etsy.com
+- Kohl's — 40% off + Kohl's Cash — expires tonight Sep 20 — some exclusions
+
 ## 2026-09-20
 - Huel — Digest editorial, Edition 233 (no offer) — expires no date — newsletter
 - Fabletics — Mid-month new-arrivals drop (no stated discount) — expires no date — mens/womens
