@@ -1,5 +1,60 @@
 # Deals
 
+## 2026-09-22
+- Kohl's — Epic Deals + earn 3x rewards (Kohl's Rewards members) — expires no date — plus Kohl's Cash; no code
+- Zoox — rider survey to prep for San Francisco launch — expires no date — early rider waitlist; no code
+- TurboTax — tax filing reminder — expires Oct 15 — file now for max refund
+- Pandora — new zodiac medallions (Pandora Talisman) — expires no date — no code
+- Costco — NEW Member-Only Savings — expires no date — member-only savings
+- Michaels — new frames + $5 Rewards on $30+ — expires no date — $5 rewards on $30+; no code
+- Michaels Rewards — exclusive member offers + $5 Rewards on $30+ — expires no date — rewards members; no code
+- NerdWallet — high-yield savings accounts roundup — expires no date — no code
+- Fabletics — Don Collection selling fast — expires no date — grab favorites; VIP
+- Costco — Fall Savings Event — expires no date — member savings
+- Lumosity — 35% off Premium + training tips — expires no date — 35% off Premium
+- NerdWallet — personal loan comparison — expires no date — no code
+- Nordstrom Rack — UGG for the family; Cinq à Sept up to 60% off — expires no date — up to 60% off
+- H&M — fall collection (softness & structure) — expires no date — no code
+- Fandango — Street Fighter movie tickets on sale — expires no date — no code
+- evo — new 2027 helmets & goggles; 15% off next purchase via text signup — expires no date — 15% off code
+- Going — Price Drop: money back on flight fare drops — expires no date — free with membership
+- Etsy — seasonal decor picks (summer/fall) — expires no date — no code
+- Michaels — up to 50% off Halloween decor (Boo It Yourself Sale) — expires no date — up to 50% off
+- Kohl's — EPIC DEALS start today + 3x rewards — expires no date — plus Kohl's Cash
+- Lyft — selfie verification for smoother pickups — expires no date — feature update; no offer
+- Macy's — Lauren Ralph Lauren home essentials — expires no date — no code
+- Macy's — fall hosting essentials up to 60% off — expires no date — up to 60% off
+- Michaels — Boo It Yourself Sale up to 50% off — expires no date — up to 50% off
+- Macy's — up to 40% off women's shoes (Steve Madden, Arezzo & more) — expires no date — up to 40% off
+- Nordstrom Rack — shoe deals — expires no date — no code
+- Famous Footwear — EXTRA 20% off Flash Sale — expires Sep 20 — flash sale
+- Macy's — up to 35% off watch trends (colored dials, gold-tone) — expires no date — up to 35% off
+- Walgreens — Weekly Wellness Picks — expires no date — no code
+- Michaels — Last Day: Lowest Prices of the Season up to 60% off — expires Sep 20 — up to 60% off
+- Kohl's — 40% off ends tonight — expires Sep 20 — plus Kohl's Cash
+- Macy's — hosting season bedding up to 60% off — expires no date — up to 60% off
+- Michaels — Lowest Prices of the Season up to 60% off + $10 Rewards on $40+ — expires no date
+- Macy's — up to 50% off base layers (Calvin Klein, Lacoste & more) — expires no date — up to 50% off
+- Famous Footwear — final day BOGO 1/2 off clearance (online) — expires Sep 19 — BOGO 1/2 off
+- Macy's — $39.99+ men's dress shirts (Michael Kors) — expires no date — $39.99+
+- Michaels — Lowest Prices of the Season ends soon, up to 60% off + $10 Rewards on $40+ — expires no date
+- Kohl's — 40% off + Kohl's Cash — expires no date — 40% off
+- Macy's — NEW & exclusive Theophilio collection — expires no date — no code
+- Macy's — NEW fall layers for the whole family — expires no date — no code
+- HomeGoods — bakeware up to 60% off — expires no date — up to 60% off
+- Sephora at Kohl's — 50% off select beauty + 4X points on all fragrance — expires no date — 50% off select beauty 🔔 [[Gift ideas]]
+- Macy's — Best of the Season up to 50% off (abercrombie kids & more) — expires no date — up to 50% off
+- Nordstrom Rack — season closeout extra 75% off select clearance — expires no date — extra 75% off
+- Macy's — new arrivals & trends (welcome-back) — expires no date — no offer
+- Kohl's — 30% off Customer Appreciation Event — expires no date — plus Kohl's Cash
+- Famous Footwear — clearance picks from LifeStride — expires no date — clearance
+- Macy's — up to 50% off men's dress shoes, loafers & sneakers — expires no date — up to 50% off
+- CARFAX Car Care — service feedback request (2023 Genesis GV70) — expires no date — no offer
+- Nordstrom Rack — Private Sale: Elwood — expires no date — private sale
+- THE NORDY CLUB — free beauty box in select stores — expires no date — Nordy Club perk
+- Macy's — Best of the Season 30% off + Star Money — expires Sep 27 — $20 Star Money per $100
+- Michaels — all yarn on sale + new sewing supplies — expires no date — yarn sale
+
 ## 2026-09-21
 - Target — New Weekly Ad (weekly savings, no specific offer) — expires no date — target.com
 - Fabletics — Color Drop x2 (new colors, no stated discount) — expires no date — fabletics.com
