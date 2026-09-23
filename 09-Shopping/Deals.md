@@ -1,5 +1,30 @@
 # Deals
 
+## 2026-09-23
+- Fabletics — Men's shorts guide (Bharath's picks) — expires no date — shop men's shorts; VIP member
+- Macy's — 15% off beauty (fall routine refresh) — expires no date — 15% off beauty
+- Stanford Court San Francisco — post-stay feedback survey — expires no date — survey invite; no offer
+- MOD Pizza — CinnaMOD launch + free Kids Meal with regular pizza/salad — expires no date — Sundays only; kids 12 & under
+- Chase Sapphire Preferred — new benefits: 3x gas/EV, 5x Chase Travel, free Apple TV+ 1yr — expires Dec 31, 2026 — activate Apple TV+ by 12/31/26
+- HomeGoods — fall must-haves poll — expires no date — poll; no code
+- Groupon — FEELartistic 90-min pottery for 1 or 2, up to 35% off — expires Dec 22, 2026 — online redemption; weekdays
+- Going — London flights $615 roundtrip (Nov-May) — expires no date — deal details
+- Going — Palm Springs / Joshua Tree flights $257 roundtrip (Oct-Nov) — expires no date — deal details
+- Michaels — new deals roundup — expires no date — see email
+- Live2Dance — 12-hour all-night Dance-a-thon (10th anniversary) — expires no date — register
+- Etsy — Etsy's picks: stackable rings, charm necklaces, keychains — expires no date — no code
+- Cinemark — Wildwood in theaters Oct 23 (LAIKA/Fathom) — expires Oct 23 — get tickets
+- Fandango — Digger IMAX tickets up to $7 off — expires Oct 15 — code DIGGERIMAX
+- Sephora at Kohl's — 4X points on all fragrance for Beauty Insiders — expires no date — Beauty Insiders 🔔 [[Gift ideas]]
+- Nordstrom Rack — up to 70% off new shoe markdowns — expires no date — no code
+- H&M — up to 30% off fall styles — expires no date — no code
+- Huel — new Mixed Berry Black Edition ready-to-drink (35g protein) — expires no date — new flavor
+- LeetCode — $60 off Back to School Premium annual ($99) — expires no date — group of 50+ students
+- Macy's — 15% off Estée Lauder, Lancôme & more top brands — expires no date — 15% off beauty
+- Michaels — Pumpkin spice season — expires no date — see email
+- Kohl's — Epic Deals + earn 3x rewards (Kohl's Rewards members) — expires no date — plus Kohl's Cash
+- CRED — being creditworthy pays (no extra charges) — expires no date — brand promo; no code
+
 ## 2026-09-22
 - Kohl's — Epic Deals + earn 3x rewards (Kohl's Rewards members) — expires no date — plus Kohl's Cash; no code
 - Zoox — rider survey to prep for San Francisco launch — expires no date — early rider waitlist; no code
