@@ -1,5 +1,32 @@
 # Deals
 
+## 2026-09-24
+- My Best Buy Visa (Citi) — new flexible points redemption (Rewards Catalog) — expires no date — cardholder info; mybestbuyredemptionsite.com
+- Pandora — 10% off next purchase (welcome gift, Pink member) — expires Sep 30, 2026 — enter code at checkout; in-store stylists
+- NerdWallet — high-yield savings accounts up to 4.10% APY — expires no date — informational; no code
+- point.me — Business class to Dublin from 39K pts + new 25% transfer bonus — expires no date — deal roundup; point.me
+- DoorDash — trending restaurants near you — expires no date — no offer
+- H&M — freshly picked styles up to 30% off — expires no date — no code
+- Edmunds — First Look: 2027 Chevy Silverado 1500, GMC Sierra 1500, Nissan Rogue Hybrid — expires no date — newsletter; no offer
+- Going (Flight Deals) — South Korea from $861 (Jan-Apr) — expires no date — flight deal; deals.going.com
+- Going — travel guide: Ottawa (history and shawarma) — expires no date — newsletter; no offer
+- Chase Sapphire — refer a friend: 15K pts each, up to 100K/yr — expires no date — referyourchasecard.com
+- ID.me Shop — 20% off HEYDUDE, 50% off BetterHelp, deals on Verizon/Samsung/Vivid Seats — expires no date — ID.me verification required
+- Etsy — Halloween finds (personalized ghost dog plush and more) — expires no date — no code
+- Kohl's — Epic Deals + 3x rewards + Kohl's Cash — expires no date — Kohl's Rewards members
+- Fabletics — Men's picks you viewed (tees, shorts, hoodie) — expires no date — VIP; no stated discount
+- Macy's — 30% off volume denim, relaxed styles and more — expires no date — no code
+- Bellevue Badminton Club — 15% off Southcenter (code FALL15) + 20% off Redmond Fri nights (code NIGHTOWL) — expires Dec 22 (FALL15) / Oct 30 (NIGHTOWL), 2026 — court reservations and events
+- THE NORDY CLUB — $10 OFF at Nordstrom Rack for Nordy Club members — expires no date — members; no code
+- Macy's — up to 40% off denim (Levi's and more) — expires no date — no code
+- HomeGoods — treat yourself to savings! (aisles of styles) — expires no date — no specific offer
+- Michaels — knit and sew fabric expansion promo — expires no date — see email/savings page
+- Macy's — Celebration Saturday at Bellevue Square (fall fashion, giveaways, events) — expires no date — in-store event
+- Macy's — Trending: men's 2026 Suit Edit — expires no date — no offer/code
+- Sephora Daily Deals — Hair Daily Deals: 20–50% off select hair care — expires no date — select hair care
+- J.Crew Factory — EXTRA 30% OFF $150+ (325 new arrivals) — expires no date — in stores and online
+- Michaels — Halloween and fall deals roundup — expires no date — see email
+
 ## 2026-09-23
 - Fabletics — Men's shorts guide (Bharath's picks) — expires no date — shop men's shorts; VIP member
 - Macy's — 15% off beauty (fall routine refresh) — expires no date — 15% off beauty
