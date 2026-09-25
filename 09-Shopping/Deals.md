@@ -1,5 +1,32 @@
 # Deals
 
+## 2026-09-25
+- Fabletics — styles you were eyeing selling fast, VIP pricing — expires no date — VIP member email; no code
+- Kohl's — Epic Deals + 3x rewards for Rewards members; $10 off $50+ toys/little ones — expires no date — Kohl's Rewards members
+- Michaels — up to 60% off Christmas trees online only + FREE shipping — expires no date — online only; no code
+- IndiGo — account migrated to IndiGo BluChip loyalty program — expires no date — informational; not a deal
+- evo — new arrivals: Arc'teryx, Armada skis, Oyuki, Jones snowboards — expires no date — newsletter; no offer
+- Macy's — Michael Kors sale: shop trending bags & more — expires no date — no code
+- IHG One Rewards — 140,000 bonus points (Premier card) after $3,000 spend in 3 months — expires Sep 30, 2026 — apply by 9/30; $99 annual fee
+- H&M — H&M Studio A/W 2026 collection launch — expires no date — no code
+- NORDSTROM RACK — sweaters up to 60% off — expires no date — no code
+- Etsy — waterproof gold jewelry (picked based on your taste) — expires no date — no code
+- MOD Pizza — Back-to-School Fundraiser Contest & Sweepstakes (4 prizes, $1,000 each) — expires Nov 15, 2026 — no purchase necessary; U.S. nonprofit reps
+- NORDSTROM — outerwear season: new arrivals — expires no date — no offer/code
+- PointsYeah — premium-cabin award deals from 33k pts (NYC–Seoul, DC–Taipei, etc.) — expires no date — flight deal roundup; pointsyeah.com
+- Chase — cash back offers waiting with Chase Offers — expires no date — activate in app; account ending 5235
+- Costco Travel — vacation packages to Mexico/Hawaii/South Pacific + weekly HOT BUYS — expires Sep 28, 2026 — book by 9/28; digital Costco Shop Card included
+- Chase — up to $1,000 cash bonus opening a Self-Directed Investing account — expires no date — J.P. Morgan; $0 online trades
+- Macy's — Best of the Season Sale: refresh your guest room for less — expires no date — no code
+- Michaels — destination for top-trending projects (new arrivals) — expires no date — no offer/code
+- Xfinity — back-to-school: online safety tools — expires no date — no specific offer
+- VSP Vision Care — save up to $300 on GUESS frames/sunglasses with VSP benefits — expires no date — Eyeconic; insurance benefits apply
+- CardPointers — 1 credit ($10 DoorDash, Chase Sapphire Preferred) expiring; upgrade prompt — expires this month — DoorDash promo credit; app
+- Uber One — save 10% on hotels — expires no date — Uber One members
+- Pandora — zodiac medallion element (based on your zodiac) — expires no date — no code
+- Cinemark — New & Now: new releases + Movie Fan rewards (29 pts) — expires no date — no code
+- Famous Footwear — $20 off $100+ — expires Sep 27, 2026 — one use; free shipping for members
+
 ## 2026-09-24
 - My Best Buy Visa (Citi) — new flexible points redemption (Rewards Catalog) — expires no date — cardholder info; mybestbuyredemptionsite.com
 - Pandora — 10% off next purchase (welcome gift, Pink member) — expires Sep 30, 2026 — enter code at checkout; in-store stylists
