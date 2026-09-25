@@ -1,5 +1,81 @@
 # News
 
+## 2026-09-25
+
+## Big Tech & AI Models
+
+- [OpenAI prepares new $500/month Pro Max plan for ChatGPT](https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/) — OpenAI appears to be readying a ChatGPT Pro Max tier priced at $500/month. It's unclear whether the price buys faster speed, larger usage allowances, longer-running Work sessions, or a mix. The leak lands just before OpenAI's DevDay on September 29, where APIs, developer tooling and new subscription tiers are expected.  (TLDR AI)
+
+- [Bringing your Muse to life](https://research.meta.ai/blog/bringing-your-muse-to-life) — Meta introduced Muse Realtime Avatar, which turns conversations into expressive, interactive avatars in real time. It synchronizes speech and avatar expressions accurately in live interactions, and Meta says it beats rivals on visual quality and responsiveness thanks to its optimized inference stack.  (TLDR AI)
+
+- [Gemini 3.8 Live with Live Avatar](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/) — Google launched Gemini 3.8 Live with a Live Avatar, adding real-time responses and more personalized interactions. It's a direct shot at competing AI platforms.  (TLDR AI)
+
+- [DeepSeek allegedly doubled its revenue run rate to $1 billion](https://thenextweb.com/news/deepseek-revenue-run-rate-1bn) — DeepSeek reportedly doubled its annualized revenue run rate to $1B after raising API prices 2.3–4.5x. The Information says developer demand held up despite the hike.  (TLDR AI)
+
+- [Zuckerberg's 'Tamagotchi-like' AI could be Meta's iPod moment](https://links.tldrnewsletter.com/fikERs) — Meta announced a Tamagotchi-like pendant for its Muse personal agent, expected out in time for Christmas. It centers on a customizable character and can be worn on a wrist strap, pocketed, or attached to a bag; nearby units interact with each other. Muse Charm could open revenue streams that rival Meta's ad business.  (TLDR)
+
+## AI Research & Safety
+
+- [Modern LLMs have tiny GPTs hidden inside them](https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden) — Modern LLMs likely contain tiny self-models of LLMs that help them predict the next token. Such an internal self-model would open the door to metacognitive abilities, akin to the 'self' humans model about themselves.  (TLDR AI)
+
+- [The specter of neuralese](https://www.astralcodexten.com/p/the-specter-of-neuralese) — Models may reason through internal states that never surface in their written chain of thought, then give a plausible explanation after the fact — weakening safety checks that rely on reading visible reasoning. OpenAI's Astra model uses a "recurrent depth" technique that makes its chain of thought harder to monitor, and an emerging taboo on dangerous "neuralese" AIs has yet to be clearly defined.  (TLDR AI, TLDR)
+
+- [Contrastive Language Models](https://contrastive-lm.notion.site/) — Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive objective that connects states and actions. CLM-8B matches Jev across computer-use, gaming and tool-calling tasks at up to 9x lower latency, and sets a new SOTA on agentic coding benchmarks.  (TLDR AI)
+
+- [Are you ready for superintelligence](https://links.tldrnewsletter.com/lkF1YA) — Frontier models are rapidly saturating old benchmarks and moving into harder real-world, scientific and agentic tasks. With capability gains, usage and revenue soaring, the debate is shifting from workplace augmentation toward recursive self-improvement and superintelligence.  (TLDR AI)
+
+## Compute & Infrastructure
+
+- [Google's first Suncatcher orbital data center test launches October 1](https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/) — Project Suncatcher is Google's moonshot to build orbital AI data centers; its first experimental satellite launches October 1 to validate a future AI-satellite constellation. The fridge-sized craft carries four custom TPU accelerators and solar panels supplying about 1 kW, and will test several technologies over a few months.  (TLDR)
+
+- [A new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) — Many companies are struggling to source CPUs, and CPU spot pricing has effectively disappeared now that demand no longer lags supply. Getting CPUs on spot instances is nearly impossible without long-running provider relationships, reservations need to be made months ahead, and cloud providers are even turning down certain reservations.  (TLDR)
+
+- [Why the best AI clouds don't run on flash alone](https://www.backblaze.com/blog/why-the-best-ai-clouds-dont-run-on-flash-alone/) — Much of the storage work around active training doesn't need flash-grade speed or prices, so neoclouds often point customers to hyperscaler object storage instead. The more data you store there, the harder it becomes to leave — the neocloud keeps getting paid for GPU while the hyperscaler quietly takes over the broader account.  (TLDR AI)
+
+- [700 TPS on Kimi K3: a case for TPU megakernels](https://inferact.ai/blog/tpu-megakernels) — inferact/tpu-megakernels is a collection of megakernels for TPU v7 whose Kimi K3 implementation delivers over 700 tokens/sec with speculative decoding. Without it, its K3 and Qwen 3.8 27B megakernels still deliver roughly 1.4–2x the decode throughput of the GB200 baseline at batch sizes 1–8.  (TLDR AI)
+
+- [Oracle sends 'force majeure' notice about data center project — stock drops 3%](https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html) — Oracle is looking to delay payments on its Project Jupiter campus if it fails to come online as expected in 2028.  (TLDR)
+
+## Space
+
+- [Jeff Bezos' Blue Origin is fueled with $30 billion of his fortune](https://links.tldrnewsletter.com/Nv2kGO) — Bezos has put $30B into Blue Origin since founding it in 2000, helping it grow to ~15,000 employees with an ambitious growth plan. It recently raised outside capital for the first time, expects ~$1.4B revenue this year, and targets more than $30B in 2030.  (TLDR)
+
+- [NASA chief concerned China may deny access to parts of Moon's south pole](https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/) — The Moon's south pole is some of the most coveted real estate, especially Shackleton Crater, where permanently shadowed "cold traps" are thought to hold water and other useful materials.  (TLDR)
+
+## Security
+
+- [There's a new way to break RSA that's faster than anything we've seen before](https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/) — Researchers found a novel classical-computing method that reduces the current RSA security level to an unacceptably low threshold via signature forgery, cutting required computing resources by orders of magnitude. Practical risk is limited, and widely used implementations remain safe, but the finding is still significant.  (TLDR)
+
+- [What we learned from being the first company to disclose an agent cyberattack](https://links.tldrnewsletter.com/CYmygt) — Hugging Face says its autonomous-agent cyberattack exposed three priorities: stronger incident transparency, shrinking capability asymmetries between attackers and defenders, and preserving open-source access for defense. AI created new attack risks but also helped investigate, mitigate and harden systems.  (TLDR AI)
+
+## Engineering & Tools
+
+- [Managed Deep Agents v0.8: new auth, memory, and channels](https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new) — Managed Deep Agents pairs the Deep Agents harness with the infrastructure to run agents in production. Version 0.8 adds user-owned credentials, user-level memory, HTTP channels, file transfer in Slack, and a pre-built web-search tool powered by Parallel.  (TLDR AI)
+
+- [Thinking in systems, shipping in loops](https://tomtunguz.com/thinking-in-systems) — AI removed the typing from software engineering but left the system design — specifically the loop that decides whether the output is right. Good design is defined by resilience (AI checking its own work), self-organization (the loop learning), and hierarchy (layering skills, tools and sandboxes into reusable components).  (TLDR)
+
+- [The limits of what TLA+ can verify](https://hraness.com/reading/the-limits-of-what-tla-plus-can-verify) — TLA+ cannot express possibility and reachability properties, hyperproperties, statistical properties, or properties about whether a system is robust against code changes.  (TLDR)
+
+- [Not everyone can code](https://funcall.blogspot.com/2026/09/not-everyone-can-code_01093260948.html) — Debugging some systems is a cognitive burden so unnatural that very few humans can do it well without the aid of formal models or pure architectural restraint.  (TLDR)
+
+## Business & Industry
+
+- [Waymo is scaling fast: here's what the fleet data shows](https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/) — Waymo is concentrating in just two states: 80% of its ~4,000 robotaxis are in California and Texas, with the Texas fleet up nearly half in three weeks. The remaining ~800 vehicles are spread across other states, and a growing share of the fleet is Chinese-built minivans.  (TLDR)
+
+- [US intercedes for Elon Musk's X over European fine](https://links.tldrnewsletter.com/WXBUDL) — The European Commission fined X $140 million in December for failing to prevent deceptive behavior on the site.  (TLDR)
+
+- [The age of the soft skill](https://rudyfaile.com/2026/09/24/the-age-of-the-soft-skill/) — People can no longer get away without soft skills now that anyone can get the work done.  (TLDR)
+
+- [Intelligence density](https://www.trajectory.ai/field-notes/intelligence-density) — Trajectory.ai argues for "intelligence density" — measuring cost per task rather than cost per token — to train AI models more efficiently.  (TLDR AI)
+
+## Benchmarks & Agents
+
+- [Anthropic tested what happens when agents bargain for people](https://www.anthropic.com/research/project-swap) — After five-minute interviews, Claude agents traded books for employees, and their preference rankings matched the humans' on 61% of pairs.  (TLDR AI)
+
+- [How good are LLMs at decision forking?](https://github.com/wbopan/tastebench) — Taste-Bench evaluates whether an LLM agent can choose the better next step at consequential forks in long-horizon tasks.  (TLDR AI)
+
+- [A finance benchmark asks agents to finish the whole assignment](https://surgehq.ai/benchmarks/dayjob-finance) — DAYJOB: Finance tests whether AI agents can complete 80 realistic finance assignments using supporting documents and produce analysis a professional can use.  (TLDR AI)
+
 ## 2026-09-24
 
 ## AI Models & Launches
