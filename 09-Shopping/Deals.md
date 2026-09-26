@@ -1,5 +1,36 @@
 # Deals
 
+## 2026-09-26
+- VSP Vision Care — it's time for your eye exam; view benefits & special offers — expires no date — reminder; no code
+- Michaels — new Cricut StickerPix Print and Print + Cut machines (print pro-quality stickers at home) — expires no date — new product; no code
+- Fabletics — weekend deal for VIP member — expires no date — secure in app; no stated discount
+- HomeGoods — 5-star sleep: bedding & sleep savings — expires no date — no specific offer
+- Bilt — October Rent Day collab with John Legend: custom Bilt vinyl, private show, Rent Free — expires no date — Bilt members
+- NerdWallet — high-yield savings accounts still earning a lot — expires no date — informational; no code
+- Uber One — membership: 10% back on hotels, 5% back on rides, $0 delivery fees — expires no date — paid membership benefits
+- Xfinity — Peacock Premium included free for 2 years with Gig; lock internet price 5 years — expires Oct 25, 2026 — Xfinity Internet req.
+- Lyft — link Lyft and DashPass accounts to save — expires no date — account linking; no code
+- Macy's — up to 65% off 8 fall jackets (I.N.C., Calvin Klein & more) — expires no date — no code
+- DoorDash — 20% off Costco, now on DoorDash — expires Nov 1, 2026 — code COSTCO20; $100+ orders, up to $50 off; linked Costco membership
+- Michaels Custom Framing — 70% off custom frames + new website experience — expires Sep 26, 2026 — valid 9/25–9/26
+- Going (Flight Deals) — Reno / Lake Tahoe $174 roundtrip (Oct-Dec) — expires no date — flight deal; deals.going.com
+- Spotify — Taylor Swift: The Life of a Showgirl: The Encore out now — expires no date — new release; no offer
+- NerdWallet — find cheap car/life/home insurance — expires no date — informational; no code
+- H&M — 15% off or 20% off all weekend — expires Sep 27, 2026 — no code
+- Etsy — Halloween picks (ghost dog plush and more) — expires no date — no code
+- Fandango — Friday movie premieres (Avengers Endgame: Encore, Heart of the Beast, more) — expires no date — get tickets
+- Huel — 33% off — expires midnight Sep 25, 2026 — no code
+- Macy's — 30% off top brands, new fall looks (Best of the Season Sale) — expires Sep 28, 2026 — code BEST; Star Rewards $20 per $100 spent
+- NORDSTROM RACK — Private Sale: Barbour, up to 50% off apparel & accessories — expires no date — online only; no code
+- Going — new feature: Price Drop (money back when your fare drops) — expires no date — membership feature; free
+- evo — extra 10% off select clearance — expires Sep 28, 2026 — code SAVE10; 9/25–9/28
+- The Leela (Coorg Forest Sanctuary) — long-weekend forest retreat / sanctuary interlude — expires no date — hotel stay; reservations@theleela.com
+- Fabletics — Privacy Policy & Terms of Service update (dispute resolution/arbitration) — expires Oct 26, 2026 — informational; not a deal
+- Bath & Body Works — $10 off $40 — expires no date — no code 🔔 [[Gift ideas]]
+- Michaels — up to 50% off Halloween & fall faves — expires no date — no code
+- Kohl's — Epic Deals in your cart + 3x rewards (Kohl's Cash in wallet) — expires no date — Kohl's Rewards members
+- Club Pilates Bothell — zero enrollment fee + save $149 on 4 or 8 classes/mo membership — expires no date — new membership offer
+
 ## 2026-09-25
 - Fabletics — styles you were eyeing selling fast, VIP pricing — expires no date — VIP member email; no code
 - Kohl's — Epic Deals + 3x rewards for Rewards members; $10 off $50+ toys/little ones — expires no date — Kohl's Rewards members
