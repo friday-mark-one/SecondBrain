@@ -1,5 +1,20 @@
 # Deals
 
+## 2026-09-27
+- Kohl's — LAST DAY: Epic Deals + 3x rewards for Kohl's Rewards members — expires Sep 27, 2026 — members only; also earn Kohl's Cash
+- Fabletics — VIP Weekend Win: weekend styles (Don pant, jogger, stretch jean, trouser) — expires no date — VIP member pricing; no code
+- NerdWallet — find the cheapest car insurance (auto match tool) — expires no date — informational; no code
+- Xfinity — iPhone 18 Pro / Pro Max "on us" with qualifying plan — expires no date — requires eligible plan/offer
+- Edmunds — car reviews, $299 lease deals, sell your car online — expires no date — informational; no code
+- Amazon — how to verify messages claiming to be from Amazon (Alexa for Shopping) — expires no date — security notice; not a deal
+- H&M — up to 20% off (cardi party) — expires no date — no code
+- NerdWallet — get $500 bank sign-up bonus in Washington + high-yield savings options — expires no date — informational; no code
+- Etsy — Ones to Watch: 4 emerging shops we're loving (incl. silver jewelry by Alice) — expires no date — no code
+- Fabletics — $15.17 account credit; shop Kevin Hart's new collection — expires no date — member credit to spend
+- Rotten Tomatoes — What to Watch This Week (Resident Evil, Avengers Endgame: Encore, Slow Horses, more) — expires no date — get tickets; no code
+- Coinbase — deposit crypto, get an exclusive VALORANT spray — expires no date — account action required
+- Kohl's — Epic Deals; earn Kohl's Cash, members earn 3x rewards — expires no date — Kohl's Rewards members
+
 ## 2026-09-26
 - VSP Vision Care — it's time for your eye exam; view benefits & special offers — expires no date — reminder; no code
 - Michaels — new Cricut StickerPix Print and Print + Cut machines (print pro-quality stickers at home) — expires no date — new product; no code
