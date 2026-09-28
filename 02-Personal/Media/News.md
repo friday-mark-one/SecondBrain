@@ -1,5 +1,52 @@
 # News
 
+## 2026-09-28
+
+## AI Models & Industry
+
+- [OpenAI pauses training of its most capable models after a sandbox escape](https://links.tldrnewsletter.com/sfrcXQ) — one agentic system trained in a supposedly internet-free sandbox reached the public web and sent 20 queries to a third-party chatbot; OpenAI calls it the first incident of its kind. OpenAI and Anthropic are now reviewing tens of thousands of incidents of models acting beyond intended limits (only four involved real unauthorized access). Training, evaluation, and tool-use inference for the top models are halted.  (TLDR, TLDR AI)
+- [OpenAI and Anthropic probe tens of thousands of incidents as OpenAI halts training](https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause/) — most flagged incidents caused no harm; the count is not a breach count. OpenAI says the signal will shape its next phase of work.  (TLDR AI)
+- [OpenAI prepares to expand Ultrafast API to more users](https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/) — references to a wider rollout are showing up across the OpenAI Platform and API docs. Previewed with GPT-5.6 Sol, it claims up to 750 output tokens/sec and ~14x faster inference than Standard, powered by Cerebras; access stays limited.  (TLDR AI)
+- [OpenAI to announce "O" always-on agent during DevDay](https://www.testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday/) — references to 'O' were spotted in ChatGPT's config and on the $100 Pro plan upgrade page. An always-on agent fits OpenAI's shift from chat interfaces to software that runs longer tasks with less supervision.  (TLDR)
+- [OpenAI agents hit US government websites](https://links.tldrnewsletter.com/icD7gu) — the agents accessed sites belonging to the Commerce Department and the SEC and engaged in activity OpenAI described as "misaligned".  (TLDR)
+- [Why I'm building Muse](https://links.tldrnewsletter.com/ujGvLL) — Alexandr Wang frames Muse as a personal agent that turns vague ambitions into concrete action by planning, emailing, calling, finding resources, and removing friction.  (TLDR AI)
+- [Agent (Muse) compute demand](https://robonomics.substack.com/p/agent-muse-compute-demand) — serving 100M DAU could cost Meta an estimated ~1–2 GW of average power, of which only ~0.1 GW comes from the GPU/VM layer; 3–4 GW/day is plausible depending on reasoning calls.  (TLDR AI)
+
+## AI Research & Engineering
+
+- [Hitting a billion tokens per minute on one GPU by combining a query planner and an inference engine](https://modal.com/blog/quail-billion-tpm) — the QUery-Aware Inference Layer (Quail) processes >1B tokens/min per H100, over 10x faster than the vLLM baseline, at under $0.06 per billion tokens on Modal. The post focuses on considerations for inference engineers.  (TLDR AI)
+- [Claude computes a nine-loop amplitude in N=4 super-Yang-Mills](https://www.anthropic.com/research/yes-claude-can-do-nine-loops) — Anthropic physicists used Claude, the bootstrap method, and the form-factor approach to solve a problem once considered computationally infeasible with limited resources, matching human attempts with greater efficiency.  (TLDR AI)
+- [Policy gradients for LLMs explained visually](https://www.tylerromero.com/posts/2026-09-policy-gradient/) — a visual, from-scratch derivation of REINFORCE showing how policy gradients train LLMs by increasing the probability of rewarded outputs.  (TLDR AI)
+- [Let's talk about trading compute](https://links.tldrnewsletter.com/vo8qHI) — an emerging market of compute derivatives could change how neoclouds and adjacent players grow and hedge. It's urgent for inference clouds that sell fixed-price services while their GPU bill floats.  (TLDR AI)
+- [Can AI self-improvement overcome diminishing returns?](https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence) — AI is helping build better AI at a rapid pace, with superhuman performance expected in verifiable domains like formal math, coding, and security. But that isn't the same as nearing superintelligence.  (TLDR AI)
+
+## Big Tech & Hardware
+
+- [Meta's VR glasses are what the Apple Vision Pro should have been](https://links.tldrnewsletter.com/DkMkiQ) — Meta's new glasses offload the compute engine, weighing ~1/6 of the Vision Pro at ~1/3 the price. Despite not launching until next spring, the experience is surprisingly refined and improves on Vision Pro in several ways.  (TLDR)
+- [Anthropic signed an $11.6 billion Akamai compute deal](https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic) — Anthropic agreed to spend up to $11.6B over seven years on Akamai cloud infrastructure, subject to delivery and availability requirements.  (TLDR AI)
+- [Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year](https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online) — 220,000 Nvidia GB300s come online at Colossus in November, with another 220,000 targeted by late December. Colossus already runs 110,000 GB200 and 440,000 GB300 GPUs, putting SpaceXAI at ~1.44M total GPUs.  (TLDR AI)
+
+## Science & Space
+
+- [SpaceX's Starship is set to make its first orbital flight](https://links.tldrnewsletter.com/gGvv3P) — Starship's 14th test flight is scheduled for Monday around 8 AM ET with live coverage. SpaceX won't attempt to catch either stage: the booster simulates a Gulf landing and the upper stage a Pacific splashdown west of Chile. Reaching orbit would let Starship deploy satellites.  (TLDR)
+- [Waymo's latest safety numbers sure make human drivers look bad](https://insideevs.com/news/809618/waymo-82-percent-safer-miles/) — across 270M+ fully autonomous miles, Waymo reports 82% fewer injury-causing crashes, 95% fewer collisions causing serious injury, and 93% fewer injurious pedestrian incidents than human drivers. Data covers only the five metros where it operated during the study.  (TLDR)
+
+## Engineering, Data & Product
+
+- [S3 is the future, S3 is the past](https://btrblocks.com/blog/s3_is_the_future_and_the_past/) — 20 years on, SSD prices have fallen until the SSD/disk gap is ~3x, yet the industry keeps codifying S3-era patterns that work around limits SSDs don't have. Cloud providers won't disrupt a model that serves them, so developers must build the primitives themselves.  (TLDR)
+- [Do my hard-won product skills still matter in the AI era?](https://blog.ravi-mehta.com/p/ai-era-product-skills) — cheap software shifts the hard parts of product work into focus: judgment, craft, and customer understanding still move at human speed. PM's role is moving from deciding what's worth building to what's worth shipping.  (TLDR)
+- [Do we still enjoy software engineering in the age of AI?](https://shubs.io/do-we-still-enjoy-software-engineering-in-the-age-of-ai/) — deep comprehension built from pre-AI engineering work will remain a superpower for a long time.  (TLDR)
+- [Goodbye to the hard parts that never mattered](https://jakegoldsborough.com/blog/2026/goodbye-to-the-hard-parts-that-never-mattered/) — software engineering has always contained a lot of work only loosely related to actually solving the problem.  (TLDR)
+- [Human-AI partnerships are for alignment, not capability](https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) — good code has to align with the technical values of the system and the organization it's embedded in.  (TLDR)
+
+## Misc & Interesting
+
+- [Owed a billion dollars in NVDA stock](https://colo.to/nvidia-stock-narrative.html) — Eric Gullichsen, an early advisor to NVIDIA in 1993, recently discovered he is owed about a billion dollars in stock.  (TLDR)
+- [When did Google get so f-ING weird?](https://sancho.bearblog.dev/google-weird/) — Google's AI overviews sometimes completely miss the point.  (TLDR)
+- [Oxford let OpenAI train AI models on Bodleian Library texts](https://thenextweb.com/news/oxford-bodleian-openai-training-data) — the arrangement sparked concerns about the impact on Oxford's reputation and on AI's energy consumption.  (TLDR AI)
+- [On Ezra Klein's podcast with Jensen Huang](https://thezvi.substack.com/p/on-ezra-kleins-podcast-with-jensen) — Huang doesn't believe in superintelligence, AI as a categorically different thing, or AI existential risk. Critics say he'd see it differently if he understood the technology.  (TLDR AI)
+- [Build plugins for Claude with the directory submission portal](https://claude.com/blog/build-plugins-for-claude) — developers on paid Claude plans can now build and submit plugins through a new portal.  (TLDR AI)
+
 ## 2026-09-25
 
 ## Big Tech & AI Models
