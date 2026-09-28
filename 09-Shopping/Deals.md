@@ -1,5 +1,41 @@
 # Deals
 
+## 2026-09-28
+- Lyft — Week 2 of the Lyft Credits challenge (add a family member / donate to an org) — expires no date — earn ride credits in-app
+- Fabletics — VIP Pants From $29 (excl. Scrubs) — expires 9/28 11:59 PM PT — VIP exclusive, auto-applied, no code
+- HomeGoods — Fall decor must-haves in store — expires no date — in-store savings
+- Going — New Hawaii flight deals from saved destinations (Kailua-Kona roundtrips) — expires no date — flight alert
+- Pandora — $15 off $150 via Klarna (Pandora Minis charms) — expires 9/27 — online at pandora.net, Klarna checkout
+- Macy's — Up to 35% off fall watches (Citizen, Seiko, Fossil) — expires no date — no code
+- Costco — New finds for this week's visit — expires no date — warehouse
+- NerdWallet — Savings accounts: why you might want more than one — expires no date — guide, compare HYSA
+- Macy's — $59.99+ men's Tommy Hilfiger blazers + 50-70% off Semi-Annual Suit Sale — expires no date — no code
+- Michaels Rewards — Hand-picked Rewards offers (earn 3-9% in Rewards) — expires no date — my account
+- CardPointers — 55% off CardPointers+ (price rises 10/1) — expires 10/1 — coupon at checkout
+- Nordstrom — Dressy boots for nights out & events — expires no date — no code
+- Macy's — 15% off skin-care go-tos (Best of the Season Sale) — expires no date — no code 🔔 [[Gift ideas]]
+- Going — Best-ever beginner card bonus: $300 travel credit + 75k miles ($4k spend/3mo) — expires no date — $95/yr card
+- Nordstrom Rack — New arrivals from top brands — expires no date — no code
+- Etsy — Custom travel bags picks — expires no date — personalized
+- H&M — Last day: 20% or 15% off — expires 9/27 — no code
+- Famous Footwear — LAST DAY: extra $20 off $100 + stack up to 30% off boots — expires 9/27 — code HEYFALL
+- Walgreens — $7 W Cash when you spend $30+; 12¢ 4x6 prints (100+) — expires 10/3 — clip to myWalgreens; photo code 100PIC
+- UNiDAYS — Student deals: 15% off $60 gift card, extra 15% off SharkNinja, up to 50% off sale — expires no date — student verified
+- evo — Extra 10% off select clearance — expires 9/28 — code SAVE10
+- Macy's — Up to 75% off men's suits for wedding season — expires no date — no code
+- J.Crew Factory — Extra 30% off orders $150+ (new fall textures) — expires no date — no code
+- Michaels — Up to 50% off Halloween & Fall must-haves (Boo It Yourself Sale) — expires no date — no code
+- Kohl's — LAST DAY: Epic Deals + 3x rewards for Rewards members — expires 9/27 — rewards members
+- Macy's — 15% off fall beauty routine refresh — expires no date — no code
+- HomeGoods — Limited-time India & Turkey collection — expires no date — in-store
+- Macy's — 30% off fall's top trends (Best of the Season Sale) — expires no date — no code
+- Nordstrom — New Fall Staples — expires no date — no code
+- Michaels — Up to 50% off fall & Halloween — expires no date — no code
+- Nordstrom Rack — New markdowns up to 70% off — expires no date — no code
+- Famous Footwear — Save $20 (limited time) + new Brooks markdown — expires no date — no code
+- Michaels — Up to 50% off Halloween + Fall décor (Boo It Yourself Sale) — expires no date — no code
+- Kohl's — Epic Deals + Kohl's Cash — expires no date — coupon-eligible brands
+
 ## 2026-09-27
 - Kohl's — LAST DAY: Epic Deals + 3x rewards for Kohl's Rewards members — expires Sep 27, 2026 — members only; also earn Kohl's Cash
 - Fabletics — VIP Weekend Win: weekend styles (Don pant, jogger, stretch jean, trouser) — expires no date — VIP member pricing; no code
