@@ -5,4 +5,7 @@
 - [ ] Evals for my AI setup
 - [ ] Appshot 
 - [ ] Integrate meetings into my agent vault and routines
-- [ ] Make PR creation with multiple 
+- [ ] Make PR creation with 100s of agents
+	- [ ] Analyze people's comments from PR history 
+	- [ ] Spawn remote agents both at design and implementation stage
+	- [ ] Agents for pr 
