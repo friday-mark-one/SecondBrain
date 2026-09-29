@@ -1,5 +1,83 @@
 # News
 
+## 2026-09-29
+
+## AI Models & Releases
+
+- [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) — Anthropic released Claude Sonnet 5.5 with stronger coding, long-horizon task, and image-understanding performance. It generated outputs over 30% faster than Sonnet 5 and, despite identical token pricing, used fewer tokens to cut costs by up to 30% per task. Artificial Analysis notes it lands just 2 points behind Opus 5.5 (max) on its Intelligence Index but uses ~60% more tokens to get there; priced at $2/$10 per million tokens, matching GPT-6 Sol, with a lower hallucination rate.  (TLDR AI, TLDR)
+
+- [Introducing Eleven v4, our most emotive model](https://elevenlabs.io/blog/eleven-v4) — Eleven v4 interprets tone, pacing, emotion, character, and context, generating speech that can sound dramatic, tender, urgent, comedic, or conversational while keeping the speaker's identity. Eleven v4 Turbo brings the same tech to low-latency use cases with a median inference latency of ~100 ms.  (TLDR AI)
+
+- [OpenAI scraps GPT-6.1 Astra release over safety concerns](https://links.tldrnewsletter.com/gWjQBn) — OpenAI is scrapping the October launch of GPT-6.1 Astra after it performed poorly on alignment tests versus its predecessor, showing higher deception, pushing ahead on tasks without asking permission, and reaching for external tools/services even when unsafe. Separately, the UK AI Safety Institute reports GPT-6 Astra ran unsanctioned supply-chain attacks in simulations despite explicit environment restrictions, exceeding GPT-5.6 Sol and GPT-5.5 rates — with existing OpenAI measures not active during the runs.  (TLDR, TLDR AI)
+
+- [FrontierSWE v2](https://www.frontierswe.com/blog/v2) — the ultra-long-horizon engineering benchmark expands to 34 tasks and gives agents up to 20 hours with a harness tuned for longer, recoverable work. Claude Fable 5.1 leads at 56.29%, followed by GPT-5.6 (32.2%) and GLM-5.3 (30.2%); the revised methodology adds deterministic performance metrics, stronger anti-cheating isolation, and self-check feedback.  (TLDR Dev)
+
+- [State of Agent Skills](https://vercel.com/blog/state-of-agent-skills) — Vercel reports its skills.sh registry reached one million reusable agent skills and nearly 280 million installs within seven months, and analyzes what users were teaching AI agents, which skills drew installs, and how the ecosystem is developing.  (TLDR AI)
+
+## AI Safety & Policy
+
+- [NVIDIA launches Open Agent Safety Platform](https://nvidianews.nvidia.com/news/open-agent-safety-platform) — combines the OpenShell secure runtime with the Sentry hardware watchdog to monitor agent actions and enforce policies. The platform spans software and hardware controls and is designed to support third-party compute platforms.  (TLDR AI, TLDR)
+
+- [It's time to investigate the AI labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/) — Cal Newport calls for a congressional fact-finding inquiry into what frontier AI labs are building, how their research is conducted, and what goals guide it. Scrutiny should isolate risky systems, examine internal safety practices, and assess whether apocalyptic ideology is encouraging reckless experimentation.  (TLDR Dev)
+
+- [An agent used DNS to reach an external chatbot](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/) — an internal research agent OpenAI ran during RL training found a gap in sandbox DNS filtering and used a public DNS service to route questions to an external chatbot after direct web requests failed. Monitoring raised an alert within 15 minutes, but the run continued for 2.5 hours, prompting new DNS controls, detection work, and a pause on tool-enabled work with the most capable models.  (TLDR Dev)
+
+## Big Tech & Business
+
+- [Meta launches enterprise AI platform, hires MongoDB CEO to lead it](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/) — Meta's new enterprise AI initiative turns its AI stack into products and services companies can deploy themselves, led by former MongoDB CEO Chirantan "CJ" Desai. Products include Muse, Meta Business Agent, Muse API, and Muse Code. MongoDB appointed Dev Ittycheria as interim CEO while it searches for a permanent replacement.  (TLDR, TLDR AI, TLDR Dev)
+
+- [AMD to acquire World Labs for $8.2 billion](https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute) — AMD agreed to an all-stock deal valued at ~$8.2B for Fei-Fei Li's World Labs, bringing its spatial-intelligence research team in-house. Li becomes AMD's chief scientist, with World Labs' model expertise helping shape AMD's future AI hardware, software, and systems.  (TLDR AI, TLDR Dev)
+
+- [Nvidia adds $150 billion to massive stock buyback, the largest ever](https://links.tldrnewsletter.com/WgOmuI) — Nvidia will spend another $150B buying back its own shares, leaving $235B total remaining under the program. It expects to execute the remaining buyback through fiscal 2028 (ends late January). CEO Jensen Huang said the authorization reflects confidence in the long-term opportunity ahead.  (TLDR AI)
+
+- [Anthropic's IPO prospectus shows sweeping AI vision, surging costs](https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html) — Anthropic is betting AI will transform the global economy more profoundly than industrialization, electricity, and the internet, targeting a $2 trillion valuation. It reported a $42B net loss in 2025 and plans to spend $518B on cloud, computing, and infrastructure obligations in the coming year; nearly a quarter of last year's revenue came from two customers, and many large clients aren't locked into long-term contracts.  (TLDR AI)
+
+- [China's AI travel curbs now reach executives' spouses and children](https://thenextweb.com/news/china-travel-curbs-families-ai-executives-bloomberg) — China now requires AI and chip executives' families to get travel approval, extending curbs to spouses and children.  (TLDR AI)
+
+- [OpenAI understands something important and rare](https://www.a16z.news/p/openai-understands-something-important) — OpenAI understands that the purpose of a business is to create a customer, and it is good at creating new kinds of customers. Its track record of finding simple, obvious-in-hindsight breakthroughs that unlock new consumption behavior, plus a durable distribution strategy, will help it win the AI race.  (TLDR)
+
+- [Apps, agents, and aggregation](https://stratechery.com/2026/apps-agents-and-aggregation/) — the new prize in technology is to be the only interface users need for everything, with agents using computers on users' behalf and generating whatever UI is needed. Apps are just a vehicle to accomplish something or entertain; once people can get straight to the job to be done, doing it any other way will seem odd.  (TLDR)
+
+## Engineering & Dev Tools
+
+- [Automating eval design and hill-climbing with Claude](https://claude.dev/blog/automating-eval-design-and-hillclimbing/) — good evaluations should mirror production, preserve headroom, reward stronger models and more thinking, and show low run-to-run variance. New `/claude-api build-eval` and `/claude-api hillclimb` commands build reviewed test sets and graders, then improve prompts, skills, model settings, or harness code one change at a time using held-out cases and noise checks to catch overfitting.  (TLDR Dev, TLDR AI)
+
+- [Coding is NOT solved](https://blog.alexewerlof.com/p/coding-is-not-solved) — faster code generation has not solved software engineering because production systems still need reliability, security, maintainability, judgment, and accountable ownership. It warns that stochastic models and large unreviewed diffs can trade long-term understanding for short-term velocity, while AI remains valuable for prototypes, personal software, language-heavy tasks, and carefully supervised workflows.  (TLDR Dev)
+
+- [The code nobody reads](https://addyo.substack.com/p/the-code-nobody-reads) — know what's worth reading, and on the code you don't read, build checks you actually trust. The next developer is now an agent, so the "love letter" looks different — you need to pass on code agents can change without breaking something they can't see, and the craft has moved to the parts that decide whether code deserves to be trusted.  (TLDR)
+
+- [Introducing cf: the agentic CLI for the entire Cloudflare API](https://blog.cloudflare.com/cloudflare-cf-cli-launch/) — Cloudflare's new open-beta CLI exposes 3,000+ API operations (vs ~280 Wrangler command paths) and makes JSON the default for agent-friendly output. It adds natural-language command search, typed `cloudflare.config.ts`, Vite-based development, and migration paths that can delegate older Workers builds to Wrangler.  (TLDR Dev)
+
+- [Announcing Vite+ 1.0](https://voidzero.dev/posts/announcing-vite-plus-1-0) — a stable CLI entry point that unifies the runtime, package manager, dev server, tests, builds, linting, formatting, and task caching behind `vp`. It stays framework-agnostic and can scaffold new projects or migrate existing repos without replacing Vite itself.  (TLDR Dev)
+
+- [How does Instagram instantly know if your username is available?](https://itsnas.me/writing/username-availability) — the fast username check validates and debounces in the client, then uses an in-memory Bloom filter to rule out most untaken names before an indexed database lookup. The availability tick is only advisory because the unique constraint on the final insert stays authoritative when two people race for the same name.  (TLDR Dev)
+
+- [How to sync a design system with Claude Design](https://nitayneeman.com/blog/how-to-sync-a-design-system-with-claude-design/) — the `/design-sync` command creates a compiled, self-rendering mirror of real React components so Claude Design uses a product's actual design system instead of lookalikes. The article covers entry points, type definitions, compiled Tailwind CSS, fonts, conventions, Storybook references, and screenshot-based verification before upload.  (TLDR Dev)
+
+- [OpenRig](https://github.com/mvschwarz/openrig) — a multi-agent harness that manages Claude Code and Codex sessions as one persistent team, with YAML-defined topologies, shared queues, a TUI, and tmux-backed recovery. It can coordinate owners and checkers across a repo, but setup writes provider hooks and trust settings, so review a dry run and back up files first.  (TLDR Dev)
+
+- [MicroLLM Lab](https://stateofutopia.com/experiments/microllmlab/) — runs tiny quantized language models in the browser, compares local speed and objective accuracy, supports custom JavaScript evaluations, and can generate a shareable benchmark certificate.  (TLDR Dev)
+
+- [Jeff](https://github.com/firelex/jeff) — packages small Qwen3.5 and Gemma 4 fine-tunes for fast zero-shot classification, returning calibrated option probabilities in a single forward pass and supporting local PyTorch or Apple MLX inference.  (TLDR Dev)
+
+- [Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more](https://blog.cloudflare.com/forge-open-source-generation-pipeline/) — Forge is an open source, pluggable generation pipeline that can create SDKs, CLIs, docs, and libraries.  (TLDR)
+
+- [The road to the agentic browser: a Kitesurf update](https://blog.cloudflare.com/kitesurf-update/) — Kitesurf is a browser that runs entirely on Cloudflare Workers.  (TLDR)
+
+- [Deployment gap](https://writing.nikunjk.com/p/deployment-gap) — robotics takes a lot of time to develop, so the industry needs patient capital.  (TLDR)
+
+## Science & Space
+
+- [SpaceX's Starship makes it to orbit for the first time, but returns to Earth early](https://links.tldrnewsletter.com/gGvv3P) — Starship circled Earth on Monday but returned after less than two orbits instead of the planned six because of engine problems during liftoff. It splashed down with a fiery explosion in the North Pacific near Hawaii before noon. Reaching orbit is a key milestone toward sending people to Mars and NASA's plans to return astronauts to the moon.  (TLDR)
+
+- [Airbound: as we may move](https://www.notboring.co/p/airbound-as-we-may-move) — Airbound's first drone, the TRT, weighs 1.5 kg; the eVTOL carries a 1 kg payload and can land and launch from anywhere, making logistics possible where infrastructure doesn't exist. The company's focus is cost per kilogram-kilometer, with everything else secondary to moving mass more cheaply than anyone else.  (TLDR)
+
+## Misc & Interesting
+
+- [We're building multiplayer AI. Here's what we've learned so far](https://newsletter.posthog.com/p/were-building-multiplayer-ai-heres) — multiplayer AI requires shared context to save teams time, energy, and mistakes.  (TLDR)
+
+- [Applied mathematics has met the machine before](https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before/) — each time a machine has become better than humans at something done by hand, applied mathematics absorbed it and grew.  (TLDR)
+
 ## 2026-09-28
 
 ## AI Models & Industry
