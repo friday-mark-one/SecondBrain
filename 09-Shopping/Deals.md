@@ -1,5 +1,27 @@
 # Deals
 
+## 2026-09-29
+- Educative — Last call: AI Hiring Season special pricing on Educative Unlimited — expires no date — subscription discount (link in email)
+- Fabletics — VIP Pants From $29 (deal ends tonight) — expires 9/28 11:59 PM PT — VIP pricing, auto-applied, no code
+- Macy's — Best of the Season Sale ends tonight: 30% off KARL LAGERFELD PARIS, Tommy Hilfiger & more top brands — expires 9/28 — no code
+- Pandora — New "wear on repeat" picks (charms/styling) — expires no date — shop new pieces
+- City Experiences — Add-ons to elevate your booked experience (cruises/tours) — expires no date — add-ons at checkout
+- CardPointers — Offer streak reminder: auto-add card offers via browser extension — expires no date — informational; no code
+- MOD Pizza — Abbott Elementary promo night — expires no date — no code
+- Going — Nonstop Las Vegas roundtrip from $237 (Oct-Mar) — expires no date — flight deal
+- Going — Win $1,000 in free flights (Roost giveaway) — expires no date — sweepstakes entry
+- Michaels — New diamond art arrivals — expires no date — no code
+- PointsYeah — Business class to Europe from 41k pts; Chase 20% transfer bonus to Aeroplan — expires 9/30 (transfer bonus) — points/miles
+- Lumosity — Newsletter: how hearing & cognition connect — expires no date — informational
+- Nordstrom Rack — Denim up to 70% off (FRAME, Lucky Brand, Good American) — expires no date — no code
+- H&M — Fall's signature looks (new arrivals) — expires no date — no code
+- The Leela Palaces — September discovery offers — expires no date — hotel; check site
+- Amica — Empathy Loss Support (free resource for life-insurance beneficiaries) — expires no date — informational
+- evo — Extra 10% off select clearance — expires 9/28 — code SAVE10
+- Going — Price-drop watch after booking — expires no date — informational
+- Kohl's — VIP Exclusive: 30% off + 15% off Sephora for Beauty Insiders; $10 off $50+ home — expires no date — coupon(s)
+- Michaels — New Christmas trees are here — expires no date — no code
+
 ## 2026-09-28
 - Lyft — Week 2 of the Lyft Credits challenge (add a family member / donate to an org) — expires no date — earn ride credits in-app
 - Fabletics — VIP Pants From $29 (excl. Scrubs) — expires 9/28 11:59 PM PT — VIP exclusive, auto-applied, no code
