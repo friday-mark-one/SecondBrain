@@ -4,4 +4,5 @@
 - [ ] Prompt caching
 - [ ] Evals for my AI setup
 - [ ] Appshot 
-- [ ] Integrate meetings 
+- [ ] Integrate meetings into my agent vault and routines
+- [ ] Make PR creation with multiple 
