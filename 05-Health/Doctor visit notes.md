@@ -1,0 +1,3 @@
+- [ ] Black spot in the palm
+- [ ] Frequent need to pee
+- [ ] Hairfall
