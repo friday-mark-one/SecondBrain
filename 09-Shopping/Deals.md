@@ -1,5 +1,17 @@
 # Deals
 
+## 2026-09-30
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders (plus 20% off LEGO, $10 off $50+ toys w/ Rewards) — expires no date — VIP alert 🔔 [[Gift ideas]]
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders (plus 20% off LEGO, $10 off $50+ toys w/ Rewards) — expires no date — 🔔 [[Gift ideas]]
+- Pandora — $15 off $150 when checking out with Klarna — expires 9/30/2026 — online at pandora.net; $150 min after discounts
+- Going — Thailand roundtrip flights $856 — expires no date — Jan–Feb travel; limited-time fare
+- Michaels — $5 in Rewards when you spend $30+ — expires no date — on your next purchase
+- Lyft — 20% off 5 rides — expires no date — claim in app
+- Huel — 33% student discount (limited time) + 25% off subscription orders + free shipping $65+ — expires no date
+- Going — Chase Freedom Flex: $250 bonus after $500 spend in first 3 months — expires no date — no annual fee
+- Macy's — Extra 25% off Nike — expires no date — women/men/kids activewear
+- J.Crew Factory — Extra 30% off orders $150+ — expires 9/29/2026 (ends tonight)
+
 ## 2026-09-29
 - Educative — Last call: AI Hiring Season special pricing on Educative Unlimited — expires no date — subscription discount (link in email)
 - Fabletics — VIP Pants From $29 (deal ends tonight) — expires 9/28 11:59 PM PT — VIP pricing, auto-applied, no code
