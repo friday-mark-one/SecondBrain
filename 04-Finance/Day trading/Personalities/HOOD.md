@@ -18,6 +18,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-20 — Trades on crypto-regulatory momentum: Trump admin advancing crypto rules (CLARITY Act) and bitcoin price spikes (gap +5.3% today) move it, alongside meme-coin trading volumes
 - 2026-09-04 — New swing factor: tokenized-stock offerings controversy — AMC CEO backlash over "tokenized" equities (securities-law scrutiny) gapped it -3.4%, layering onto its crypto-driven moves
 - 2026-09-17 — Tokenized-equity theme flipped from regulatory risk to catalyst: the SEC cleared a path for blockchain-based tokenized stocks / 24-7 trading, rallying HOOD (+5.4% gap) — the same tokenization angle that was a securities-law overhang (08-20/09-04) is now a positive regulatory driver
+- 2026-09-30 — New narrative: AI-agentic trading expansion (automation + 24/7 cycle, "institutional tools with AI trading bots") gapped it +5.5%, layering an AI/product-growth vector onto its crypto- and tokenization-driven moves; prediction-market regulation (CFTC line-drawing after Kalshi) is the adjacent live risk
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -33,3 +34,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-17 — AUTO: opening gap +5.4%. Headlines: SEC Sends Strong Signal to Robinhood, Coinbase Investors | SEC Clears Path For 24/7 Stock Trading Via Blockchain. These Stocks Rally. | Robinhood Rises as the SEC Clears Tokenized Stocks
 - 2026-09-18 — AUTO: opening gap +3.2%. Headlines: COIN Stock Trades at a Premium to Industry: What Should Investors Do? | Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage) | Bitcoin Is Rallying and Coinbase Is Today’s Best Stock in the S&P 500 Against All the Odds
 - 2026-09-21 — AUTO: opening gap +4.4%. Headlines: Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC’s Game-Changing Exemption | Is Coinbase's Steadier Side Really A Cushion? | Robinhood’s Vlad Tenev: Trump Accounts Could Become “The Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade”
+- 2026-09-30 — AUTO: opening gap +5.5%. Headlines: Robinhood expands AI agentic trading with automation and 24/7 cycle | Robinhood Gives Retail Traders Institutional Tools With AI Trading Bots | Prediction Markets or Gambling? CFTC Moves to Draw the Line After Kalshi Court Loss
