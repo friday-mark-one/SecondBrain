@@ -8,4 +8,4 @@
 - [ ] Make PR creation with 100s of agents
 	- [ ] Analyze people's comments from PR history 
 	- [ ] Spawn remote agents both at design and implementation stage
-	- [ ] Agents for pr 
+	- [ ] Agents for pr iteration 
