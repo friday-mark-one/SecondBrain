@@ -31,6 +31,7 @@
 ## Mon 10-05
 ### Lunch
 - [[Cabbage poriyal]]
+- [[Vathakuzhambu]]
 ### Dinner
 - [[Pongal]]
 - [[Sambar]]
@@ -38,6 +39,7 @@
 ## Tue 10-06
 ### Lunch
 - [[Capsicum poriyal]]
+- [[Vathakuzhambu]]
 ### Dinner
 Chipotle 
 
