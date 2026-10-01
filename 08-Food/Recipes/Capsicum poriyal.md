@@ -13,7 +13,6 @@ fodmap_friendly: false
 - [[Green chilli]] | or dry red chili, as per requirement
 - [[Capsicum]] | cut, of choice
 - [[Curry powder]] | as required
-- [[Capsicum]] | 1
 
 ## Directions
 1. Heat groundnut oil in a pan. Add mustard seeds, chana dal, asafoetida, and green or dry chili to temper; let the seeds splutter.
