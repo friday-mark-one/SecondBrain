@@ -11,11 +11,11 @@ fodmap_friendly: false
 - [[Channa dal]] | 1 tsp
 - [[Asafotida]] | a pinch
 - [[Green chilli]] | or dry red chili, as per requirement
-- [[Capsicum]] | cut, of choice
+- [[Carrot]] | cut, of choice
 - [[Curry powder]] | as required
 
 ## Directions
 1. Heat groundnut oil in a pan. Add mustard seeds, chana dal, asafoetida, and green or dry chili to temper; let the seeds splutter.
-2. Add the cut capsicum and sauté.
+2. Add the cut carrot and sauté.
 3. Add some salt and cook till the vegetable is done.
 4. Add any required curry powder, mix well, and remove from heat.
