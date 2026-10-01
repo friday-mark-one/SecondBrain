@@ -11,6 +11,7 @@
 - [ ] [[Toor Dal]] — Rasam (~100 ml dal water) ×2, Sambar (¾ cup, cooked) ×2, Morkuzhambu (2 tsp, soaked), One-off
 - [x] [[Coconut oil]] — Morkuzhambu (for tadka)
 - [x] [[Body wash]] — One-off
+- [ ] [[Almonds]] — One-off
 
 ## Fred Meyer
 - [x] [[Beans]] — Beans poriyal (cut, of choice)
@@ -31,7 +32,7 @@
 - [x] [[Channa dal]] — Beans poriyal (1 tsp), Curd Rice (for tadka), Carrot poriyal (1 tsp) ×2, Cabbage poriyal (1 tsp), Vathakuzhambu (for tadka) ×2, Capsicum poriyal (1 tsp) ×2
 - [x] [[Asafotida]] — Beans poriyal (a pinch), Curd Rice (a pinch), Rasam (a pinch) ×2, Carrot poriyal (a pinch) ×2, Sambar (a pinch) ×2, Pongal (pinch) ×2, Cabbage poriyal (a pinch), Vathakuzhambu (a pinch) ×2, Capsicum poriyal (a pinch) ×2, Morkuzhambu (pinch)
 - [ ] [[Green chilli]] — Beans poriyal (or dry red chili, as per requirement), Curd Rice (for tadka), Tofu Burji (3-4) ×2, Carrot poriyal (or dry red chili, as per requirement) ×2, Cabbage poriyal (or dry red chili, as per requirement), Capsicum poriyal (or dry red chili, as per requirement) ×2, Morkuzhambu (6)
-- [ ] [[Crystal sona masoori rice]] — Curd Rice (cooked), Pongal (1 part) ×2
+- [x] [[Crystal sona masoori rice]] — Curd Rice (cooked), Pongal (1 part) ×2
 - [x] [[Mustard]] — Curd Rice (for tadka), Rasam (for tadka) ×2, Sambar (½ tsp) ×2, Vathakuzhambu (for tadka) ×2, Morkuzhambu (for tadka)
 - [x] [[Urad dal]] — Curd Rice (for tadka)
 - [x] [[Peppercorns]] — Curd Rice (for tadka), Pongal (for tempering in ghee) ×2
@@ -40,26 +41,26 @@
 - [x] [[Garam masala]] — Tofu Burji (1 tsp) ×2, Paneer Butter Masala (½ spoon) ×2
 - [x] [[Red chilli powder]] — Tofu Burji (½ tsp) ×2, Paneer Butter Masala (1 spoon) ×2
 - [ ] [[Garlic]] — Paneer Butter Masala (3 cloves) ×2
-- [ ] [[Elaichi full]] — Paneer Butter Masala (2 pods) ×2
-- [ ] [[Bay leaf]] — Paneer Butter Masala (1) ×2
-- [ ] [[Cinnamon]] — Paneer Butter Masala (1 piece) ×2
-- [ ] [[Kasuri methi]] — Paneer Butter Masala (to finish) ×2
-- [ ] [[Tamarind paste]] — Rasam (~75 ml tamarind water) ×2, Sambar (~150 ml tamarind water) ×2, Vathakuzhambu (1 tbsp) ×2
-- [ ] [[Sambar powder]] — Rasam (2 tsp) ×2, Vathakuzhambu (to taste) ×2
-- [ ] [[Pepper jeera powder]] — Rasam (to taste) ×2
-- [ ] [[Fenugreek seeds]] — Sambar (pinch (fenugreek)) ×2, Vathakuzhambu (½ tsp (fenugreek powder)) ×2
-- [ ] [[Curry leaves]] — Sambar (few) ×2, Pongal (few) ×2, Morkuzhambu (few)
-- [ ] [[Bhindi]] — Sambar (or veg of choice) ×2, Morkuzhambu (cut, 1 cup)
-- [ ] [[Brinjal]] — Sambar (optional) ×2
-- [ ] [[Pearl onions]] — Sambar (optional) ×2, Vathakuzhambu (or [[Onion]] / veg of choice) ×2
-- [ ] [[Drumstick]] — Sambar (optional) ×2
-- [ ] [[Moong dal]] — Pongal (1 part) ×2
-- [ ] [[Pepper powder]] — Pongal (to taste) ×2
-- [ ] [[Manathakkali]] — Vathakuzhambu (if needed) ×2
-- [ ] [[Coriander seeds]] — Morkuzhambu (2 tsp, soaked)
-- [ ] [[Coconut]] — Morkuzhambu (4 tsp)
+- [x] [[Elaichi full]] — Paneer Butter Masala (2 pods) ×2
+- [x] [[Bay leaf]] — Paneer Butter Masala (1) ×2
+- [x] [[Cinnamon]] — Paneer Butter Masala (1 piece) ×2
+- [x] [[Kasuri methi]] — Paneer Butter Masala (to finish) ×2
+- [x] [[Tamarind paste]] — Rasam (~75 ml tamarind water) ×2, Sambar (~150 ml tamarind water) ×2, Vathakuzhambu (1 tbsp) ×2
+- [x] [[Sambar powder]] — Rasam (2 tsp) ×2, Vathakuzhambu (to taste) ×2
+- [x] [[Pepper jeera powder]] — Rasam (to taste) ×2
+- [x] [[Fenugreek seeds]] — Sambar (pinch (fenugreek)) ×2, Vathakuzhambu (½ tsp (fenugreek powder)) ×2
+- [x] [[Curry leaves]] — Sambar (few) ×2, Pongal (few) ×2, Morkuzhambu (few)
+- [x] [[Bhindi]] — Sambar (or veg of choice) ×2, Morkuzhambu (cut, 1 cup)
+- [x] [[Brinjal]] — Sambar (optional) ×2
+- [x] [[Pearl onions]] — Sambar (optional) ×2, Vathakuzhambu (or [[Onion]] / veg of choice) ×2
+- [x] [[Drumstick]] — Sambar (optional) ×2
+- [x] [[Moong dal]] — Pongal (1 part) ×2
+- [x] [[Pepper powder]] — Pongal (to taste) ×2
+- [x] [[Manathakkali]] — Vathakuzhambu (if needed) ×2
+- [x] [[Coriander seeds]] — Morkuzhambu (2 tsp, soaked)
+- [x] [[Coconut]] — Morkuzhambu (4 tsp)
 - [ ] [[Roti]] — Regulars
 
 ## ⚠️ Missing item note
-- [ ] [[Mustard seeds]] — Beans poriyal (½ tsp), Carrot poriyal (½ tsp) ×2, Cabbage poriyal (½ tsp), Capsicum poriyal (½ tsp) ×2
-- [ ] [[Curry powder]] — Beans poriyal (as required), Carrot poriyal (as required) ×2, Cabbage poriyal (as required), Capsicum poriyal (as required) ×2
+- [x] [[Mustard seeds]] — Beans poriyal (½ tsp), Carrot poriyal (½ tsp) ×2, Cabbage poriyal (½ tsp), Capsicum poriyal (½ tsp) ×2
+- [x] [[Curry powder]] — Beans poriyal (as required), Carrot poriyal (as required) ×2, Cabbage poriyal (as required), Capsicum poriyal (as required) ×2

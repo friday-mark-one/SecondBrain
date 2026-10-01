@@ -6,6 +6,7 @@ checked items automatically; unchecked ones stay for next time.
 
 - [ ] [[Body wash]]
 - [ ] [[Toor Dal]]
+- [ ] [[Almonds]]
 
 ## Regulars
 
