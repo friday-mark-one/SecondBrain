@@ -6,6 +6,7 @@ pinned: true
 ---
 
 - [ ] SBI account fix
+- [ ] Doctor appointment for annual physical
 - [ ] Cancel snowboard pass
 - [ ] H1B appointment 
 - [ ] Mira global entry

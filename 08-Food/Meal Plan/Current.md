@@ -3,10 +3,13 @@
 ## Thu 10-01
 ### Lunch
 - [[Beans poriyal]]
+- [[Curd Rice]]
 ### Dinner
+- [[Tofu Burji]]
 
 ## Fri 10-02
 ### Lunch
+- [[Tofu Burji]]
 ### Dinner
 - [[Paneer Butter Masala]]
 

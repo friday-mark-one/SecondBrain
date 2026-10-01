@@ -14,7 +14,7 @@ fodmap_friendly: false
 - [[Pearl onions]] | or [[Onion]] / veg of choice
 - [[Tamarind paste]] | 1 tbsp
 - [[Sambar powder]] | to taste
-- [[Manathakkali]] | mini tomato, if needed
+- [[Manathakkali]] | if needed
 
 ## Directions
 1. Temper mustard, chana dal, asafotida, fenugreek powder (½ tsp) in sesame oil.
@@ -23,4 +23,4 @@ fodmap_friendly: false
 4. Add tamarind paste (1 tbsp).
 5. Add salt + sambar powder.
 6. Bring to a boil.
-7. Temper with mini tomato if needed.
+7. Temper with manathakkali if needed.

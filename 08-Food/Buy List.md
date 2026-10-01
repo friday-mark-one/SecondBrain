@@ -12,7 +12,7 @@ checked items automatically; unchecked ones stay for next time.
 Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
 - [ ] [[Milk]]
-- [ ] [[Roti]]
+- [x] [[Roti]]
 - [ ] [[Tofu]]
 - [ ] [[Seitan]]
 - [ ] [[Tempeh]]

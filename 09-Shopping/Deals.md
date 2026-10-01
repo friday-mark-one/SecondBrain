@@ -1,5 +1,38 @@
 # Deals
 
+## 2026-10-01
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders; extra $10 off $50+ home — expires no date — member/Rewards; link in email 🔔 [[Gift ideas]]
+- Frameo — Free calendar feature on your photo frame (Google/iCloud/Outlook/iCal) — expires no date — free, via app update
+- Frontier Airlines — Buy miles: up to 150% bonus — expires 10/23/2026 — at storefront.points.com/frontier-miles; you have 2,250 miles
+- Xfinity — iPhone 18 Pro / Pro Max "on us" — expires 10/8 — req. trade-in, new Mobile Plus line + device payment plan
+- Frontier Airlines — World Mastercard: 50,000 mi after $500 spend in 90 days (+10,000 for authorized user) — expires no date — cards.barclaycardus.com
+- point.me — 7 months free on annual plan (one-day flash) — expires today — code FLASH3
+- Fabletics — September membership update — expires no date — informational (VIP)
+- Priority Pass (via SafeOpt) — 25% off + up to 2% back — expires no date — activate via SafeOpt/Minty
+- Bilt — Rent Day transfer bonus to Amtrak Guest Rewards — expires 10/1 — convert Bilt Points
+- DoorDash — New flavors / ordering promo — expires no date — no code
+- Famous Footwear — Free gift added to account + free shipping (STAR) — expires no date — claim in account
+- point.me — Award deals (Costa Rica 7K pts / Tokyo Premium 40K) + last chance 20% Chase transfer bonus — expires 9/30 (bonus) — points/miles
+- Royal Lahaina Resort — New Ocean Discovery Package (Maui) — expires no date — check site
+- Summit at Snoqualmie — Winter 26/27 lessons & programs now available — expires no date — sign up
+- H&M — 25% off flash sale — expires no date — no code
+- HomeGoods — Seasonal (fall) savings picks — expires no date — in-store
+- Going — Win $1,000 in free flights (Roost giveaway) — expires no date — sweepstakes entry
+- Michaels — Up to 50% off Halloween & party supplies — expires no date — no code
+- CardPointers — 55% off new price (last day before increase) — expires 10/1 — coupon at checkout
+- Fandango — $5 off 2+ movie tickets — expires 12/31/26 — code 6946-68X2F2-33CC
+- PointsYeah — Hawaii flights from 12,500 pts + Chase 20% transfer bonus to Aeroplan ends today — expires 9/30 (bonus) — points/miles
+- NerdWallet — Personal-loan rates after Fed hike — expires no date — informational
+- Nordstrom Rack — 125 deals: PAIGE up to 65% off, Veronica Beard up to 60% off — expires no date — while supplies last
+- Etsy — Curated gift/deal picks — expires no date — no code
+- Chase — J.P. Morgan advisor consultation offer — expires no date — offer confirmed
+- Nordy Club (Nordstrom) — Up to $200 in Bonus Notes — expires Sunday 10/4 — shop & earn
+- evo — Japan powder trip (Hokkaido/Niseko) + travel — expires no date — evotrip
+- Michaels — Up to 50% off Halloween & Fall must-haves — expires no date — no code
+- Macy's — Flash sale: up to 70% off bedding, kitchen, dining, luggage, rugs — expires today (flash) — no code
+- point.me — 7 months free, one day only — expires today — code FLASH3
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders; Baby & Toddler Stock-Up Sale — expires no date — member/Rewards; link in email 🔔 [[Gift ideas]]
+
 ## 2026-09-30
 - Kohl's — 30% off + 15% off Sephora for Beauty Insiders (plus 20% off LEGO, $10 off $50+ toys w/ Rewards) — expires no date — VIP alert 🔔 [[Gift ideas]]
 - Kohl's — 30% off + 15% off Sephora for Beauty Insiders (plus 20% off LEGO, $10 off $50+ toys w/ Rewards) — expires no date — 🔔 [[Gift ideas]]
