@@ -36,9 +36,11 @@
 ### Lunch
 - [[Capsicum poriyal]]
 ### Dinner
+Chipotle 
 
 ## Wed 10-07
 ### Lunch
 - [[Morkuzhambu]]
 - [[Capsicum poriyal]]
 ### Dinner
+Chipotle
