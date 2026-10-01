@@ -35,3 +35,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-17 — AUTO: crossed above its 50d average. Headlines: AI agents will need their own financial infrastructure: Coinbase CEO | Lucid stock jumps on 25,000 robotaxi deal with Europe's Bolt | Is IBM Stock Riskier Than Its Options Market Now Assumes?
 - 2026-09-23 — AUTO: crossed below its 50d average. Headlines: How Meta's Muse was a total game changer for the AI narrative | Meta’s Muse is a game changer—but can it win consumers' trust? | Stock Market Today: Small Caps, Gold Miners Spanked Amid Selloff; Meta Makes A Bullish Move
 - 2026-09-30 — AUTO: crossed above its 50d average. Headlines: AI companies just signed a White House accord, and tech folks can't get enough of the signatures | AI in America has a huge 1.7 million job shortage problem | Was There Any Sign Palantir Stock Would Run?
+- 2026-10-01 — AUTO: crossed below its 50d average; crossed below its 200d average
