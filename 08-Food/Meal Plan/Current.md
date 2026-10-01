@@ -1,59 +1,29 @@
-# Meal Plan — week of 2026-09-10
+# Meal Plan — week of 2026-10-01
 
-## Thu 09-10
+## Thu 10-01
 ### Lunch
-- [[Palak Paneer]]
-### Dinner
-- [[Avocado Pasta]]
-
-## Fri 09-11
-### Lunch
-- [[Palak Paneer]]
-### Dinner
-- [[Avocado Pasta]]
-## Sat 09-12
-### Lunch
-- [[Palak Kootu]]
-- [[Rasam]]
-### Dinner
-- [[Pongal]]
-- [[Brinjal Gojju]]
-
-## Sun 09-13
-### Lunch
-- [[Rasam]]
-- [[Palak Kootu]]
-### Dinner
-- [[Pongal]]
-- [[Brinjal Gojju]]
-
-## Mon 09-14
-### Lunch
-- [[Vangi Bath]]
-- [[Creamy Mushroom]]
 ### Dinner
 
-## Tue 09-15
+## Fri 10-02
 ### Lunch
-- [[Vangi Bath]]
 ### Dinner
-- [[Creamy Mushroom]]
 
-## Wed 09-16
+## Sat 10-03
 ### Lunch
-- [[Morkuzhambu]]
-- [[Capsicum poriyal]]
 ### Dinner
-- [[Rava Upma]]
 
-## Thu 09-17
+## Sun 10-04
 ### Lunch
-- [[Morkuzhambu]]
-- [[Capsicum poriyal]]
 ### Dinner
-- Chipotle 
-## Fri 09-18
+
+## Mon 10-05
 ### Lunch
-- [[Morkuzhambu]]
 ### Dinner
-- Chipotle
+
+## Tue 10-06
+### Lunch
+### Dinner
+
+## Wed 10-07
+### Lunch
+### Dinner
