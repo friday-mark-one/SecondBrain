@@ -1,5 +1,65 @@
 # News
 
+## 2026-10-02
+
+## AI & Agents
+
+- [Claude-shaped science](https://www.anthropic.com/research/claude-shaped-science?utm_source=tldrai) — Matthew Schwartz describes using AI, notably Claude, to tackle "Claude-shaped" scientific problems where LLM strengths like coding and data parsing excel. This led to BootLoops, a toolkit for quantitative science calculations across fields from ecology to population genetics. Despite initial technical correctness, results still needed domain experts to refine relevance — a sign AI collaborations can rapidly produce technical solutions but still depend on human insight.  (TLDR AI)
+
+- [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/?utm_source=tldrai) — OpenAI dismissed three safety researchers for sharing confidential information with a third-party AI safety group, per the WSJ. It follows reports of executives ignoring safety warnings and coincides with security issues involving AI agents. OpenAI also shelved the GPT-6.1 Astra launch over safety concerns.  (TLDR AI)
+
+- [Why superintelligent machines may be most valuable doing routine work](https://links.tldrnewsletter.com/eFoHXy) — OpenAI explores how humanity's main constraint is no longer generating ideas but executing increasingly complex ones. Advanced AI could complement human intelligence by absorbing the enormous coordination, engineering, and repetitive work required to turn ambitious scientific ideas into reality.  (TLDR AI)
+
+- [Why Muse may never need ads](https://www.mbi-deepdives.com/no-ads-muse/?utm_source=tldrai) — Meta's Muse may avoid ads by leaning on trust and a transaction-based model where merchants pay fees, not users. Rivals like DoorDash and Airbnb are building proprietary agents but are limited by inherent platform bias. Meta can keep ads out of the Muse app yet still monetize indirectly via Instagram/Facebook signals until enough demand is aggregated for direct monetization.  (TLDR AI, TLDR)
+
+- [Microsoft's first streaming transcription model debuts at No. 1 on Artificial Analysis](https://microsoft.ai/news/our-first-streaming-transcription-model/?utm_source=tldrai) — Microsoft's MAI-Transcribe and MAI-Voice models deliver fast, low-cost, chart-topping audio understanding and generation. MAI-Transcribe-2-Streaming gives low-latency real-time transcripts in 60 languages with continuous language detection, while MAI-Voice-2.1 covers 23 languages and 26 locales.  (TLDR AI)
+
+- [Introducing Clef: open-source decision models and a new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/?utm_source=tldrai) — Clef and Clef-flash are Jev-API-compatible decision models that help agents gather context, make decisions, and act. They're fully open-sourced on Hugging Face under Apache 2.0 and can run locally, returning typed answers with probabilities so agents can act or defer to a human.  (TLDR AI, TLDR)
+
+- [Kev](https://jaredpalmer.com/blog/introducing-kev?utm_source=tldrai) — A family of four open-source decision models from 0.8B to 27B parameters using the same API as TypeSafe's Jev, so Jev-SDK apps can switch just by changing the endpoint and model name. It only scores supplied options and doesn't generate explanations; code, weights, and eval reports are public, though the full 27B training corpus stays private.  (TLDR AI)
+
+- [pplx-decider-v1-27b](https://huggingface.co/perplexity-ai/pplx-decider-v1-27b?utm_source=tldrai) — A decision model fine-tuned from Qwen3.8-27B, with benchmarks competitive with Jev and beating it on several tests.  (TLDR AI)
+
+- [Google researchers built an agent for automated research](https://imhgchoi.github.io/agentic-idea-manager/?utm_source=tldrai) — AIM is an autonomous system that organizes research ideas, selects promising directions, audits whether implementations match those ideas, and allocates experimental resources across search branches.  (TLDR AI)
+
+- [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html?utm_source=tldrai) — Waymo and LLMs exemplify how frictionless technologies make research less collaborative by removing necessary human interactions. Convenience reduces serendipity and critical discourse, while funding and evaluation structures reward speed and output over collaboration — risking a thinner, human-driven research culture.  (TLDR AI)
+
+- [The dot and the swarm](https://www.oneusefulthing.org/p/the-dot-and-the-swarm?utm_source=tldrai) — AI is still too limited to replace large amounts of human work, but organizing agents is no longer the hard part. Agents may be easier to integrate into firms than expected as long as humans guide them — potentially meaning more work for people, not less. AI systems have also surpassed the need for human-devised structures like intricate management processes.  (TLDR, TLDR AI)
+
+- [Olmo-core 3 for MoE training](https://allenai.org/blog/olmocore3?utm_source=tldrai) — An open training framework designed to scale mixture-of-experts models into the trillion-parameter range.  (TLDR AI)
+
+- [Amazon enters the decision model race with Strands Decider 2B](https://strandsagents.com/blog/introducing-strands-decider/?utm_source=tldrai) — An open-source model for fast classification, routing, and scoring tasks.  (TLDR AI)
+
+- [Personal Computing 2.0](https://ideas.imbue.com/p/personal-computing-20?utm_source=tldrai) — Envisions a future where users regain control over their data, fostering privacy and customization in computing environments.  (TLDR AI)
+
+## Big Tech & Startups
+
+- [Starlink 'Community Site' program teases hourly, weekly internet passes](https://www.pcmag.com/news/starlink-community-site-program-teases-hourly-weekly-internet-passes?utm_source=tldrnewsletter) — Starlink plans hourly, daily, and weekly passes for its satellite internet service and is recruiting 'hosts' to sell passes to consumers. Pricing isn't out yet; Starlink handles payments, access, and connectivity while hosts set up sites and earn from connections.  (TLDR)
+
+- [Broadcom starts amassing $60 billion to fund chips for Anthropic](https://links.tldrnewsletter.com/5u2tVW) — The potential deal would help Anthropic and other companies access chips and other key infrastructure.  (TLDR)
+
+## Science & Space
+
+- [World's first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/?utm_source=tldrnewsletter) — Fervo Energy has begun selling electricity from its Cape Station plant, the first enhanced geothermal company to hit this commercial milestone. The site could eventually generate up to 4GW; the first block took 23 months, with Fervo aiming to finish future blocks in as little as 18 months.  (TLDR)
+
+- [With PRIMA, NASA will try to build a billion-dollar space telescope in record time](https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/?utm_source=tldrnewsletter) — NASA's Probe Explorers aim to do more science for less money, balancing small Explorer missions against multibillion-dollar flagships. It's moving ahead with PRIMA (Probe far-Infrared Mission for Astrophysics), which will observe faint far-infrared light between 24 and 235 micrometers, targeting a 2033 launch.  (TLDR)
+
+## Programming, Design & Data Science
+
+- [RoR creator sparks new "death of coding by hand" debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/?utm_source=tldrnewsletter) — David Heinemeier Hansson says 37signals is done writing code by hand as AI tools mature. AI is creating new business models and revenue streams while disrupting traditional software, and companies are paying top-of-market for engineers who can build AI products or make their orgs AI-native.  (TLDR)
+
+- [Pi Durable](https://earendil.com/posts/pi-durable/?utm_source=tldrnewsletter) — An experimental package for long-running, durable, malleable agents that run anywhere, survive catastrophic failures, support infinitely long conversations, and let multiple humans steer the same agent. It's pitched as a framework for any agentic application, including coding agents.  (TLDR)
+
+- [Xbox's millennial CEO isn't playing around](https://links.tldrnewsletter.com/TLGR8Y) — Asha Sharma, Xbox's 38-year-old CEO, wants Xbox properties to entertain a billion people, opening untapped markets in Africa, Latin America, and South Asia by running games on PCs and phones via cloud. Another pillar: reinvesting in Minecraft as a competitor to Roblox.  (TLDR)
+
+- [The inevitability of local stablecoins](https://links.tldrnewsletter.com/EsdxUj) — For stablecoins to become the backbone of the financial system, the mix of volumes passing through them will have to converge with those of traditional finance.  (TLDR)
+
+- [Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/?utm_source=tldrnewsletter) — Aurora PostgreSQL users can now directly query operational data alongside data-lake data in Apache Iceberg and Parquet formats using their existing PostgreSQL applications and tools.  (TLDR)
+
+- [Your agent session transcripts are precious, keep them](https://quesma.com/blog/agent-session-transcripts-are-precious/?utm_source=tldrnewsletter) — Transcripts record what agents were asked and what they did, making them useful for watching for early warning signs.  (TLDR)
+
+- [Fair moderation, equitable access, and AI: arXiv's updated rate limit policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/?utm_source=tldrnewsletter) — arXiv now limits submitters to up to two submissions per calendar month, with a maximum of three active submissions at any time.  (TLDR)
+
 ## 2026-10-01
 
 ## AI Models & Research
