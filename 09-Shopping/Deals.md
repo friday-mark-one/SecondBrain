@@ -1,5 +1,46 @@
 # Deals
 
+## 2026-10-02
+- Tata Capital Wealth — India economy newsletter (Aug 2026) — no date — informational, no offer
+- Pinterest — trending searches (Double Breasted Suit Men, etc.) — no date — no offer
+- LeetCode — Weekly Digest — no date — no offer
+- Summit at Snoqualmie — Fall events: Roktoberfest, Lumina Night Hike, Snowvana — no date — event info
+- MOD Pizza — October double rewards points — expires 10/27/26 — earn 2x points 10/6, 10/13, 10/20, 10/27; exclusions apply
+- Fabletics — New October drop + $30 gift card — no date — save on jackets, fleece, sweaters
+- Pandora — Pandora x Pat McGrath NYC launch (save the date) — no date — event
+- UNiDAYS — free app: giveaways, exclusives, in-store savings — no date — download app
+- HomeGoods — Halloween price drops + more markdowns — no date — in-store
+- Michaels — up to 50% off Halloween décor — no date —
+- Cinemark — New & Now releases + rewards (29 pts) — no date —
+- Costco — Travel packages & cruises (Mexico, Hawaii) + weekly travel Hot Buys — no date —
+- Pinterest — search ideas (Birthday Cake, etc.) — no date — no offer
+- point.me — sale extended: 7 months free — no date — subscription
+- CardPointers — $10 new card credits (DoorDash / Chase Sapphire Preferred) + 55% off CardPointers — no date —
+- Canva World Tour — learning event — no date —
+- Zocdoc — annual physical due reminder (2 weeks) — no date —
+- T-Mobile — T-Satellite summer connectivity — no date —
+- MOD Pizza — salads/fall menu + B2S fundraiser sweepstakes ($1k x4) — expires 11/15/26 — no purchase necessary
+- Macy's — exclusive 30% off Nespresso — no date —
+- Best Buy Visa (Citi) — choose your bonus category — no date —
+- NerdWallet — debt consolidation loan (lower interest) — no date —
+- Fandango — VERITY movie tickets — no date —
+- Sephora at Kohl's — up to 50% off hair-care + 2X points — no date — Beauty Insider
+- Sephora at Kohl's — up to 50% off hair-care + 2X points — no date — Beauty Insider (dup)
+- Etsy — independent creators finds — no date —
+- H&M — New in: The Outerwear Edit — no date —
+- Hallmark Crown Rewards — October eStatement + FREE card — no date —
+- Nordstrom Rack — up to 60% off Vince, Theory & more — no date —
+- Pandora — new charm — no date —
+- Macy's — Flash Sale up to 70% off underwear/bras/PJs — expires today (Today Only) — Calvin Klein, Bali, Tommy Hilfiger
+- Pinterest — search ideas (wedding stage backdrop, etc.) — no date — no offer
+- Lyft — earn United miles on rides — no date —
+- Michaels — Halloween & fall deals — no date —
+- Weee! — cart reminder (do you still want these?) — no date —
+- Stanford Online — AI courses (RL, NLP, Deep Learning, Agentic AI) — no date —
+- Weee! — $10 off first grocery order — no date —
+- Kohl's — 30% off + Beauty Insiders 15% off Sephora + $10 off $50+ home — no date —
+- Weee! — Asian grocery delivery intro — no date —
+
 ## 2026-10-01
 - Kohl's — 30% off + 15% off Sephora for Beauty Insiders; extra $10 off $50+ home — expires no date — member/Rewards; link in email 🔔 [[Gift ideas]]
 - Frameo — Free calendar feature on your photo frame (Google/iCloud/Outlook/iCal) — expires no date — free, via app update
