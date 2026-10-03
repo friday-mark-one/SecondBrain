@@ -1,5 +1,42 @@
 # Deals
 
+## 2026-10-03
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders; matching PJs — expires no date — Rewards/Beauty Insider; link in email 🔔 [[Gift ideas]]
+- Pinterest — trending searches (Matching Pfp, Pixel Art, etc.) — no date — no offer
+- Weee! — New arrivals / back-in-stock alert — no date — no specific offer
+- Fabletics — New gift card earned (cart reminder) — no date — gift card in account
+- point.me — Final hours: 7 months free on point.me Standard — expires tonight at midnight — code FLASH3; $96.75/yr
+- Pinterest — trending searches (Birthday Cake, Room Decor, etc.) — no date — no offer
+- Uber — recent experience survey — no date — survey invite; no offer
+- Michaels — new clearance markdowns + up to 50% off Halloween & fall — no date — no code
+- NerdWallet — personal loan rates as low as 5.99% — no date — informational; compare lenders
+- HealthEquity — passkey setup feedback survey — no date — survey invite; no offer
+- J.Crew Factory — Real Deals from $19.95 — no date — no code
+- Genesis of Milford — special offer on the 2027 Genesis GV70 2.5T — no date — dealer email
+- Michaels Custom Framing — 70% off custom frames — no date — upgraded site
+- Nordstrom — Fall trends: accessories & more — no date — new arrivals; no code
+- Weee! — Navratri week, nine nights of savings — no date — no specific offer
+- Wells Fargo — free FICO Score via Credit Close-Up — no date — informational
+- NerdWallet — cheapest car insurance guide — no date — informational; no code
+- H&M — up to 30% off cardigans, jeans, sweats — no date — no code
+- Weee! — free delivery on top Asian brands + $10 off first two orders — no date — new customers
+- Famous Footwear — $10 Reward Cash + free shipping (STAR) — no date — claim in account
+- Lyft — 20% off 4 rides — no date — claim in app
+- Going Flight Deals — Alaska roundtrip $297–$438 (Oct–May) — no date — flight deal
+- Fandango — Weekend Movie Premieres — no date — get tickets
+- Alcatraz City Cruises — post-cruise feedback survey — no date — survey invite; no offer
+- Going — Best card offers in October 2026 — no date — credit-card roundup
+- Hallmark Crown Rewards — 3X points + FREE shipping — no date — Crown Rewards
+- Nordstrom Rack — Private Sale: Gucci fragrance — no date — private sale
+- Macy's — up to 50% off favorite fall styles — no date — no code
+- Etsy — uplifting gifts (encouragement cards & more) — no date — no code 🔔 [[Gift ideas]]
+- Pinterest — engagement photo poses / Indian wedding garland ideas — no date — no offer
+- point.me — last chance: 7 months free on point.me Standard — expires tonight at midnight — code FLASH3; $96.75/yr
+- Michaels — Boo It Yourself Sale + 80% off clearance — no date — no code
+- Weee! — unique finds / browse categories — no date — no specific offer
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders; $10 off $50+ toys w/ Rewards — no date 🔔 [[Gift ideas]]
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders (LEGO toys $10 off $50+ w/ Rewards) — no date 🔔 [[Gift ideas]]
+
 ## 2026-10-02
 - Tata Capital Wealth — India economy newsletter (Aug 2026) — no date — informational, no offer
 - Pinterest — trending searches (Double Breasted Suit Men, etc.) — no date — no offer
