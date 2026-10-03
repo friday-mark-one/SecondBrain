@@ -9,10 +9,13 @@ pinned: true
 - [ ] Doctor appointment for annual physical
 - [ ] Cancel snowboard pass
 - [ ] H1B appointment 
-- [ ] Mira global entry
+- [ ] Mira global entry 
 - [ ] 401k rollover
 - [ ] Fix Google home automations 
-- [ ] Update SSN / ITIN
+- [ ] Mira
+	- [ ] Update SSN / ITIN with IRS
+	- [ ] Update bank with SSN
+	- [ ] Apply for credit cards
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
 - [ ] Fix TFCC
