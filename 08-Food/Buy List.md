@@ -4,16 +4,13 @@ Add non-recipe items here as the pantry runs low. Format: `- [ ] [[Item]] | amou
 Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`) removes
 checked items automatically; unchecked ones stay for next time.
 
-- [ ] [[Body wash]]
-- [ ] [[Toor Dal]]
-- [ ] [[Almonds]]
 
 ## Regulars
 
 Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
 - [ ] [[Milk]]
-- [x] [[Roti]]
+- [ ] [[Roti]]
 - [ ] [[Tofu]]
 - [ ] [[Seitan]]
 - [ ] [[Tempeh]]
