@@ -5,33 +5,35 @@ hint: general todo list
 pinned: true
 ---
 
-- [ ] SBI account fix
+- [ ] SBI account follow up
+- [ ] HDFC Credit card pay 
 - [ ] Doctor appointment for annual physical
 - [ ] Cancel snowboard pass
 - [ ] H1B appointment 
 - [ ] Mira global entry 
 - [ ] 401k rollover
-- [ ] Fix Google home automations 
+- [x] Fix Google home automations 
 - [ ] Mira
 	- [ ] Update SSN / ITIN with IRS
 	- [ ] Update bank with SSN
 	- [ ] Apply for credit cards
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
+- [ ] Chromatic firmware
 - [ ] Fix TFCC
-- [ ] Engine oil
-- [ ] Car service
-- [ ] Investment
-	- [ ] Covered calls 
+- [x] Engine oil
+- [x] Car service
+- [x] Investment
+	- [x] Covered calls 
 - [ ] Clean chimney
 - [ ] Canada visa
 - [ ] Jailbreak Kindle
-- [ ] Car
-	- [ ] Stick LA magnet
-	- [ ] Window tint
-- [ ] Create a DIY mini house
-- [ ] Install Zed editor
-- [ ] Futureme letter
+- [x] Car
+	- [x] Stick LA magnet
+	- [x] Window tint
+- [x] Create a DIY mini house
+- [x] Install Zed editor
+- [x] Futureme letter
 - [ ] GTA V
 - [ ] Restring rackets
 - [ ] TreasuryDirect mail
