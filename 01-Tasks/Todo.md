@@ -22,7 +22,7 @@ pinned: true
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
 - [ ] Chromatic firmware
-- [ ] Fix TFCC
+- [x] Fix TFCC
 - [x] Clean chimney
 - [ ] Canada visa
 - [ ] Jailbreak Kindle
