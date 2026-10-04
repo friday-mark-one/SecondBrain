@@ -15,9 +15,9 @@ pinned: true
 - [ ] Mira global entry 
 - [ ] 401k rollover
 - [ ] Mira
-	- [ ] Update SSN / ITIN with IRS 
+	- [ ] Merge SSN & ITIN on IRS 
 		- [ ] Call H&R block on Monday
-	- [ ] Update bank with SSN
+	- [ ] Update bofa with SSN
 	- [ ] Apply for credit cards after Nov 10
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
