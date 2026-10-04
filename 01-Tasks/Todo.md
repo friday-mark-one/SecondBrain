@@ -22,8 +22,6 @@ pinned: true
 - [ ] Deal with EPF
 - [ ] Buy snowboard 
 - [ ] Chromatic firmware
-- [x] Fix TFCC
-- [x] Clean chimney
 - [ ] Canada visa
 - [ ] Jailbreak Kindle
 - [ ] GTA V
