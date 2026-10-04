@@ -23,7 +23,7 @@ pinned: true
 - [ ] Buy snowboard 
 - [ ] Chromatic firmware
 - [ ] Fix TFCC
-- [ ] Clean chimney
+- [x] Clean chimney
 - [ ] Canada visa
 - [ ] Jailbreak Kindle
 - [ ] GTA V
