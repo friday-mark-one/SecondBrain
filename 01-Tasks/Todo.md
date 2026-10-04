@@ -6,7 +6,7 @@ pinned: true
 ---
 
 - [ ] SBI account follow up
-- [ ] HDFC Credit card pay 
+	- [ ] HDFC Credit card pay 
 - [ ] Doctor appointment for annual physical
 - [ ] Cancel snowboard pass
 - [ ] H1B appointment 
