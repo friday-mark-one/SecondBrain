@@ -8,7 +8,7 @@ pinned: true
 - [ ] SBI account follow up
 	- [ ] HDFC Credit card pay 
 - [ ] Doctor appointment for annual physical
-- [ ] Cancel snowboard pass
+- [ ] Cancel snowboard pass before Nov 15
 - [ ] H1B appointment 
 - [ ] Mira global entry 
 - [ ] 401k rollover
