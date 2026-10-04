@@ -1,5 +1,30 @@
 # Deals
 
+## 2026-10-04
+- Pinterest — trending searches (Matching Pfp, Pixel Art, etc.) — no date — no offer
+- Fabletics — $30 off new fall styles — no date — promo in email
+- UNiDAYS — student side-hustle: earn with partner brands — no date — student perks
+- Weee! — up to 70% off Asian groceries this week; Lightning Deals twice daily — no date — SNAP/EBT accepted
+- point.me — 75K miles + $300 travel credit for $95 annual fee — no date — credit-card offer
+- Pinterest — trending searches (Birthday Cake, Room Decor, etc.) — no date — no offer
+- Macy's — holiday home trend editorial — no date — no offer
+- Cinemark — October lineup (VERITY, Digger and more) — no date — movie tickets
+- Macy's — exclusive 30% off Adore Me (pajamas, sweat sets) — no date — no code
+- Edmunds — SUVs with best gas mileage / SUV deals — no date — informational; car rankings
+- Michaels — 80% off clearance (floral, decor, kids' outdoor) — no date — no code
+- Nordstrom Rack — UGG up to 40% off shoes, accessories & more — no date — no code
+- Weee! — cart reminder (items you left behind) — no date — no offer
+- H&M — 20% off all weekend for Members — no date — Members only
+- NerdWallet — cheapest car insurance guide — no date — informational; no code
+- Etsy — Halloween / spooky-season shop (gifts, deals, new arrivals) — no date — no code
+- Macy's — up to 60% off kitchen tools (cookware, coffee, small appliances, bakeware, cutlery) — no date — no code
+- evo — 25th anniversary collection (snow & bike gear) — no date — no code
+- NerdWallet — personalized money answers in the app — no date — informational
+- Pinterest — trending searches (Library Photo Shoot, Pre-Wedding Photoshoot, etc.) — no date — no offer
+- Michaels — new clearance markdowns + up to 50% off Halloween & fall — no date — no code
+- Weee! — 50 Million orders delivered (brand story) — no date — no offer
+- Kohl's — 30% off + 15% off Sephora for Beauty Insiders; matching PJs — no date — Rewards/Beauty Insider 🔔 [[Gift ideas]]
+
 ## 2026-10-03
 - Kohl's — 30% off + 15% off Sephora for Beauty Insiders; matching PJs — expires no date — Rewards/Beauty Insider; link in email 🔔 [[Gift ideas]]
 - Pinterest — trending searches (Matching Pfp, Pixel Art, etc.) — no date — no offer
