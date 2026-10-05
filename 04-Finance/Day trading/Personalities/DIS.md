@@ -25,3 +25,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-18 — AUTO: crossed below its 50d average; crossed below its 200d average. Headlines: Disney’s first CTO led an AI startup it once accused of copying its characters | Disney names Karandeep Anand as first-ever CTO | Disney names first-ever chief technology officer, a day after tapping ex-YouTube executive to run streaming
 - 2026-09-21 — AUTO: crossed above its 50d average; crossed above its 200d average. Headlines: Can Paramount+ Lift Paramount Skydance Stock While The Warner Deal Sits In Court? | Disney introduces CTO role to lead enterprise tech, AI platforms | Ackman Bets $1 Billion on Netflix Redemption After $400 Million 2022 Loss
 - 2026-10-01 — AUTO: crossed below its 50d average; crossed below its 200d average
+- 2026-10-05 — AUTO: crossed above its 200d average
