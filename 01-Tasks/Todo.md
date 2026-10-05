@@ -25,6 +25,7 @@ pinned: true
 - [ ] Chromatic firmware
 - [ ] Canada visa
 - [ ] Jailbreak Kindle
+- [ ] Budget app
 - [ ] GTA V
 - [ ] Restring rackets
 - [ ] TreasuryDirect mail
