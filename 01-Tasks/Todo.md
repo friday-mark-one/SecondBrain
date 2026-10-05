@@ -8,6 +8,7 @@ pinned: true
 - [ ] SBI account follow up
 	- [ ] HDFC Credit card pay 
 - [ ] Doctor appointment for annual physical
+- [ ] Buy cap 
 - [ ] Cancel snowboard pass before Nov 15
 - [ ] H1B appointment
 	- [ ] Wait for Vialto reply
