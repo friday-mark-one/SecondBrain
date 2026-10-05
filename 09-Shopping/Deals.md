@@ -1,5 +1,26 @@
 # Deals
 
+## 2026-10-05
+- Lyft — Week 3 rewards: win more Lyft Credits — no date — in-app rewards program
+- Macy's — Up to 50% off fall: women's/men's/kids' coats & sweaters (25–50%) — no date — no code
+- Fabletics — New & on-sale fleece sweats — no date — no code
+- Michaels Rewards — earn rewards on crafts; exclusive member offers — no date — loyalty program
+- Costco — "A Few New Finds" featured warehouse items — no date — in-store; no code
+- Pandora — Talisman classics + new charms — no date — new arrivals; no code
+- NerdWallet — high-yield savings rates up to 4.10% — no date — informational
+- HomeGoods — Halloween hosting essentials — no date — in-store; no code
+- Michaels — Flash Cyber Sale (online, limited time) — no date — no code
+- Nordstrom — Classic prep from Polo Ralph Lauren & more — no date — new arrivals; no code
+- Weee! — one-day Sunday prices on Asian groceries — expires tonight — app deal
+- Nordstrom Rack — Up to 60% off coats & cold-weather accessories; private sale Gucci fragrance up to 60% off — no date — private sale 🔔 [[Gift ideas]]
+- Etsy — Western home decor finds — no date — no code
+- H&M — 20% off ends soon (jackets, windbreakers) — no date — Members only
+- Hallmark Crown Rewards — 3X points + free shipping — expires today — Crown Rewards
+- Weee! — 3M downloads brand message — no date — no offer
+- Macy's — Fall Favorites Sale up to 50% off (wardrobe/home) — expires tonight — no code
+- Michaels — Last call: 80% off spring/summer clearance (Halloween decor, floral, kids) — no date — no code
+- Kohl's — 40% off savings today only + last day home + Kohl's Cash — expires today — no code
+
 ## 2026-10-04
 - Pinterest — trending searches (Matching Pfp, Pixel Art, etc.) — no date — no offer
 - Fabletics — $30 off new fall styles — no date — promo in email
