@@ -36,3 +36,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-17 — AUTO: opening gap +3.7%. Headlines: AMD Leads Chip Stocks Higher Amid Sector Rebound | Intel Soars 9% On A Memory Deal That Doesn’t Exist Yet | Update: US Equity Indexes Rise as Fed's Commitment to Controlling Inflation Sinks Treasury Yields
 - 2026-09-21 — AUTO: +12.1% day (≥2× its typical range); opening gap +7.4%. Headlines: Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls | US Equity Markets Higher as Tech, Communication Stocks Rise Amid Drop in Government Bond Yields, Crude Oil Prices | Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat
 - 2026-10-02 — AUTO: opening gap +3.5%
+- 2026-10-05 — AUTO: opening gap -3.1%

@@ -34,3 +34,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-19 — AUTO: opening gap -3.1%; new 52-week high. Headlines: If Walmart doesn't raise its outlook, the stock will fall: CFRA Research | Target raises sales guidance: A closer look at retail earnings so far | Target and Lowe's earnings, Fed meeting minutes: What to Watch
 - 2026-08-21 — AUTO: new 52-week high. Headlines: Target-date funds are booming. But are they still right for your retirement? | Ross Stores Q2 Earnings Top Estimates on Strong Sales Growth Momentum | Dollar Tree Likely To Lift Full-Year Outlook, Oppenheimer Says
 - 2026-08-24 — AUTO: new 52-week high. Headlines: BJ's Q2 Earnings Beat on Traffic & Membership Momentum, Outlook Raised | Earnings Estimates Moving Higher for Target (TGT): Time to Buy? | Are You Looking for a Top Momentum Pick? Why Target (TGT) is a Great Choice
+- 2026-10-05 — AUTO: crossed below its 50d average

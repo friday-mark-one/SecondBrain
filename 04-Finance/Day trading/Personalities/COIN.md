@@ -36,3 +36,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-18 — AUTO: +11.7% day (≥2× its typical range); crossed above its 200d average. Headlines: The SEC is bringing tokenized stocks to markets: 7 key details you need to know | Trump takes aim at Warsh after Fed hike | COIN Stock Trades at a Premium to Industry: What Should Investors Do?
 - 2026-09-21 — AUTO: opening gap +5.6%. Headlines: Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls | Bitcoin prices, Logan & Jake Paul, Jensen Huang talks human survival: 3 crazy market movers | Sector Update: Financial Stocks Rise Late Afternoon
 - 2026-10-02 — AUTO: crossed below its 200d average
+- 2026-10-05 — AUTO: crossed above its 200d average
