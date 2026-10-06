@@ -1,5 +1,99 @@
 # News
 
+## 2026-10-06
+
+## Big Tech & Products
+
+- [Apple invites developers to submit iPhone Duo-ready apps to the App Store](https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/?utm_source=tldrnewsletter) — Apple is now accepting submissions of iPhone Duo-optimized apps and games. Xcode 27.1 Release Candidate 1 features support for building and testing apps and games for the iPhone Duo. Developers can now submit iPhone Duo-optimized apps and games in App Store Connect. App Store product pages will display a badge to let people know apps are optimized for the iPhone Duo. Recompiling existing apps with Xcode 27.1 adds development support for iPhone Duo. (TLDR)
+
+- [Preview, edit, and collaborate on Markdown (.md) files natively across Drive and Docs](https://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html?utm_source=tldrnewsletter) — Google Docs now supports Markdown files. Google Drive now renders Markdown previews. The new features are available to all Google Workspace customers and users with personal Google accounts. They will be gradually rolled out over the next two weeks. (TLDR)
+
+- [OpenAI expands ads in ChatGPT](https://links.tldrnewsletter.com/aHiUC5) — OpenAI introduced a new visual ad format in ChatGPT alongside expanded measurement tools, partnerships, and brand-suitability work. The company positioned advertising as a way to support broader access to ChatGPT while giving businesses another channel to reach users during product discovery and decision-making. (TLDR AI)
+
+- [This is the Fitbit Edge, Google's next fitness tracker](https://www.androidheadlines.com/google-fitbit-edge?utm_source=tldrnewsletter) — The Fitbit Edge will support notifications and limited apps like Google Maps, YouTube Music, and Find My Phone. (TLDR)
+
+- [Instinct in group chats](https://links.tldrnewsletter.com/TpZLHX) — Instinct now lets early-access users add a shared agent to group chats for planning trips, tickets, carpools, and events. Personal Instincts enforce permissions, keep account access separate, and pause sharing when new members join. (TLDR AI)
+
+## AI Models & Research
+
+- [Introducing Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam?utm_source=tldrnewsletter) — Beam is a sparse Mixture-of-Experts model with 501 billion total parameters and 23 billion active parameters aimed at coding, reasoning, and agentic workloads. Reflection trained it on 23.8 trillion tokens and more than 100 million reinforcement learning rollouts, with Apache 2.0 weights and developer artifacts planned for release later this month. (TLDR AI, TLDR Dev)
+
+- [OpenAI to add text watermarks](https://links.tldrnewsletter.com/0K4IIf) — OpenAI said it would add invisible text watermarks to eligible ChatGPT and Codex outputs in the EU to meet AI Act transparency requirements. Its textGrain method subtly alters word selection so generated text can be detected, though editing, translation, and short passages can weaken detection. (TLDR AI)
+
+- [Announcing d1 with vision](https://links.tldrnewsletter.com/DilGg3) — d1, a decision model from Liquid AI, now supports images, text, or both as inputs. The model costs 19x to 200x less than GPT-6.1 Sol and Claude Opus 5.5 and answers significantly faster on every task. It outputs probabilities for yes/no, choice, or score questions in one forward pass without generating tokens. Text decisions are made in 200 to 300 milliseconds. (TLDR AI)
+
+- [Self-modeling interventions modulate emergent misalignment](https://www.lesswrong.com/posts/7wrzfaiCq3u8xkY5G/self-modeling-interventions-modulate-emergent-misalignment?utm_source=tldrnewsletter) — Interventions on AI models' self-models, through self-recognition and self-report, can modulate and mitigate Emergent Misalignment. (TLDR AI)
+
+- [Living Models pairs Gemma 4 with BOTANIC-1 to help decode plant DNA](https://deepmind.google/models/gemma/gemmaverse/living-models/?utm_source=tldrnewsletter) — Living Models pairs Gemma 4 with BOTANIC-1, compressing years of crop genetics into hours. (TLDR AI)
+
+- [North 2: enterprise AI without compromises](https://cohere.com/blog/introducing-north-2?utm_source=tldrnewsletter) — Cohere's North 2 platform eliminates trade-offs in security, intelligence, cost, and control for enterprises adopting agentic AI. (TLDR AI)
+
+- [How Devin's memory and dreaming work](https://devin.ai/blog/memory-and-dreaming?utm_source=tldrnewsletter) — Devin's new Memory system carries preferences, corrections, and project learnings across sessions, while Dreaming periodically reorganizes and connects that information. The process deduplicates memories, links them to past sessions and artifacts, and can derive new knowledge from accumulated work. (TLDR AI)
+
+- [How to build an AI-native software factory](https://www.theaithinker.com/p/how-to-build-an-ai-native-software?utm_source=tldrnewsletter) — A practical look at the infrastructure companies need around coding agents once usage scales beyond individual developers. Using Uber's software factory as the main case study, it covers cloud execution, model gateways, agent identity, testing, migrations, code review, and measuring economics such as cost per merged pull request. (TLDR AI)
+
+- [10 takeaways from Tibo Sottiaux](https://links.tldrnewsletter.com/ZmPSUL) — OpenAI's Tibo Sottiaux expects agents to take most internet actions, model pickers to disappear, and models to improve roughly 10x within a year. (TLDR AI)
+
+## Engineering & Development
+
+- [Build an agent loop a small model can finish](https://www.builder.io/blog/build-an-agent-loop-a-small-model-can-finish?utm_source=tldrnewsletter) — A reliable agent loop depends less on model size than on a trustworthy check that turns progress into a score or pass condition. In two visual tasks, small models improved dramatically when they received repeatable feedback across varied examples and holdout cases, while weak checks encouraged overfitting or shortcuts. (TLDR Dev)
+
+- [How we built the fastest, cheapest browser agent with Jev](https://ironbee.ai/blog/how-we-built-the-fastest-cheapest-browser-agent-with-jev?utm_source=tldrnewsletter) — IronBee Express uses Jev as a fast classifier for bounded browser decisions, calling an LLM only for writing, recovery, or failure explanations. Explored runs cost about $0.0042 for 20 actions, recordings can replay with no step decisions, and narrow verification questions helped a 130-run replay test reach 130 correct outcomes. (TLDR Dev)
+
+- [TanStack Charts 1.0](https://tanstack.com/blog/tanstack-charts-1-0?utm_source=tldrnewsletter) — TanStack Charts 1.0 offers a composable, type-safe charting system built from marks, scales, axes, and interactions instead of rigid chart types. It supports custom marks and renderers, optional SVG or Canvas output, modular animation and scale packages, and a stable API intended to evolve without forcing applications to rebuild their visualizations. (TLDR Dev)
+
+- [How Booking.com cut Node.js costs by 38% with Watt](https://adventures.nodeland.dev/archive/how-bookingcom-cut-nodejs-costs-by-38-with-watt?utm_source=tldrnewsletter) — Booking.com moved a major Node.js rendering service from pm2 clustering to Watt worker threads, cutting compute costs by 38% with 30% fewer pods, 20% less memory per pod, and up to 10% lower tail latency. The migration required no service code changes, and production tests showed 40% to 50% more throughput within the same latency target. (TLDR Dev)
+
+- [The performance cost of RwLock in a read-heavy workload](https://pranitha.dev/posts/rwlock-vs-lockfree/?utm_source=tldrnewsletter) — A Rust benchmark found that replacing 16,384 per-item RwLock acquisitions with one Crossbeam epoch guard and atomic pointer loads raised read throughput from 15.93k to 229.07k operations per second, while a simple lock still worked well around an infrequently changed collection. (TLDR Dev)
+
+- [CSS does your tooltip positioning now](https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now/?utm_source=tldrnewsletter) — CSS anchor positioning, position fallbacks, popovers, and anchor-size() can now handle responsive tooltip and dropdown placement with little or no JavaScript, though component-scoped anchor names and accessible DOM order still matter. (TLDR Dev)
+
+- [Introducing Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/?utm_source=tldrnewsletter) — Cloudflare's beta Web Search API lets agents search through Ceramic.ai, Exa, or Linkup via AI Gateway with Zero Data Retention, gateway logging, and provider list pricing without added markup. (TLDR Dev)
+
+- [Framefields](https://github.com/gatewai-dev/framefields?utm_source=tldrnewsletter) — Framefields is an npm package built for coding agents. It enables agents to create Photoshop-inspired compositing and VFX, After Effects-style motion, typography, and keyframing, and Blender-style 3D scenes, cameras, and models. The agent writes a TypeScript composition, checks frames, and renders an MP4. Framefields renders directly on GPU hardware in Node.js and modern WebGPU browsers. (TLDR AI)
+
+- [Ephemeral testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/?utm_source=tldrnewsletter) — Ephemeral testing evaluates a software component by asking an AI agent to build disposable applications or layers on top of it, then judging how well those downstream projects work. Repeating the exercise with different agents and tasks can expose hidden state, unstable invariants, surprising defaults, and weak documentation. (TLDR Dev, TLDR)
+
+- [Why plain text is still one of the best technologies we have](https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/?utm_source=tldrnewsletter) — The simplicity of plain text is a large part of why it has lasted. Plain text is part of the basic plumbing of computing. There is an enormous collection of tools that know how to work with plain text, and plain text gives users more choice. Text ages surprisingly well, and it is easy to own. It is portable, inspectable, searchable, scriptable, easy to back up, and remarkably resistant to obsolescence. (TLDR)
+
+- [Chat is AI's command line](https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era/?utm_source=tldrnewsletter) — Chat is useful for rough direction, but it becomes awkward when people need to make precise edits or understand the state of ongoing work. The piece argues for AI interfaces built around direct manipulation, visible state, and reversible experimentation, much like spreadsheets and graphical desktops expanded computing beyond the command line. (TLDR Dev)
+
+- [Worth building](https://armstr.ng/writing/worth-building?utm_source=tldrnewsletter) — Cheaper software development makes small tools worthwhile even when they solve one person's annoyance and never become a business. As more people can ship, the story behind a project and the choices that shaped it become increasingly important reasons for others to care. (TLDR Dev)
+
+## Startups, Funding & Business
+
+- [OpenAI in $30 billion round talks with UAE funds, BlackRock](https://links.tldrnewsletter.com/PUOHhN) — OpenAI is in talks with multiple investment funds from the United Arab Emirates to help anchor a $30 billion round of financing. The UAE funds have discussed forming a syndicate to invest as much as $10 billion in the round. The University of California's endowment fund, BlackRock, Thrive Capital, and Andreessen Horowitz may also participate in the round alongside that syndicate. The fundraise is ongoing, and the details could change. (TLDR AI)
+
+- [Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged](https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html?utm_source=tldrnewsletter) — The deal was allegedly made without the stockholder vote that Delaware law requires and without any process designed to test or maximize the value of what Nvidia bought. (TLDR AI)
+
+- [Etched fields funding offers at $40B+ valuation, sources say](https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/?utm_source=tldrnewsletter) — While it seems like a fast timetable to raise another mega round (Etched raised $700 million at a $21 billion valuation a couple of months ago), the company is pursuing a particularly expensive segment of the AI industry: building full AI hardware systems powered by proprietary chips. (TLDR AI)
+
+- [OpenAI's B2B marketplace: the hyperscaler of AI apps](https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler?utm_source=tldrnewsletter) — The OpenAI B2B marketplace opened on September 29 with 32 partners. OpenAI wants to position itself as the platform that the wider AI ecosystem is built on and relies on for distribution. This will consolidate AI sprawl and make it easier for customers to budget. If the marketplace gains traction, we may see an evolution similar to the cloud ecosystem where labs and AI apps co-sell, apps get charged a listing fee, and buyers receive one invoice for their spend. (TLDR AI)
+
+- [Asset light software](https://links.tldrnewsletter.com/032kyB) — Software businesses are shifting from fixed costs toward variable, consumption-based costs as AI automates junior work and commoditizes software creation. (TLDR AI)
+
+- [Inference is the most important market in software](https://tomtunguz.com/inference-is-the-most-important-market-in-software?utm_source=tldrnewsletter) — AI inference is set to surpass the database market to become the most important market in software. (TLDR)
+
+## Science & Society
+
+- [Controlling the brain with light earns a physiology Nobel](https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/?utm_source=tldrnewsletter) — Karl Deisseroth, Peter Hegemann, and Georg Nagel have won the Nobel Prize in Physiology or Medicine for their contributions to the field of optogenetics. Optogenetics involves using light to alter the behavior of nerve cells marked by the activity of individual genes. It allows researchers to activate or shut down neurons in an otherwise intact brain. The technique has revolutionized scientists' ability to understand what different populations of nerve cells are doing. (TLDR)
+
+- [A new crop of solar panels is the US' best hope of catching China](https://links.tldrnewsletter.com/XjUHT3) — Tandem solar is a new technology that adds second and third layers of material on solar panels to convert more of the Sun's radiance into electricity. Several companies plan to start selling panels commercially soon. The panels can generate 25% more energy than current available devices. Successful adoption of the technology will allow the world to meet the rapidly rising demand for electricity with less land and roof area. (TLDR)
+
+- [Two room-temperature antiferromagnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors?utm_source=tldrnewsletter) — Ferromagnets' atomic magnets all point the same way, adding their magnetic effects. Antiferromagnets have neighboring atomic magnets that point opposite ways and exactly cancel out magnetically. There is an intense drive in computer memory research to create materials in between these two extremes. This post details how a team of AI agents designed a candidate magnet for next-generation computer memory that has zero net magnetism yet still sorts electrons by spin. (TLDR AI, TLDR Dev)
+
+- [The future of mathematics](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/?utm_source=tldrnewsletter) — The field of mathematics is changing, but mathematics is still as important today as it ever was. Mathematics remains a core capacity for human reasoning and deliberation. Future historians will likely see this time as the start of a new era for mathematics. We are at a new frontier where communal norms, values, and expectations are beginning to break down, and the community needs to figure out what should replace them. (TLDR)
+
+- [Apple and a hacker's future](https://stratechery.com/2026/apple-and-a-hackers-future/?utm_source=tldrnewsletter) — CVE-2026-65400 is a high-severity macOS vulnerability that allows attackers to execute malicious code. Apple released a patch for the vulnerability last week for macOS Tahoe, Sequoia, and Sonoma. The vulnerability stems from a bug in the macOS screen sharing capability. In all observed cases, root had been accessed on the affected system and a Monero crypto miner had been placed. (TLDR)
+
+- [What the AI boom is doing for Americans](https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans?utm_source=tldrnewsletter) — AI is sustaining the macroeconomy in a time of huge amounts of policy uncertainty. (TLDR)
+
+- [How personal agents get paid](https://www.tanayj.com/p/how-personal-agents-get-paid?utm_source=tldrnewsletter) — A look at how money paid to aggregators can flow to personal agents. (TLDR)
+
+- [Biosecurity, AI, and the culture war](https://writing.oliviahelens.com/p/biosecurity-ai-and-the-culture-war?utm_source=tldrnewsletter) — The industry's lack of consensus on what AI progress looks like is distracting it from doing practical things. (TLDR)
+
+- [Writing blog posts while walking the dog](https://jacobtomlinson.dev/posts/2026/writing-blog-posts-while-walking-the-dog/?utm_source=tldrnewsletter) — Thoughts on AI's effects on writing. (TLDR)
+
 ## 2026-10-05
 
 ## AI Models & Infrastructure
