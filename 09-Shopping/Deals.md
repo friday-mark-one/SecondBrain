@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-10-06
+- Pinterest — trending-search email (Navratri video ideas) — no date — no offer, marketing
+- DoorDash — 20% off Costco order (link membership) — no date — via DoorDash app
+- MOD Pizza — buy 1 pizza/salad, get 1 Kids Meal free — Sundays only — participating US locations
+- Fabletics — VIP gift offer — expires tonight (midnight) — VIP members
+- Pandora — Halloween Town collection launch — no date — new Halloween charms
+- Amica — auto insurance review / free quote — no date — quote tool
+- Pinterest — wedding shoot & decor idea digest — no date — no offer, marketing
+- NerdWallet — $500 bank sign-up bonus (WA banks) — no date — bank bonus roundup
+- CardPointers — auto-add card offers (offer-streak nudge) — no date — browser extension
+- Going — Las Vegas flights from $153 — travel Nov–Feb — deal alert
+- PointsYeah — business class to Asia from 69k pts — no date — award availability
+- Life Time — rejoin offer / tour invite — no date — Bellevue club
+- Etsy — "chef" kitchen gift ideas — no date — Gifts/Deals roundup
+- Kohl's — CEO note + exclusive gift — no date — promo
+- Going — Macau flights from $792 — travel Jan–Feb — deal alert
+- H&M — '90s-inspired dressing edit — no date — new arrivals
+- Weee! — free delivery on Asian groceries — no date — new/returning customer promo
+- City Experiences — travel experiences (land & water) — no date — travel deals
+- Dell Rewards — 2X Dell Rewards points — limited time — earn multiplier
+- ID.me Shop — up to 50% off student deals (T-Mobile, BJ's, Oura, Verizon) — no date — verified students
+- JetBlue — 70,000 bonus points (JetBlue Plus Card) — no date — apply, terms apply
+- Lake Washington Dermatology — October skincare specials — October — limited-time savings
+- PointsYeah — October credit-card picks (125k+ miles) — no date — card roundup
+- NerdWallet — personal loan guide — no date — lender referral
+- Pinterest — birthday cake ideas digest — no date — no offer, marketing
+- Kohl's — Deal Days up to 50% off + Daily Deals — today — shop now
+
 ## 2026-10-05
 - Lyft — Week 3 rewards: win more Lyft Credits — no date — in-app rewards program
 - Macy's — Up to 50% off fall: women's/men's/kids' coats & sweaters (25–50%) — no date — no code
