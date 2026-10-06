@@ -9,9 +9,11 @@ pinned: true
 	- [ ] HDFC Credit card pay 
 - [ ] Doctor appointment for annual physical
 - [ ] Buy cap 
+- [ ] Dental insurance coverage
+- [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
 - [ ] H1B appointment
-	- [ ] Wait for Vialto reply
+	- [ ] Find appointment 
 	- [ ] Reimburse fees
 - [ ] Mira global entry 
 - [ ] 401k rollover
