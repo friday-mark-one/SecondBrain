@@ -30,3 +30,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-14 — AUTO: opening gap -3.3%; crossed below its 50d average. Headlines: Tech pulls back on AI concerns, cybersecurity takes a step up | Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck | New Fed Chair Warsh Vowed a Policy Overhaul to Crush Inflation When He Took Office. Has He Followed Through?
 - 2026-09-16 — AUTO: crossed above its 50d average. Headlines: Frontier AI developers must be 'liable for the things their products do': Autodesk CEO | Cisco Gains as Splunk Starts Tracking AI's Token Bill | Forget Nvidia's Chips: Hugging Face Is the Real Reason to Own This Stock Now
 - 2026-10-05 — AUTO: new 52-week high
+- 2026-10-06 — AUTO: new 52-week high
