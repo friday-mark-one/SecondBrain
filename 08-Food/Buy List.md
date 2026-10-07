@@ -4,6 +4,13 @@ Add non-recipe items here as the pantry runs low. Format: `- [ ] [[Item]] | amou
 Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`) removes
 checked items automatically; unchecked ones stay for next time.
 
+- [ ] [[Mustard]]
+- [ ] [[Sesame oil]]
+- [ ] [[Dry red chilli]]
+- [ ] [[Groundnut oil]]
+- [ ] [[Cascade complete dishwasher pods]]
+- [ ] [[Tide pods]]
+
 
 ## Regulars
 
