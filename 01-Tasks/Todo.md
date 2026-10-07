@@ -9,7 +9,6 @@ pinned: true
 	- [ ] HDFC Credit card pay 
 - [ ] Doctor appointment for annual physical
 - [ ] Buy cap 
-- [x] Dental insurance coverage
 - [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
 - [ ] H1B appointment
