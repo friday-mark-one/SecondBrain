@@ -1,5 +1,97 @@
 # News
 
+## 2026-10-07
+
+## Big Tech & Products
+
+- [Apple to launch doorbell, lock, thermostat developed with LG](https://links.tldrnewsletter.com/OQDn3n) — Apple plans to launch several devices built with LG as part of an ecosystem around its new smart home hub, including a doorbell, thermostat, an upgraded HomePod mini, and a fresh TV set-top box. The products, set to launch October 13, will carry the LG brand and mostly support Wi-Fi, Bluetooth, Thread, and Matter. (TLDR)
+
+- [Claude now works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides?utm_source=tldrai) — Claude now integrates with Google Docs, Sheets, and Slides for all paid plans, allowing direct editing within files. (TLDR AI)
+
+- [A $12B DeepSeek raise is reportedly close, with Tencent and CATL among backers](https://yellow.com/news/deepseek-12b-raise-close-tencent-catl?utm_source=tldrai) — DeepSeek is nearing a $12 billion raise, surpassing its initial 50 billion yuan target, with Tencent and CATL as major contributors. The company is also preparing for a potential Shanghai STAR Market IPO, employing CITIC Securities for assistance. (TLDR AI)
+
+- [In race with US, China struggles to recruit foreign AI researchers](https://links.tldrnewsletter.com/AKQUVH) — China has made recruiting the world's best scientists a national priority, introducing a visa for scientists and offering lucrative research grants, yet foreigners are not coming. The number of Chinese scientists working in the US has risen rather than declined. (TLDR AI)
+
+## AI Models & Research
+
+- [Introducing Mistral Large 4](https://mistral.ai/news/mistral-large-4/?utm_source=tldrai) — Mistral Large 4 is a one-trillion-parameter multimodal model (49 billion active parameters) positioned as a European alternative to leading closed and open AI systems. In public preview with support for 160+ languages, open weights are planned for later this month. (TLDR AI, TLDR Dev)
+
+- [Nano Banana 2.1](https://deepmind.google/models/model-cards/nano-banana-2-1/?utm_source=tldrai) — Nano Banana 2.1 is a member of the Gemini 3 series that takes text and image inputs and outputs images and text. Based on Gemini 3.6 Flash with a context window up to 1 million tokens, it's available in the Gemini app and API, Google AI Studio, Search AI Mode, Ads, Flow, and Stitch. (TLDR AI)
+
+- [EmbeddingGemma 2](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/?utm_source=tldrai) — EmbeddingGemma 2 is a 740M-parameter model that maps text, code, images, audio, and video into a shared embedding space. Built for on-device inference under Apache 2.0, it enables multimodal search and retrieval without sending data to the cloud. (TLDR AI)
+
+- [Decisions API is now available in public beta](https://developers.openai.com/api/docs/guides/decisions) — OpenAI's Decisions API is now in public beta, making decisions up to 10 times faster than GPT-6 Luna through the Responses API. It accepts text and image inputs and returns typed predicates, choices, or rubric scores for classification, routing, and prioritization, at $0.10 per 1M input tokens with no cache-read, cache-write, or output-token charges. (TLDR AI, TLDR Dev, TLDR)
+
+- [Introducing Personal Agent Protocol](https://sierra.ai/blog/introducing-personal-agent-protocol?utm_source=tldrai) — The Personal Agent Protocol is an open standard Meta, Sierra, and other industry partners are developing to handle authentication, empower consumers, and give companies visibility into what personal agents do through their websites, APIs, or company agents. Consumers decide what access to give their agents; companies set parameters; anyone can implement it. (TLDR AI)
+
+- [OpenAI releases findings on 377 math problems, further roiling field](https://links.tldrnewsletter.com/U1BSlR) — OpenAI released hundreds of new findings across algebra, number theory, theoretical computer science, logic, and topology, solved by an internal model that has not been released publicly. It published results in a GitHub repo along with revision and citation protocols, with many proofs formalized in Lean; debate continues over whether the system reasoned creatively or finished proofs borrowing human ideas. (TLDR, TLDR AI, TLDR Dev)
+
+- [The cyber risk discourse is broken](https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken?utm_source=tldrai) — Open-weight models potentially pose an untenable risk to society, and Chinese companies continue to release open-weight models with strong cyber capabilities. GLM-5.3 crosses a capability threshold, but there is little public evidence much has changed; after years of debating open-weight risks, real answers may finally start arriving. (TLDR AI)
+
+- [US-China AI gap hits 3%, and DeepSeek V4.1 Flash now leads on agentic coding benchmarks](https://www.techtimes.com/articles/328620/20261006/us-china-ai-gap-hits-3-deepseek-v41-flash-now-leads-agentic-coding-benchmarks.htm?utm_source=tldrai) — The US-China AI gap has narrowed to 3%, and DeepSeek V4.1 Flash, a Chinese model, now leads in agentic coding benchmarks, surpassing US competitors. (TLDR AI)
+
+- [Anthropic expands verified access to cyber capabilities](https://www.anthropic.com/news/cyber-verification-program?utm_source=tldrai) — Anthropic expanded its Cyber Verification Program into three access tiers for qualifying security professionals, providing its most capable models with reduced cyber blocking. (TLDR AI)
+
+- [Hark debuts an AI agent a year before its first devices](https://thenextweb.com/news/hark-pro-agent-hardware-europe?utm_source=tldrai) — Hark has released an AI agent that buys groceries, books cars, and pays bills — a year before its first hardware devices. (TLDR AI)
+
+- [AICR v1.0: open, stable, and verifiable GPU cluster configuration](https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration?utm_source=tldrai) — NVIDIA's AI Cluster Runtime (AICR) v1.0 offers version-locked, validated recipes for stable GPU-accelerated Kubernetes cluster configurations. (TLDR AI)
+
+- [Building the most diverse UMI dataset in robotics](https://pantheon.inc/research/diverse-umi?utm_source=tldrai) — Pantheon rapidly assembled a UMI data-collection operation, drastically cutting costs from $60/hr to $10/hr while ensuring diversity. Combining freeform and scripted methodologies, it accumulated over a million unique tasks to improve dexterous manipulation in robotics. (TLDR AI)
+
+- [The decision model gold rush](https://swapniltalekar.substack.com/p/the-decision-model-gold-rush?utm_source=tldrnewsletter) — Decision models return a choice, a score, or a yes/no with a confidence number. Within a day of launch, TypeSafe's Jev decision model was wired into 13% of Vercel's paid AI Gateway customer workflows, and within three days Cloudflare, LangChain, and Langfuse shipped integrations; it took competitors about two weeks to show up. (TLDR)
+
+## Engineering & Development
+
+- [How we made registry metadata 70% smaller](https://www.vlt.io/blog/registry-metadata-70-percent-smaller?utm_source=tldrdev) — vlt.io reduces npm registry metadata transfers by serving install-focused packuments that keep fields package managers need while dropping large signatures and checksums that do not affect installation. Across four clean-install fixtures, metadata fell from 25-45% of downloaded bytes on npmjs.org to 5-15% on vlt.io, with install times improving 20-70%. (TLDR Dev)
+
+- [Beyond synthetic testing: capturing and replaying real database workloads at Airbnb](https://airbnb.tech/infrastructure/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb/?utm_source=tldrdev) — Airbnb captures MySQL traffic at ProxySQL, rebuilds transaction order offline, and replays production workloads for load testing, migration checks, and performance debugging. The system exposed regressions such as a query rising from 0.03 to 2.6 seconds and helped move the fleet from MySQL 5.7 to 8.0 without a major production incident. (TLDR Dev)
+
+- [The agent said it was done. The database disagreed](https://huggingface.co/blog/microsoft/thinkingbox?utm_source=tldrdev) — ThinkingBox evaluates agents by the backend state and side effects they leave behind across 507 workflows repeated 20 times. Among 79,853 failed runs, 67% ended without a tool error, showing why terminal state and repeatability matter more than a confident final response. (TLDR Dev)
+
+- [The grand unifying architecture of frontend](https://dev.to/playfulprogramming/the-grand-unifying-architecture-of-frontend-bhk?utm_source=tldrdev) — Frontend architectures can be understood as three layers: navigation, server-owned content, and client-owned affordances such as optimistic state. The model maps HTMX, LiveView, Astro, React Server Components, SPAs, and sync engines onto the same model, with differences in transport, lifetime, and how much code reaches the client. (TLDR Dev)
+
+- [The smartest Claude Code feature is not for its users](https://www.zohaib.cc/blog/smartest-claude-code-feature?utm_source=tldrdev) — Claude Code can predict a likely follow-up and place it in the prompt box for the user to accept or edit. The article speculates those interactions could provide valuable preference data, clearly presenting that interpretation as speculation. (TLDR Dev)
+
+- [How to read code](https://www.seangoedecke.com/how-to-read-code/?utm_source=tldrdev) — Code is easier to understand through several focused passes than a linear read from top to bottom. Trace one execution path or piece of data at a time, inspect call sites outside the diff, and save the final line-by-line review until the broader structure is clear. (TLDR Dev)
+
+- [Next.js 16.4](https://nextjs.org/blog/next-16-4?utm_source=tldrdev) — Next.js 16.4 enables Cache Components by default for new apps and adds static-render guarantees, finer prefetch controls, agent-assisted upgrades, React 19.3, and build and bundle improvements. (TLDR Dev)
+
+- [Size Limit](https://github.com/ai/size-limit?utm_source=tldrdev) — Size Limit measures JavaScript bundle size and execution cost, then fails CI when a configured performance budget is exceeded. Its plugins can bundle dependencies and estimate parse and execution time under throttled device conditions. (TLDR Dev)
+
+- [jevgrep](https://github.com/dzhng/jevgrep?utm_source=tldrdev) — jevgrep lets coding agents search a repository by describing what the code does, returning relevant files and source excerpts through a CLI. Its ten-task SWE-bench comparison completed the same eight tasks as the baseline at about 30% lower cost. (TLDR Dev)
+
+- [AI changed how Spotify builds: what we learned about quality at higher velocity](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity?utm_source=tldrdev) — Spotify found no material direct link between AI-authored code and reviewed production incidents, but merged changes more than doubled year over year as verification systems struggled to keep pace. Its response expands long-term quality signals and strengthens review, testing, rollout, observability, rollback, service tiering, and capacity. (TLDR Dev)
+
+- [The state of the tech industry in 2026](https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in?utm_source=tldrnewsletter) — Practically nobody writes code by hand anymore; assumptions about code output have broken, code reviews have become theatrical, and quality and reliability are down. Teams and planning are still important, and engineers will likely stop reading code altogether as companies build a new type of AI infrastructure. (TLDR)
+
+- [How to keep learning in the age of LLMs](https://ogzhanolguncu.com/blog/how-to-keep-learning-in-the-age-of-llms/?utm_source=tldrnewsletter) — We used to learn by doing something wrong first and then taking a lesson out of it, but LLMs make everything so fast we don't want to spend time doing the wrong things, even though it's more beneficial in the long run. Use AI to help you think through problems rather than just giving you the answer. (TLDR)
+
+- [LLMs may have immensely helped my RSI](https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html?utm_source=tldrdev) — Using coding agents shifted hours of symbol-heavy typing and debugging toward prompts, design documents, and code review, which may have reduced repetitive-strain symptoms. The account is personal and acknowledges other possible causes. (TLDR Dev)
+
+## Tools & Quick Links
+
+- [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/?utm_source=tldrnewsletter) — Codemode is a way for LLMs to express and orchestrate complex operations on the harness side, but not the execution environment side. (TLDR)
+
+- [A terminal protocol for program status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501?utm_source=tldrnewsletter) — OSC 7501 is a specification for a terminal escape sequence that lets any program tell the terminal whether it's idling, working, waiting on the user, finished, or failed, and why. (TLDR)
+
+- [An application in Lisp you grow by talking to it](https://ghuntley.com/lisp/?utm_source=tldrnewsletter) — Jiti is a small kernel for growing a running Lisp application through conversation with an LLM: users ask for a capability, the model writes Lisp, and the application permanently acquires it until the user asks for it to be removed. (TLDR)
+
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome?utm_source=tldrnewsletter) — JPEG XL offers 30% to 50% better compression than JPEG, lossless compression, built-in HDR support, lossless JPEG transcoding, and more. (TLDR)
+
+- [The keys to the internet change on October 11. Are you ready?](https://blog.cloudflare.com/root-ksk-2024-rollover/?utm_source=tldrnewsletter) — The DNS root is scheduled to change its key-signing key for the second time ever on October 11. (TLDR)
+
+## Industry & Career
+
+- [State of Devs 2026](https://2026.stateofdevs.com/en-US/?utm_source=tldrdev) — A survey of 5,463 developers explores career insecurity, burnout, workplace conditions, health, and polarized attitudes toward AI. (TLDR Dev)
+
+- [Stack Overflow Developer Survey 2026](https://survey.stackoverflow.co/2026?utm_source=tldrnewsletter) — The Stack Overflow Developer Survey 2026 asked developers and technologists about everything from how they're using AI to how happy they are at work to where they're learning new skills. (TLDR)
+
+## Science & Defense
+
+- [Anduril's big week: Arsenal-2, NGC2, and a $6.6B bet on the future of American shipbuilding](https://www.tectonicdefense.com/andurils-big-week-arsenal-2-ngc2-and-a-6-6b-bet-on-the-future-of-american-shipbuilding/?utm_source=tldrnewsletter) — Anduril won a contract worth up to $1.8 billion over five years to scale Lattice across the Army's Next-Generation Command and Control effort, and plans to build the second of its Arsenal mega-factories in Baltimore. The shipbuilding-focused facility will span over 2 million square feet, be backed by $6.6 billion in private investment and up to $2.9 billion via a Navy submarine-production contract, and begin operations in 2030. (TLDR)
+
+- [A new trend in nuclear energy: squeezing more power out of old plants](https://links.tldrnewsletter.com/AishXl) — Because new nuclear plants take a long time to build, some companies are upgrading older reactors instead. Upgrades can cost billions and need regulator approval but often finish in five years or less at a fraction of new-build cost; tech giants eager to power AI could add an estimated 6,000 to 8,000 megawatts to US grids. (TLDR)
+
 ## 2026-10-06
 
 ## Big Tech & Products
