@@ -1,5 +1,38 @@
 # Deals
 
+## 2026-10-07
+- Educative — Premium Plus discount, unlimited 275+ AWS Cloud Labs — no date — limited-time Prime-season discount; personalized offer via email link
+- J.P. Morgan Wealth Management (via Chase) — investing bonus offer up to $1,000 — no date — start investing to qualify; see email
+- Genesis of Milford — free used-vehicle trade-in valuation — no date — limited-time; submit trade eval online
+- Pandora — savings on new Pandora Minis — no date — limited-time; shop via email link
+- Going — roundtrip Hawaii $301 (price drop) — no date — saved-destination flight alert
+- Lumosity — 35% off Premium subscription — no date — code NEWSLETTER-35-26
+- Cinemark — Pan's Labyrinth 20th Anniversary screenings — no date — Movie Fan member perk (29 pts)
+- PointsYeah (Points Insider) — up to 50% off Amazon via Amex points, plus 40% off Southwest flights — no date — check targeted Amex offer
+- Going — roundtrip New Orleans $215 (Oct-Feb) — no date — flight deal
+- NerdWallet — personal loan rates from 5.99% APR — no date — compare personalized offers
+- Groupon — FEELartistic 90-min pottery for 1-2, up to 41% off — expires 2026-12-22 — online redemption; non-primetime weekdays only
+- Fabletics — savings on your saved items — no date — limited-time; shop via email link
+- Chase Sapphire Preferred — 0% APR on balance transfers — no date — targeted card offer
+- NerdWallet — high-yield savings up to 4.10% APY — no date — compare online savings accounts
+- Weee! — fresh produce deals — no date — grocery delivery
+- Target Circle — Deal Days (weekly top deals) — no date — Circle offers on top categories
+- Sephora at Kohl's — 2X points for Beauty Insiders + luxe bath & body gifts — no date — sign up / shop
+- Etsy — Whimsigoth style picks — no date — gifts/deals/new arrivals
+- Autopilot — Michael's Flagship Fund rebalanced (exited DRAM, BRK.B, AEP) — no date — upgrade to mirror new trades
+- UNiDAYS — Fall beauty savings + SharkNinja deals — no date — student deals
+- H&M — new season style & support picks — no date — shop via email link
+- Weee! — fresh fruit deals — no date — grocery delivery
+- Huel — Prime deals on select Huel favorites (via Amazon) — no date — Prime Day promo
+- Going — roundtrip Tokyo $845 (Dec) — no date — flight deal
+- Linux Foundation Education — up to 75% off training/certs (2 days) + 40% off instructor-led — no date — Prime Savings, ends soon
+- Going — Western US to Hawaii $281-$482 roundtrip (Oct-Mar) — no date — flight deal
+- Sweat Circuit — 'Back to the Basics' 4-week strength phase — starts 2026-10-12 — through 11/8; new 10-min stations format
+- The Leela Palaces, Hotels and Resorts — October 2026 offers (five MICHELIN Keys) — no date — luxury hotel promo
+- JetBlue — fall flights & vacation packages (e.g. JFK→RDU + 2 nights) — no date — terms apply
+- Capital One — upgrade authorized user (Mira) to Account Manager — no date — account feature
+- Kohl's — Deal Days (new deals daily + Kohl's Cash) — no date — coupon eligibility details apply
+
 ## 2026-10-06
 - Pinterest — trending-search email (Navratri video ideas) — no date — no offer, marketing
 - DoorDash — 20% off Costco order (link membership) — no date — via DoorDash app
