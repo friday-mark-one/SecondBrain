@@ -1,5 +1,63 @@
 # Deals
 
+## 2026-10-08
+- Tata Capital Wealth — wealth manager consultation (solicitation) — no date — informational; no offer
+- MOD Pizza — MOD Rewards redemption reminder (45 pts; 13 expiring) — expires 2026-11-07 — redeem points before expiry
+- Pinterest — recommended searches (Couple Shoot, Wedding Stage) — no date — no offer, marketing
+- Too Good To Go — Surprise Bags (bakery, groceries, meals) — no date — app promo; save food, reduce waste
+- Macy's — flash sale up to 70% off men's coats — today only — Cole Haan, KARL LAGERFELD, Alfani
+- evo — 25th Anniversary Sale, limited-time deals (ski/snowboard) — 2026-10-08 to 2026-10-22 — anniversary sale; 15% off via SMS signup
+- Cinemark Movie Rewards — monthly recap; 29 points — no date — loyalty points; redeem rewards
+- Michaels — Halloween deals (up to 50% off) — no date — Halloween promo
+- Macy's — flash sale up to 60% off men's fall activewear — today only — Nike, adidas, Champion
+- Going — roundtrip Bellingham→Honolulu $535 (was $1,015) — price lasts 1-2 days — flight deal, Jan-Feb 2027
+- J.Crew Factory — 20% off next order (winback) — no date — code via email
+- HomeGoods — everyday savings ('no promo codes') — no date — marketing/informational
+- point.me — award deals: 36K biz to France/Rome, 24K premium econ + 25% buy-points bonus — no date — award travel
+- Pinterest — trending searches (Loafers Men Outfit) — no date — no offer, marketing
+- DoorDash — spontaneous ordering promo — no date — informational; no offer
+- Aroma Restaurant (Bothell) — 20% off $40+ — no date — order via link
+- MOD Pizza — educators offer / Winter Reading Rewards — no date — promo
+- Etsy — staff picks & shopping lists — no date — informational; no offer
+- Fabletics — membership promo — no date — informational; no offer
+- Fandango — tickets for Clayface — no date — movie tickets, informational
+- PointsYeah — premium/business award deals from 10.5k pts (BOS→LHR etc.) + Alaska 100% buy-points bonus — no date — award travel
+- Macy's — flash sale fall activewear up to 60% off + 2x points — today only — Nike, adidas, Champion, The North Face
+- Life Time — weekly wellness guide — no date — informational; no offer
+- Nordstrom Rack — up to 50% off new arrivals — no date — sale
+- Edmunds — car reviews/newsletter — no date — informational; no offer
+- Going — Going Places newsletter (Slovenia) — no date — informational; no offer
+- H&M — The Night Out Edit — no date — new arrivals, marketing
+- Nordy Club — earn 10 points per dollar on beauty — no date — loyalty
+- Pinterest — trending searches (Dandiya Outfit Men) — no date — no offer, marketing
+- Macy's — flash sale up to 70% off coats for all — today only — women/men/kids
+- Bath & Body Works — prime-time savings (final day) — ends today — sitewide sale
+- Michaels — Halloween up to 50% off — no date — Halloween promo
+- J.Crew Factory — 50% off all stores & sitewide, no exclusions — no date — sale
+- Kohl's — Deal Days + daily deals + free shipping; $10 off $50+ home (rewards) — no date — sale
+- Bellevue Badminton Club — Racket Rumble (Nov 21-22); Session 2 reg opens 2026-10-12 — starts 2026-10-12 — registration info
+- Macy's — flash sale jewelry & watches up to 70% off (50-55% diamonds) — today only — sale
+- HomeGoods — new finds — no date — marketing/informational
+- Michaels — deals on finds you'll love — no date — promo
+- Nordstrom — new exclusives from Vince — no date — new arrivals
+- Sephora at Kohl's — 2X Beauty Insider points — no date — loyalty; luxe bath & body gifts
+- Macy's — Cashmere Event, from $79.99 — ends 2026-10-12 — sale
+- Nordstrom Rack — great gifts, Rack prices — no date — sale
+- Macy's — flash sale jewelry & watches up to 70% off — today only — sale
+- Michaels — Halloween supplies (up to 50% off) — no date — Halloween promo
+- Kohl's — Deal Days alert + Kohl's Cash — no date — sale
+- Macy's — member exclusive 50% off kitchen, bedding & more — expired 2026-10-05 — flash-sale email
+- Macy's — exclusive 20% off Dyson — no date — hair tools, Plum Copper
+- Michaels — Thanksgiving/hosting promo — no date — sale
+- Chipotle — free queso reward — no date — rewards offer
+- Nordstrom Rack — fall shoes up to 50% off — no date — UGG, Vince
+- Macy's — exclusive 50% off home finds — expired 2026-10-05 — flash-sale email
+- Kohl's — CEO note + exclusive gift — no date — informational; no offer
+- Sephora — app early access (Glossier, LANEIGE) — no date — new arrivals, sale
+- Michaels — new Caron Cakes styles — no date — new arrivals
+- Macy's — $20 off $100 (app only) — expired 2026-10-05 — flash-sale email
+- Kohl's — Deal Days up to 50% off + daily deals — no date — sale
+
 ## 2026-10-07
 - Educative — Premium Plus discount, unlimited 275+ AWS Cloud Labs — no date — limited-time Prime-season discount; personalized offer via email link
 - J.P. Morgan Wealth Management (via Chase) — investing bonus offer up to $1,000 — no date — start investing to qualify; see email

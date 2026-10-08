@@ -12,7 +12,6 @@ pinned: true
 - [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
 - [ ] H1B appointment
-	- [ ] Find appointment 
 	- [ ] Reimburse fees
 - [ ] Mira global entry 
 - [ ] 401k rollover
