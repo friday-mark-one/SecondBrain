@@ -1,5 +1,93 @@
 # News
 
+## 2026-10-08
+
+## AI Models & Research
+
+- [Introducing Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) — Anthropic's latest fast, low-cost model, built for high-volume, latency-sensitive work like summarization, classification, browser use, and subagent tasks. Priced at $0.10 per million input and $0.50 per million output tokens up to 100k tokens (5× above that), roughly 75% cheaper than Haiku 4.5; under 100k tokens it matches GPT-6 Luna's price with higher benchmark scores, though Luna wins above 100k. Available on Anthropic's platform, AWS, Google Cloud, and Azure. (TLDR AI, TLDR Dev, TLDR)
+
+- [GPT-6 and Intelligent UI for everyone](https://links.tldrnewsletter.com/jzR1OT) — GPT-6 is rolling out in ChatGPT with Intelligent UI to 1.2 billion users, combining text, graphics, forms, charts, and interactive tools in one response. Paid tiers use GPT-6 Sol, Free and Go use GPT-6 Luna, and it can start responding while it continues reasoning or searching. Adds enhanced safety with better risk recognition and safeguards. (TLDR AI, TLDR Dev)
+
+- [Grok Bot will use Claude Opus 5.5, Midjourney, and Suno, says Musk](https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk) — Elon Musk's Grok Bot will integrate Anthropic's Claude Opus 5.5, Midjourney, and Suno, expanding beyond SpaceX's own AI models. The update follows reports of access issues with Grok on mobile and web, and comes as Grok Bot competes with personal agents like Meta's Muse despite privacy concerns. (TLDR AI)
+
+- [Multimodal embeddings beyond a single vector](https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector) — Perplexity launched PPLX-E…LATE, multi-vector, multimodal embeddings that enable richer retrieval across text and images. They retain token-level vectors in a shared embedding space, improving retrieval on benchmarks like ViDoRe(V3). Available in 0.6B and 9B sizes with industry-leading performance across retrieval tasks. (TLDR AI)
+
+- [Open D1: edge decision models for text, vision, and audio](https://www.liquid.ai/blog/d1-open) — Liquid AI released two new open-weight decision models, d1-3B and d1-OMNI-600M, available on Hugging Face. (TLDR AI)
+
+- [Introducing OpenDocRouter: every document model under one API](https://www.llamaindex.ai/blog/introducing-opendocrouter) — A platform for document-to-Markdown parsing using the latest open-source and frontier models, where each model runs a versioned recipe of prompts, processing, and settings. The API accepts PDFs, PNG, JPEG, or URLs to those formats, with synchronous or asynchronous (polling) responses. (TLDR AI)
+
+- [MAI-Code-1.1-Flash: better, faster, at a quarter of the cost](https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/) — Microsoft released MAI-Code-1.1-Flash, an AI coding model that's faster and costs a quarter of previous iterations. (TLDR AI)
+
+- [Humanity's sixth sense: benchmarking intuitive visual reasoning](https://labs.scale.com/papers/humanitys-sixth-sense) — A benchmark for evaluating intuitive visual reasoning capabilities in multimodal models. (TLDR AI)
+
+- [Anthropic's corporate structure](https://www.lesswrong.com/posts/Hb5aCFtLuHc5uvAgX/anthropic-s-corporate-structure) — Anthropic isn't very transparent about who controls and governs it, which matters as its models grow more capable. The article reviews what is publicly known about its corporate structure, focusing on control of the business rather than pure economics. (TLDR AI)
+
+- [Fired OpenAI researchers ask company to preserve visibility into AI reasoning](https://links.tldrnewsletter.com/6X0FXh) — The fired employees say they are concerned that AI companies could lose the ability to monitor AI systems' chain-of-thought. (TLDR AI)
+
+## Big Tech & Products
+
+- [The mathpocalypse](https://scottaaronson.blog/?p=10169) — OpenAI recently released 372 breakthrough results in mathematics, but no human has understood any of the proofs yet. Experts say the papers are so poorly written they're impossible to read without AI help, and the citations are often irrelevant and confusing. (TLDR)
+
+- [Oracle, Broadcom, and SpaceX seek blockbuster debt deals to pay for AI chips](https://links.tldrnewsletter.com/j9brHp) — Broadcom is arranging more than $50 billion in financing for OpenAI's custom AI chip, with Apollo and Blackstone among potential lenders. Oracle is in talks with Apollo and Goldman Sachs for a big chip purchase, and SpaceX has discussed a $40 billion chip financing for Nvidia chips. (TLDR AI)
+
+- [NVIDIA and Microsoft kick off a new beginning for Windows PCs with RTX Spark and AI agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/) — The two announced a collaboration to integrate AI agents into Windows PCs, leveraging RTX Spark and Microsoft's new Execution Containers for securely running agents. (TLDR AI)
+
+- [Google expands SynthID Detector globally](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/) — Google expanded SynthID Detector globally, letting anyone check images, video, or audio for watermarks from Google and partners including OpenAI and NVIDIA. (TLDR AI)
+
+- [Introducing Playground: create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) — Google Playground is an experimental AI gaming platform for creating custom games. (TLDR AI)
+
+- ["Software is over": bold AI developer takes aim at Adobe with open-source clones](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/) — Artcraft released a suite of open-source apps recreating the UI and tools of Adobe Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign, and Acrobat Pro, built with Claude Opus 5.5. Still "super early alpha," but the developer claims it could reach 99% feature parity within months. (TLDR)
+
+- [Asha Sharma reportedly informs staff that Xbox has "started to return to growth"](https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall) — Xbox has returned to growth in its first-party segment and stabilized user engagement after earlier declines this year. (TLDR)
+
+- [Apple's verified photography system](https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html) — Apple's "Reference Image" system can verify that an image was taken by an iPhone without tying the image to a specific iPhone or photographer. (TLDR)
+
+## Science & Futuristic Technology
+
+- [Zuckerberg's Biohub partners with DOE, NIH to invest $1.8B in biological data for AI models](https://links.tldrnewsletter.com/AvzMzJ) — Biohub, co-founded by Mark Zuckerberg, is working with the DOE, NIH, and other funders to invest $1.8 billion in AI-ready biological data. The DOE will invest more than $500M over five years in lab measurement, modeling, and computation; the NIH will coordinate datasets and knowledge bases; Biohub will help standardize them for model training. (TLDR)
+
+- [In Vienna and Beijing, the first nuclear clocks begin to tick](https://links.tldrnewsletter.com/08ykNi) — Two independent teams simultaneously built the first clocks that keep time by counting the squishing and unsquishing of thorium atomic nuclei, precise to about one second per few million years. Nuclear clocks could help search for certain kinds of dark matter, which would register as a wobble in the otherwise steady tick. (TLDR)
+
+- [Starlink's plan to avoid orbital near-misses: ephemeris sharing](https://www.theregister.com/offbeat/2026/10/07/starlinks-plan-to-avoid-orbital-near-misses-ephemeris-sharing/5301650) — SpaceX has called for other satellite operators to share their satellites' ephemeris data to facilitate timely avoidance maneuvers. (TLDR)
+
+- [Tony Fadell on why the first wave of AI gadgets failed — and what comes next](https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/) — Fadell cites early AI gadgets like the Rabbit R1 failing to address real consumer needs or earn trust, and Meta's Muse facing security issues. He argues successful AI assistants must run on-device for privacy, leaving Apple well-positioned thanks to its hardware and consumer trust despite lacking a proprietary AI model. (TLDR AI)
+
+- [Notes on AI & popular politics](https://jasmi.news/p/ai-polls) — People are mostly sanguine about the AI present and fearful about the AI future, while national policymakers are committed to a US-China race the public has no interest in. (TLDR)
+
+- [When hypotheses become cheap](https://ciphertalk.substack.com/p/when-hypotheses-become-cheap) — Cheaper intelligence raises the value of evidence. (TLDR)
+
+## Engineering & Development
+
+- [A Hitchhiker's Guide to Postgres text search](https://builders.cortex.io/blog/a-hitchhikers-guide-to-postgres-text-search/) — Cortex replaced a Lucene-based search architecture with PostgreSQL full-text search, a custom query parser, weighted ranking, and CDC-fed indexes. The change cut public API p95 latency from 13.3 seconds to 1.54 seconds, reduced total memory use by ~40%, and made most edits searchable within seconds. (TLDR Dev)
+
+- [A token is not a message: stop storing AI responses like event logs](https://ably.com/blog/store-streamed-ai-responses) — Streaming tokens as event logs forces refreshed or late-joining clients to rebuild partial responses, while rewriting one record per token overloads the database. It compares four storage patterns and argues message appends can return the full response so far, continue live delivery, and save only the completed message. (TLDR Dev)
+
+- [Anti-patterns in software blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/) — Software blogs lose readers when they meander, assume too much background knowledge, or outsource key explanations to links. The guide recommends stating the payoff in the title and opening sentences, writing for a specific reader, dropping formality, keeping links optional, and testing mobile view and low-contrast text. (TLDR Dev, TLDR)
+
+- [JPEG XL finally lands in Chrome!](https://tonisagrista.com/blog/2026/chrome-jpegxl/) — Chrome 155 will ship a memory-safe JPEG XL decoder built in Rust, reversing the browser's earlier decision to remove support. Chrome's reach could make the format mainstream, especially for high-fidelity photography, lossless compression, progressive decoding, and lossless JPEG transcoding. (TLDR Dev)
+
+- [Reasons to dislike AI coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/) — The essay examines five objections to AI coding: code as art, job displacement, dehumanizing work, rule-based views of software engineering, and support for powerful AI companies. It argues several critiques rest on debatable assumptions about what software work is for, locating the strongest human concern in labor relations and control of production. (TLDR Dev)
+
+- [Docker Agent (GitHub repo)](https://github.com/docker/docker-agent) — A CLI plugin for defining and running AI agents from declarative YAML, supporting multi-agent orchestration, MCP and built-in tools, multiple model providers, retrieval, and packaging agents to OCI registries. (TLDR Dev)
+
+- [I gave Grok Bot a remote computer](https://upstash.com/blog/i-gave-grok-bot-a-remote-computer) — A remote Upstash Box gives Grok Bot a shell, persistent filesystem, GitHub integration, public previews, schedules, snapshots, and optional browser automation via MCP. Examples show it building a live app, cloning and fixing repositories, and turning a Slack report into a Linear ticket and pull request from a phone. (TLDR Dev)
+
+- [Input type="password" maxlength="20" prevents me from logging into Vanguard](https://tanin.nanakorn.com/input-type-password-maxlength-20-is-considered-harmful-and-why-i-couldnt-login-into-vanguard/) — Vanguard's password reset form silently truncated pasted passwords at 20 characters, while its login form accepted the full value and rejected it as incorrect. The incident shows why password length limits should be validated visibly in JavaScript or server-side instead of an HTML maxlength attribute that silently changes the submitted credential. (TLDR Dev)
+
+- [We moved off Firestore. The slow page stayed slow](https://techhub.iodigital.com/articles/migrating-from-firestore-to-firebase-sql-connect) — A Firestore-to-SQL migration only got faster after the read model moved aggregation to the server, cutting a ten-year view from 56 seconds to 3.7 seconds and shrinking the shared search payload from 18.27 MB to 1.63 MB. (TLDR Dev)
+
+- [A visual notation for React's parent and owner trees](https://julesblom.com/writing/react-visual-notation) — This visual notation distinguishes React's parent and owner trees so component structure and creation relationships can be read as diagrams instead of inferred from scattered code. (TLDR Dev)
+
+- [Size Limit (GitHub repo)](https://github.com/ai/size-limit) — Enforces JavaScript performance budgets in CI, including bundle size, dependency cost, and estimated download and execution time. (TLDR Dev)
+
+- [REA (GitHub repo)](https://github.com/morluto/rea) — Connects coding agents to local tools for reverse engineering websites, JavaScript and Electron apps, .NET assemblies, and native binaries. (TLDR Dev)
+
+- [The agentic development loop](https://haydenbleasel.com/writing/ultracite) — Agentic development changes the ideal linter because automated checks run on nearly every coding turn and agents can act on rules humans might find too noisy. Ultracite pairs fast tools such as Oxlint and Oxfmt with strict rules and agent instructions, keeping judgment-heavy questions for review. (TLDR Dev)
+
+- [Influence without authority](https://www.gabrielvaldivia.com/notes/influence-without-authority) — Super ICs gain influence by repeatedly doing the unglamorous things: making the work better, the story clearer, and it easier for others to succeed. Authority is a natural side effect of being the person others rely on. (TLDR)
+
+- [A change in AI strategy](https://tomtunguz.com/what-if-the-models-are-commoditized) — AI labs need to partner and resell models, control the UI where distribution becomes the moat, and capture routing data to reduce the cost of training future models. (TLDR)
+
 ## 2026-10-07
 
 ## Big Tech & Products
