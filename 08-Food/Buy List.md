@@ -10,6 +10,8 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Groundnut oil]]
 - [ ] [[Cascade complete dishwasher pods]]
 - [ ] [[Tide pods]]
+- [ ] [[Roasted edamame]]
+- [ ] [[Snap peas]]
 
 
 ## Regulars
