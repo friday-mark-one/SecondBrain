@@ -1,5 +1,39 @@
 # News
 
+## 2026-10-09
+
+## Articles & Tutorials
+
+- [How ChatGPT intelligent UI works](https://www.openui.com/blog/how-chatgpt-intelligent-ui-works?utm_source=tldrdev) — A reverse-engineering tour traces ChatGPT's interactive responses from a model-written DIL format through server-side compilation, sandboxed client execution, and native rendering. It also explains how streaming recompiles partial output, preserves keyed state, and sends server-resolved data such as images separately from model text.  (TLDR Dev)
+- [We built our own cloud agents runtime. Here's what we learned](https://posthog.com/blog/cloud-agents-runtime?utm_source=tldrdev) — PostHog describes the shared runtime behind its Desktop, Slack, self-driving, and web agents, built around Temporal workflows, VM sandboxes, snapshots, fresh credentials, and resumable run logs. The hard-won lessons cover queued follow-ups, deterministic network controls, Docker-capable custom images, and designing every run to survive the loss of its sandbox.  (TLDR Dev)
+- [Chrome Decisions API: the prompts, limits, engines and code reviews behind DecisionModel](https://dejan.ai/blog/chrome-decisions-api-decisionmodel/?utm_source=tldrdev) — An investigation of Chrome's experimental Decisions API compares the explainer with implementation code and review comments. It surfaces slow Gemma 4 timings, position bias, context limits, probability semantics, and differences between Chrome's prototype and MediaPipe's DecisionMaker.  (TLDR Dev)
+
+## Opinions & Advice
+
+- [When code is cheap, judgement becomes the job](https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job?utm_source=tldrdev) — As AI makes code production cheap, the scarce work shifts to choosing priorities, reviewing product behavior, maintaining architecture, and owning outcomes in production. Senior engineers create leverage by turning repeated review feedback into guidance and deterministic lint rules while keeping human judgment for business context.  (TLDR Dev)
+- [Don't merge what you didn't run: a test gate for agent-written code](https://withruntime.com/blog/test-gate-for-agent-written-code?utm_source=tldrdev) — A practical test gate checks agent-written changes on a clean machine before review by reinstalling from scratch, running the full suite three times, rejecting removed or skipped tests, and restoring the base branch's tests against the new code. Running the same gate inside the agent loop turns failures into immediate repair instructions while an independent CI run keeps the verdict outside the agent's control.  (TLDR Dev)
+
+## Launches & Tools
+
+- [Plannotator](https://github.com/backnotprop/plannotator?utm_source=tldrdev) — Plannotator provides a local browser-based review surface for plans, Markdown, HTML artifacts, diffs, and pull requests produced by coding agents. Hooks and commands route annotations back to agents, with support for multiple agent harnesses and local-first storage by default.  (TLDR Dev)
+- [Treg](https://github.com/superdesigndev/treg?utm_source=tldrdev) — Treg acts as an OpenRouter for agent tools, giving agents one base URL and token for a catalog of metered provider endpoints plus team-owned APIs, CLIs, and skills. It can inject credentials server-side, expose tools through MCP and agent skills, and let teams share capabilities without placing provider keys in callers.  (TLDR Dev)
+
+## Security & Bugs
+
+- [A single post freezes any Next.js server](https://simonkoeck.com/writeups/react-rsc-formdata-event-loop-dos?utm_source=tldrdev) — A React Server Components flaw let an attacker force quadratic work while React rebuilt FormData for a server action, allowing a roughly 900 KB request to trigger 100 million string checks and block a Node.js event loop. The issue affects vulnerable React 19.0 to 19.2 releases and is fixed in 19.0.6, 19.1.7, and 19.2.6.  (TLDR Dev)
+- [The bug only my screen could see](https://raminmousavi.dev/blog/the-bug-only-my-screen-could-see?utm_source=tldrdev) — A display-only flicker that browser captures could not reproduce was traced to full-width tile repaints, then reduced from 267 page-tile repaints to 9 by promoting only the changing timeline elements to their own composited layers.  (TLDR Dev)
+
+## Engineering Culture
+
+- [Your skills need an evaluation mechanism](https://expo.dev/blog/your-skills-need-an-evaluation-mechanism?utm_source=tldrdev) — Expo built a CI evaluation harness that measures whether coding agents discover relevant skills, follow their guidance, and produce working apps. Adding an overview skill raised sessions loading at least one downstream Expo skill from 9% to 55%, while catalog crowding tests showed why names and opening descriptions must survive truncation.  (TLDR Dev)
+- [The slow formation of durable software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/?utm_source=tldrdev) — The origin story of Zotero shows how years of conversation, prototypes, and collaboration helped a team of historians discover what durable research software should become. Its path from Web Scrapbook and Scribe to a browser-aware tool used by millions argues that clear product vision can require slow communal formation, even when implementation itself becomes cheap.  (TLDR Dev)
+
+## Quick Links
+
+- [How much does it cost to use open source software?](https://opensource.googleblog.com/2026/10/how-much-does-it-cost-to-use-open-source-software.html?utm_source=tldrdev) — A Google study found most internal open source package updates take four hours or less, while local patches, dependencies, and upstream contributor counts better predicted difficult updates than package age or internal adoption.  (TLDR Dev)
+- [calc-input, a custom input element that accepts mathematical formulas](https://www.bram.us/2026/10/08/calc-input-a-custom-input-element-that-accepts-mathematical-formulas/?utm_source=tldrdev) — calc-input lets forms accept arithmetic expressions, shows formulas on focus and results on blur, and uses a safe parser plus native form validation instead of eval().  (TLDR Dev)
+- [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft?utm_source=tldrdev) — video-shotcraft turns coding agents into a Remotion-based motion studio with 157 shot recipes, 214 motion previews, editable templates, sound design guidance, and a browser workbench.  (TLDR Dev)
+
 ## 2026-10-08
 
 ## AI Models & Research
