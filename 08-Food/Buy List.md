@@ -13,6 +13,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Roasted edamame]]
 - [ ] [[Snap peas]]
 - [ ] [[Soya chunks]] (nutrella mini)
+- [ ] [[]]
 
 
 ## Regulars
