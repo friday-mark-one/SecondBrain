@@ -5,15 +5,13 @@ Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`)
 checked items automatically; unchecked ones stay for next time.
 
 - [ ] [[Mustard]]
-- [ ] [[Sesame oil]]
 - [ ] [[Dry red chilli]]
-- [ ] [[Groundnut oil]]
 - [ ] [[Cascade complete dishwasher pods]]
 - [ ] [[Tide pods]]
 - [ ] [[Roasted edamame]]
 - [ ] [[Snap peas]]
 - [ ] [[Soya chunks]] (nutrella mini)
-- [ ] [[]]
+- [ ] [[Hanger]]
 
 
 ## Regulars
@@ -25,4 +23,4 @@ Persistent menu — checked Regulars are unticked by the sweep, never removed.
 - [ ] [[Tofu]]
 - [ ] [[Seitan]]
 - [ ] [[Tempeh]]
-- [x] [[Bread]]
+- [ ] [[Bread]]
