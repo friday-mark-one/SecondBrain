@@ -1,51 +1,41 @@
-# Meal Plan — week of 2026-10-01
+# Meal Plan — week of 2026-10-09
 
-## Thu 10-01
-### Lunch
-- [[Beans poriyal]]
-- [[Curd Rice]]
-### Dinner
-- [[Tofu Burji]]
-
-## Fri 10-02
-### Lunch
-- [[Tofu Burji]]
-### Dinner
-- [[Paneer Butter Masala]]
-
-## Sat 10-03
-### Lunch
-- [[Rasam]]
-- [[Carrot poriyal]]
-### Dinner
-- [[Paneer Butter Masala]]
-
-## Sun 10-04
-### Lunch
-- [[Rasam]]
-- [[Carrot poriyal]]
-### Dinner
-- [[Sambar]]
-- [[Pongal]]
-
-## Mon 10-05
-### Lunch
-- [[Cabbage poriyal]]
-- [[Vathakuzhambu]]
-### Dinner
-- [[Pongal]]
-- [[Sambar]]
-
-## Tue 10-06
-### Lunch
-- [[Capsicum poriyal]]
-- [[Vathakuzhambu]]
-### Dinner
-Chipotle 
-
-## Wed 10-07
+## Sat 10-10
 ### Lunch
 - [[Morkuzhambu]]
-- [[Capsicum poriyal]]
+- [[Beans poriyal]]
+- [[Avocado Toast]]
 ### Dinner
-Chipotle
+
+## Sun 10-11
+### Lunch
+- [[Morkuzhambu]]
+- [[Beans poriyal]]
+### Dinner
+
+## Mon 10-12
+### Lunch
+- [[Palak Paneer]]
+### Dinner
+- [[Avocado Pasta]]
+
+## Tue 10-13
+### Lunch
+- [[Palak Paneer]]
+### Dinner
+
+## Wed 10-14
+### Lunch
+- [[Sambar]]
+- [[Potato poriyal]]
+### Dinner
+
+## Thu 10-15
+### Lunch
+- [[Sambar]]
+- [[Potato poriyal]]
+### Dinner
+
+## Fri 10-16
+### Lunch
+### Dinner
