@@ -29,4 +29,4 @@ pinned: true
 - [ ] 
 
 ## Whole Foods
-- [ ] Mira t shirts @2026-10-02
+- [ ] 

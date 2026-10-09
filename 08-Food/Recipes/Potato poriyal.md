@@ -1,0 +1,21 @@
+---
+type: recipe
+meal: [lunch, dinner]
+cuisine: South Indian
+protein_heavy: false
+fodmap_friendly: false
+---
+## Ingredients
+- [[Groundnut oil]] | 2 tsp
+- [[Mustard seeds]] | ½ tsp
+- [[Channa dal]] | 1 tsp
+- [[Asafotida]] | a pinch
+- [[Green chilli]] | or dry red chili, as per requirement
+- [[Potato]] | cut, of choice
+- [[Curry powder]] | as required
+
+## Directions
+1. Heat groundnut oil in a pan. Add mustard seeds, chana dal, asafoetida, and green or dry chili to temper; let the seeds splutter.
+2. Add the cut potato and sauté.
+3. Add some salt and cook till the vegetable is done.
+4. Add any required curry powder, mix well, and remove from heat.
