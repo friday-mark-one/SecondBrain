@@ -1,5 +1,43 @@
 # Deals
 
+## 2026-10-09
+- Fred Meyer — account payment method added (transactional) — no date — account notice; no offer
+- Pinterest — trending searches (Pixel Art, Dapper Men Outfits, Room Decor) — no date — no offer, marketing
+- Fred Meyer Boost — Boost benefits activated (free delivery) — no date — membership benefit; informational
+- Fred Meyer — address added to account (transactional) — no date — account notice; no offer
+- Fred Meyer — new online account created (welcome) — no date — account notice; no offer
+- Fred Meyer — confirm your email address — no date — account verification; no offer
+- KrisFlyer (Singapore Airlines) — account statement; 9,882 miles, 0 expiring through Mar 2027 — no date — loyalty statement
+- Climate Pledge Arena — October Greensheet (Kraken & Torrent schedules, presale/text alerts) — no date — events; ticket offers
+- Fabletics — VIP Fall Savings, styles from $15 — no date — sale
+- Pinterest — recommended searches (Engagement Poses, Wedding Decor) — no date — no offer, marketing
+- TurboTax — finish your return, one week to Oct 15 — expires 2026-10-15 — filing deadline reminder
+- MOD Pizza — free Kids Meal (12 & under) with MOD-size pizza or salad — Sundays only; no date — BOGO offer
+- Going — Hawaii price drop to $302 (saved destination) — price lasts 1-2 days — flight alert
+- Pinterest — trending searches (Easy Drawings, Mehndi Designs, Pose Reference) — no date — no offer, marketing
+- Cinemark — New & Now releases + Movie Rewards (29 pts) — no date — loyalty; informational
+- point.me — Capital One Venture 75K miles + $300 hotel credit — limited time; no date — card offer
+- Going Flight Deals — Europe economy award 50k-60k roundtrip — no date — award travel
+- Going Flight Deals — Asia (Japan/S. Korea) economy award 40k-60k roundtrip — no date — award travel
+- Going Flight Deals — Paris $570 roundtrip (Feb-Mar) — limited-time — flight deal
+- Going Flight Deals — Phoenix / Grand Canyon $137 roundtrip (Oct-Mar) — limited-time — flight deal
+- NerdWallet — high-yield savings up to 4.10% APY — no date — informational, financial
+- Grok — Grok Imagine / Voice features — no date — product update; no offer
+- Costco Travel — Hilton getaways (Mexico, Hawaii, Caribbean) + Travel Hot Buys — no date — travel deals
+- Too Good To Go — book Surprise Bags ahead, half price or less — no date — app promo
+- Life Time (Bellevue) — refresher tour / rejoin invite — no date — membership solicitation; no offer
+- NerdWallet — personal loans / balance-transfer for card debt — no date — informational, financial
+- H&M — The Fall Event, up to 40% off sitewide — no date — sale
+- Weee! — trending Asian products back in stock — no date — restock; informational
+- Etsy — special finds (Gifts / Deals / New Arrivals) — no date — informational; no offer
+- ID.me Shop — 50% off BetterHelp (student benefit) — no date — student discount
+- Wikimedia (Wikipedia) — donation appeal — no date — solicitation; no offer
+- Pandora — Pat McGrath collab collection — no date — new arrivals, marketing
+- Groupon — FEELartistic pottery-wheel voucher (make a soup bowl, 90 min) — expires 2026-12-23 — redeem reminder
+- evo — Anniversary Sale; members 20% off + 10% back — no date — sale
+- Kohl's — Deal Days + Kohl's Cash; $10 off $50+ home, up to 80% off clearance — today only — sale
+- Google Maps — Local Guides WhatsApp channel — no date — informational; no offer
+
 ## 2026-10-08
 - Tata Capital Wealth — wealth manager consultation (solicitation) — no date — informational; no offer
 - MOD Pizza — MOD Rewards redemption reminder (45 pts; 13 expiring) — expires 2026-11-07 — redeem points before expiry
