@@ -12,6 +12,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Tide pods]]
 - [ ] [[Roasted edamame]]
 - [ ] [[Snap peas]]
+- [ ] [[Soya chunks]] (nutrella mini)
 
 
 ## Regulars
@@ -23,4 +24,4 @@ Persistent menu — checked Regulars are unticked by the sweep, never removed.
 - [ ] [[Tofu]]
 - [ ] [[Seitan]]
 - [ ] [[Tempeh]]
-- [ ] [[Bread]]
+- [x] [[Bread]]
