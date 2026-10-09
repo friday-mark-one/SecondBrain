@@ -19,6 +19,7 @@ fodmap_friendly: false
 - [[Toor Dal]] | ¾ cup, cooked
 - [[Tamarind paste]] | ~150 ml tamarind water
 - [[Cilantro]] | to garnish
+- [[Capsicum]] | 2
 
 ## Directions
 1. Tadka: oil, mustard, asafotida, fenugreek powder, curry leaves.
