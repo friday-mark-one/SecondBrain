@@ -1,5 +1,29 @@
 # Deals
 
+## 2026-10-10
+- Kohl's — 30% off + $20 off a $100+ purchase (exclusive event); plus Season's Best Shoe Sale up to 40% off — no date — sale
+- ANA — Hello Blue Sale: Japan fares from INR 59,000 (economy, 2 free checked bags) — no date — fare sale
+- Too Good To Go — Bakery/Grocery Surprise Bags at half price or less; save favourites — no date — app promo
+- evo — 2027 ski & snowboard package deals; new 2027 gear — no date — package deals
+- Fandango — Other Mommy FanClub offer: 1 free ticket w/ 1-mo membership ($9.99); code OTHERMOMMYB3G1 → up to $15 off a 3rd ticket (3+ tickets) — expires 2026-10-25 — code
+- Cinemark Movie Rewards — download app by 10/14, enter to win a $500/$250/$100 concessions gift card — expires 2026-10-14 — sweepstakes
+- Life Time (Bellevue) — rejoin / strength-training membership promo; info only — no date — no offer
+- H&M — The Fall Event: up to 40% off sitewide (online, thru 10/13) + in-store deals — expires 2026-10-13 — sale
+- Etsy — four standout shops (Gifts / Deals / New Arrivals) — no date — informational; no offer
+- NerdWallet — personal loans / debt consolidation; compare rates — no date — informational, financial
+- NerdWallet — auto insurance: save up to $1,079/yr (WA from $89.92/mo) — no date — informational, financial
+- Costco Same-Day (Instacart) — $10 off Game Day essentials — no date — delivery promo
+- Chase Ink Business Unlimited — $750 bonus cash back after $6,000 spend in first 3 months; apply by 10/14 — expires 2026-10-14 — card offer (no annual fee)
+- Fabletics — Re-Engineered Don Pant (new fall arrivals) — no date — new arrivals
+- Weee! — Navratri savings; trending Asian products back in stock — no date — restock; informational
+- Pinterest — trending searches (Bhuvneshwar Kumar Video, Pink Wallpaper, Dapper Men Outfits) — no date — no offer, marketing
+- Daily Harvest — $20 credit for subscribing to texts (by Oct 9 11:59 PM ET) — expired 2026-10-09 — text signup offer
+- Pinterest — trending searches (Easy Drawings, Room Decor, Mehndi Designs) — no date — no offer, marketing
+- Aroma Restaurant (Bothell) — 20% off $40+, code AROMA — expires 2026-10-12 (Sun) — code
+- Fred Meyer Boost — membership welcome: 2x points, free delivery, welcome offers ($2 off Simple Truth produce on $7) — no date — membership benefit
+- Pinterest — recommended searches (Anniversary Photoshoot, Fun Engagement Photos) — no date — no offer, marketing
+- Tata Capital Wealth — retirement planning blog/guide (NPS/EPF/PPF options; Oct 2026) — no date — informational, financial
+
 ## 2026-10-09
 - Fred Meyer — account payment method added (transactional) — no date — account notice; no offer
 - Pinterest — trending searches (Pixel Art, Dapper Men Outfits, Room Decor) — no date — no offer, marketing
