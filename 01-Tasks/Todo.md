@@ -14,6 +14,7 @@ pinned: true
 - [ ] Cancel snowboard pass before Nov 15
 - [ ] H1B appointment
 	- [ ] Reimburse fees
+- [ ] Improve Friday meal plan s
 - [ ] Mira global entry 
 - [ ] 401k rollover
 - [ ] Mira
