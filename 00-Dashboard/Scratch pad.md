@@ -52,6 +52,8 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] start date from next day
 	- [x] buy list one off item don't need quantity by default
 	- [ ] cookbook + should show multi select option
+	- [ ] More categories to cookbook
+	- [ ] Augment items metadata for online ordering
 	- [ ] checked items should move to the bottom
 - [x] Move notion notes
 	- [x] Restaurant journal
