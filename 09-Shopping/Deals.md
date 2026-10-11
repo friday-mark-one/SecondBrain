@@ -1,5 +1,23 @@
 # Deals
 
+## 2026-10-11
+- Kohl's — 30% off just for you + $20 off a $100+ purchase; $10 off $50+ home with Rewards — no date — promo
+- Too Good To Go — new stores in Portland; Surprise Bags at a fraction of the price — no date — app promo
+- Fabletics — VIP Sale: special delivery savings on new styles — no date — sale
+- TurboTax — file by the Oct 15 deadline (5 days left) — expires 2026-10-15 — filing deadline reminder
+- Fred Meyer — please confirm your sign-in (account verification) — no date — account notice; no offer
+- NerdWallet — bank bonuses in Washington up to $500 (checking sign-up offers) — no date — informational, financial
+- Cinemark Theatres — Fear of Missing Out: fright classics & new releases, Oct 1-31 — expires 2026-10-31 — events
+- Edmunds — sedan/SUV rankings + hidden-gem lease deals newsletter — no date — informational; no offer
+- Genesis Motor America — monthly vehicle health report due — no date — service reminder; no offer
+- Sephora at Kohl's — top gift sets + Advent calendar — no date — gift sets
+- Hello Interview — app now available — no date — informational; no offer
+- H&M — up to 40% off fall's best sweaters — no date — sale
+- Etsy — September's most-purchased products (certified crowd-pleasers) — no date — informational; no offer
+- evo — 20% off one full-price item for members (Anniversary Sale) — no date — member sale
+- NerdWallet — auto insurance: compare carriers for the cheapest rate — no date — informational, financial
+- Kohl's — Exclusive Cardholder Event: extra 30% off + $20 off a $100+; up to 80% off clearance — no date — sale
+
 ## 2026-10-10
 - Kohl's — 30% off + $20 off a $100+ purchase (exclusive event); plus Season's Best Shoe Sale up to 40% off — no date — sale
 - ANA — Hello Blue Sale: Japan fares from INR 59,000 (economy, 2 free checked bags) — no date — fare sale
