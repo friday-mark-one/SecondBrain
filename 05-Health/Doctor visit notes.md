@@ -1,3 +1,5 @@
 - [ ] Black spot in the palm
 - [ ] Frequent need to pee
 - [ ] Hairfall
+- [ ] Frequent urination 
+- [ ] SIBO
