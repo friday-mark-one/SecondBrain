@@ -1,5 +1,21 @@
 # Deals
 
+## 2026-10-12
+- Pinterest — trending searches (Easy Drawings, Room Decor, Mehndi Designs, Asics Gel 1130) — no date — no offer, marketing
+- IndiGo BluChip — September 2026 account summary (Blu 3 tier) — no date — account notice; no offer
+- Fabletics — Bharath's personalized picks (handpicked styles) — no date — new arrivals; personalized picks
+- Pinterest — trending searches (Chalray Chalray Waal Edit, Dapper Men Outfits, Aesthetic Wallpaper) — no date — no offer, marketing
+- Costco — warehouse savings: $5 off Kirkland shrimp, $1.50 off strawberries, $64.99 Soundcore headphones, $19.99 FRYE faux fur throw + more — expires 2026-10-25 (varies by item) — warehouse coupon book
+- NerdWallet — car insurance calculator: estimate your costs — no date — informational, financial
+- Pinterest — recommended searches (Engagement Photo Inspiration, Wedding Photography Poses) — no date — no offer, marketing
+- Too Good To Go — Surprise Bags: filter by collection time to find fresh bags — no date — app promo
+- Weee! — Sunday brunch / today-only prices on trending items — expires 2026-10-11 (one-day) — sale
+- H&M — up to 40% off your fall aesthetic (sweaters & fall styles) — no date — sale
+- UNiDAYS — Fall Into Big Savings: student deals (Shake Shack, Comfrt & more) — no date — student deals
+- evo — new gear + past-season deals; members earn 10% back in rewards — no date — sale
+- Etsy — sparkling creativity (Gifts / Deals / New Arrivals picks) — no date — informational; no offer
+- Pandora — game day stack: charms & jewelry for game day 🏈 — no date — new collection
+
 ## 2026-10-11
 - Kohl's — 30% off just for you + $20 off a $100+ purchase; $10 off $50+ home with Rewards — no date — promo
 - Too Good To Go — new stores in Portland; Surprise Bags at a fraction of the price — no date — app promo
