@@ -22,3 +22,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-10 — AUTO: +4.4% day (≥2× its typical range). Headlines: Will ExxonMobil’s (XOM) Q2 Profit Surge and Massive Buybacks Reshape Its Capital Allocation Narrative? | Exxon Stock Jumps 3.3% as Oil Supply Fears Return | CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started
 - 2026-09-15 — AUTO: new 52-week high. Headlines: Sector Update: Energy Stocks Gain Late Afternoon | Sector Update: Energy Stocks Gain Tuesday Afternoon | Wood secures $200m contract from ExxonMobil for PNG LNG project
 - 2026-10-12 — AUTO: new 52-week high
+- 2026-10-13 — AUTO: new 52-week high

@@ -20,6 +20,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-18 — New bear hook: the AI memory trade is reversing — MU crashed ~7% as the memory trade unwound on the bond sell-off ('bears back in control'); reversal fears now swing it alongside HBM supply-demand
 - 2026-08-20 — Supply-side confidence reasserting: SK Hynix's record buyback and Micron's $10B capex bet have memory 'defying the tech selloff' — counters last week's reversal hook, keeps it swinging on HBM supply-demand
 - 2026-08-27 — New political hook: Trump hails Micron's $10B US research-lab investment ('one of the hottest companies in the world') — presidential attention/government-support now swings it alongside HBM supply-demand and the China-competition discount
+- 2026-10-13 — China-competition discount deepens: CXMT said it will launch a denser high-end server-memory product by year-end, moving the China threat from consumer/mobile onto Micron's core AI-datacenter server memory (MU gapped -5.6% and crossed below its 50d) — the CXMT hook now swings the server-memory franchise, not just consumer memory
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -44,3 +45,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-14 — AUTO: opening gap -7.0%; crossed below its 50d average. Headlines: Tech pulls back on AI concerns, cybersecurity takes a step up | Update: Semiconductors Help Push US Equity Indexes Lower While Benchmark Treasury Yield Hits 5% | Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms
 - 2026-09-15 — AUTO: crossed above its 50d average. Headlines: Micron's AI boom just ran into an unexpected labor problem | What Would It Take For Micron Technology Stock To Keep Climbing? | 3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)
 - 2026-09-17 — AUTO: opening gap +3.1%. Headlines: AMD Leads Chip Stocks Higher Amid Sector Rebound | If QQQ Repeats Its Last Decade, $100,000 at 40 Could Hit $1 Million by 52 | Micron Jumps 5.5% as Labor Claims AI's Margin Windfall
+- 2026-10-13 — AUTO: opening gap -5.6%; crossed below its 50d average
