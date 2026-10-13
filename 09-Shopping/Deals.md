@@ -1,5 +1,34 @@
 # Deals
 
+## 2026-10-13
+- Kohl's — extra 30% off + $10 off $50+ home purchase (Rewards), up to 70% off new clearance — no date — kohls.com
+- Too Good To Go — new local partners; rescue Surprise Bags for surplus food — no date — app
+- Pinterest — trending ideas: Easy Drawings, Matching Pfp, Mehndi Designs, Navratri — no date
+- Frontier Airlines — buy miles, up to 150% bonus; award flights from 5,000 mi — expires Oct 23 — storefront.points.com/frontier-miles
+- Aroma Restaurant & Venue — 10% off, code 716H3B — expires Oct 12, 2026 (tonight) — in-store or Square online
+- Fabletics — VIP Deal ends soon — no date — fabletics.com
+- Pinterest — trending ideas: Ipad Wallpaper, Naruto Birthday Edit, Pose Reference — no date
+- Chase Sapphire — refer friends, earn up to 100,000 bonus pts (15,000 each) — no date
+- Going — saved-destination flight alerts: Turkey, new dates — no date — going.com
+- My Best Buy Visa (Citi) — cardmember special access to events near you — no date
+- Pinterest — trending ideas: Wedding Stage Backdrop, Simple Birthday Decorations — no date
+- CardPointers — offer streak 0 weeks; auto-add/unlock card offers via browser extension — no date
+- Aroma Restaurant Bothell — 20% off $40+ — order today — no date — Square online
+- NerdWallet — personal loans guide (26.4M Americans have one) — no date — nerdwallet.com
+- Going Flight Deals — nonstop Istanbul (Turkish) from $749, Nov-Mar travel — no date — going.com
+- My Best Buy Visa (Citi) — special financing offer — activate by Nov 6, 2026 — citi.com
+- Going — 'Europe is so back' newsletter; fall Europe flight deals — no date — going.com
+- NerdWallet — cheapest car insurance companies / auto match — no date — nerdwallet.com
+- IndiGo BluChip — Blu October Festival / Foodie week, earn 2x BluChips — no date — goindigo.in
+- PointsYeah — Hawaii awards from 12,500 pts (Oahu/Maui/Kauai), economy — no date — pointsyeah.com
+- Life Time (Bellevue) — rejoin membership; Signature Group Training & recovery amenities — no date — lifetime.life
+- H&M — cozy activewear up to 40% off — no date — hm.com
+- The Leela Palaces (Coorg) — rewarding escape offer — no date — theleela.com
+- ID.me Shop — student discounts up to 50% off (On Running, Verizon, BetterHelp, Oura Ring) — no date — shop.id.me
+- evo — new arrivals (Armada, Salomon, Oyuki); members earn 10% back in rewards — no date — evo.com
+- Pandora — new jewelry collection, new ways to express yourself — no date — pandora.net
+- Kohl's — 30% off Shoe Sale + $10 off $50+ home purchase — no date — kohls.com
+
 ## 2026-10-12
 - Pinterest — trending searches (Easy Drawings, Room Decor, Mehndi Designs, Asics Gel 1130) — no date — no offer, marketing
 - IndiGo BluChip — September 2026 account summary (Blu 3 tier) — no date — account notice; no offer
