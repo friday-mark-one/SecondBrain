@@ -1,5 +1,21 @@
 # Deals
 
+## 2026-10-14
+- Tata Capital Wealth — RBI repo rate hiked to 5.50% (+25bps), FY27 GDP est. 7.1% — no date — market newsletter, info only
+- Too Good To Go — surplus-food pickup time filters (breakfast/lunch/evening/late-night) in Portland — no date — app feature
+- Amica — auto/home insurance quote promo (customer-owned) — no date — call 877-505-3199
+- MOD Pizza — Pizza Month perk: double points — expires today (Oct 14) — rewards members
+- Pandora — new pink lab-grown diamond collection — no date — new arrivals
+- Cinemark — Street Fighter in theaters Oct 16 — no date — movie promo; 29 member points
+- Weee! — midweek fruits & veggies grocery deals, back-in-stock picks — no date — grocery app
+- Etsy — 'Ones to Watch' fall shops (knitwear, personalized mugs) — no date — shop feature
+- H&M — up to 40% off sitewide, last day — expires tonight (Oct 14) — free same-day pickup by 4pm ET; jeans $26.99+
+- TurboTax — final days to file, return saved — expires Oct 15 — file now
+- Huel — 25% off with flexible subscription — no date — bestsellers (Black Edition, Hot & Savory)
+- Fabletics — VIP deal 'final hours' — expires today — claim in app
+- evo — The North Face Anniversary Sale — expires Oct 22 — prices as marked
+- Google Play — Play Fest: discounts on digital gift cards — expires Oct 19 (while supplies last) — gifting
+
 ## 2026-10-13
 - Kohl's — extra 30% off + $10 off $50+ home purchase (Rewards), up to 70% off new clearance — no date — kohls.com
 - Too Good To Go — new local partners; rescue Surprise Bags for surplus food — no date — app
