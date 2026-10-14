@@ -7,7 +7,7 @@ pinned: false
 
 - [ ] Black spot in the palm
 - [ ] Frequent need to pee
-- [ ] Hairfall
+- [ ] Hairfall - hair thinning 
 - [ ] Frequent urination 
 - [ ] SIBO
 - [ ] TFCC in right wrist
