@@ -36,3 +36,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-21 — AUTO: opening gap +4.4%. Headlines: Cathie Wood Dumps $60 Million in Crypto Stocks Days Before SEC’s Game-Changing Exemption | Is Coinbase's Steadier Side Really A Cushion? | Robinhood’s Vlad Tenev: Trump Accounts Could Become “The Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade”
 - 2026-09-30 — AUTO: opening gap +5.5%. Headlines: Robinhood expands AI agentic trading with automation and 24/7 cycle | Robinhood Gives Retail Traders Institutional Tools With AI Trading Bots | Prediction Markets or Gambling? CFTC Moves to Draw the Line After Kalshi Court Loss
 - 2026-10-07 — AUTO: opening gap -3.2%
+- 2026-10-14 — AUTO: -8.5% day (≥2× its typical range); opening gap -3.2%; crossed below its 50d average

@@ -36,3 +36,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-10 — AUTO: crossed above its 50d average. Headlines: Why hardware will attract buyers to Apple's new lineup over AI features | Apple's iPhone leasing program: How it works, what to consider as prices increase | Apple iPhone Duo has 2 problems: Small hands and next-gen expectations
 - 2026-09-25 — AUTO: new 52-week high. Headlines: Trump says China's Xi 'seemed to like' renaming AI as super intelligence | These are stocks getting lifted up by Meta's Muse | Weekly Wrap: The Crypto Rally Continues
 - 2026-10-13 — AUTO: new 52-week high
+- 2026-10-14 — AUTO: new 52-week high
