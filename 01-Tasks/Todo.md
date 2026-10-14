@@ -5,8 +5,6 @@ hint: general todo list
 pinned: true
 ---
 
-- [x] SBI account follow up
-	- [x] HDFC Credit card pay 
 - [ ] Doctor appointment for annual physical
 - [ ] Buy cap 
 - [ ] Yoga class
