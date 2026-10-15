@@ -1,5 +1,28 @@
 # Deals
 
+## 2026-10-15
+- Pinterest — Diwali decor & men's festive style ideas — expires no date — inspiration only
+- Coinbase — Deposit $50+ by Nov 30, get an exclusive League of Legends Emote — expires Nov 30 — min $50 deposit
+- Pinterest — Navaratri video status & wallpaper ideas — expires no date — inspiration only
+- Aroma Restaurant & Venue — Happy Hour $5 cocktails/beers (5–7 PM daily); 20% off biryani tonight, 10% off online — expires Oct 14 (tonight) — show email at dine-in
+- Water Lantern Festival — Buy 1 Get 1 50% off (Seattle, Seward Park) — expires 48 hrs / event Oct 17–18 — code BOGO50
+- Pinterest — Wedding/engagement photoshoot pose ideas — expires no date — inspiration only
+- point.me — Costa Rica from 9K pts; Barcelona premium 24K pts — expires no date — award flights
+- H&M — Up to 50% off Halloween (in stores & online) — expires no date — no code
+- DoorDash — 'Try something new' restaurant promo (e.g. Wingstop) — expires no date — no code
+- Life Time — Weekly wellness guide: recipes & workouts — expires no date — content
+- NerdWallet — High-yield savings accounts up to 4.10% APY — expires no date — informational
+- Fandango — Sweepstakes: win $100 gift card + FanClub subscription; bonus entry via text signup — expires no date — no purchase necessary
+- Pandora — Buy 2 jewelry styles, get 1 FREE — expires limited time — no code
+- H&M — Marathon-season kit (new arrivals) — expires no date — no code
+- PointsYeah — New Chrome extension to compare points/cash on Chase, Amex, Capital One, Kayak — expires no date — free tool
+- Climate Pledge Arena — Garth Brooks in Seattle Nov 13–14; public on-sale Oct 23 10 AM — expires on-sale Oct 23 — presale text signup
+- Fabletics — Member 'special delivery' savings — expires no date — VIP offer
+- TurboTax — Taxes due tomorrow (Oct 15): file now — expires Oct 15 — deadline
+- Etsy — Personalized picks 'inspired by your vibes' — expires no date — no code
+- Kohl's — Save 30% + $10 off $50+ home purchase (Rewards) + Kohl's Cash — expires no date — no code
+- ANA — Hello Blue Sale: Japan fares from INR 59,000; Economy includes 2 free checked bags — expires no date — fare sale
+
 ## 2026-10-14
 - Tata Capital Wealth — RBI repo rate hiked to 5.50% (+25bps), FY27 GDP est. 7.1% — no date — market newsletter, info only
 - Too Good To Go — surplus-food pickup time filters (breakfast/lunch/evening/late-night) in Portland — no date — app feature
