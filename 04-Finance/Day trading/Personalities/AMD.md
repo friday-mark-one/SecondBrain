@@ -42,3 +42,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-25 — AUTO: new 52-week high. Headlines: Trump says China's Xi 'seemed to like' renaming AI as super intelligence | These are stocks getting lifted up by Meta's Muse | Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck
 - 2026-10-02 — AUTO: opening gap +3.3%; new 52-week high
 - 2026-10-06 — AUTO: new 52-week high
+- 2026-10-15 — AUTO: opening gap -5.5%

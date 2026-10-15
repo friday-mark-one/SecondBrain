@@ -32,3 +32,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-16 — AUTO: crossed above its 50d average. Headlines: TSMC Gains as 2-Nanometer Chips Enter the Smartphone Race | Qualcomm now faces rival with bigger market cap | Prediction: $1,000 Invested in Taiwan Semiconductor (TSMC) Today Will Be Worth This Much by the End of the Decade
 - 2026-10-05 — AUTO: new 52-week high
 - 2026-10-14 — AUTO: crossed below its 50d average
+- 2026-10-15 — AUTO: opening gap -3.4%

@@ -37,3 +37,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-30 — AUTO: opening gap +5.5%. Headlines: Robinhood expands AI agentic trading with automation and 24/7 cycle | Robinhood Gives Retail Traders Institutional Tools With AI Trading Bots | Prediction Markets or Gambling? CFTC Moves to Draw the Line After Kalshi Court Loss
 - 2026-10-07 — AUTO: opening gap -3.2%
 - 2026-10-14 — AUTO: -8.5% day (≥2× its typical range); opening gap -3.2%; crossed below its 50d average
+- 2026-10-15 — AUTO: opening gap -3.6%

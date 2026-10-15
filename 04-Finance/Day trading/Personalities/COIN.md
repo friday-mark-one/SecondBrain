@@ -41,3 +41,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-08 — AUTO: crossed below its 50d average
 - 2026-10-09 — AUTO: crossed above its 50d average
 - 2026-10-14 — AUTO: crossed below its 50d average
+- 2026-10-15 — AUTO: crossed above its 50d average; crossed above its 200d average

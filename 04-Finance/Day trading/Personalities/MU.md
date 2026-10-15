@@ -46,3 +46,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-15 — AUTO: crossed above its 50d average. Headlines: Micron's AI boom just ran into an unexpected labor problem | What Would It Take For Micron Technology Stock To Keep Climbing? | 3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)
 - 2026-09-17 — AUTO: opening gap +3.1%. Headlines: AMD Leads Chip Stocks Higher Amid Sector Rebound | If QQQ Repeats Its Last Decade, $100,000 at 40 Could Hit $1 Million by 52 | Micron Jumps 5.5% as Labor Claims AI's Margin Windfall
 - 2026-10-13 — AUTO: opening gap -5.6%; crossed below its 50d average
+- 2026-10-15 — AUTO: opening gap -4.7%
