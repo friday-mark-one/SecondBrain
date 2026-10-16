@@ -1,5 +1,37 @@
 # Deals
 
+## 2026-10-16
+- Pinterest — 'Easy Drawings' idea recommendations — expires no date — inspiration only
+- Pinterest — 'Black Background' idea recommendations — expires no date — inspiration only
+- Linux Foundation Education — Up to 40% off Cybersecurity training & certifications — expires end of October — code OCT26CYBER; 35% off other courses
+- Yuan Spa — $20 Hydrotherapy session ($69 value) with a $185+ service — expires Oct 16 (today) — one-day only, same-day booking
+- Cinemark — New releases this week (Street Fighter, Sense & Sensibility, Whalefall) — expires no date — Movie Fan member
+- Pinterest — Minimal/short classy nail design ideas — expires no date — inspiration only
+- evo — 25th Anniversary Sale up to 50% off snow/bike/apparel; 20% off one full-price item — expires Oct 22 — evo Rewards members
+- point.me — New customized award-deal newsletter from your home airport — expires no date — paid feature ($8/mo)
+- Fabletics — VIP Mystery Box (fall) is back — expires no date — VIPs only, limited boxes
+- Etsy — Small-shop gift & autumn decor picks — expires no date — no code
+- Empower — Q4 market trends and what they could mean — expires no date — informational
+- Chase Sapphire Preferred — Offer confirmed: consultation with a J.P. Morgan Advisor — expires no date — offer confirmed
+- MOD Pizza — Loaded Legend & Carnivore pizza promo — expires no date — no code
+- Aroma Restaurant & Venue — Holiday packages for teams & families — expires no date — book ahead
+- Sephora at Kohl's — Join Beauty Insider for early Sephora Savings Event access + holiday gift sets — expires no date — no code
+- NerdWallet — Personal loans & balance transfer to tackle credit card debt — expires no date — informational
+- Life Time — Holiday rejoin offer + refresher tour (Bellevue) — expires no date — membership
+- Google AI Studio — Gemini 4 Argon frontier model now available — expires no date — free to try
+- H&M — The Knitwear Edit (fall knitwear) — expires no date — no code
+- Going — Price Drop now covers one-way flights — expires no date — members
+- Going Flight Deals — Scandinavia $435–$544 roundtrip (Dec–Jan) — expires no date — fare deal
+- IndiGo BluChip — 2x BluChips booster week (Blu October Festival) — expires no date — loyalty offer
+- ID.me Shop — T-Mobile student plans from $30/month — expires no date — student discount
+- NerdWallet — Rates up on high-yield savings accounts — expires no date — informational
+- Huel — Hot & Savory meals from $3.95 (25% off subscribe, free ship $65+) — expires no date — no code
+- Fabletics — New outerwear guide/collection — expires no date — no code
+- Fandango — 'Sense and Sensibility' in theaters — expires no date — tickets
+- TurboTax — Final notice: taxes due by midnight tonight — expires tonight — file now
+- Pandora — Buy 2 get 1 FREE jewelry — expires limited time — no code (exclusions apply)
+- Kohl's — Save 30% Season's Best Shoe Sale + Kohl's Cash — expires no date — no code
+
 ## 2026-10-15
 - Pinterest — Diwali decor & men's festive style ideas — expires no date — inspiration only
 - Coinbase — Deposit $50+ by Nov 30, get an exclusive League of Legends Emote — expires Nov 30 — min $50 deposit
