@@ -7,6 +7,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Nurri]]
 - [ ] [[Water pack]]
 - [ ] [[Basil leaves]]
+- [ ] [[Coconut Water]]
 
 
 ## Regulars
