@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
+                "file": "03-Career/Snap/Enterprise AI tutorial/00-curriculum-and-resources.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08-topic1-enterprise-rollout"
+              "title": "00-curriculum-and-resources"
             }
           },
           {
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
+                "file": "03-Career/Snap/Enterprise AI tutorial/00-curriculum-and-resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,8 +232,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55e70203280d7844",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03-Career/Snap/Enterprise AI tutorial/08-topic1-enterprise-rollout.md",
+    "80-LifeOS/logs/2026-07-28.md",
     "08-Food/Items/Coconut Water.md",
     "08-Food/Restaurants/Madras Dosa Corner.md",
     "08-Food/Restaurants/Jamba.md",
@@ -258,8 +260,6 @@
     "80-LifeOS/logs/10-08-26.md",
     "08-Food/Items/Roasted edamame.md",
     "08-Food/Items/Snap peas.md",
-    "80-LifeOS/logs/10-07-26.md",
-    "80-LifeOS/logs/10-06-26.md",
     "90-Archive/Health/Body Measurements",
     "05-Health/Body Measurements",
     "80-LifeOS/_scripts/notify.js",
