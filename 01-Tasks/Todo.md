@@ -10,8 +10,6 @@ pinned: true
 - [ ] Yoga class
 - [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
-- [x] H1B appointment
-	- [x] Reimburse fees
 - [ ] Improve Friday meal plan setup
 - [ ] Mira global entry 
 - [ ] 401k rollover

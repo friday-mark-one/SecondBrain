@@ -1,5 +1,41 @@
 # Deals
 
+## 2026-10-17
+- Fabletics — VIP denim offer (“$?? Off”, amount garbled in email) — no date — VIP-only denim promo, no visible code
+- TurboTax — “3 mistakes that could be costing you” tax tips — no date — newsletter, no promo
+- Pinterest — home inspiration feed (tree bookshelf, travel display) — no date — recommendations, no offer
+- Citi / My Best Buy Visa — activate limited-time special financing before it expires — no date — offercode 1461521440
+- Edmunds — hybrid vs plug-in SUV rankings — no date — plus new-car discounts: 2026 Tacoma $2,405 off MSRP avg, Maverick $1,057 off
+- NerdWallet — bank sign-up bonuses up to $500 (WA) — no date — roundup, no single code
+- UNiDAYS — 15% off student offer (Halloween) — no date — verified students, limits unclear
+- H&M — up to 20% off entire order — no date — newsletter promo, no visible code
+- Etsy — DIY Halloween deals — no date — seasonal picks, no code
+- evo — up to 50% off past-season gear, Anniversary Sale — no date — ski/snowboard/outerwear, evo.com/collections/anniversary-sale
+- Pandora — buy 2, get 1 free — no date — jewelry promo, no code
+- Kohl’s — 40% off + Kohl’s Cash — no date — plus Season’s Best Shoe Sale
+- Citi / My Best Buy Visa — cardholder merch offer (“didn’t know Best Buy sells this”) — no date — cardholder-only
+- Fabletics — $10.92 member credit available — this weekend only (Oct 17–18) — members only
+- Genesis — maintenance service reminder — no date — service alert (duplicate email, filed once)
+- Genesis of Milford — dealership marketing email — no date — no stated offer
+- Going — Europe economy award flights from 45k roundtrip with points — no date — points deal, availability varies
+- Pinterest — discovery feed (Snoopy tattoos, travel magnet display) — no date — recommendations, no offer
+- Royal Lahaina Resort — holiday stay package with extras — no date — resort promo, rates not stated
+- Going — nonstop South Korea economy 51k–74k roundtrip with points — no date — points deal, availability varies
+- Weee! — Halloween week grocery deals — no date — Asian grocery specials, no code
+- NerdWallet — cheap car insurance comparison — no date — rate-shopping roundup
+- Frontier Airlines — earn up to 150% bonus miles — ~Oct 23 (one week left as of Oct 16) — loyalty promo
+- Climate Pledge Arena — Greta Van Fleet, Leon Bridges, Nickelback tickets on sale — no date — venue presale/on-sale
+- PointsYeah — featured card offers: $500 bonus + 3% cash back; 100k points + $300 travel credit — no date — issuer terms apply
+- NerdWallet — credit-card debt payoff options — no date — comparison article
+- Etsy — independent seller feature — no date — editorial, no offer
+- H&M — 15% or 20% off this weekend — expires Oct 18 — tiered by spend, no code shown
+- Life Time — rejoin membership offer — no date — “rejoin today” pitch, no price
+- Fandango — Friday movie watchlist — no date — editorial, no offer
+- evo — new markdowns in Anniversary Sale (Arc’teryx, Salomon) — no date — evo.com/collections/anniversary-sale
+- Unstop / Placement Team — Google Cloud hands-on learning program — no date — course promo, not a deal
+- ANA — Hiroshima destination promo: 2 free checked bags on Economy — no date — promo fare required
+- Kohl’s — save 30% + $10 off $50+ home (Kohl’s Rewards) — no date — rewards members
+
 ## 2026-10-16
 - Pinterest — 'Easy Drawings' idea recommendations — expires no date — inspiration only
 - Pinterest — 'Black Background' idea recommendations — expires no date — inspiration only
