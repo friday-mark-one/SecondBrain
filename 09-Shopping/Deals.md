@@ -1,5 +1,102 @@
 # Deals
 
+## 2026-10-18
+- Michaels — Up to 50% off Halloween — Go BIG on the BOO — expires no date — sent 10/17; no code
+- Macy's — Our BIGGEST Fall Sale: $44.99+ Le Creuset cookware & more — expires no date — sent 10/17; no code
+- Nordstrom — Don't sleep on these new markdowns — expires no date — sent 10/17; no code
+- Nordstrom Rack — New dresses up to 65% off—from DKNY & more — expires no date — sent 10/17; no code
+- Macy's — $12.99+ bras & more essential deals for your fall refresh — expires no date — sent 10/17; no code
+- Hallmark — $2 to deck the halls at Ornament Debut — expires no date — sent 10/17; no code
+- Michaels — Halloween is getting closer Save on fright night essentials today — expires no date — sent 10/17; no code
+- Kohl's — Open for 40% off + earn Kohl's Cash — expires no date — sent 10/17; no code
+- Michaels — It's time to embrace the analog crafting trend with diamond art — expires no date — sent 10/17; no code
+- Macy's — Must-have gifts from our top 100 list — expires no date — sent 10/17; no code
+- Nordstrom — Coats, Scarves & Cozy Layers — expires no date — sent 10/16; no code
+- Nordstrom Rack — Denim up to 60% off from Levi's®, Good American — expires no date — sent 10/16; no code
+- Macy's — Price drop alerts, new trends & more—don't miss out, Bharath-Bhargav — expires no date — sent 10/16; no code
+- Hallmark — BOGO FREE + $2 to stock up — expires no date — sent 10/16; no code
+- Michaels — Treat yourself to savings at The Big Halloween Sale. — expires no date — sent 10/16; no code
+- Lyft Research — You could win a $250 Amazon gift card — expires no date — sent 10/16; survey sweepstakes
+- CUHK Master's Programme — CUHK Business Master's Webinars (28-30 Oct 2026) — expires no date — sent 10/16; event, no offer
+- Kohl's — Save 30% | Head-to-toe fall styles & stacks of Kohl's Cash await ... — expires no date — sent 10/16; no code
+- Macy's — Here's an exclusive 20% off Dyson for you — expires no date — sent 10/15; no code
+- HomeGoods — Kinda chic to host effortlessly. — expires no date — sent 10/15; no code
+- Michaels — Just boo-tiful Up to 50% off Halloween — expires no date — sent 10/15; no code
+- Macy's — Enjoy an exclusive 25% off The North Face — expires no date — sent 10/15; no code
+- Sephora at Kohl's — Save the date: 10% off during the Sephora Savings Event is almost here ‍ — expires no date — sent 10/15; no code
+- Nordstrom Rack — UP TO 70% OFF Nordstrom NEW arrivals — expires no date — sent 10/15; no code
+- Famous Footwear — Bharath, the Holiday Gift Guide has arrived — expires no date — sent 10/15; no code
+- Sephora Insider — Get a free sample bag of must-have beauty with $55 min. spend — expires no date — sent 10/15; no code
+- Macy's — New season, new Levi's® — expires no date — sent 10/15; no code
+- Michaels — ‼STARTS NOW! Trees are up to 60% off online only during our Flash Cyber Tree Sale. — expires no date — sent 10/15; no code
+- Kohl's — Save 30% | Score fall-ready styles during the Season's Best Shoe Sale — expires no date — sent 10/15; no code
+- Macy's — Up to 50% off activewear from Nike, adidas & more — expires no date — sent 10/14; no code
+- HomeGoods — Smart swaps for a healthier home. — expires no date — sent 10/14; no code
+- Michaels — Eeek Your frighteningly favorite deals are HERE — expires no date — sent 10/14; no code
+- Nordstrom — The Gift Shop is open: Monica Vinader, COACH & more — expires no date — sent 10/14; no code
+- Nordstrom Rack — New Running Shoes from Brooks, Saucony & More | Rhone Up to 55% Off — expires no date — sent 10/14; no code
+- Macy's — Up to 50% off—The Great Shoe Sale starts now — expires no date — sent 10/14; no code
+- Michaels Custom Framing — Shop our upgraded site and get 70% off custom frames — expires no date — sent 10/14; no code
+- Macy's — Starts now: up to 60% off during Our BIGGEST Fall Sale — expires no date — sent 10/14; no code
+- J.Crew Factory — It's baaack! Get EXTRA 15% OFF your purchase. — expires no date — sent 10/14; no code
+- Michaels — BOO! Get into the spooky groove with this frightfully fun décor collection. — expires no date — sent 10/14; no code
+- Kohl's — Save 30% | Get the fall looks you want for less — expires no date — sent 10/14; no code
+- Michaels — Cheers to 10 years of Caron Cakes! Celebrate with brand new skeins — expires no date — sent 10/13; no code
+- Nordstrom — Barbour tartans, reimagined for today — expires no date — sent 10/13; no code
+- Macy's — Introducing the Fall 2026 Donna Karan New York Collection — expires no date — sent 10/13; no code
+- Nordstrom Rack — Fresh kicks: UGG® up to 40% off + adidas up to 50% off — expires no date — sent 10/13; no code
+- J.Crew Factory — FLASH SALE! Extra 70% off clearance with code TREAT70 (today only!). — expires no date — sent 10/13; code TREAT70
+- Hallmark — Inside: $2 + new Keepsake Ornaments — expires no date — sent 10/13; no code
+- Michaels — Hey boo! Deals just for you — expires no date — sent 10/13; no code
+- Kohl's — Save an extra 30% Plus, take $10 off your $50+ home purchase with Kohl's Rewards. — expires no date — sent 10/13; no code
+- Michaels — Up to 50% off: Create unboo-lievable buckets for all their goodies. — expires no date — sent 10/12; no code
+- Macy's — Up to 60% off Macy's Exclusive brands + more amazing offers — expires no date — sent 10/12; no code
+- Macy's — Flash Sale: up to 60% off men's Macy's Exclusive styles — expires no date — sent 10/12; no code
+- Nordstrom — NEW markdowns up to 40% off — expires no date — sent 10/12; no code
+- Chipotle Rewards — 150 extra points? Your choice, your extra — expires no date — sent 10/12; no code
+- Nordstrom Rack — Ends tonight! EXTRA 25% OFF select full-price women's jeans for a limited time — expires no date — sent 10/12; no code
+- Macy's — Gift sets for everyone on your list⭐ — expires no date — sent 10/12; no code
+- J.Crew Factory — Extra 20% off orders $150+ & free shipping for today only — expires no date — sent 10/12; no code
+- Michaels — Only 3 w-EEKS — expires no date — sent 10/12; no code
+- Kohl's — Save 30% | Step into the Season's Best Shoe Sale — expires no date — sent 10/12; no code
+- Macy's — Flash Sale: up to 65% off men's must-buy shoes — expires no date — sent 10/11; no code
+- Michaels Rewards — Rewards member exclusive — earn a $5 Reward. This way, please — expires no date — sent 10/11; no code
+- Nordstrom Rack — UGG® up to 40% off — expires no date — sent 10/11; no code
+- Macy's — Flash Sale: up to 65% off shoes for the whole family — expires no date — sent 10/11; no code
+- Michaels — Get set for fright night with up to 50% off at The Big Halloween Sale. — expires no date — sent 10/11; no code
+- J.Crew Factory — Get your weekly outfits with 50% off all stores & sitewide — expires no date — sent 10/11; no code
+- Kohl's — 30% off just for you $20 off your $100+ purchase — expires no date — sent 10/11; no code
+- Macy's — Flash Sale: under $100 trending handbags from Sam Edelman & more — expires no date — sent 10/10; no code
+- Michaels — New yarn $10 Caron Cakes skeins So much to celebrate — expires no date — sent 10/10; no code
+- Macy's — Up to 50% off your next mattress — expires no date — sent 10/10; no code
+- HomeGoods — It's tiiiiiiiiime — expires no date — sent 10/10; no code
+- Sephora at Kohl's — Top gift sets from Sephora, right this way — expires no date — sent 10/10; no code
+- Nordstrom Rack — Celebrate National Handbag Day — expires no date — sent 10/10; no code
+- Hallmark — $2 to shop brand-new ornaments — expires no date — sent 10/10; no code
+- Michaels — No tricks. All treats. Grab these deals today at The Big Halloween Sale — expires no date — sent 10/10; no code
+- Macy's — Flash Sale: up to 65% off handbags, wallets, belts, hats & more — expires no date — sent 10/10; no code
+- Kohl's — Extra 30% off + $20 off a $100+ purchase during the Exclusive Cardholder Event — expires no date — sent 10/10; no code
+- Michaels — ⏰ Up to 65% off online ends today! Save big during our Flash Cyber Sale. — expires no date — sent 10/09; no code
+- HomeGoods — This & not overspending on any of it — expires no date — sent 10/09; no code
+- Michaels Custom Framing — Shop our upgraded site and get 70% off custom frames — expires no date — sent 10/09; no code
+- Nordstrom — Minimal detail, major presence — expires no date — sent 10/09; no code
+- Nordstrom Rack — So cozy: sweaters up to 60% off — expires no date — sent 10/09; no code
+- HomeGoods — FREE SHIPPING* from TJ Maxx, Marshalls & Sierra — expires no date — sent 10/09; no code
+- Macy's — Flash Sale: up to 70% off seasonal essentials from Charter Club & more — expires no date — sent 10/09; no code
+- Michaels — Score up to 50% off Halloween. — expires no date — sent 10/09; no code
+- Kohl's — Get 30% off AND $20 off your $100+ purchase during this exclusive event ... — expires no date — sent 10/09; no code
+- Nordstrom Rack — Designer deals! Up to 60% off FERRAGAMO, Off-White & more — expires no date — sent 10/09; no code
+- Macy's — Flash Sale: up to 70% off men's suits, dress shirts, and more — expires no date — sent 10/08; no code
+- Michaels — Spooky szn savings! Get up to 50% off Halloween. — expires no date — sent 10/08; no code
+- Macy's — Save 20-60% on big updates for your living room and bedroom — expires no date — sent 10/08; no code
+- Nordstrom — Fall musts: jackets, sweaters & boots — expires no date — sent 10/08; no code
+- Macy's Beauty — Beauty Haul: $30 off $150 starts NOW — expires no date — sent 10/08; no code
+- Famous Footwear — Bharath, BOGO 1/2 off starts today. — expires no date — sent 10/08; no code
+- Macy's — Flash Sale: 50-70% off dresses for every occasion — expires no date — sent 10/08; no code
+- Macy's — Flash Sale: up to 70% off dressy looks for the whole family — expires no date — sent 10/08; no code
+- Michaels — Got your costume picked out? Get started with supplies and ideas — expires no date — sent 10/08; no code
+- Kohl's — Kohl's Deal Days + Kohl's Cash are here today, gone tomorrow — expires no date — sent 10/08; no code
+
 ## 2026-10-17
 - Fabletics — VIP denim offer (“$?? Off”, amount garbled in email) — no date — VIP-only denim promo, no visible code
 - TurboTax — “3 mistakes that could be costing you” tax tips — no date — newsletter, no promo
