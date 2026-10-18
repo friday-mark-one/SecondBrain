@@ -8,6 +8,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Water pack]]
 - [ ] [[Basil leaves]]
 - [ ] [[Coconut Water]]
+- [ ] [[Roasted edamame]]
 
 
 ## Regulars
