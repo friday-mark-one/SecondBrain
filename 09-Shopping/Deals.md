@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-10-19
+- Too Good To Go — new local stores added in the app — expires no date — app discovery, no code
+- Fabletics — "THIS IS IT" sale ending soon — expires no date — no code
+- Costco — preview of tomorrow's member-only savings — expires no date — members only
+- Pinterest — recommended searches: pallets, stone art, pebble art — expires no date — inspiration, no offer
+- Michaels Rewards — earn a $5 reward + this week's Rewards offers — expires no date — Rewards members
+- Etsy — handmade gift picks from small shops — expires no date — no code
+- NerdWallet — article: how many savings accounts should you have — expires no date — no offer
+- Macy's — $49.99+ men's dress shirts in the Biggest Fall Sale — expires no date — no code
+- Weee! — Sunday grocery price deals — expires no date — no code
+- Hallmark — $2 Ornament Debut — expires Oct 18 (tonight) — no code
+- NerdWallet — car insurance cost calculator — expires no date — no offer
+- Nordstrom Rack — boots in your size — expires no date — no code
+- Fandango — stream The Hunger Games free — expires no date — free streaming
+- Macy's — extra 20% off online, new home finds — expires no date — exclusive offer 🔔 [[Gift ideas]]
+- H&M — last day: 15% off $100 or 20% off $125 — expires Oct 18 — no code
+- Macy's — 30% off Levi's — expires no date — no code
+- Macy's — personalize your recommendations — expires no date — not a promotion
+- UNiDAYS — October student savings — expires no date — student discounts
+- evo — up to 50% off past-season gear + 10% back for members (25th anniversary) — expires no date — member rewards
+- Walgreens — BOGO 50% off Cetaphil skin care — expires no date — no code 🔔 [[Gift ideas]]
+- J.Crew Factory — Friends & Family: extra 15% off + 40-70% off everything — expires no date — no code
+- Hallmark — $2 to shop new ornaments — expires no date — no code
+- Pandora — pick two, third one free — expires no date — no code
+- Michaels — up to 50% off Monster Deals — expires no date — no code
+- Kohl's — 40% off ends tonight + $10 off $50+ home purchase (Rewards) — expires Oct 18 — no code
+- Kohl's — last day: extra 40% off + $10 off $50+ home (Rewards) — expires Oct 18 — no code
+
 ## 2026-10-18
 - Michaels — Up to 50% off Halloween — Go BIG on the BOO — expires no date — sent 10/17; no code
 - Macy's — Our BIGGEST Fall Sale: $44.99+ Le Creuset cookware & more — expires no date — sent 10/17; no code
