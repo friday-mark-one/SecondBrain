@@ -2,6 +2,7 @@
 type: recipe
 meal: [dinner]
 cuisine: Chinese
+category: Chinese
 protein_heavy: false
 fodmap_friendly: false
 ---

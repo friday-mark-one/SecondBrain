@@ -2,6 +2,7 @@
 type: recipe
 meal: [breakfast, lunch]
 cuisine: South Indian
+category: Tiffin
 protein_heavy: false
 fodmap_friendly: false
 ---

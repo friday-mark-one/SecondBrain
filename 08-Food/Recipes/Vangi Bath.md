@@ -2,6 +2,7 @@
 type: recipe
 meal: [lunch]
 cuisine: South Indian
+category: South Indian
 protein_heavy: false
 fodmap_friendly: false
 ---

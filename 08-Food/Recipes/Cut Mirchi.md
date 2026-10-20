@@ -2,6 +2,7 @@
 type: recipe
 meal: [snack]
 cuisine: South Indian
+category: Snacks
 protein_heavy: false
 fodmap_friendly: false
 ---

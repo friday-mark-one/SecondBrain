@@ -2,6 +2,7 @@
 type: recipe
 meal: [side, condiment]
 cuisine: North Indian
+category: Sides
 protein_heavy: false
 fodmap_friendly: false
 ---

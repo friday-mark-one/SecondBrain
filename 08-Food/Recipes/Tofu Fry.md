@@ -2,6 +2,7 @@
 type: recipe
 meal: [snack, side]
 cuisine: 
+category: Sides
 protein_heavy: true
 fodmap_friendly: true
 ---

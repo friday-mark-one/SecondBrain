@@ -2,6 +2,7 @@
 type: recipe
 meal: [breakfast]
 cuisine: Continental
+category: Breakfast
 protein_heavy: false
 fodmap_friendly: false
 ---

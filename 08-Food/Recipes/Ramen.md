@@ -2,6 +2,7 @@
 type: recipe
 meal: [lunch, dinner]
 cuisine: Asian
+category: Japanese
 protein_heavy: true
 fodmap_friendly: false
 ---
