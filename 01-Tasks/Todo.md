@@ -15,7 +15,6 @@ pinned: true
 - [ ] 401k rollover
 - [ ] Mira
 	- [ ] Merge SSN & ITIN on IRS 
-		- [ ] Call H&R block on Monday
 	- [ ] Update bofa with SSN (in person appointment)
 	- [ ] Apply for credit cards after Nov 10
 - [ ] Deal with EPF
