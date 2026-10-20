@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [dinner]
-cuisine: Chinese
 category: Chinese
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Lo mein noodles]] | 2-3 sets

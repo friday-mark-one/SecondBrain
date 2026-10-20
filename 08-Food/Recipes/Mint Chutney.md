@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [breakfast, lunch, dinner]
-cuisine: South Indian
 category: Sides
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Black urad dal]] | 2 spoons

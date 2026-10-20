@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: North Indian
-category: North Indian
-protein_heavy: false
-fodmap_friendly: false
+category: South Indian
 ---
 ## Ingredients
 - [[Cilantro]] | ½ cup

@@ -16,6 +16,7 @@ const CATEGORIES = [
   "Chinese",
   "Japanese",
   "Snacks",
+  "Drinks",
   "Dessert",
 ];
 

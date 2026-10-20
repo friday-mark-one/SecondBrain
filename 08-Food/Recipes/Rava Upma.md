@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [breakfast]
-cuisine: South Indian
 category: Tiffin
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Rava]] | ⅔ cup (double-roasted, for 2)

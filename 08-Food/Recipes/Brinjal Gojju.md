@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: South Indian
 category: South Indian
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Coriander seeds]] | 4 spoons

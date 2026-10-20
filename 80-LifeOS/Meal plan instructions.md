@@ -18,11 +18,10 @@ All paths below are relative to the vault root `~/SecondBrain/`
   - Optional expiry fields (opt-in, perishables only): `shelf_life_days` (int —
     its presence is what makes the item tracked), `heads_up_days` (int, days
     before expiry to start warning; absent ⇒ 0 = warn on expiry day only).
-- `08-Food/Recipes/<Dish>.md` — `type: recipe` + `meal`/`cuisine`/`category`/
-  `protein_heavy`/`fodmap_friendly` + a `## Ingredients` section. `category` controls
-  the shelf it appears under in `Cookbook.md`; use exactly one of: Breakfast, Tiffin,
-  Sides, South Indian, Poriyal, North Indian, Italian, Chinese, Japanese, Snacks, Dessert. of `- [[Item]] | amount` lines +
-  `## Directions`.
+- `08-Food/Recipes/<Dish>.md` — `type: recipe` + `category` + a `## Ingredients`
+  section of `- [[Item]] | amount` lines + `## Directions`. `category` controls the shelf it
+  appears under in `Cookbook.md`; use exactly one of: Breakfast, Tiffin, Sides,
+  South Indian, Poriyal, North Indian, Italian, Chinese, Japanese, Snacks, Drinks, Dessert.
 - `08-Food/Buy List.md` — non-recipe items, in two sections (lines MUST contain a
   `[[Item]]` link or they're ignored). If the item doesn't exist, create it first in 
   `08-Food/Items/<Item>.md` with the necessary frontmatter as mentioned previously.

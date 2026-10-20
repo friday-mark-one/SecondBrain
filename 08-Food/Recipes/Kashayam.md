@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [drink]
-cuisine: South Indian
-category: Sides
-protein_heavy: false
-fodmap_friendly: false
+category: Drinks
 ---
 ## Ingredients
 - [[Water]] | 1 Ikea glass full

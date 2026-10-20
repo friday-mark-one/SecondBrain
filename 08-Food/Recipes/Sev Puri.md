@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [snack]
-cuisine: North Indian
 category: Snacks
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[White peas]] | 1 cup, soaked overnight

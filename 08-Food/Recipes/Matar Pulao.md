@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: North Indian
 category: North Indian
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Basmati rice]] | 1 cup

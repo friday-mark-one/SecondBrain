@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [breakfast, lunch, dinner]
-cuisine: South Indian
 category: South Indian
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Toor Dal]] | 50g

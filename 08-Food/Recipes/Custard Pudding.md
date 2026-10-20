@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [dessert]
-cuisine: Indian
 category: Dessert
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Bread]] | 10-12 slices (milk bread/brioche)

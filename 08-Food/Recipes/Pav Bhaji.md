@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [dinner]
-cuisine: North Indian
-category: North Indian
-protein_heavy: false
-fodmap_friendly: false
+category: Snacks
 ---
 ## Ingredients
 - [[Potato]] | 3, boiled

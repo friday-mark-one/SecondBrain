@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: Asian
 category: Japanese
-protein_heavy: true
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Tofu]] | extra firm, ~½ block, cubed

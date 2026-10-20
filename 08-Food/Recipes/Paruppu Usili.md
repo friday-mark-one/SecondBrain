@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: South Indian
 category: South Indian
-protein_heavy: true
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Toor Dal]] | 1 cup, soaked

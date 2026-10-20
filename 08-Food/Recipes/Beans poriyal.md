@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: South Indian
 category: Poriyal
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Groundnut oil]] | 2 tsp

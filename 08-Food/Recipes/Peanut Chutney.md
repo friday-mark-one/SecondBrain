@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [breakfast, lunch]
-cuisine: South Indian
 category: Sides
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Blanched peanuts]] | 1.3 cups, roasted

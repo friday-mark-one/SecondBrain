@@ -5,7 +5,7 @@
 **Found one you like?** Cook it once, then promote it:
 
 1. Move its note from `Dish Ideas/` into `08-Food/Recipes/`.
-2. Change `type: dish-idea` → `type: recipe` and add `meal:` (e.g. `[lunch, dinner]`).
+2. Change `type: dish-idea` → `type: recipe` and add `category:` (e.g. `Tiffin`, `North Indian`, `Snacks`).
 3. Fill in `## Ingredients` (wikilink pantry items like `[[Onion]]`) and `## Directions` with your own version.
 
 It then appears in [[Cookbook]] automatically. Not interested after trying? Just delete the note.

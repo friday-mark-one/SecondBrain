@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: Continental
 category: Italian
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Avocado]] | 1, scooped

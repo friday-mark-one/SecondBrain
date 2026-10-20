@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [snack, side]
-cuisine: 
-category: Sides
-protein_heavy: true
-fodmap_friendly: true
+category: Snacks
 ---
 ## Ingredients
 - [[Tofu]] | 1 pack (450g)

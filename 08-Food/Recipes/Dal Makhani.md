@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: [lunch, dinner]
-cuisine: North Indian
 category: North Indian
-protein_heavy: true
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Black urad dal]] | 1 cup, soaked 8h

@@ -1,10 +1,6 @@
 ---
 type: recipe
-meal: []
-cuisine: South Indian
 category: Sides
-protein_heavy: false
-fodmap_friendly: false
 ---
 ## Ingredients
 - [[Dry red chilli]] | 20g
