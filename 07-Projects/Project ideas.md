@@ -8,6 +8,7 @@ pinned: true
 # Project ideas
 
 ### Business ideas
+- [ ] Developing good taste in the age of AI
 - [ ] 3D video with side by side stereo optical illusion - Instagram Page 
 - [ ] Food recall tracker
 - [ ] 3D printer marketplace for people to print stuff (shef but for 3D printers)
