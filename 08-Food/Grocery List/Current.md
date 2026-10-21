@@ -1,21 +1,21 @@
 # Grocery List — 2026-10-20
 
 ## Costco
-- [ ] [[Tomato]] — Vegetable Pulao (½, diced) ×2, Matar Paneer Masala (3-4, chopped) ×2, Tofu Burji (1, cut) ×2, Tiffin Sambar (1, cut) ×2, Methi Mushroom Masala (2 medium, pureed or finely chopped) ×2
-- [ ] [[Capsicum]] — Vegetable Pulao (½) ×2
-- [ ] [[Ghee]] — Vegetable Pulao (2 spoons) ×2, Burani Raita (½ tsp) ×2, Tofu Burji (for tadka) ×2, Tiffin Sambar (1 tbsp) ×2, Methi Mushroom Masala (2 tbsp total (or oil)) ×2
-- [ ] [[Cashews]] — Vegetable Pulao (few) ×2, Matar Paneer Masala (5-7) ×2, Curd Rice (fried) ×2, Methi Mushroom Masala (¼ cup, soaked in hot water 30 min) ×2
-- [ ] [[Salted butter]] — Matar Paneer Masala (1 tbsp + more for tempering) ×2
-- [ ] [[Ginger garlic paste]] — Tofu Burji (1 tbsp) ×2, Methi Mushroom Masala (1 tbsp (fresh crushed [[Ginger]] + [[Garlic]] is better)) ×2
+- [x] [[Tomato]] — Vegetable Pulao (½, diced) ×2, Matar Paneer Masala (3-4, chopped) ×2, Tofu Burji (1, cut) ×2, Tiffin Sambar (1, cut) ×2, Methi Mushroom Masala (2 medium, pureed or finely chopped) ×2
+- [x] [[Capsicum]] — Vegetable Pulao (½) ×2
+- [x] [[Ghee]] — Vegetable Pulao (2 spoons) ×2, Burani Raita (½ tsp) ×2, Tofu Burji (for tadka) ×2, Tiffin Sambar (1 tbsp) ×2, Methi Mushroom Masala (2 tbsp total (or oil)) ×2
+- [x] [[Cashews]] — Vegetable Pulao (few) ×2, Matar Paneer Masala (5-7) ×2, Curd Rice (fried) ×2, Methi Mushroom Masala (¼ cup, soaked in hot water 30 min) ×2
+- [x] [[Salted butter]] — Matar Paneer Masala (1 tbsp + more for tempering) ×2
+- [x] [[Ginger garlic paste]] — Tofu Burji (1 tbsp) ×2, Methi Mushroom Masala (1 tbsp (fresh crushed [[Ginger]] + [[Garlic]] is better)) ×2
 - [ ] [[Tofu]] — Tofu Burji (1 pack, crumbled) ×2, Regulars
-- [ ] [[Toor Dal]] — Coconut Thogaiyal (1 spoon) ×3, Tiffin Sambar (50g) ×2
+- [x] [[Toor Dal]] — Coconut Thogaiyal (1 spoon) ×3, Tiffin Sambar (50g) ×2
 - [ ] [[Nurri]] — One-off
 - [ ] [[Water]] — One-off
 - [ ] [[Coconut Water]] — One-off
 
 ## Fred Meyer
-- [ ] [[Cilantro]] — Vegetable Pulao (½ cup) ×2, Burani Raita (for garnish) ×2, Tofu Burji (to garnish) ×2, Tiffin Sambar (finely chopped, to garnish) ×2
-- [ ] [[Ginger]] — Vegetable Pulao (1 inch) ×2, Matar Paneer Masala (1 inch) ×2, Coconut Thogaiyal (1 inch (optional)) ×3, Curd Rice (grated) ×2
+- [x] [[Cilantro]] — Vegetable Pulao (½ cup) ×2, Burani Raita (for garnish) ×2, Tofu Burji (to garnish) ×2, Tiffin Sambar (finely chopped, to garnish) ×2
+- [x] [[Ginger]] — Vegetable Pulao (1 inch) ×2, Matar Paneer Masala (1 inch) ×2, Coconut Thogaiyal (1 inch (optional)) ×3, Curd Rice (grated) ×2
 - [ ] [[Onion]] — Vegetable Pulao (½, sliced) ×2, Matar Paneer Masala (1, chopped) ×2, Tofu Burji (1, cut) ×2, Tiffin Sambar (1, cubed (not too small)) ×2, Methi Mushroom Masala (2 medium, finely chopped) ×2
 - [ ] [[Tomato]] — Vegetable Pulao (½, diced) ×2, Matar Paneer Masala (3-4, chopped) ×2, Tofu Burji (1, cut) ×2, Tiffin Sambar (1, cut) ×2, Methi Mushroom Masala (2 medium, pureed or finely chopped) ×2
 - [ ] [[Beans]] — Vegetable Pulao (few) ×2, Beans poriyal (cut, of choice) ×3
