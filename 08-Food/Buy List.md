@@ -9,6 +9,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Basil leaves]]
 - [ ] [[Coconut Water]]
 - [ ] [[Roasted edamame]]
+- [ ] [[Gr]]
 
 
 ## Regulars
@@ -16,8 +17,9 @@ checked items automatically; unchecked ones stay for next time.
 Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
 - [ ] [[Milk]]
-- [ ] [[Roti]]
-- [ ] [[Tofu]]
-- [ ] [[Seitan]]
-- [ ] [[Tempeh]]
+- [x] [[Roti]]
+- [x] [[Tofu]]
+- [x] [[Seitan]]
+- [x] [[Tempeh]]
 - [ ] [[Bread]]
+- [x] [[Greek Yogurt]]

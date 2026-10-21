@@ -1,8 +1,4 @@
-# Meal Plan — week of 2026-10-21
-
-## Wed 10-21
-### Lunch
-### Dinner
+# Meal Plan — week of 2026-10-22
 
 ## Thu 10-22
 ### Lunch
@@ -20,16 +16,44 @@
 
 ## Sat 10-24
 ### Lunch
+- [[Tofu Burji]]
 ### Dinner
+Date 
 
 ## Sun 10-25
 ### Lunch
+- [[Vathakuzhambu]]
+- [[Potato poriyal]]
 ### Dinner
+- [[Tofu Burji]]
 
 ## Mon 10-26
 ### Lunch
+- [[Vathakuzhambu]]
+- [[Potato poriyal]]
 ### Dinner
+- [[Tiffin Sambar]]
+- [[Idly]]
 
 ## Tue 10-27
 ### Lunch
+- [[Vathakuzhambu]]
+- [[Beans poriyal]]
 ### Dinner
+- [[Tiffin Sambar]]
+- [[Idly]]
+
+## Wed 10-28
+### Lunch
+- [[Curd Rice]]
+- [[Beans poriyal]]
+
+### Dinner
+
+## Thu 10-29
+
+### Lunch
+- [[Curd Rice]]
+- [[Beans poriyal]]
+
+### Dinner 
