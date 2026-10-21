@@ -24,3 +24,6 @@ Persistent menu — checked Regulars are unticked by the sweep, never removed.
 - [x] [[Tempeh]]
 - [ ] [[Bread]]
 - [x] [[Greek Yogurt]]
+- [ ] [[Edamame]]
+- [ ] [[Soya chunks]]
+- [ ] [[Paneer]]
