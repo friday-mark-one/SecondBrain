@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "drinking water"
+category:
+preferred: Kirkland signature water
 ---

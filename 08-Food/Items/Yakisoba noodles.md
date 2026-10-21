@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "yakisoba noodles"
+category:
+preferred: Frozen yakisoba noodles
 ---

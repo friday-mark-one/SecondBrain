@@ -1,6 +1,6 @@
 ---
 type: item
-store: Fred Meyer
-category: 
-preferred: "seitan"
+store: Whole foods
+category:
+preferred: Uptons natural seitan chorizo
 ---

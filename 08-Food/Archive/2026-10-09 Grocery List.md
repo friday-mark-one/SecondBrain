@@ -85,7 +85,7 @@
 
 ## ⚠️ Needs a store assigned
 - [ ] [[Roasted edamame]] — One-off
-- [ ] [[Snap peas]] — One-off
+- [ ] [[Harvest snaps]] — One-off
 
 ## ⚠️ Missing item note
 - [ ] [[Mustard seeds]] — Beans poriyal (½ tsp) ×2, Potato poriyal (½ tsp) ×2

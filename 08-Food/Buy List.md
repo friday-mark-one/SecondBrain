@@ -5,7 +5,7 @@ Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`)
 checked items automatically; unchecked ones stay for next time.
 
 - [ ] [[Nurri]]
-- [ ] [[Water pack]]
+- [ ] [[Water]]
 - [ ] [[Basil leaves]]
 - [ ] [[Coconut Water]]
 - [ ] [[Roasted edamame]]

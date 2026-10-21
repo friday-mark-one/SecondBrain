@@ -1,6 +1,6 @@
 ---
 type: item
 store: Fred Meyer
-category: 
-preferred: "Parmesan cheese"
+category:
+preferred: Shredded Parmesan cheese
 ---

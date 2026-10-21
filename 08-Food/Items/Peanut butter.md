@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "creamy peanut butter"
+category:
+preferred: Jif creamy peanut butter
 ---

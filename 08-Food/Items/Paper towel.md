@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "paper towels"
+category:
+preferred: Bounty paper towels
 ---

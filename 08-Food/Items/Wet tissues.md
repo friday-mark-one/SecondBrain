@@ -1,6 +1,6 @@
 ---
 type: item
 store: Fred Meyer
-category: 
-preferred: "wet wipes"
+category:
+preferred: Cottonelle wet wipes
 ---

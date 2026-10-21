@@ -1,6 +1,6 @@
 ---
 type: item
-store: Costco
+store: Trader joes
 category:
-preferred: Roasted edamame
+preferred: Shell removed refrigerated edamame
 ---

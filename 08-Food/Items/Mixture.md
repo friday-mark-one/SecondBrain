@@ -1,6 +1,6 @@
 ---
 type: item
 store: Indian Store
-category: 
-preferred: "Indian namkeen mixture"
+category:
+preferred: Bombay mixture or dal biji or dal muth
 ---

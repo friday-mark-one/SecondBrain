@@ -5,7 +5,6 @@ hint: general todo list
 pinned: true
 ---
 
-- [ ] Doctor appointment for annual physical
 - [ ] Buy cap 
 - [ ] Yoga class
 - [ ] Wedding album check

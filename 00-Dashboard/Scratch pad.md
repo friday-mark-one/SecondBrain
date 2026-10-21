@@ -52,13 +52,13 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] start date from next day
 	- [x] buy list one off item don't need quantity by default
 	- [ ] cookbook + should show multi select option
-	- [ ] More categories to cookbook
-	- [ ] Augment items metadata for online ordering
+	- [x] More categories to cookbook
+	- [x] Augment items metadata for online ordering
 	- [ ] checked items should move to the bottom
+	- [ ] Move non food items out of food folder
 - [x] Move notion notes
 	- [x] Restaurant journal
 	- [x] Duplicate project ideas notes
 - [x] Trading agent 
 	- [x] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==
-- [ ] Poriyal clone
-- [ ] Move non food items out of food folder
+- [x] Poriyal clone

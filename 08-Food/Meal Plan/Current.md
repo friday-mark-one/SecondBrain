@@ -50,13 +50,17 @@ Date
 ### Lunch
 - [[Curd Rice]]
 - [[Beans poriyal]]
+- [[Puliyodharai]]
 
 ### Dinner
+- [[Methi Mushroom Masala]]
 
 ## Thu 10-29
 
 ### Lunch
 - [[Curd Rice]]
 - [[Beans poriyal]]
+- [[Puliyodharai]]
 
 ### Dinner 
+- [[Methi Mushroom Masala]]

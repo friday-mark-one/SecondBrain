@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "Nurri"
+category:
+preferred: Vanilla Nurri
 ---

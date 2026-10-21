@@ -1,6 +1,6 @@
 ---
 type: item
-store: 
-category: 
-preferred: "roasted edamame"
+store: Costco
+category:
+preferred: roasted edamame
 ---

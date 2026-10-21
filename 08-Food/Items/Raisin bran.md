@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "Raisin Bran cereal"
+category:
+preferred: Raisin Bran crunch cereal
 ---

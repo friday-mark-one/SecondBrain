@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "rolled oats"
+category:
+preferred: Sprouted rolled oats
 ---

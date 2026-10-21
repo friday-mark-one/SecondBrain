@@ -1,6 +1,6 @@
 ---
 type: item
 store: Indian Store
-category: 
-preferred: "soya chunks"
+category:
+preferred: Nutrela Mini soya chunks
 ---
