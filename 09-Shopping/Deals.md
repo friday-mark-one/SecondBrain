@@ -1,5 +1,49 @@
 # Deals
 
+## 2026-10-21
+- Linux Foundation Education — last chance: up to 40% off cybersecurity training — expires no date — no code
+- Fabletics — Holiday collection sneak peek, drops 10/23 — expires no date — preview only
+- evo — Anniversary Sale: 20% off one full-price item for members — expires no date — members only
+- Pinterest — travel souvenir & map-wall idea searches — expires no date — inspiration, no offer
+- Too Good To Go — food-waste habit newsletter — expires no date — no offer
+- Points Insider — newsletter: Bilt 1:1 JetBlue, up to 40% off Amazon with Citi points — expires no date — no offer
+- Weee! — Fresh Tuesday produce drop — expires no date — no code
+- Chase Sapphire Preferred — Peloton Treads holiday promo — expires no date — cardholder promo
+- Aroma Restaurant — holiday party packages for teams & families — expires no date — enquiry only
+- Cinemark — Dune: Part Three advance tickets on sale — expires no date — no code
+- Live2Dance Seattle — Diwali celebration tickets, selling out — expires no date — book slots
+- Fandango — tickets now on sale — expires no date — no code
+- Bilt — new 1:1 points transfer to JetBlue TrueBlue — expires no date — transfer feature
+- H&M — H&M MOVE city-run collection — expires no date — no offer
+- JetBlue — fall flights & vacation packages — expires no date — no code
+- Etsy — seasonal trend edit: tablescape, art, candles — expires no date — inspiration
+- Going — Copenhagen flights from $480 (Dec) — expires no date — deal fare
+- Fabletics — Fall Uniform collection on sale — expires no date — no code
+- Going — Tokyo flights $833–$838 (Dec–Jan) — expires no date — deal fare
+- Going — Premium membership reminder, what it includes — expires no date — no offer
+- evo — 25th Anniversary Sale, up to 50% off gear — expires Oct 22 — no code
+- ANA — Japan winter snow escapes: routes & fares — expires no date — no offer
+- Kohl's — lowest prices + Kohl's Cash, up to 85% off clearance — expires no date — no code
+- Daily Harvest — new Golden Latte & Mocha protein smoothies; 15% off for SMS signup — expires no date — SMS signup
+- evo — Anniversary Sale ends 10/22; fall layers — expires Oct 22 — no code
+- Weee! — new arrivals just landed — expires no date — no code
+- Going — Hawaii flight deal from saved destinations — expires no date — deal fare
+- Pinterest — 'Blue Background' inspiration board — expires no date — inspiration, no offer
+- NerdWallet — cheapest car insurance companies article — expires no date — no offer
+- Fabletics — VIP deal: two items, big discount — expires no date — VIP members
+- PointsYeah — premium economy to Asia from 50k pts; Alaska buy-points bonus up to 120% ends today — expires Oct 19 — no code
+- CardPointers — auto-add card offers / offer streak nudge — expires no date — tool promo
+- Costco — member-only savings event live now — expires no date — members only
+- H&M — ELIE SAAB H&M launch 10/29 — expires no date — launch only
+- NerdWallet — personal loan rates from 5.99% — expires no date — no offer
+- Fandango — The Cat in the Hat tickets — expires no date — no code
+- Life Time — holiday rejoin/membership pricing — expires no date — rejoin offer
+- H&M — gift edit: one less gift to find — expires no date — no offer
+- ID.me Shop — student deals: 30% off Under Armour (last day), 10% off Oura, 15% off Crocs — expires Oct 19 — verified students
+- IndiGo BluChip — Blu October Festival: 2x BluChips — expires no date — members
+- Pandora — buy 2 get 1 free — expires Oct 21 — online & in store
+- Kohl's — lowest prices + up to 85% off clearance after extra 50% off — expires no date — no code
+
 ## 2026-10-19
 - Too Good To Go — new local stores added in the app — expires no date — app discovery, no code
 - Fabletics — "THIS IS IT" sale ending soon — expires no date — no code

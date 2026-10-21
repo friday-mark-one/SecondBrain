@@ -9,8 +9,8 @@ meal_slots:
   - Lunch
   - Dinner
 default_plan_days: 7
-grocery_detail: full
-grocery_preferred: on
+grocery_detail: off
+grocery_preferred: off
 ---
 
 # Config
