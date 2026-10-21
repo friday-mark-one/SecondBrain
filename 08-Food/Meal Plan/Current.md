@@ -6,11 +6,17 @@
 
 ## Thu 10-22
 ### Lunch
+- [[Vegetable Pulao]]
+- [[Burani Raita]]
 ### Dinner
+- [[Paneer Matar Masala]]
 
 ## Fri 10-23
 ### Lunch
+- [[Vegetable Pulao]]
+- [[Burani Raita]]
 ### Dinner
+- [[Paneer Matar Masala]]
 
 ## Sat 10-24
 ### Lunch
