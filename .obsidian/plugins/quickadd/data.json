@@ -163,6 +163,26 @@
       }
     },
     {
+      "id": "e1dfa82f-9b1f-4822-962f-d5f8293032ee",
+      "name": "Toggle grocery preferred",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Toggle grocery preferred",
+        "id": "e6260b8e-7173-4893-ac85-77ccecdf0b0d",
+        "commands": [
+          {
+            "name": "toggle-preferred",
+            "type": "UserScript",
+            "id": "b6f034be-f193-439e-a037-ec1ba5cc816b",
+            "path": "80-LifeOS/_scripts/commands/toggle-preferred.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
       "id": "ba469ba8-6dd2-4578-9e05-5476253c6ffc",
       "name": "Add to Restaurants",
       "type": "Macro",

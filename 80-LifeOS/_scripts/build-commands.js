@@ -12,6 +12,7 @@ const OUT = path.join(__dirname, "commands");
 const COMMANDS = [
   ["generate.js", "generateGroceryList"],
   ["toggle-detail.js", "toggleGroceryDetail"],
+  ["toggle-preferred.js", "toggleGroceryPreferred"],
   ["add-dish.js", "addDishToPlan"],
   ["new-plan.js", "newWeeklyPlan"],
   ["after-shopping.js", "afterShopping"],
