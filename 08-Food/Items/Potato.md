@@ -1,7 +1,8 @@
 ---
 type: item
 store: Fred Meyer
-category: 
+category:
+preferred: Yukon gold potatoes
 shelf_life_days: 30
 heads_up_days: 3
 expires: 2026-10-16

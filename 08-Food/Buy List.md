@@ -9,7 +9,8 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Basil leaves]]
 - [ ] [[Coconut Water]]
 - [ ] [[Roasted edamame]]
-- [ ] [[Gr]]
+- [ ] [[Groundnut oil]]
+- [ ] [[Low fat paneer]]
 
 
 ## Regulars

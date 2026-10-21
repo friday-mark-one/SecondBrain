@@ -2,6 +2,7 @@
 type: item
 store: Fred Meyer
 category: 
+preferred: "sandwich bread"
 shelf_life_days: 6
 heads_up_days: 2
 expires: 2026-09-22

@@ -3,7 +3,7 @@ type: recipe
 category: North Indian
 ---
 ## Ingredients
-- [[Paneer]] | cubed
+- [[Low fat paneer]] | cubed
 - [[Onion]] | 2-3 total
 - [[Tomato]] | 3-5 total
 - [[Capsicum]] | ½-1
@@ -28,6 +28,6 @@ category: North Indian
 2. Oil+ghee, cumin; add chopped garlic + ginger, sauté.
 3. Add finely chopped onion, brown; turmeric, chilli powder + kadai masala, salt.
 4. Add chopped tomato; cook mushy, oil separates.
-5. Separately sauté onion/capsicum/tomato petals + paneer with garam masala on high.
+5. Separately sauté onion/capsicum/tomato petals + low fat paneer with garam masala on high.
 6. Combine with the paste, add water, cook 2 min.
 7. Finish cream, kasuri methi, coriander, julienne ginger.

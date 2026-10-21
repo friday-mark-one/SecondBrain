@@ -2,6 +2,7 @@
 type: item
 store: Fred Meyer
 category: 
+preferred: "heavy whipping cream"
 shelf_life_days: 10
 heads_up_days: 2
 expires: 2026-09-26

@@ -5,14 +5,14 @@
 - [[Vegetable Pulao]]
 - [[Burani Raita]]
 ### Dinner
-- [[Paneer Matar Masala]]
+- [[Matar Paneer Masala]]
 
 ## Fri 10-23
 ### Lunch
 - [[Vegetable Pulao]]
 - [[Burani Raita]]
 ### Dinner
-- [[Paneer Matar Masala]]
+- [[Matar Paneer Masala]]
 
 ## Sat 10-24
 ### Lunch
@@ -24,6 +24,7 @@ Date
 ### Lunch
 - [[Vathakuzhambu]]
 - [[Potato poriyal]]
+- [[Coconut Thogaiyal]]
 ### Dinner
 - [[Tofu Burji]]
 
@@ -31,6 +32,7 @@ Date
 ### Lunch
 - [[Vathakuzhambu]]
 - [[Potato poriyal]]
+- [[Coconut Thogaiyal]]
 ### Dinner
 - [[Tiffin Sambar]]
 - [[Idly]]
@@ -39,6 +41,7 @@ Date
 ### Lunch
 - [[Vathakuzhambu]]
 - [[Beans poriyal]]
+- [[Coconut Thogaiyal]]
 ### Dinner
 - [[Tiffin Sambar]]
 - [[Idly]]

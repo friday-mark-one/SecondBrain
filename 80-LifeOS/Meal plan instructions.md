@@ -10,7 +10,10 @@ All paths below are relative to the vault root `~/SecondBrain/`
 ## Layout
 - `08-Food/Items/<Name>.md` — one note per ingredient/staple/item. Frontmatter:
   `type: item`, `store: <Costco|Fred Meyer|Indian Store|Trader Joes|Bath & Body works>`
-  (or any new store mentioned other than these), optional `category`. 
+  (or any new store mentioned other than these), optional `category`, and
+  `preferred` — a quoted plain-English search string used to look the item up when
+  ordering online (e.g. `preferred: "plain whole milk yogurt"` for Curd). Write it the
+  way the product is labeled in a US online grocery search, not the vault's nickname.
   The note name IS the `[[wikilink]]` recipes or buy list items use.
   - `store` may be a single value OR a list, e.g. `store: [Fred Meyer, Costco]`, for
     an item sold at several stores. It then appears under EACH of those stores on the
@@ -36,7 +39,8 @@ All paths below are relative to the vault root `~/SecondBrain/`
 - `08-Food/Cooking References.md` — rice/upma ratios, Instapot timings (NOT recipes).
 
 ## Procedures
-- **Add an item:** Create `Items/<Title Case Name>.md` from `_templates/Item.md`; set its `store`.
+- **Add an item:** Create `Items/<Title Case Name>.md` from `_templates/Item.md`; set its
+  `store` and its `preferred` online-order search string.
 - **Change an item's store(s):** edit only that one `Items/<Name>.md` `store` field
   (a single store, or a `[A, B]` list for an item sold at several).
 - **Add / edit a recipe:** Edit the `Recipes/<Dish>.md` note directly. 
