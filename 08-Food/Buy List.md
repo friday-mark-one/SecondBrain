@@ -19,10 +19,11 @@ Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
 - [ ] [[Milk]]
 - [x] [[Roti]]
+- [ ] [[Cereal]]
+- [ ] [[Milk]]
 - [x] [[Tofu]]
 - [x] [[Seitan]]
 - [x] [[Tempeh]]
-- [ ] [[Bread]]
 - [x] [[Greek Yogurt]]
 - [ ] [[Edamame]]
 - [ ] [[Soya chunks]]
