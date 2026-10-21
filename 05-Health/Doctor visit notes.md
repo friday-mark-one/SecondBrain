@@ -14,3 +14,10 @@ pinned: false
 	- [ ] Knee pain
 	- [ ] Shoulder pain
 - [ ] Sex health
+
+Diabetes
+Cholesterol
+BP
+B12, D
+Hairfall - related tests
+Sex health related tests
