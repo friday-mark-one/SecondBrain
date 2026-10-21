@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "medjool dates"
+category:
+preferred: Deglet dates
 ---

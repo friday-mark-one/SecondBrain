@@ -7,7 +7,7 @@ category: South Indian
 - [[Onion]] | ½, cubed
 - [[Carrot]] | 1
 - [[Potato]] | 1, cubed
-- [[Frozen peas]] | ¼ cup
+- [[Peas]] | ¼ cup
 - [[Beans]] | 5
 - [[Tomato]] | ½
 - [[Coriander seeds]] | ¼ cup

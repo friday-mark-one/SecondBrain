@@ -3,7 +3,7 @@ type: recipe
 category: North Indian
 ---
 ## Ingredients
-- [[Low fat paneer]] | soaked, cubed
+- [[Paneer]] | soaked, cubed
 - [[Onion]] | 1
 - [[Tomato]] | 3-4
 - [[Ginger]] | 1 inch
@@ -19,9 +19,9 @@ category: North Indian
 - [[Kasuri methi]] | to finish
 
 ## Directions
-1. Soak low fat paneer in warm salt water.
+1. Soak paneer in warm salt water.
 2. Butter; sauté onion till translucent.
 3. Add tomato, cashews, ginger, garlic; cook mushy; cool and grind (add water).
 4. Butter + elaichi, bay leaf, cinnamon; add the paste.
 5. Add salt, chilli powder, garam masala, sugar; cook 5 min.
-6. Add low fat paneer, cook 2 min; finish kasuri methi.
+6. Add paneer, cook 2 min; finish kasuri methi.

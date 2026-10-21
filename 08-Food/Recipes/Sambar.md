@@ -8,7 +8,7 @@ category: South Indian
 - [[Asafotida]] | a pinch
 - [[Fenugreek seeds]] | pinch (fenugreek)
 - [[Curry leaves]] | few
-- [[Bhindi]] | or veg of choice
+- [[Okra]] | or veg of choice
 - [[Brinjal]] | optional
 - [[Carrot]] | optional
 - [[Pearl onions]] | optional

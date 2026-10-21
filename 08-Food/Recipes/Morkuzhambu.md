@@ -15,7 +15,7 @@ category: South Indian
 - [[Asafotida]] | pinch
 - [[Curry leaves]] | few
 - [[Cilantro]] | few
-- [[Bhindi]] | cut, 1 cup
+- [[Okra]] | cut, 1 cup
 - [[Curd]] | 100 ml
 
 ## Directions

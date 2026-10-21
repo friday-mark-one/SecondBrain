@@ -42,7 +42,7 @@
 - [x] [[Beans]] — Rava Upma (as needed)
 - [x] [[Potato]] — Rava Upma (as needed)
 - [x] [[Frozen peas]] — One-off
-- [x] [[Ghost protein cereal]] — One-off
+- [x] [[Cereal]] — One-off
 - [x] [[Avocado oil spray]] — One-off
 
 

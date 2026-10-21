@@ -1,9 +1,9 @@
 ---
 type: item
 store: Indian Store
-category: 
-preferred: "fresh coconut"
-shelf_life_days: 14
-heads_up_days: 3
+category:
+preferred: Frozen coconut
+shelf_life_days: 180
+heads_up_days: 25
 expires: 2026-10-23
 ---

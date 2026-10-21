@@ -11,7 +11,7 @@ category: North Indian
 - [[Ginger garlic paste]] | 1 tbsp
 - [[Tomato]] | 1, cut
 - [[Tofu]] | 1 pack, crumbled
-- [[Frozen peas]] | boiled
+- [[Peas]] | boiled
 - [[Garam masala]] | 1 tsp
 - [[Red chilli powder]] | ½ tsp
 - [[Cilantro]] | to garnish

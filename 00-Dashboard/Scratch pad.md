@@ -61,3 +61,4 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 - [x] Trading agent 
 	- [x] https://www.instagram.com/p/DaLmITTjNqR/?igsh=MW5zYm0xenJ1Ym84eg==
 - [ ] Poriyal clone
+- [ ] Move non food items out of food folder

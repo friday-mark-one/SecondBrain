@@ -16,7 +16,7 @@ category: South Indian
 - [[Tomato]] | ½, diced
 - [[Beans]] | few
 - [[Potato]] | ½
-- [[Frozen peas]] | ¼ cup
+- [[Peas]] | ¼ cup
 - [[Carrot]] | ½
 - [[Capsicum]] | ½
 - [[Ghee]] | 2 spoons

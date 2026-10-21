@@ -9,7 +9,7 @@ category: North Indian
 - [[Beans]] | 10
 - [[Carrot]] | ½, striped
 - [[Tomato]] | 2-2.5 total
-- [[Frozen peas]] | 3 spoons
+- [[Peas]] | 3 spoons
 - [[Baby corn]] | 5, chopped
 - [[Capsicum]] | 1.5, strips
 - [[Cumin seeds]] | 1 tsp

@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "coconut water"
+category:
+preferred: Kirkland organic coconut water
 ---

@@ -1,6 +1,6 @@
 ---
 type: item
 store: Indian Store
-category: 
-preferred: "sona masoori rice"
+category:
+preferred: Crystal sona masoori rice
 ---

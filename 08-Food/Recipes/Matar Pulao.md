@@ -9,7 +9,7 @@ category: North Indian
 - [[Green chilli]] | 2 slit + 2 for paste
 - [[Ginger]] | 1 piece (for paste)
 - [[Garlic]] | 4 cloves (for paste)
-- [[Frozen peas]] | 200g
+- [[Peas]] | 200g
 - [[Bay leaf]] | 1
 - [[Cinnamon]] | 1 piece
 - [[Cloves]] | few

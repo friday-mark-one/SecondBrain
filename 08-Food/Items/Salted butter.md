@@ -1,6 +1,6 @@
 ---
 type: item
 store: Costco
-category: 
-preferred: "salted butter"
+category:
+preferred: Kerrigold salted butter
 ---

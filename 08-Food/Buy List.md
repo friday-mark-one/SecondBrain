@@ -10,7 +10,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Coconut Water]]
 - [ ] [[Roasted edamame]]
 - [ ] [[Groundnut oil]]
-- [ ] [[Low fat paneer]]
+- [ ] [[Paneer]]
 
 
 ## Regulars

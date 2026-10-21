@@ -7,7 +7,7 @@ category: Snacks
 - [[Carrot]] | 2, boiled
 - [[Cauliflower]] | ½, boiled
 - [[Beans]] | 10, boiled
-- [[Frozen peas]] | ½ cup
+- [[Peas]] | ½ cup
 - [[Onion]] | 2 (1 mashed-veg, 1 for cooking)
 - [[Tomato]] | 2
 - [[Salted butter]] | 50g + extra
