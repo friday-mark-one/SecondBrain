@@ -1,56 +1,29 @@
-# Meal Plan — week of 2026-10-09
+# Meal Plan — week of 2026-10-21
 
-## Sat 10-10
+## Wed 10-21
 ### Lunch
-- [[Morkuzhambu]]
-- [[Beans poriyal]]
-- [[Avocado Toast]]
 ### Dinner
-- [[Tofu Burji]]
 
-## Sun 10-11
+## Thu 10-22
 ### Lunch
-- [[Morkuzhambu]]
-- [[Beans poriyal]]
 ### Dinner
-- [[Tofu Burji]]
 
-## Mon 10-12
+## Fri 10-23
 ### Lunch
-- [[Palak Paneer]]
 ### Dinner
-- [[Avocado Pasta]]
 
-## Tue 10-13
+## Sat 10-24
 ### Lunch
-- [[Palak Paneer]]
 ### Dinner
-- Qdoba
 
-## Wed 10-14
+## Sun 10-25
 ### Lunch
-- [[Sambar]]
-- [[Potato poriyal]]
 ### Dinner
-- [[Sesame Noodles]]
 
-## Thu 10-15
+## Mon 10-26
 ### Lunch
-- [[Sambar]]
-- [[Potato poriyal]]
 ### Dinner
-- [[Dal Makhani]]
 
-## Fri 10-16
+## Tue 10-27
 ### Lunch
-- [[Rasam]]
-- [[Palak Kootu]]
 ### Dinner
-- [[Dal Makhani]]
-
-## Sat 10-17
-### Lunch
-- [[Rasam]]
-- [[Palak Kootu]]
-### Dinner
-Outside
