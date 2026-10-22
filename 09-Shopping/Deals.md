@@ -1,5 +1,28 @@
 # Deals
 
+## 2026-10-22
+- Tata Capital Wealth — portfolio blind-spots pitch — no date — marketing email, no offer
+- Fabletics — 60% off 2 faves — expires Oct 21 (ended) — no code listed
+- MOD Pizza — new offer email — no date — no offer detail in email
+- Aroma Restaurant & Venue — $5 off next meal — limited time, no date — online orders
+- Pinterest — shelf/book-shelf idea recommendations — no date — no offer
+- DoorDash — generic craving promo — no date — no offer detail
+- NerdWallet — high-yield savings up to 4.10% APY — no date — comparison info
+- Pandora — Buy 2 get 1 FREE — final hours, ended Oct 21 — no code
+- Etsy — holiday gift ideas curation — no date — no discount stated
+- PointsYeah — 300,000-mile business card bonus + $1,300 travel credit — limited time, no date — requires ~$30k/mo spend
+- Club Pilates Bothell — fall/pumpkin-spice promo — no date — no offer detail
+- Climate Pledge Arena — Garth Brooks 3rd matinee show Nov 15 — tickets on sale Oct 23 10AM — sign up for text alerts
+- Spotify — rejoin Premium promo — no date — no price/offer detail
+- Sephora at Kohl's — upcoming Savings Event + beauty gifts $35 & under — no date — Beauty Insider required for early access 🔔 [[Gift ideas]]
+- NerdWallet — auto insurance savings up to $1,079/yr — no date — WA drivers from $89.92/mo comparison
+- DERU Catering — Thanksgiving shop open, chef-prepared ready-to-heat — order by Nov 18, pickup Nov 25 — limited quantities
+- Life Time — weekly wellness guide + recipes — no date — no offer
+- Pandora — Buy 2 get 1 FREE ends today — expires Oct 21 (ended) — no code
+- Going — Kerala travel newsletter — no date — no offer
+- evo — Anniversary Sale up to 50% off past-season ski/snowboard — ends Oct 22 — members 20% off one full-price item + 10% back
+- Kohl's — lowest prices + Kohl's Cash stacking — no date — no code
+
 ## 2026-10-21
 - Linux Foundation Education — last chance: up to 40% off cybersecurity training — expires no date — no code
 - Fabletics — Holiday collection sneak peek, drops 10/23 — expires no date — preview only

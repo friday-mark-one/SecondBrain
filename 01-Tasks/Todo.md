@@ -12,7 +12,6 @@ pinned: true
 - [ ] Car seat belt not tight
 - [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
-- [x] Improve Friday meal plan setup
 - [ ] Mira global entry 
 - [ ] 401k rollover
 - [ ] Mira
