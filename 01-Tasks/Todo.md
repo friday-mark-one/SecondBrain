@@ -7,6 +7,7 @@ pinned: true
 
 - [ ] Buy cap 
 - [ ] Yoga class
+- [ ] Car seat belt not toght
 - [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
 - [ ] Improve Friday meal plan setup
