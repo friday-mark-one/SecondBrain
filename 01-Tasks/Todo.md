@@ -5,6 +5,8 @@ hint: general todo list
 pinned: true
 ---
 
+- [ ] Diversify assets
+- [ ] Figure out tax for next year
 - [ ] Buy cap 
 - [ ] Yoga class
 - [ ] Car seat belt not toght
