@@ -9,10 +9,10 @@ pinned: true
 - [ ] Figure out tax for next year
 - [ ] Buy cap 
 - [ ] Yoga class
-- [ ] Car seat belt not toght
+- [ ] Car seat belt not tight
 - [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
-- [ ] Improve Friday meal plan setup
+- [x] Improve Friday meal plan setup
 - [ ] Mira global entry 
 - [ ] 401k rollover
 - [ ] Mira

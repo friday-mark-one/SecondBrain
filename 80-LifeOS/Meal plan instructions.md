@@ -68,6 +68,12 @@ All paths below are relative to the vault root `~/SecondBrain/`
 - **Track an item's expiry:** add `shelf_life_days` (and optionally
   `heads_up_days`) to that perishable's `Items/<Name>.md`. Don't edit `expires` field
 - **Which recipes use an item:** `grep -rl "\[\[<Item>\]\]" 08-Food/Recipes/`.
+- **Repeats = leftovers, not extra cooking:** a dish listed on several days (e.g.
+  Vathakuzhambu on Mon/Tue/Sun lunch) means cook once and eat it again. Grocery
+  generation de-duplicates dishes before expanding ingredients (`uniqueDishes()`),
+  so each recipe contributes its ingredients exactly once per week — never
+  "×2 / ×3" and never a doubled quantity. Adding the same recipe to 3 slots does
+  NOT buy 3 batches. To genuinely need two batches, use two *different* dishes.
 - Keep one spelling per item; the note name is the exact link recipes use.
 
 ## Ambiguity rule
