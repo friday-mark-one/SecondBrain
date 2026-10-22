@@ -49,3 +49,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-15 — AUTO: opening gap -4.7%
 - 2026-10-19 — AUTO: opening gap +3.9%
 - 2026-10-21 — AUTO: opening gap +3.1%
+- 2026-10-22 — AUTO: opening gap -3.7%
