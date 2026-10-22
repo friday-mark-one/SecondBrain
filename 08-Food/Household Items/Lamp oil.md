@@ -1,6 +1,7 @@
 ---
 type: item
+kind: household
 store: Indian Store
-category: 
+category: Household
 preferred: "lamp oil"
 ---

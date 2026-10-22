@@ -1,6 +1,7 @@
 ---
 type: item
+kind: household
 store: Fred Meyer
-category:
+category: Household
 preferred: Cottonelle wet wipes
 ---

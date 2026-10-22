@@ -4,7 +4,7 @@ category: Poriyal
 ---
 ## Ingredients
 - [[Groundnut oil]] | 2 tsp
-- [[Mustard seeds]] | ½ tsp
+- [[Mustard]] | ½ tsp
 - [[Channa dal]] | 1 tsp
 - [[Asafotida]] | a pinch
 - [[Green chilli]] | or dry red chili, as per requirement

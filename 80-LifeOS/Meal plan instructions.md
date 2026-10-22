@@ -10,8 +10,7 @@ All paths below are relative to the vault root `~/SecondBrain/`
 ## Layout
 - `08-Food/Items/<Name>.md` — one note per ingredient/staple/item. Frontmatter:
   `type: item`, `store: <Costco|Fred Meyer|Indian Store|Trader Joes|Bath & Body works>`
-  (or any new store mentioned other than these), optional `category`, and
-  `preferred` — a quoted plain-English search string used to look the item up when
+  (or any new store mentioned other than these), optional `category`, and `preferred` — a quoted plain-English search string used to look the item up when
   ordering online (e.g. `preferred: "plain whole milk yogurt"` for Curd). Write it the
   way the product is labeled in a US online grocery search, not the vault's nickname.
   The note name IS the `[[wikilink]]` recipes or buy list items use.
@@ -21,6 +20,14 @@ All paths below are relative to the vault root `~/SecondBrain/`
   - Optional expiry fields (opt-in, perishables only): `shelf_life_days` (int —
     its presence is what makes the item tracked), `heads_up_days` (int, days
     before expiry to start warning; absent ⇒ 0 = warn on expiry day only).
+- `08-Food/Household Items/<Name>.md` — same schema, plus `kind: household` and
+  `category: Household`. Non-food only: cleaning supplies, paper goods, toiletries,
+  hardware (Hanger, Tide pods, Toilet paper, Foil, Clorox…). Food NEVER goes here;
+  anything with `kind: household` is treated as household. Both item folders feed the
+  same store index, so household items still appear on the grocery list, grouped under
+  their store's `### 🏠 Household` sub-heading (after the food lines). Deciding which
+  folder: if you eat/drink it or cook with it → `Items/`; otherwise → `Household Items/`.
+  Recipes only ever reference food, so household notes never enter a recipe.
 - `08-Food/Recipes/<Dish>.md` — `type: recipe` + `category` + a `## Ingredients`
   section of `- [[Item]] | amount` lines + `## Directions`. `category` controls the shelf it
   appears under in `Cookbook.md`; use exactly one of: Breakfast, Tiffin, Sides,
@@ -29,6 +36,9 @@ All paths below are relative to the vault root `~/SecondBrain/`
   `[[Item]]` link or they're ignored). If the item doesn't exist, create it first in 
   `08-Food/Items/<Item>.md` with the necessary frontmatter as mentioned previously.
   Both sections are CHECKLISTS — every item is a `- [ ] [[Item]]` checkbox.
+  Household items (from `Household Items/`) go in here exactly like food — same
+  sections, same `[[wikilink]]` + optional `| amount`. The owner doesn't care
+  which folder the note lives in; the buy list is one list.
   - `## One-off` — throwaway items; by default add all shopping list items here.
   - `## Regulars` — a persistent menu of `- [ ] [[Item]]` checkboxes; add items only
     if they are mentioned as staples or regular items.
@@ -40,7 +50,12 @@ All paths below are relative to the vault root `~/SecondBrain/`
 
 ## Procedures
 - **Add an item:** Create `Items/<Title Case Name>.md` from `_templates/Item.md`; set its
-  `store` and its `preferred` online-order search string.
+  `store` and its `preferred` online-order search string. Non-food items go to
+  `Household Items/<Title Case Name>.md` with `kind: household` +
+  `category: Household` instead.
+- **Move a mis-filed item:** `git mv` between `Items/` and `Household Items/`, then add/remove
+  `kind: household` (and set `category: Household`). Wikilinks are basename-based, so
+  `[[Hanger]]` keeps resolving — no link edits needed.
 - **Change an item's store(s):** edit only that one `Items/<Name>.md` `store` field
   (a single store, or a `[A, B]` list for an item sold at several).
 - **Add / edit a recipe:** Edit the `Recipes/<Dish>.md` note directly. 

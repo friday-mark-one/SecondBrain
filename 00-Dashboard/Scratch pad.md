@@ -51,11 +51,11 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] more recipes
 	- [x] start date from next day
 	- [x] buy list one off item don't need quantity by default
-	- [ ] cookbook + should show multi select option
+	- [x] cookbook + should show multi select option
 	- [x] More categories to cookbook
 	- [x] Augment items metadata for online ordering
-	- [ ] checked items should move to the bottom
-	- [ ] Move non food items out of food folder
+	- [x] checked items should move to the bottom
+	- [x] Move non food items out of food folder
 - [x] Move notion notes
 	- [x] Restaurant journal
 	- [x] Duplicate project ideas notes

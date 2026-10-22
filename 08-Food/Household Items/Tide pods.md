@@ -1,6 +1,7 @@
 ---
 type: item
+kind: household
 store: Costco
-category: 
+category: Household
 preferred: "Tide laundry pods"
 ---

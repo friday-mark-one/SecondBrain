@@ -5,5 +5,5 @@ category:
 preferred: "fresh basil"
 shelf_life_days: 5
 heads_up_days: 2
-expires: 2026-09-21
+expires: 2026-10-26
 ---

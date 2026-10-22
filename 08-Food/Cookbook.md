@@ -1,7 +1,8 @@
 # Cookbook
 
-Browse dishes by category. Tap ➕ next to a dish, then pick a day/slot to add it
-to this week's plan. (View this note in Reading mode so the buttons work.)
+Browse dishes by category. Tap ➕ next to a dish, tick as many days/slots as you
+want, then Submit — the dish is added to every one of them. (View this note in
+Reading mode so the buttons work.)
 
 ```dataviewjs
 const qa = app.plugins.plugins.quickadd?.api;

@@ -4,13 +4,6 @@ Add non-recipe items here as the pantry runs low. Format: `- [ ] [[Item]] | amou
 Check an item once it's bought/done — the heartbeat sweep (`vault_sweeper.py`) removes
 checked items automatically; unchecked ones stay for next time.
 
-- [ ] [[Nurri]]
-- [ ] [[Water]]
-- [ ] [[Basil leaves]]
-- [ ] [[Coconut Water]]
-- [ ] [[Roasted edamame]]
-- [ ] [[Groundnut oil]]
-- [ ] [[Paneer]]
 
 
 ## Regulars
@@ -18,13 +11,13 @@ checked items automatically; unchecked ones stay for next time.
 Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
 - [ ] [[Milk]]
-- [x] [[Roti]]
+- [ ] [[Roti]]
 - [ ] [[Cereal]]
 - [ ] [[Milk]]
-- [x] [[Tofu]]
-- [x] [[Seitan]]
-- [x] [[Tempeh]]
-- [x] [[Greek Yogurt]]
+- [ ] [[Tofu]]
+- [ ] [[Seitan]]
+- [ ] [[Tempeh]]
+- [ ] [[Greek Yogurt]]
 - [ ] [[Edamame]]
 - [ ] [[Soya chunks]]
 - [ ] [[Paneer]]

@@ -5,4 +5,5 @@ category:
 preferred: "fresh methi leaves (fenugreek leaves)"
 shelf_life_days: 4
 heads_up_days: 1
+expires: 2026-10-25
 ---
