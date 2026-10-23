@@ -36,3 +36,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-24 — AUTO: new 52-week high. Headlines: BJ's Q2 Earnings Beat on Traffic & Membership Momentum, Outlook Raised | Earnings Estimates Moving Higher for Target (TGT): Time to Buy? | Are You Looking for a Top Momentum Pick? Why Target (TGT) is a Great Choice
 - 2026-10-05 — AUTO: crossed below its 50d average
 - 2026-10-22 — AUTO: crossed above its 50d average
+- 2026-10-23 — AUTO: crossed below its 50d average
