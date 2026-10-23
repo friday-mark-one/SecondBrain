@@ -1,5 +1,35 @@
 # Deals
 
+## 2026-10-23
+- The Leela Palaces — "Signatures by The Leela" Diwali gifting collection — no date — hotel stay/gift info, no code
+- Kohl's — Lowest Prices of the Season: up to 85% off clearance + Kohl's Cash — no date — kohls.com, no code
+- Cinemark — New & Now: weekly releases, 29 Movie Fan points — no date — no offer, tickets at cinemark.com
+- Climate Pledge Arena — Garth Brooks "Blame It All On My Roots" Nov 13–15 — on sale Fri 10/22 10:00 AM — 3 Seattle shows
+- Pandora — New arrivals + 2x points on charms for My Pandora members — no date — members only
+- Weee! — Crazy 8 sale, last call on favorite deals — ends 10/22 — grocery deals, no code
+- Fabletics — VIP sitewide event, "everything included" (Platinum tier, 550 pts) — no date — VIP pricing
+- Pinterest — Drawing aesthetic recommendations — no date — no offer (content recs)
+- Chase — Holiday spending planner tools — no date — no offer
+- My Best Buy Visa (Citi) — 12-mo special financing on eligible purchases ($549+), 6-mo on $299–$548.99 — activate by 11/6/2026, valid through 12/31/2026 — must activate first
+- Points Insider by PointsYeah — new Amex hotel credit rule; United Houston club; Atmos Summit 100K offer — no date — newsletter, no code
+- One Medical — Post-visit feedback survey (Capitol Hill, 10/21) — no date — no offer
+- Social Security Administration — Trump Accounts for children now open to claim — no date — gov program info, no offer
+- Uber — Safety feedback survey — no date — no offer
+- Etsy — Custom charm necklaces (based on your taste) — no date — gift idea, no code 🔔 [[Gift ideas]]
+- Costco Travel — All-inclusive resorts, family-friendly & adults-only, this week's hot buys — no date — members only
+- NerdWallet — High-yield savings rates up; compare accounts — no date — no offer
+- Lumen Field — Zach Bryan presale tickets — no date — presale link (body empty)
+- Live2Dance Seattle — Diwali Mela, 4 days out, slots selling fast — no date — food/music/shopping event, tickets
+- Life Time Bellevue — Complimentary refresher club tour invite — no date — by appointment, no code
+- H&M — Fall styling formulas (plaid, leather, bold accessories) — no date — no code
+- NerdWallet — Credit card debt payoff tools — no date — no offer
+- ID.me Shop — Student deals: 15% off, Black Friday price guarantee on select LG OLED TVs/appliances, up to $400 off getaways, 10% off Oura Ring 4/5 — no date — verified students only
+- Going — Holiday travel savings watch — no date — no specific fare, no code
+- evo — Anniversary Sale last day: up to 50% off past-season ski/snowboard; members 20% off one full-price item + 10% back — expires 10/22/2026 11:59 PM PST — members only, code in account
+- Going — Tokyo roundtrip $755 (Dec 2026–Jan 2027) — no date — book via Going link
+- JetBlue — Fall flight & vacation package sale — no date — see fare rules, no code
+- Kohl's — Earn Kohl's Cash on your purchase — no date — no code
+
 ## 2026-10-22
 - Tata Capital Wealth — portfolio blind-spots pitch — no date — marketing email, no offer
 - Fabletics — 60% off 2 faves — expires Oct 21 (ended) — no code listed
