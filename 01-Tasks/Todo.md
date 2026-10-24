@@ -7,6 +7,8 @@ pinned: true
 
 - [ ] Diversify assets
 - [ ] Figure out tax for next year
+- [ ] Secure bank account
+- [ ] Secure gmail
 - [ ] Buy cap 
 - [ ] Yoga class
 - [ ] Car seat belt not tight
