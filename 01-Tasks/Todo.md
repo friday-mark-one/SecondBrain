@@ -11,6 +11,7 @@ pinned: true
 - [ ] Secure gmail
 - [ ] Buy cap 
 - [ ] Yoga class
+- [ ] Mac mini update
 - [ ] Car seat belt not tight
 - [ ] Wedding album check
 - [ ] Cancel snowboard pass before Nov 15
