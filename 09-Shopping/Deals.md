@@ -1,5 +1,41 @@
 # Deals
 
+## 2026-10-24
+- Macy's — $7.99+ pillows & sheets, $19.99 comforters (lowest prices of the season, home) — expires 10/31 — no code
+- MOD Pizza — Buy one MOD-size pizza or salad, get one kids meal free — Sundays only — participating US locations
+- Weee! — Diwali week savings on groceries — no date
+- Michaels Custom Framing — 70% off custom framing — no date
+- Michaels — 40% off in-store coupon on new holiday décor — no date — in-store coupon, limit 1
+- Nordstrom — fresh markdowns up to 40% off — no date
+- Frontier Airlines — buy miles with up to 150% bonus — expires 10/23 (tonight) — last call
+- Macy's — up to 75% off gold, gemstones, pearls & diamonds (Diamond Sale) — expires 10/25 — no code
+- Blick Art Materials — 15% off creative gifts — no date
+- Nordstrom Rack — top brands & new arrivals up to 50% off — no date
+- HomeGoods — storewide markdowns — no date
+- Groupon — FEELartistic deal waiting in account — no date
+- Macy's — up to 60% off top holiday gifts; ornaments from $6 (9 Fridays to go) — no date
+- evo — Anniversary Sale extended (snow & bike) — no date
+- Pandora — double points on charms — no date — loyalty members
+- IndiGo BluChip — 2x BluChips during Blu October Festival — no date
+- Michaels — free craft pumpkin with in-store purchase + 40% off — 3 days only
+- Kohl's — up to 85% off clearance + Kohl's Cash (Lowest Prices of the Season) — no date
+- Michaels — up to 50% off Vintage Spirits Halloween décor — no date
+- Macy's — under $50 holiday hosting finds; dinnerware & serveware (Biggest Fall Sale) — no date — 🔔 [[Gift ideas]]
+- HomeGoods — Halloween clearance up to 70% less — no date
+- Lyft — 30% off 3 rides — ends soon
+- Macy's — up to 50% off fall work outfits — no date
+- Nordstrom Rack — designer sunglasses private sale (Shop It First) — no date — Nordy Club early access
+- Kohl's — Lowest Prices of the Season finds + Kohl's Cash — no date
+- Macy's — up to 50% off Calvin Klein underwear & more — no date
+- Michaels — up to 50% off Halloween monster deals — no date
+- J.Crew Factory — 40% off new arrivals + extra 30% off (stackable) — no date
+- Macy's — 25% off Nike, adidas & more activewear — no date
+- Sephora at Kohl's — 10% off during Sephora Savings Event (starts soon) + beauty gifts under $35 — no date
+- Nordstrom Rack — Get Outdoors ft. Merrell; Peter Millar new-in up to 60% off — no date
+- Nordy Club — cardmembers earn 10 points per dollar — through Sunday
+- J.Crew Factory — 40% off all new arrivals — no date
+- Kohl's — Lowest Prices of the Season: top finds + stacked Kohl's Cash — no date
+
 ## 2026-10-23
 - The Leela Palaces — "Signatures by The Leela" Diwali gifting collection — no date — hotel stay/gift info, no code
 - Kohl's — Lowest Prices of the Season: up to 85% off clearance + Kohl's Cash — no date — kohls.com, no code
