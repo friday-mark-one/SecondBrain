@@ -12,9 +12,11 @@ Metrics: **Weight** (lbs) · **Waist** (in) · **Body fat** (%)
 | Date | Weight (lbs) | Waist (in) | Body fat (%) |
 | --- | --- | --- | --- |
 | 2026-10-02 | 141.4 | 34 | — |
+| 2026-10-24 | 141.6 | 34 | — |
 
 ## Mira
 
 | Date | Weight (lbs) | Waist (in) | Body fat (%) |
 | --- | --- | --- | --- |
 | 2026-10-02 | 139 | 33.5 | — |
+| 2026-10-24 | 137.4 | 32 | — |
