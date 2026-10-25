@@ -12,3 +12,4 @@
 - 2026-10-04 03:08 — WEEKLY: 📈 Options copilot — week of 2026-10-04 | Monitor liveness: 5559 runs since last digest (last: 2026-10-04T03:08-04:00). | No closed trades yet. | Personality notes refreshed: 18/18.
 - 2026-10-11 03:08 — WEEKLY: 📈 Options copilot — week of 2026-10-11 | Monitor liveness: 6235 runs since last digest (last: 2026-10-11T02:52-04:00). | No closed trades yet. | Personality notes refreshed: 18/18.
 - 2026-10-18 03:08 — WEEKLY: 📈 Options copilot — week of 2026-10-18 | Monitor liveness: 6758 runs since last digest (last: 2026-10-18T03:08-04:00). | No closed trades yet. | Personality notes refreshed: 18/18.
+- 2026-10-25 03:08 — WEEKLY: 📈 Options copilot — week of 2026-10-25 | Monitor liveness: 3706 runs since last digest (last: 2026-10-25T03:07-04:00). | No closed trades yet. | Personality notes refreshed: 18/18.

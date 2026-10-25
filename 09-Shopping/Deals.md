@@ -1,5 +1,19 @@
 # Deals
 
+## 2026-10-25
+- Kohl's — up to 85% off clearance after extra 50% off, plus Kohl's Cash — expires 10/25/26 (last day) — coupon-eligible brands only
+- Kohl's — lowest prices of the season: up to 85% off clearance after extra 50% off, $10 & $20 price points — no date (limited time) — kohls.com/in-store
+- Fabletics — 50% off sitewide + extra 10% off — expires 10/31/26 11:59 PM PT — code EXTRA10, VIP only, excludes Scrubs
+- H&M — 20% off order (25% off for Plus members) — expires 10/25/26 — members online only, auto-applied, excludes sale/furniture/H&M Studio
+- MOD Pizza — free Kids Meal for kids 12 & under in costume with regular pizza or salad — valid 10/31/26 only — in-restaurant, participating US locations
+- Pandora — 2x points on all charm purchases — expires 11/3/26 — My Pandora members, must log in online
+- Fandango — up to $13 off one ticket to The Cat in the Hat — redeem by 2/28/27 — code at checkout, Fandango.com/app only
+- Etsy — zodiac gifting edits, no discount — no date — gift inspiration for Scorpios etc.
+- Edmunds — SUV lease deals under $300/mo; 2026 Accord $1,159 below MSRP, Pathfinder $2,072 below — no date — weekly editorial deals
+- NerdWallet — car insurance comparison, no discount — no date — shop 3+ quotes every 6 months
+- NerdWallet — personal loan pre-qualification, no discount — no date — rate estimates without credit impact
+- Pinterest — no offer, trending searches newsletter — no date — no deal
+
 ## 2026-10-24
 - Macy's — $7.99+ pillows & sheets, $19.99 comforters (lowest prices of the season, home) — expires 10/31 — no code
 - MOD Pizza — Buy one MOD-size pizza or salad, get one kids meal free — Sundays only — participating US locations
