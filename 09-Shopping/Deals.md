@@ -1,5 +1,66 @@
 # Deals
 
+## 2026-10-26
+- Kohl's Gifting — extra 20% off + $10 off $50+ (The North Kohl's holiday hub) — no date — new gifting destination, sign-up offer
+- Kohl's Gifting — holiday shopping hub: extra 20% off + $10 off $50+ — no date — repeat send, other linked inbox
+- DoorDash — 20% off Costco order — expires soon (last chance) — via DoorDash app
+- Genesis — SOS Emergency Assistance 24/7 + Car Finder & roadside features — no date — feature info, no discount
+- Fabletics — VIP offer almost gone (cart saved) — no date — VIP member pricing
+- Macy's — Biggest Fall Sale: 40-60% off coats, cashmere under $50, home essentials up to 60% off — expires 10/25/26 (expired) — no code
+- Xfinity — More Sports & Entertainment add-on for football season — no date — add-on promo, price not stated
+- Pandora — Pandora x Pat McGrath charms back in stock — no date — restock, no discount
+- Costco — new finds for this week's warehouse visit — no date — weekly new-item roundup
+- Pinterest — trending searches (tattoos, travel walls) — no date — no offer
+- Michaels — Rewards Day: free small craft pumpkin in-store + 40% off coupon — expires 10/25/26 (expired) — Rewards members, in-store
+- Xfinity — home internet safety & security features overview — no date — feature info, no discount
+- Macy's — up to 50% off boho blouses & tailored separates — no date — Biggest Fall Sale, no code
+- Weee! — Diwali week grocery savings — no date — Asian grocery deals
+- Etsy — upcycled patchwork wear edit + 18 holiday gift guides — no date — curated picks, no discount
+- Nordstrom — designer bag edit — no date — no discount stated
+- One Medical — post-visit feedback survey request — no date — no deal
+- Macy's — Great Shoe Sale: 30-50% off women's & men's fall shoes — expires 10/25/26 (expired) — no code
+- H&M — 20% off order (25% for Plus members) — expires 10/25/26 (expired) — members, auto-applied online
+- Nordstrom Rack — sneakers, boots & cozy slippers deal alert — no date — new markdowns
+- Famous Footwear — 20% off top picks — no date — no code stated
+- Hallmark — BOGO FREE on select items — expires 10/25/26 (expired) — in-store & online
+- Going — business card offer: up to 300k miles + $1,300 travel credit — no date — requires $120k spend in 4 months
+- PointsYeah — 30% Capital One → Virgin Atlantic transfer bonus — expires 11/20/26 — stackable redemptions
+- evo — Anniversary Sale extension: up to 50% off past-season gear, 20% off one full-price item for members — expires 10/26/26 (tonight)
+- UNiDAYS — student deals: 30% off AE, 15% sitewide, BOGO Magic Cream, 1 month free classes — no date — verify student status
+- Walgreens — buy 1, get 1 50% off Halloween candy — no date — Halloween week, in-store
+- Macy's — Biggest Fall Sale: up to 60% off jackets, sweaters, home — expires 10/25/26 (expired) — no code
+- J.Crew Factory — sweater fabric guide + new arrivals — no date — no discount stated
+- Lyft — $250 Amazon gift card survey reminder — no date — research panel entry
+- Michaels — free small craft pumpkin with in-store purchase + 40% off coupon — expires 10/25/26 (expired) — in-store only
+- Kohl's — last day: lowest prices of the season, up to 85% off clearance + Kohl's Cash — expires 10/25/26 (expired)
+- Michaels — free craft pumpkin with in-store purchase — expires 10/25/26 (expired) — weekend only
+- Macy's — up to 60% off flannels, boots & sweaters — no date — featured fall finds
+- HomeGoods — holiday decor now in stores — no date — new seasonal stock
+- Macy's — up to 50% off boots (DV Dolce Vita, Steve Madden, Calvin Klein) — expires 10/25/26 (expired)
+- Macy's — cashmere from $69.99, denim under $60, 50-60% off accessories — no date
+- Nordstrom Rack — Barefoot Dreams, UGG & Nordstrom cashmere markdowns — no date
+- Macy's — up to 60% off bras, underwear & PJs (bras from $12.99, 5 for $30 underwear) — no date
+- Kohl's — lowest prices of the season + Kohl's Cash, up to 85% off clearance — no date
+- Michaels — free gift with purchase + 40% off coupon — no date — holiday & Halloween prep
+- Michaels — Thanksgiving hosting must-haves on sale — no date — tabletop & serveware
+- Nordstrom Rack — cozy loungewear savings — no date — markdowns
+- Macy's — men's lightweight coats $29.99+, up to 60% off leather jackets — no date
+- Michaels — Halloween deals up to 50% off — no date — costumes & decor
+- Macy's — 5 designer denim brands for fall — no date — editorial, no discount stated
+- Nordstrom Rack — up to 70% off new shoe markdowns — no date
+- Michaels — Jonathan Adler x Michaels Hanukkah collection — no date — new collection
+- J.Crew Factory — Friends & Family extra 15% off ending + 40-70% off — expired 10/20/26 — stackable
+- Kohl's — lowest prices + Kohl's Cash, up to 85% off clearance after extra 50% — no date
+- Bellevue Badminton Club — Racket Rumble registration (Nov 21-22); Southcenter rackets & shoes 20-60% off — no date — juniors & adults
+- Macy's — up to 50% off boho blouses & tailored separates — no date — repeat of 10/25 send
+- Lyft — 30% off 3 rides — no date — claim in app
+- Michaels — new Cricut machines launch — no date — no discount stated
+- Nordstrom Rack — Diane von Furstenberg up to 65% off, new Kurt Geiger accessories — no date
+- Macy's — up to 50% off I.N.C. fall dresses & denim — no date
+- J.Crew Factory — extra 15% off + 40-70% off everything (stackable) — no date
+- Kohl's — lowest prices arrived: up to 85% off clearance after extra 50% + Kohl's Cash — no date
+- Michaels — Flash Cyber Tree Sale: trees up to 60% off online — expires 10/19/26 (expired)
+
 ## 2026-10-25
 - Kohl's — up to 85% off clearance after extra 50% off, plus Kohl's Cash — expires 10/25/26 (last day) — coupon-eligible brands only
 - Kohl's — lowest prices of the season: up to 85% off clearance after extra 50% off, $10 & $20 price points — no date (limited time) — kohls.com/in-store
