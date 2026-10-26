@@ -30,3 +30,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-21 — AUTO: +11.3% day (≥2× its typical range). Headlines: Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls | Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week | US Equity Markets Higher as Tech, Communication Stocks Rise Amid Drop in Government Bond Yields, Crude Oil Prices
 - 2026-09-24 — AUTO: new 52-week high. Headlines: The era of AI wearables focused on listening is here | How Muse AI is expanding Meta's moat, & why you shouldn't bring iced coffee to job interviews | The 8:30: The stories driving markets September 24
 - 2026-10-22 — AUTO: -7.0% day (≥2× its typical range); opening gap -3.1%; crossed below its 50d average
+- 2026-10-26 — AUTO: crossed below its 200d average
