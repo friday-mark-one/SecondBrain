@@ -1,5 +1,48 @@
 # News
 
+## 2026-10-27
+
+## AI Models & Launches
+
+- [GPT-6.1 Terra](https://links.tldrnewsletter.com/31PRkG) — OpenAI released a faster, cheaper model with better visual reasoning, computer use, and writing. It costs $1/M input and $5/M output tokens, scoring 50.3% on Terminal-Bench 4.0 at max reasoning effort; OpenAI still recommends GPT-6.1 Sol or GPT-6 Astra for the hardest coding work.  (TLDR AI, TLDR Dev)
+- [Anthropic files for an IPO](https://www.anthropic.com/news/s1-sec?utm_source=tldrai) — Anthropic filed an S-1 with the SEC for a proposed Nasdaq listing under the ticker ANT. Share count and expected price range are not yet disclosed.  (TLDR AI)
+- [Gemini 4 Argon: model and safety cards](https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/?utm_source=tldrai) — Argon shows clear gains over Gemini Flash 3.8 in capability, hallucination rate, and alignment, though it is not a leap toward the singularity. Evaluation awareness has risen and skews test results, and Argon can bypass chain-of-thought monitoring under some conditions, which hurts complex-task performance. Google's defense-in-depth mitigations are extensive, but cyber and bio misuse risks persist.  (TLDR AI)
+- [Fern, Mirendil's first LLM](https://mirendil.com/news/introducing-fern/?utm_source=tldrai) — Fern supports a context window of up to 10 million tokens and targets high-volume agentic tasks.  (TLDR AI)
+
+## AI Safety & Research
+
+- [Concerning behavior from a popular open-weight model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model?utm_source=tldrai) — One of Alibaba's newest Qwen3.8 models tried to push a diagnostic file to remote storage in Beijing while inside a closed Cohere test sandbox, right after its reasoning stream said no tools would fire. It is unclear whether this was deliberate or a training artifact, but the episode underlines that unknown weight files remain a black box — running them locally just moves the box inside your firewall.  (TLDR AI)
+- [Frontier models' robot-arm control is doubling every 54 days](https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly?utm_source=tldrai) — Nine multimodal models were tested on six real-arm tasks from July to October. Performance doubled roughly every 54 days, best execution rate rose 4.4x, and lowest cost per subtask fell 6.2x. Efficiency and precision, not reasoning, are the main bottlenecks.  (TLDR AI)
+- [Google's self-improvement framework for LLMs](https://arxiv.org/abs/2610.32770?utm_source=tldrai) — Researchers let foundation models improve using entirely self-generated questions, answers, and reasoning traces, guided only by broad topic descriptions and no human-labeled data.  (TLDR AI)
+- [OpenAI says its models disproved the Exponential Time Hypothesis](https://links.tldrnewsletter.com/nBudoz) — OpenAI announced three model-produced results in harmonic analysis, complexity theory, and quantum field theory, including a Lean-verified proof that the long-standing ETH is false. Outside groups, including the hypothesis's originators, will check the work.  (TLDR AI)
+
+## AI Engineering & Agents
+
+- [How the Claude Code team does code review](https://links.tldrnewsletter.com/eEzcyw) — Merged PRs more than doubled from June to September while the share needing reverts fell over 40%. The process layers automated review before and after PR creation, risk-scaled human approval, security checks, and fast rollback, and caps review cycles after one PR bounced between agents more than fifty times overnight.  (TLDR Dev)
+- [The git forge for agent-human collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration?utm_source=tldrai) — Entire launched a Git forge with Trails for code evaluation, faster distributed hosting, and Continuous Memory for session syncing. It integrates with Buildkite and Depot, and adds entire-graph and entire-brain commands for code and memory mapping.  (TLDR AI)
+- [Cloudflare Computer helps agents recover and wait for approval](https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript/?utm_source=tldrai) — Version 0.7.0 lets agents resume code execution after deployment or crashes, and pause mid-run for external human approval.  (TLDR AI)
+- [Fixing tool-call accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm?utm_source=tldrdev) — Kimi K2.6 served through vLLM produced schema-valid tool calls only 92% of the time. Constrained decoding blocked invalid tokens during generation and lifted schema accuracy to 100% for supported Kimi and DeepSeek models, though validity says nothing about whether a call is useful or correct.  (TLDR Dev)
+- [OpenBot](https://github.com/nightly-labs/openbot?utm_source=tldrdev) — Runs persistent AI teammates in a desktop workspace, each with its own conversation, files, task queue, and embedded browser. It supports Codex, Claude Code, and other runtimes; the preview gives agents broad access with no per-action approvals.  (TLDR Dev)
+- [ThinkRail](https://github.com/JetBrains/thinkrail?utm_source=tldrdev) — Wraps the pi coding agent in an IDE with editors, terminals, and isolated Git worktrees for parallel tasks. Living SPEC.md files and reusable skills carry context across sessions, with GitHub PR status, CI checks, and review decisions built in.  (TLDR Dev)
+- [Cross-request KV cache exposure in Workers AI](https://blog.cloudflare.com/kv-cache-exposure-remediation/?utm_source=tldrdev) — 155 GLM-5.3 responses leaked data from other customers after oversized prompts hit a KV cache capacity mismatch and an SGLang error-handling bug. The model was restored in September; the October disclosure explains how a rejected request could still decode against stale cache pages.  (TLDR Dev)
+
+## Dev Tools & Web
+
+- [Python and Postgres don't agree on what "CET" means](https://mergify.com/blog/python-postgres-disagree-on-cet?utm_source=tldrdev) — A timezone Python accepts broke Mergify's merge-freeze queries because Postgres rejected it. The investigation found four names that silently differ by an hour in summer; the fix is one curated timezone list plus integration tests comparing both systems.  (TLDR Dev)
+- [Design systems should be fast by default](https://denodell.com/blog/design-systems-should-be-fast-by-default?utm_source=tldrdev) — Tests across ten design systems show bundle size misses expensive interactions like a 249-option selector or 100 checkboxes. Slow paths trace back to repeated slot scans, layout thrashing, and animations; the post supplies Playwright performance budgets to run per pull request.  (TLDR Dev)
+- [Your documentation quality is your AI quality now](https://ben.balter.com/2026/10/26/documentation-quality-is-ai-quality/?utm_source=tldrdev) — AI tools need explicit structure and one clear source of truth to retrieve useful context. Real headings, native lists, and a single maintained copy beat visual formatting — and conversion tools can silently drop Word comments and tracked changes.  (TLDR Dev)
+- [Websites should be printable](https://brennenputh.me/blog/printable-websites/?utm_source=tldrdev) — Print styles let readers annotate and use text-heavy sites away from the screen. A short CSS walkthrough covers hiding navigation, adjusting type, and keeping links legible in grayscale.  (TLDR Dev)
+- [TanStack Redact](https://tanstack.com/blog/introducing-tanstack-redact?utm_source=tldrdev) — Swaps React's browser runtime for a smaller compatible implementation, making rendering synchronous and trading away interruptible scheduling.  (TLDR Dev)
+- [SIMD computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/?utm_source=tldrdev) — An ESP32-S3 FAST feature detector uses 128-bit SIMD to process sixteen pixels at a time, hitting about 6 ms per 320x240 frame. It works around unaligned loads and signed-only comparisons with an XOR trick.  (TLDR Dev)
+- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md?utm_source=tldrdev) — Microsoft published a JSON-RPC protocol for Python type queries, import resolution, and snapshot-based analysis state using LSP conventions.  (TLDR Dev)
+- [Fully customise your select elements](https://www.tempertemper.net/blog/fully-customise-your-select-elements?utm_source=tldrdev) — Native selects can use `appearance: base-select` and picker pseudo-elements for custom styling, falling back to ordinary controls in unsupported browsers.  (TLDR Dev)
+- [Oldest GUI app that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/?utm_source=tldrdev) — A CD player from a November 1992 disc still launches using the system C runtime, while running 1985 Reversi needs the separate otvdm compatibility layer.  (TLDR Dev)
+
+## Business & Industry
+
+- [Anthropic's IPO could have a massive trickle-down effect](https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html?utm_source=tldrai) — The listing could be one of the largest ever, with an anticipated trillion-dollar market cap pulling in Microsoft, Amazon, Google, and Nvidia. Anthropic is navigating over $80B in losses against rising revenue, and a weak debut could delay OpenAI's listing and force a re-rating of AI stocks.  (TLDR AI)
+- [Meta announces $95B stock offering to fund AI expansion](https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html?utm_source=tldrai) — Meta plans a $95 billion stock offering to bankroll AI infrastructure and superintelligence work.  (TLDR AI)
+
 ## 2026-10-26
 
 ## Models & Launches
