@@ -1,5 +1,15 @@
 # Deals
 
+## 2026-10-27
+- Macy's Friends & Family — up to 50% off holiday styles (30% off regular/already-reduced + extra 10-30% select depts) — no date — code FRIEND
+- Macy's Friends & Family — 30-60% off gifts, 30% off cashmere, 15% off beauty & fragrance, $20 Star Money per $100 — no date — code FRIEND applied 🔔 [[Gift ideas]]
+- Macy's Friends & Family — 30% off best brands that rarely go on sale (Donna Karan, Tommy, Ralph Lauren) + 15% off beauty — no date — code FRIEND applied
+- Michaels — all yarn on sale (cashmere, alpaca, bamboo) — no date — no code stated
+- Aroma Restaurant & Venue — 20% off dinner — expired 10/26/26 — code CTY FFF, in-store or Square Online
+- Nordstrom Rack — deal drop: Cole Haan & DKNY coats, new markdowns going fast — no date — no code
+- JetBlue — 70,000 bonus points on JetBlue Plus Card, pre-qualify check — ending soon — card offer
+- IndiGo BluChip — 2x earnings on fashion brands — 48 hours left — shopping week
+
 ## 2026-10-26
 - Kohl's Gifting — extra 20% off + $10 off $50+ (The North Kohl's holiday hub) — no date — new gifting destination, sign-up offer
 - Kohl's Gifting — holiday shopping hub: extra 20% off + $10 off $50+ — no date — repeat send, other linked inbox
