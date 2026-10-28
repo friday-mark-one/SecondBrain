@@ -21,6 +21,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-20 — Supply-side confidence reasserting: SK Hynix's record buyback and Micron's $10B capex bet have memory 'defying the tech selloff' — counters last week's reversal hook, keeps it swinging on HBM supply-demand
 - 2026-08-27 — New political hook: Trump hails Micron's $10B US research-lab investment ('one of the hottest companies in the world') — presidential attention/government-support now swings it alongside HBM supply-demand and the China-competition discount
 - 2026-10-13 — China-competition discount deepens: CXMT said it will launch a denser high-end server-memory product by year-end, moving the China threat from consumer/mobile onto Micron's core AI-datacenter server memory (MU gapped -5.6% and crossed below its 50d) — the CXMT hook now swings the server-memory franchise, not just consumer memory
+- 2026-10-28 — SK Hynix read-across reasserted over the CXMT discount: Hynix's record quarterly revenue (>100T won) gapped MU +3.6% back above its 50d, so the memory-cycle pricing signal from Korea is again the dominant swing factor even with the China-competition overhang live
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -50,3 +51,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-19 — AUTO: opening gap +3.9%
 - 2026-10-21 — AUTO: opening gap +3.1%
 - 2026-10-22 — AUTO: opening gap -3.7%
+- 2026-10-28 — AUTO: opening gap +3.6%; crossed above its 50d average

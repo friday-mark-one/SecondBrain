@@ -19,6 +19,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-04 — New swing factor: tokenized-stock offerings controversy — AMC CEO backlash over "tokenized" equities (securities-law scrutiny) gapped it -3.4%, layering onto its crypto-driven moves
 - 2026-09-17 — Tokenized-equity theme flipped from regulatory risk to catalyst: the SEC cleared a path for blockchain-based tokenized stocks / 24-7 trading, rallying HOOD (+5.4% gap) — the same tokenization angle that was a securities-law overhang (08-20/09-04) is now a positive regulatory driver
 - 2026-09-30 — New narrative: AI-agentic trading expansion (automation + 24/7 cycle, "institutional tools with AI trading bots") gapped it +5.5%, layering an AI/product-growth vector onto its crypto- and tokenization-driven moves; prediction-market regulation (CFTC line-drawing after Kalshi) is the adjacent live risk
+- 2026-10-28 — Growth-quality hook: Q3 (10-27 pm) beat on EPS but missed on revenue, and the stock gapped -5.6% below its 200d — the print now trades on revenue/monetization growth rather than the crypto-beta narrative, with that revenue miss overshadowing the earnings beat
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -42,3 +43,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-22 — AUTO: opening gap -4.3%
 - 2026-10-26 — AUTO: crossed below its 200d average
 - 2026-10-27 — AUTO: crossed above its 200d average
+- 2026-10-28 — AUTO: opening gap -5.6%; crossed below its 200d average
