@@ -1,5 +1,15 @@
 # Deals
 
+## 2026-10-28
+- Macy's Friends & Family — up to 60% off Villeroy & Boch dinnerware, Ninja & more best brands — no date — code FRIEND 🔔 [[Gift ideas]]
+- Nordstrom Rack — New BOSS up to 50% off; L'AGENCE, A.L.C. & TWP up to 60% off — no date — no code
+- H&M — up to 25% off tops, knits & more — no date — no code
+- evo — winter setup: up to 50% off past-season snowboards & outerwear, 10% off 2027 packages & outerwear kits — no date — no code
+- Michaels — up to 50% off last-minute Halloween boo-bucket finds — no date — in-store & online
+- Citi / Best Buy Visa — 12-month financing on card purchases — activate by 11/06/26 — card offer
+- Going — $250 bonus on a no-annual-fee card after $500 spend in 3 months — ending soon — card offer
+- Going Flight Deals — Cairo roundtrip $822 (Apr–Jun travel) — no date — fare deal
+
 ## 2026-10-27
 - Macy's Friends & Family — up to 50% off holiday styles (30% off regular/already-reduced + extra 10-30% select depts) — no date — code FRIEND
 - Macy's Friends & Family — 30-60% off gifts, 30% off cashmere, 15% off beauty & fragrance, $20 Star Money per $100 — no date — code FRIEND applied 🔔 [[Gift ideas]]
