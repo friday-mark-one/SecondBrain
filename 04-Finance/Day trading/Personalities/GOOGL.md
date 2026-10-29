@@ -17,6 +17,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - Search-ads health vs AI-disruption narrative; antitrust rulings are the overhang
 - Cheapest mega-cap by multiple most of the time — 'cheap' has been the bull case for years (see case study: that thesis rode to $0 once)
 - 2026-09-09 — Now a chip merchant: TPUv7 Ironwood is the first TPU generation Google sells/rents for external inference workloads (AI-chips revenue vector vs Nvidia); ad-tech antitrust trial ended with a no-breakup ruling but forced practice changes (stock crossed below its 200d)
+- 2026-10-29 — Q3'26 was its first revenue+EPS miss in ~4 years: Cloud revenue still doubled (+103% to $30.7B) but negative free cash flow / AI capex burn is now the swing factor — stock −12.6% on 5.1× volume, wiping ~$450–500B in a day; 'cheap on ads' no longer defends it while spend outruns earnings
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -40,3 +41,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-05 — AUTO: crossed above its 50d average
 - 2026-10-20 — AUTO: crossed below its 200d average
 - 2026-10-20 — AUTO: crossed below its 200d average
+- 2026-10-29 — AUTO: -12.6% day (≥2× its typical range); opening gap -11.7%; volume 5.1× normal
