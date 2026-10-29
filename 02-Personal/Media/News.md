@@ -1,5 +1,165 @@
 # News
 
+## 2026-10-29
+
+### AI Models & Research
+
+- [Google unveils Gemini 4 Carbon, retaking the world's No. 1 spot on updated, harder benchmarks](https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited?utm_source=tldrnewsletter) — Gemini 4 Carbon promises gains in cybersecurity and complex software engineering, scoring 88.2% on SEC-bench Pro for vulnerability discovery and 71.0% on CWE-bench for patching.
+  Access is limited for now: it ships first to selected cyber defenders and trusted partners, with a broader release only after Google tightens guardrails from feedback.
+  Introductory pricing is $2 per million input / $10 per million output tokens (95% off cached input), rising to $4 / $20 once the intro period ends.  (TLDR, TLDR Dev, TLDR AI)
+
+- [NVIDIA Nemotron 3.5 Transcribe and Granary v2: multilingual transcription you can prompt and adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary?utm_source=tldrai) — Nemotron 3.5 Transcribe is an open-weight model for multilingual transcription, translation, speaker attribution, and audio Q&A.
+  It ranks first across several transcription and speaker-attribution leaderboards, supporting up to 40 languages at low error rates.
+  Granary v2 adds reusable data pipelines and fine-tuning so teams can adapt vocabularies for specialized domains.  (TLDR AI)
+
+- [Artificial Analysis v5 and the benchmarker's dilemma](https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers) — Independent model evaluation is hard: it's difficult to build a number that matches vibe checks, community sentiment, and scientific analysis while staying forward-looking for more than a quarter.
+  Independent evaluators effectively pick winners in a trillion-dollar market, which also pressures them to influence the direction of model development.
+  The piece digs into how v5 tries to stay representative as models and use cases shift.  (TLDR AI)
+
+- [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer?utm_source=tldrai) — Qwenputer runs a working RISC-V CPU inside Qwen3.5, using its own Gated DeltaNet layers as RAM.
+  It executes arithmetic plus C and MicroPython code with no external runtime or tool calls.
+  The author also slotted in an experimental in-model file storage layer.  (TLDR AI)
+
+### AI Tooling & Agents
+
+- [Microsoft's Copilot harness unlocks truly multi-model agentic work](https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=tldrai) — The harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, and VS Code, and is now available via Microsoft Foundry.
+  It gives developers a fully managed way to build agents that reason, use tools, and finish long-running tasks.
+  It was designed to work across model families and stay configurable per task.  (TLDR AI)
+
+- [GitHub Copilot Fusion routes and orchestrates models per task](https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/?utm_source=tldrai) — Fusion combines Project HydraFusion's multi-model orchestration with Copilot's fine-tuned auto model selection to balance performance against cost.
+  It decides which models to use and how they cooperate based on the effort level the user selects.
+  Copilot Automations also now learn from real-world outcomes on GitHub to self-improve.  (TLDR AI)
+
+- [Anthropic launches tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/?utm_source=tldrai) — New reporting covers productivity, costs, and optimization recommendations for products like Claude Code.
+  It targets a big enterprise concern — proving ROI on AI spend.
+  Anthropic's enterprise footprint and sticky workflows are cited as its edge against rivals like OpenAI's Astra.  (TLDR AI)
+
+- [Introducing the Slack Code API: your agents, your team, one code channel](https://slack.com/blog/developers/slack-code-api?utm_source=tldrnewsletter) — Agents can start code channels, pull in the right people and files, post progress updates, and archive the channel when done.
+  Humans see what the agent is doing and who approved it, with workspace controls and data boundaries built in.
+  It's aimed at shared-context collaboration between agents and teams rather than one-off chat threads.  (TLDR)
+
+- [Google's Agent Compute Engine and expanded agent governance](https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance?utm_source=tldrai) — Announced at AGNTCon + MCPCon, Agent Compute Engine is the infrastructure layer for running agents at scale.
+  Google also expanded agent governance controls in Gemini for Business.
+  Google separately launched a central place to build and manage connected apps.  (TLDR AI)
+
+- [OpenAI now lets you text your Dot agent](https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/?utm_source=tldrai) — US Pro users can message Dot agents over iMessage and RCS.
+  Instructions can include text, photos, and voice memos.
+  It moves agent interaction into the default messaging app instead of a separate client.  (TLDR AI)
+
+- [ElevenLabs Cue: character-level audio timing](https://elevenlabs.io/blog/cue-aligner?utm_source=tldrai) — Cue is a forced-alignment model that gives precise character-level timing within audio files.
+  That's the primitive needed for karaoke-style captions, word-level editing, and synced dubbing.
+  It ships as an API endpoint alongside ElevenLabs' existing speech stack.  (TLDR AI)
+
+- [Meta has a new AI pet app called Waddle World](https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/?utm_source=tldrai) — Waddle World launched in the Philippines on iOS and Android as a Tamagotchi-like virtual pet.
+  It doubles as a digital journal with mini-games and no productivity pressure.
+  The soft launch reflects Meta's cautious approach after legal issues hit other AI companion apps.  (TLDR AI)
+
+### Big Tech & Business
+
+- [Apple announces touchscreen MacBook Pro with OLED display](https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/?utm_source=tldrnewsletter) — The new display hits 2,000 nits peak brightness with a claimed 10,000,000:1 contrast ratio.
+  The laptop is lighter at 3 pounds, swaps the camera notch for a Dynamic Island, and brings back a glowing lid logo.
+  It's the first MacBook Pro with a touchscreen.  (TLDR)
+
+- [Google shares fall 10% as growth in search revenue decelerates](https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?st=JmRqzS&reflink=desktopwebshare_permalink) — Alphabet's ad business missed analyst estimates in Q3 even as total revenue grew 25%.
+  The company is still working out how to convert AI into faster sales in core search.
+  Cloud beat expectations, pulling in $30.7 billion.  (TLDR)
+
+- [The beleaguered chip sellers getting their revenge on Apple](https://links.tldrnewsletter.com/fwLli9) — Demand from AI hyperscalers has quintupled prices for flash memory.
+  Apple, which previously paid pennies per unit, is now exposed to that squeeze.
+  It's a clean example of AI capex reshaping supply chains far outside the data center.  (TLDR)
+
+- [Reddit is the latest platform to embrace the 'For You' feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/?utm_source=tldrnewsletter) — Reddit's redesigned feed nudges users toward content beyond the communities they already follow.
+  It's the same algorithmic discovery pattern that reshaped Instagram, TikTok, and X.
+  The tension is between discovery reach and Reddit's community-first identity.  (TLDR)
+
+- [GitHub Universe 2026: evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrnewsletter) — GitHub announced new products and is rebuilding infrastructure to become the most comprehensive software delivery system.
+  The framing is end-to-end: from agent tooling through CI and hosting.
+  It lands the same week as Vercel CI and the Copilot harness push.  (TLDR)
+
+### Developer Tools & Releases
+
+- [Ship less JavaScript in Next.js with your AI agent](https://nextjs.org/blog/ship-less-javascript-with-ai?utm_source=tldrdev) — Next.js 16.4 adds an agent skill that uses Turbopack's module graph to find unnecessary client JavaScript: eager imports, duplicate dependencies, and missed tree shaking.
+  Vercel reports removing or deferring nearly two megabytes of compressed JS across pages in v0 and vercel.com.
+  Snapshot comparisons verify each individual change.  (TLDR Dev)
+
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks?utm_source=tldrdev) — A benchmark asks Opus 5.5 to build the same Pokémon app in each framework, then measures cost, time, spec compliance, performance, and accessibility across repeated runs.
+  Hono with htmx, Astro, and Nuxt came out cheapest in this experiment.
+  Run-to-run variance was substantial and the app was mostly content-focused, which limits how far the ranking generalizes.  (TLDR Dev)
+
+- [Website migration costs are going to zero](https://dri.es/website-migration-costs-are-going-to-zero?utm_source=tldrdev) — Agents could make technical migrations nearly free by using the existing site as a baseline for differential tests of pages and publishing workflows.
+  If that holds, durable lock-in shifts toward contracts, procurement approvals, and agent memory.
+  Portable requirements and decision logs become the assets worth keeping.  (TLDR Dev)
+
+- [Local-first means three different things](https://hologram.page/blog/local-first-means-three-different-things?utm_source=tldrdev) — Local-first can mean offline capability, fast optimistic interfaces, or user ownership of data — and each promise implies a different architecture.
+  Hologram prioritizes responsive local interfaces and offline support while keeping a server for permissions and business rules.
+  Picking the wrong definition early bakes in structural costs.  (TLDR Dev)
+
+- [How to make postMessage type-safe in under 350 bytes](https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes?utm_source=tldrdev) — typed-channel declares message names and payloads once so TypeScript checks both sides of a worker, iframe, or event-bus boundary.
+  The core plus transport is 341 bytes with Brotli.
+  A separate request API adds typed replies and cancellation that propagates to the handler.  (TLDR Dev)
+
+- [Vercel CI enters beta](https://vercel.com/blog/introducing-vercel-ci?utm_source=tldrdev) — Turborepo-based task selection plus remote caching means only work affected by a code change runs.
+  Vercel reports 2–6x faster push-to-passed-check times, with less separate CI workflow config to maintain.
+  It's built for repos where coding agents are pushing commits constantly.  (TLDR Dev, TLDR AI)
+
+- [Nuxt DevTools v4](https://nuxt.com/blog/devtools-v4?utm_source=tldrdev) — v4 moves onto the framework-agnostic Devframe and Vite DevTools foundations so it can reuse the wider Vite and Vue tooling ecosystem.
+  A transition shim keeps legacy modules working while integrations migrate.
+  The upside is less bespoke infrastructure to maintain.  (TLDR Dev)
+
+- [Node.js 26.13.0 enters LTS](https://nodejs.org/en/blog/release/v26.13.0?utm_source=tldrdev) — Node.js 26 is now Long Term Support under the codename Lithium.
+  The support window runs through April 2029.
+  Worth scheduling the upgrade if you're still on an older even-numbered line.  (TLDR Dev)
+
+- [Denial of service in body-parser](https://expressjs.com/en/blog/2026-10-28-cve-2026-111181?utm_source=tldrdev) — A decompression error in affected body-parser versions lets a single request crash a server (CVE-2026-111181).
+  Express apps are the main exposure surface.
+  Patch or pin a fixed body-parser release.  (TLDR Dev)
+
+- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0?utm_source=tldrdev) — Adds complete Kitty graphics support, scrollback compression, and faster terminal processing.
+  SSH integration is improved, and the release includes security fixes.
+  Still the most interesting native terminal in active development.  (TLDR Dev)
+
+- [Yavashark: a new embeddable JavaScript engine in Rust](https://yavashark.dev/blog/announcing-yavashark?utm_source=tldrdev) — Yavashark passes 82% of test262 and supports Temporal, Intl, and TypeScript execution via its CLI.
+  It's designed to be embedded rather than run a full runtime.
+  test262 coverage is the number to watch for real-world usability.  (TLDR Dev)
+
+- [An AI agent executed the same successful SQL query 254 times](https://armincat.com/articles/ai-agent-executed-same-query-254-times?utm_source=tldrdev) — During a model comparison at Funnel, an internal data agent kept re-running a query that had already succeeded instead of finishing its task.
+  The failure shows why model swaps need whole-system evaluation, not per-model benchmarks.
+  Explicit tool contracts and bounds on repeated behavior would have caught it.  (TLDR Dev)
+
+- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons?utm_source=tldrdev) — A browser fingerprinting script hides alarming prompts and variable names designed to trip LLM safety filters and frustrate automated analysis.
+  Under the anti-LLM obfuscation it collects conventional browser and WebGL signals plus a gated Node.js system-info routine.
+  A good reminder that "adversarial to agents" is now a design choice in the wild.  (TLDR Dev)
+
+### Science, Space & Craft
+
+- [Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen](https://www.circuithub.com/post/unveiling-the-grid?utm_source=tldrnewsletter) — The Grid is a factory-scale robot that builds circuit boards on demand, with every board taking its own route through solder-paste printing, pick-and-place, reflow, soldering, and inspection.
+  Printing one unit of 100 designs costs the same as printing 100 units of one, and prototypes share machines with production batches.
+  It could make high-mix, low-volume board manufacturing viable in the US again.  (TLDR)
+
+- [The last, best hope for space tourism just rolled onto a runway in Arizona](https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/?utm_source=tldrnewsletter) — Apeiron, Virgin Galactic's Delta-class suborbital spacecraft, is moving from the Spaceship Factory in Mesa to Spaceport America in New Mexico.
+  Engineers will finish avionics and flight software there.
+  Several ground tests and test flights remain before it can fly freely.  (TLDR)
+
+- [The sane asylum: how turbopuffer built a profitable company without bloat](https://colossus.com/article/sane-asylum-turbopuffer/?utm_source=tldrnewsletter) — It's now possible to build a highly profitable business at real scale without raising or hiring a ton.
+  The founders used AI tools to buy financial freedom and shape the company around the work they wanted to do.
+  turbopuffer's approach is the case study: small team, high leverage, deliberate pace.  (TLDR)
+
+- [The case of the 9-bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key?utm_source=tldrnewsletter) — The randomness used in PDF encryption is often generated very insecurely.
+  That flaw allows passwordless decryption of "protected" PDFs.
+  A sharp reminder that encryption is only as strong as its key-generation path.  (TLDR)
+
+- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code?utm_source=tldrnewsletter) — Lawyers need a convenient system of record as much as engineers do.
+  The piece argues version control semantics fit statutory text well: diffs, history, and attributable change.
+  Treating law as a repo makes amendment tracking legible to non-engineers.  (TLDR)
+
+- [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/?utm_source=tldrnewsletter) — Models have produced game-shaped output for a while, but the games weren't fun.
+  The latest generation shows real improvement in game design, generating novel and compelling gameplay loops from simple instructions.
+  The hard part now is conceiving of games that wouldn't exist without AI assistance.  (TLDR, TLDR Dev)
+
+- [Building an inference stack that improves itself](https://links.tldrnewsletter.com/3vHagX) — Decagon's AutoResearch is an approach where agents write code, run experiments, and iterate on the serving stack itself.
+  It points at a future where infrastructure tuning is a continuous automated loop rather than a quarterly project.
+  Mirendil's Lor applies the same pattern to research automation with hundreds of parallel workers.  (TLDR AI)
+
 ## 2026-10-28
 
 ## AI Models & Research
