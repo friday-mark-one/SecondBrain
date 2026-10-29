@@ -1,5 +1,14 @@
 # Deals
 
+## 2026-10-29
+- Summit at Snoqualmie — First Flakes Sale: up to $70 off 2026-27 season passes — expires 11/04/26 — payment plan at checkout, no code
+- point.me — Standard membership 25% off ($96.75/yr ≈ 3 months free) — expires 10/31/26 — code BOO
+- Going Flight Deals — Taipei roundtrip $774 (Nov–Dec travel) — no date — fare deal
+- Going Flight Deals — nonstop London economy award 12k–31k pts roundtrip — no date — points deal
+- PointsYeah / E*TRADE — up to $800 cash bonus + 4.25% APY for 6 months on new Premium Savings — no date — code SAVE800
+- ID.me Shop — student fall deals up to 40% off (Stanley, Samsung, Travelocity) — no date — ID.me verification required
+- Aroma Restaurant — free garlic naan basket with biryani night — no date — order online
+
 ## 2026-10-28
 - Macy's Friends & Family — up to 60% off Villeroy & Boch dinnerware, Ninja & more best brands — no date — code FRIEND 🔔 [[Gift ideas]]
 - Nordstrom Rack — New BOSS up to 50% off; L'AGENCE, A.L.C. & TWP up to 60% off — no date — no code
