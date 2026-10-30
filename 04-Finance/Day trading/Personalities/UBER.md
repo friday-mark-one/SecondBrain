@@ -30,3 +30,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-09-08 — AUTO: crossed below its 50d average. Headlines: Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout | Top Uber Executive Buys $5.3 Million in Stock After Job Cuts | Uber Falls 4% on Tesla Cybercab Threat as Slovenia Clears Full Self-Driving; TSLA Stock Rises 4%
 - 2026-10-27 — AUTO: new 52-week low
 - 2026-10-28 — AUTO: new 52-week low
+- 2026-10-30 — AUTO: new 52-week low

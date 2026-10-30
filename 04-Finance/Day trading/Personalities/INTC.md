@@ -18,6 +18,8 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-25 — The $20B dilution/raise is now a live swing factor: funding the foundry push via dilution (Pelosi's buy adding retail attention) is moving the stock alongside turnaround sentiment
 - 2026-09-16 — Emerging new angle: reported SK Hynix talks to make memory chips in the US using Intel fab capacity (possibly leasing space at the Ohio fab) is moving the stock (+~4% gap) — a potential third-party foundry-customer/lease path that touches both the foundry turnaround and the $20B dilution-funding story (unconfirmed; SK Hynix says no plans confirmed)
 
+- 2026-10-30 — Q3 beat but Q4 guide $15–16B vs $17.1B consensus (PC weakness + memory-cost squeeze, plus the Israel fab explosion costing ~$600M of revenue over two quarters) → -29%, worst day since the 1970s. Story now trades on PC demand and the cost of the foundry/AI buildout rather than the turnaround alone (D.A. Davidson cut to neutral, "Not fixed yet")
+
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-28 — AUTO: opening gap -5.5%. Headlines: Why cyclical stocks are poised for a comeback | Micron, SK Hynix stocks sink as AI chip sell-off deepens | Update: Dow Extends Advance Following Strong Earnings Reports
@@ -43,3 +45,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-19 — AUTO: opening gap +5.2%
 - 2026-10-22 — AUTO: opening gap -5.5%; crossed below its 200d average
 - 2026-10-23 — AUTO: crossed above its 200d average
+- 2026-10-30 — AUTO: -28.6% day (≥2× its typical range); opening gap -25.8%; volume 4.1× normal; crossed below its 200d average

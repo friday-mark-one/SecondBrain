@@ -18,6 +18,8 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - Consumer-spending proxy — macro prints (CPI, jobs) hit it harder than peers
 - 2026-07-31 — AI/chip businesses are now a material second engine ($25B run rate); the bull case is AWS growth justifying the big AI capex
 
+- 2026-10-30 — Q3 missed on both top and bottom line while holding 2026 capex at $220B and posting a second straight quarter of negative free cash flow; FCF/capex scrutiny now competes with AWS growth as the driver, and it lost its 200-day average
+
 ## Observations log (append-only)
 - 2026-07-27 — note created.
 - 2026-07-27 — AUTO: opening gap -3.5%; crossed below its 200d average. Headlines: 4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter | MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years | The Growth That Has to Land for Palantir Stock to Make Sense
@@ -38,3 +40,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-19 — AUTO: +5.0% day (≥2× its typical range); crossed above its 50d average
 - 2026-10-22 — AUTO: -4.6% day (≥2× its typical range); crossed below its 50d average
 - 2026-10-29 — AUTO: opening gap -3.0%
+- 2026-10-30 — AUTO: opening gap -4.6%; crossed below its 200d average

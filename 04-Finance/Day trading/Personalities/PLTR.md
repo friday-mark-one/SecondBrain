@@ -23,3 +23,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-04 — AUTO: +29.5% day (≥2× its typical range); opening gap +15.5%; volume 4.1× normal; crossed above its 50d average; crossed above its 200d average. Headlines: Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips | 'Several steps ahead': Why Palantir stock is surging | Why Palantir stock is ripping higher after earnings: AlphaSpace stat of the morning
 - 2026-08-07 — AUTO: +10.3% day (≥2× its typical range). Headlines: SpaceX's influence ripples across markets: AlphaCheck | US Equity Indexes Rise This Week as Technology Mega-Caps Advance, Hormuz Reopening Deal in Works | Stock Market Today: Nasdaq Pops As Fed Rate-Hike Odds Fall; Sezzle Loses Its Sizzle (Live Coverage)
 - 2026-10-09 — AUTO: new 52-week high
+- 2026-10-30 — AUTO: crossed below its 50d average
