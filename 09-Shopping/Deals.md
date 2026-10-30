@@ -1,5 +1,19 @@
 # Deals
 
+## 2026-10-30
+- Kohl's — extra 20% off + $10 off $50+ (gift-shop / holiday hub) — no date — coupons on qualifying brands + Kohl's Cash
+- Weee! — Diwali Dhamaka Sale drops tomorrow — no date — Asian grocery deals, app/online
+- Daily Harvest — 2 free chocolate treats with any $100+ subscription box — no date — new Peppermint Cocoa smoothie, limited time
+- Weee! — Crazy 8 Deals ending soon — no date — Asian grocery markdowns
+- MOD Pizza — free kids meal with any MOD-size pizza or salad — Sundays only — kids 12 & under, participating locations
+- point.me — 25% Amex Membership Rewards → Air France-KLM Flying Blue transfer bonus — expires 10/31/26 — limited-time transfer
+- UNiDAYS — win a $200 ASOS gift card (A/W 26 giveaway) — no date — student verification required
+- NORDSTROM RACK — up to 60% off AllSaints & Vince — no date — no code
+- Michaels — up to 50% off howl-o-ween faves — no date — in-store & online
+- Macy's — up to 40% off new handbags — no date — no code stated
+- NORDSTROM RACK — Tommy Bahama up to 55% off; Theory up to 60% off — no date — no code
+- J.CREW FACTORY — 50% off sitewide (Gift Shop open) — no date — limited time
+
 ## 2026-10-29
 - Summit at Snoqualmie — First Flakes Sale: up to $70 off 2026-27 season passes — expires 11/04/26 — payment plan at checkout, no code
 - point.me — Standard membership 25% off ($96.75/yr ≈ 3 months free) — expires 10/31/26 — code BOO
