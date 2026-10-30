@@ -1,5 +1,137 @@
 # News
 
+## 2026-10-30
+
+### Big Tech & Startups
+
+- [DoorDash to buy Instacart for $17 billion, uniting 2 delivery giants](https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html?unlocked_article_code=1.MlE.xFQp.UMIf7vCNQ-Sh&smid=url-share&utm_source=tldrnewsletter) — Instacart shareholders get $65 per share, a 26% premium to the October 22 close.
+  Combining the two companies' technology and infrastructure is expected to bring faster deliveries and more affordable prices.
+  The deal is expected to close late next year or in 2028.  (TLDR)
+
+- [Reddit is moving to "a logged-in-only experience," CEO says](https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/?utm_source=tldrnewsletter) — Reddit will test a logged-in-only experience in select non-US markets in Q4.
+  The CEO says the requirement will help retain new users, provide better ad-targeting signals, and protect access to the site's data.
+  It should also make it easier for Reddit to manage AI scraping and evolving search habits.  (TLDR)
+
+- [Binance suspends transactions after biggest-ever cyber heist](https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?st=DuF3aP&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter) — The exchange paused transactions after a hack it said totaled around $6.3 billion.
+  Tether and Circle moved quickly to freeze some of the stolen assets, and a North Korean hacking group is suspected.
+  Binance's founder said users' funds are safe.  (TLDR)
+
+### AI Models & Research
+
+- [Mistral releases weights for its trillion-parameter model](https://mistral.ai/news/mistral-large-4-oss/?utm_source=tldrai) — Mistral Large 4 is designed for self-hosted deployment and cybersecurity applications.
+  The company claims leading open-weight performance on agentic coding benchmarks and cybersecurity capabilities comparable to GLM-5.3.
+  Releasing the weights puts a frontier-scale model directly in enterprises' hands.  (TLDR AI)
+
+- [OpenAI updates its Model Spec around five core values](https://links.tldrnewsletter.com/154Wlh) — The spec now organizes model behavior around faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care.
+  The values are meant to give a clearer, shared vocabulary for resolving behavior tradeoffs.
+  It is an update to the document that guides how OpenAI models are trained and evaluated.  (TLDR AI)
+
+- [The surprising leadership dynamics in agent swarms](https://www.raindrop.ai/blog/agent-swarm-leadership/?utm_source=tldrai) — Researchers had eight agents from four different models cooperate to resolve simulated outages with no designated leader.
+  Two factors influenced which agent emerged as leader: its underlying model, and the order its name appeared in the prompt.
+  The result suggests seemingly minor configuration details can shape how agent swarms coordinate.  (TLDR AI)
+
+- [AI can turn security fixes into working exploits before users receive an update](https://epoch.ai/publications/open-weight-models-patch-gap?utm_source=tldrai) — GLM 5.3 can identify and exploit vulnerabilities in recent Firefox versions using fixes that are published but not yet shipped to users.
+  Widely available open-weight models can now do much — or all — of that work on their own.
+  Open-source projects are especially exposed, and the threat is likely to worsen as open-weight cyber capabilities improve.  (TLDR AI)
+
+- [Leaking Muse's Charter, Meta's model spec](https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec?utm_source=tldrai) — Meta's Muse Spark Open often references a "Charter" in its chain of thought.
+  The author reconstructs the document from model outputs rather than a leaked file, so it may not be fully accurate.
+  It offers a rare look at the instructions shaping a frontier model's behavior.  (TLDR AI)
+
+### AI Engineering & Tooling
+
+- [Droid 1.0: building a frontier harness](https://factory.com/news/frontier-harness?utm_source=tldrai) — Droid is an agent harness that lets agents run hundreds of tool calls in a single model request.
+  Building and tuning the harness across many models helps ensure improvements generalize instead of just fitting one model's quirks.
+  The team argues that's how to separate real progress from model-specific adaptation.  (TLDR AI)
+
+- [Making agents fast — what I've learnt over the last 12 months](https://martinalderson.com/posts/making-agents-fast/?utm_source=tldrnewsletter) — Know which part of inference a project relies on for speed, check thinking budgets, and read traces for insight into what the agent wants to do.
+  Give agents the tools they want rather than what you think they need; faster hardware still matters.
+  Sandboxing and microVMs add complexity, while parallelization and classic performance optimization remain relevant.  (TLDR)
+
+- [How Meta catches bugs before code ships](https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/?utm_source=tldrai) — Meta scaled its LLM-powered Just-in-Time Testing system from research prototype to production infrastructure.
+  AI-generated tests catch bugs before code changes land, at scale.
+  The post covers reducing false positives and testing overhead along the way.  (TLDR AI)
+
+- [How we're training a Figma-fluent editing model](https://www.figma.com/blog/training-a-figma-fluent-editing-model/?utm_source=tldrai) — Post-trained models can compete with frontier models on specialized tasks like Figma editing.
+  Starting with a focused problem can turn progress into meaningful product updates.
+  Figma explains how it trained an editing model fluent in its own tool.  (TLDR AI)
+
+- [How I built the most AI-pilled company in the world](https://links.tldrnewsletter.com/v3skhA) — Spawn reports shipping 77,000 substantial changes in 30 days with a ten-person team and $3.1 million in token spending.
+  Permanent agents own parts of the company, supported by direct production feedback, frequent tests, hourly deployments, and fast recovery.
+  Hard-coded gates guard irreversible actions, while humans focus on product taste and ambitious changes agents rarely propose.  (TLDR Dev)
+
+- [A little determinism](https://cra.mr/a-little-determinism?utm_source=tldrnewsletter) — Adding constraints to AI agents usually makes them less capable, but sometimes the answer is a template or a complete multi-stage workflow.
+  The challenge is forcing deterministic behavior while preserving the agent's freedom to pick the best tools.
+  The proposed solution uses a man-in-the-middle egress proxy that denies actions and forces reactions via automated messages.  (TLDR)
+
+### Science & the Future
+
+- [Elon says Blindsight is ready 2 years after FDA breakthrough](https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough/?utm_source=tldrnewsletter) — Neuralink's Blindsight implant is now ready from an engineering standpoint.
+  The device is designed to help blind people see and is waiting on regulatory approval before it can be sold.
+  It already has Breakthrough Device Designation from the US FDA, which should speed review.  (TLDR)
+
+- [A golden age of science is coming](https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming?utm_source=tldrnewsletter) — Scientific progress has accelerated over the last two years, and AI can supply hordes of fast, well-read, mathematically gifted researchers.
+  That could enable discoveries and ways of understanding nature that no human network would reach.
+  Unless we have somehow already found most exploitable regularities in the universe, a new golden age may be ahead.  (TLDR)
+
+- [The economics of intelligence: how and when does AGI lead to economic transformation?](https://institute.deepmind.com/essays/the-economics-of-intelligence/?utm_source=tldrai) — AI models are improving exponentially in individual competence while lagging in coordination.
+  They already match or outperform experienced specialists on self-contained deliverables across dozens of professions.
+  The labor market reflects current capabilities, and wages and job roles will be the earliest signals of change.  (TLDR AI)
+
+- [Why Sam Altman is against a single superintelligence](https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single?utm_source=tldrai) — Altman would rather have a trillion AIs of slightly superhuman intelligence join society than one AI of 1 trillion IQ.
+  Swarms of agents match many properties of a resilient society: they keep each other in check and collaborate toward goals.
+  He argues AI research shouldn't centralize, because agents pushing against each other create a dynamic equilibrium.  (TLDR AI)
+
+- [We won't "just hang out"](https://borretti.me/article/we-wont-just-hang-out?utm_source=tldrnewsletter) — The standard answer for what humans do after the Singularity is that people will "just hang out."
+  The author argues AI will destroy the processes by which people come together and build relationships.
+  With unlimited entertainment, people may not even want to socialize — and a society with no skills, education, or accomplishments may not be worth hanging out in.  (TLDR)
+
+### Web & Development
+
+- [Measuring soft navigation web vitals](https://blog.sentry.io/measuring-soft-navigation-web-vitals/?utm_source=tldrdev) — Sentry's JavaScript SDK v11 measures LCP, CLS, and INP for client-side navigations.
+  That exposes slow routes that initial page-load metrics miss; support currently requires Chromium 151 or later.
+  Soft-navigation scores should be filtered separately from page loads because their clocks start at different points.  (TLDR Dev)
+
+- [The web can't afford a JavaScript runtime monoculture](https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/?utm_source=tldrdev) — Deno's planned end of runtime development narrows the major server-side JavaScript choices to Node.js, Bun, and Cloudflare's workerd.
+  History from Internet Explorer and the io.js fork shows independent implementations can prevent stagnation.
+  Competing runtimes push features and ideas across the ecosystem.  (TLDR Dev)
+
+- [Optimizing the sh*t out of TanStack Start](https://sarthakmishra.com/blog/optimizing-tanstack-start?utm_source=tldrdev) — A TanStack Start site improved its mobile Lighthouse score from 73 to 100 and cut LCP from 5.2 seconds to 1.7 seconds.
+  The wins came from removing unnecessary JavaScript, images, and font data.
+  More complex changes added maintenance without clearly explaining the final score, making basic asset reductions and regression budgets the better starting point.  (TLDR Dev)
+
+- [Design systems should be fast by default](https://denodell.com/blog/design-systems-should-be-fast-by-default?utm_source=tldrdev) — Benchmarks of large dropdowns and checkbox lists across ten design systems traced slow interactions to repeated layout work, slot handling, and per-checkbox animations.
+  Published Playwright tests enforce timing budgets so shared components catch performance regressions before they reach every consuming app.
+  The lesson is that component-level performance is a system responsibility.  (TLDR Dev)
+
+- [Project Speed](https://building.owner.com/project-speed?utm_source=tldrdev) — Owner rebuilt infrastructure serving more than 10,000 restaurant websites with Astro, selective React, and edge caching.
+  Menu-page p75 LCP fell from 5.4 seconds to 0.7 seconds.
+  The rollout also raised per-restaurant revenue by more than 4%.  (TLDR Dev)
+
+- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754?utm_source=tldrdev) — Pico CSS has been archived, with version 2.1.1 designated as the final release.
+  Existing npm packages, the CDN, and documentation remain available.
+  The MIT license allows community forks under different names.  (TLDR Dev)
+
+- [How fast can you actually patch Ruby?](https://paagman.dev/how-fast-can-you-patch-ruby/?utm_source=tldrdev) — A comparison of Ruby 4.0.9 availability tracks the gap between a security release and its arrival in installers, container images, CI providers, and hosting platforms.
+  Core-team tools shipped within minutes, but the default Docker image took almost 16 hours and some cloud runtimes took days.
+  The takeaway: teams need to audit their entire update path, not just the upstream release.  (TLDR Dev)
+
+- [wterm renders a terminal into the DOM](https://wterm.dev/?utm_source=tldrdev) — wterm provides native text selection, browser find, and screen reader support for terminal UIs.
+  It offers React, Vue, and Svelte bindings, pluggable Zig/WASM or Ghostty cores, and WebSocket transport to a PTY backend.  (TLDR Dev)
+
+- [ElementaryUI brings declarative Swift interfaces to the browser](https://elementary.codes/?utm_source=tldrdev) — It runs Swift in the browser through WebAssembly with SwiftUI-inspired syntax and reactive state.
+  It supports Embedded Swift for small bundles and uses Vite for hot reload during development.  (TLDR Dev)
+
+### Quick Links
+
+- [Node.js 26 LTS is generally available on Vercel](https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel?utm_source=tldrdev) — Node.js 26 is Vercel's default for new projects; existing projects whose `engines.node` range permits it upgrade on their next deployment.  (TLDR Dev)
+
+- [Pika H3 Flex](https://pika.art/blog/pika-h3-flex?utm_source=tldrai) — A video generation model that works with up to 12 references, exports five separate audio stems, and finishes at up to 4K.  (TLDR AI)
+
+- [Natural Direct](https://www.natural.com/blog/direct?utm_source=tldrai) — Lets agents choose among ACH, Wire, Realtime, and soon paper checks for financial transactions.  (TLDR AI)
+
+- [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land?utm_source=tldrdev) — An interactive cartogram resizes countries by their share of locatable IPv4 addresses, using October 2026 geolocation data.  (TLDR Dev)
+
 ## 2026-10-29
 
 ### AI Models & Research
