@@ -1,5 +1,24 @@
 # Deals
 
+## 2026-10-31
+- Kohl's — $10 off $50+ jewelry & watches (The North Kohl's gift shop) — no date — holiday gifting hub
+- AquaTru — Black Friday VIP early access: up to 25% off purifiers, up to 20% off filters, 35% off shower — no date — aquatru.com/pages/black-friday
+- Macy's — extra 30% off clearance jackets, shirts & more — no date — no code stated
+- Going — Hawaii price drop $543 roundtrip from saved destinations — no date — fare deal
+- Aroma Restaurant — free samosa this weekend — expires Sun 11/01/26 — dine-in, pickup or delivery
+- Weee! — Diwali Dhamaka up to 50% off — no date — Asian grocery, app/online
+- Michaels Custom Framing — 70% off custom framing; $29 frames in 10 minutes — no date — in-store
+- Michaels — earn $5 in Rewards on $30+ purchase — no date — My Michaels members
+- UNiDAYS — win a $200 Urban Outfitters gift card (A/W 26 giveaway) — no date — student verification required
+- Sephora at Kohl's — Savings Event + extra 10% for Beauty Insiders; beauty gifts $50 & under — no date — Beauty Insider required 🔔 [[Gift ideas]]
+- Nordstrom Rack — 20% off one Rack purchase for Nordy Club members — no date — member coupon
+- Going Flight Deals — Reno/Lake Tahoe roundtrip $187 — Dec–Mar travel — fare deal
+- Going Flight Deals — Seattle to Vietnam roundtrip $795 — Oct–Nov travel — fare deal
+- Pandora — 2X points on all charms — ending soon — log in to My Pandora before purchase
+- evo — 20% off one full-price item — expires 11/02/26 — code SAVE20
+- point.me — 25% off a full year (≈3 months free) — expires 10/31/26 — trips & treats sale
+- Michaels — Monster Deals last call on Halloween supplies — no date — in-store & online
+
 ## 2026-10-30
 - Kohl's — extra 20% off + $10 off $50+ (gift-shop / holiday hub) — no date — coupons on qualifying brands + Kohl's Cash
 - Weee! — Diwali Dhamaka Sale drops tomorrow — no date — Asian grocery deals, app/online
