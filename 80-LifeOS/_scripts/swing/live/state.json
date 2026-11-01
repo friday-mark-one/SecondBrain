@@ -51,10 +51,10 @@
   "closed": [],
   "kill_until": null,
   "alerts": {},
-  "last_weekly": "2026-10-25",
+  "last_weekly": "2026-11-01",
   "cooloff": {},
   "last_pulse": "2026-10-30",
-  "monitor_runs": 4379,
-  "last_monitor": "2026-11-01T01:53-05:00",
+  "monitor_runs": 4380,
+  "last_monitor": "2026-11-01T02:07-05:00",
   "last_month_note": "2026-09"
 }

@@ -1,5 +1,26 @@
 # Deals
 
+## 2026-11-01
+- Kohl's — 20% off + $10 off your $50+ cozy styles & more — expires 11/1 (last day) — coupons in email
+- Nordstrom Rack — up to 60% off sweaters & denim + extra 20% off one purchase for Nordy Club — expires 11/3 — free ship $89+
+- Fabletics — 60% off sitewide (VIP), $39 onesies, 2 for $39 — expires 11/3 8:59am PT — auto-applied, no code
+- point.me — 25% off annual Standard/Premium (~3 months free) — expires 10/31 midnight — code BOO
+- Pandora — 2x My Pandora points on all charm purchases — expires 11/3 — must be logged in
+- point.me — card offer roundup: 75K miles + $300 hotel credit, $95 fee — no date — via CardRatings link
+- Michaels — Monster Deals up to 50% off + $5 rewards on $30+ — ends soon, no date
+- Fandango — $5 off when buying 2+ movie tickets — expires 12/31/26 — code 6946-68X2F2-33CC
+- CardPointers — 50% off annual (Halloween sale), ~$4/mo — expires 10/31 — Stripe checkout link in email
+- Kohl's Rewards — join for 20% off + $10 off $50+ purchase — no date — 7.5% rewards w/ Kohl's Card
+- Sephora — 30% off ALL Sephora Collection, Beauty Insider members — expires 11/9 — code/coupon required
+- Nordstrom Rack — new markdowns up to 70% off + extra 20% off one purchase for Nordy Club — expires 11/3
+- Macy's — 30% off best brands for him (HUGO, Alfani & more) — no date
+- Fandango — 25 Halloween favorites for $15; $5 off Disney's Hexed 3D — expires 12/6 — code DISNEYSHEXED
+- AquaTru — up to 35% off showers/filters/purifiers, 20% off filter packs (VIP Black Friday) — ends soon, no date
+- Going — Ink Business Unlimited: 75K bonus points, no annual fee, 0% APR 12 mo — no date — $6K spend in 3 mo
+- The Leela — Festive Getaway package + 40th anniversary gift hampers — no date
+- Michaels — Monster Deals up to 50% off + $5 rewards on $30+ — expires 11/1 (Halloween weekend)
+- Kohl's — $10 off $50+ jewelry & watches — no date
+
 ## 2026-10-31
 - Kohl's — $10 off $50+ jewelry & watches (The North Kohl's gift shop) — no date — holiday gifting hub
 - AquaTru — Black Friday VIP early access: up to 25% off purifiers, up to 20% off filters, 35% off shower — no date — aquatru.com/pages/black-friday
