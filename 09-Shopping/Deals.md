@@ -1,5 +1,21 @@
 # Deals
 
+## 2026-11-02
+- Target — new weekly ad (Circle deals, no specifics) — no date — in-store/app
+- Fabletics — November drop: new arrivals on sale (VIP) — no date — fabletics.com
+- Costco — new finds for this week's visit — no date — weekly warehouse finds
+- point.me — 25% off annual Standard/Premium (~3 months free) — expires 11/1 midnight — code BOO
+- Best Buy Visa (Citi) — activate special financing offer — expires 11/6/2026 — activate via email link
+- CardPointers — $10 DoorDash credit on Chase Sapphire Preferred this month + 50% off annual (~$4/mo) — expires 11/30 — credits auto-added in app
+- H&M — 20% off in the app — expires 11/1 (today only) — app only
+- AquaTru — up to 35% off Black Friday sale (filters 20%, purifiers 25%, shower 35%) — no date — aquatru.com/pages/black-friday
+- evo — final Santa Cruz markdowns, e.g. Vala 1 C $8,199 (was $9,099), Megatower 2 C $5,199 (was $6,099) — no date — evo.com
+- Pandora — limited-edition Winnie the Pooh 100th-anniversary charms (Pooh Bear + Hug) — no date — while supplies last
+- UNiDAYS — adidas 30% off full price, DoorDash 25% off first order, UGG 10% off, AMC up to 50% off — no date — student verification
+- Going — mistake fare: Tokyo roundtrip from $196 — travel Jan 2027, book soon — Premium deal
+- point.me — 25% off annual Standard/Premium extended one more day — expires 11/2 midnight — code BOO
+- IndiGo BluChip — up to 18% off with code IBCDAY — expires 11/2 (24-hour sale) — IndiGo bookings
+
 ## 2026-11-01
 - Kohl's — 20% off + $10 off your $50+ cozy styles & more — expires 11/1 (last day) — coupons in email
 - Nordstrom Rack — up to 60% off sweaters & denim + extra 20% off one purchase for Nordy Club — expires 11/3 — free ship $89+
