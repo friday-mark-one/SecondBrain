@@ -33,3 +33,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-06 — AUTO: new 52-week high
 - 2026-10-14 — AUTO: crossed below its 50d average
 - 2026-11-02 — AUTO: crossed below its 200d average
+- 2026-11-03 — AUTO: crossed above its 200d average

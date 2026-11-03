@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-08-04 — Trades on AI commercial momentum and earnings execution: Q2 earnings triggered a +29.5% rip back above its 50d/200d, a re-rating on AI revenue growth
+- 2026-11-03 — New bear hook: it now trades on bookings acceleration vs valuation, not just revenue growth. Q3 revenue beat ($2.31B, commercial revenue above government for the first time) yet the stock gapped −5.7% (intraday −7%) because US commercial bookings growth decelerated to 11% YoY from 153% the prior quarter — the first crack in the growth story gets sold hard, so bookings/TCV is now the number to watch
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -24,3 +25,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-07 — AUTO: +10.3% day (≥2× its typical range). Headlines: SpaceX's influence ripples across markets: AlphaCheck | US Equity Indexes Rise This Week as Technology Mega-Caps Advance, Hormuz Reopening Deal in Works | Stock Market Today: Nasdaq Pops As Fed Rate-Hike Odds Fall; Sezzle Loses Its Sizzle (Live Coverage)
 - 2026-10-09 — AUTO: new 52-week high
 - 2026-10-30 — AUTO: crossed below its 50d average
+- 2026-11-03 — AUTO: opening gap -5.7%

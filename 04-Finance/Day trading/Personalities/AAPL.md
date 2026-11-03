@@ -19,6 +19,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-31 — Memory/component supply is a new recurring scare: Cook warned a memory shortage is squeezing Apple (~10% slide) and called it a '100-year flood'
 - 2026-08-10 — Analyst sentiment is now a live bearish swing factor: Jefferies downgraded Apple over iPhone yields and growth concerns (stock crossed back below its 50d)
 - 2026-08-21 — AI competitiveness and leadership/succession questions are now a live bearish swing factor: reports that the next CEO will spend more to catch up in AI, with leadership questions deepening Apple's AI dilemma (crossed back below its 50d)
+- 2026-11-03 — Memory costs have moved from supply scare to a margin story: on his first earnings call as CEO, John Ternus called memory pricing 'unprecedented', and the Dec-quarter gross-margin guide came in 45–46% vs 46.3% expected with memory blamed for most of the cut — a revenue beat (FQ4 rev $114.5B, +7–10% Dec guide) was sold, gapping AAPL −3.8% through its 50d. Gross-margin guidance and memory commentary are now the swing factor, ahead of unit demand
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -40,3 +41,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-21 — AUTO: new 52-week high
 - 2026-10-22 — AUTO: new 52-week high
 - 2026-10-29 — AUTO: new 52-week high
+- 2026-11-03 — AUTO: opening gap -3.8%; crossed below its 50d average
