@@ -1,5 +1,13 @@
 # Deals
 
+## 2026-11-03
+- IndiGo — up to 10% off + 5 kg extra baggage with new onboard menu — expires no date — goindigo.in
+- PointsYeah — business class to China from 100k United miles (102.5k Air Canada), 9+ seats open — expires no date — book direct with airline
+- H&M — Early Black Friday 30% off select styles in-store — expires 11/7/2026 — styles with -30% hangtag, in-store only
+- ID.me Shop — 40% off Under Armour for students + up to 30% off Samsung — expires no date — student verification
+- Going — Iceland roundtrip $492 (Nov-Dec travel) — expires no date — fare deal
+- Kohl's — extra 20% off + save up to 70% on clearance — expires no date — coupons in email
+
 ## 2026-11-02
 - Target — new weekly ad (Circle deals, no specifics) — no date — in-store/app
 - Fabletics — November drop: new arrivals on sale (VIP) — no date — fabletics.com
