@@ -31,3 +31,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-27 — AUTO: new 52-week low
 - 2026-10-28 — AUTO: new 52-week low
 - 2026-10-30 — AUTO: new 52-week low
+- 2026-11-04 — AUTO: +4.9% day (≥2× its typical range)
