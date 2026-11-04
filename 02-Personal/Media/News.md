@@ -1,5 +1,85 @@
 # News
 
+## 2026-11-04
+
+## Big Tech & Startups
+
+- [Siri AI is now open to all developers](https://developer.apple.com/news/?id=gdk2umrf) — Apps can now bring content and actions directly into Siri AI via App Intents, shipping in the iOS 27.3 beta. Skills handle complex requests that need Siri to chain several actions into one experience, and Siri can surface any entity in the Spotlight semantic index.
+  App Store submissions with the new capabilities open in the spring. Siri AI stays unavailable in the EU and for users under 13, with more languages rolling out over time.  (TLDR, TLDR AI)
+- [OpenAI: ChatGPT search is about 20% of Google's, 250 million people speak with ChatGPT](https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20) — OpenAI added 200 million users in two months, reaching 1.2 billion weekly actives, and its search volume is now roughly a fifth of Google's. Users generate 1.5 billion images per week, and voice mode alone pulls 250 million weekly users.
+  The piece is an edited transcript with ChatGPT consumer product lead Adam Fry covering the planned merge of Chat and Work modes, image generation, interactive interfaces, advertising, education, and public unease about AI.  (TLDR, TLDR AI)
+- [Google will turn off Search for schools that reject AI](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) — Google will disable AI tools in its software for K-12 students unless administrators explicitly opt in — but schools that restrict AI entirely also lose access to plain Google Search. AI features had previously been on by default.
+  Google frames the reversal as a response to feedback from educators and parents. The decision is a stark illustration of how much leverage the company holds over US education infrastructure.  (TLDR)
+- [The death of the angel investor](https://zachholman.com/posts/angel-investor-death) — The economics of angel investing have shifted: raising a fund is often more profitable than deploying personal capital, and founders now prefer a single pre-seed check over rounding up many small angel commitments.
+  Startups move faster, so assembling a syndicate of small checks is slower and less appealing, and angels who try to lead a round are frequently squeezed out by the valuation game.  (TLDR)
+
+## AI Models & Research
+
+- [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference) — It is essentially impossible today to verify which model actually produced a given output. Cryptographic proofs of inference let providers prove that a specific model generated a specific completion.
+  Such proofs could unlock new applications and form part of a toolkit for verifying compliance with AI pacing requirements. The post details progress on zKSNARKs, a proof type uniquely suited to provable inference.  (TLDR AI)
+- [Sparks of weight-space programming](https://rikiyat.github.io/blog/weight-space-programming/) — Experiments show GPT-6 Astra reading and directly editing neural network weights without gradient descent, including writing small game-playing networks from scratch. Editing just 0.016% of Qwen3.5-0.8B's weights cut reasoning loops and lifted MATH-500 accuracy from 7.9% to 48.1%, using 50 forward passes for feedback.
+  The gains appear to remove an obstacle to existing ability rather than add new capability — similar edits failed to meaningfully improve a Gemma model that rarely looped in the first place.  (TLDR Dev)
+- [The weight-space programming post is misleading](https://honnibal.dev/blog/astra-read-write-misleading) — A critique that separates the small-network experiments (which inspect raw weights) from the larger-model work that leans on Python and execution feedback. The headline Qwen result involved 50 batches of practice problems, so it does not demonstrate improvement from inspecting raw weights alone.
+  The distinction matters when judging whether the work shows one general capability or several different engineering techniques stapled together.  (TLDR Dev, TLDR AI)
+- [How much does reasoning effort affect score and cost?](https://www.vals.ai/blogs/reasoning-effort) — Lowering reasoning effort cuts cost far more than it degrades results. Tests show models on low effort often match models on high effort while spending substantially less.
+  The magnitude of the effect is task-dependent, so blanket "max reasoning" defaults waste money on workloads that never needed the extra tokens.  (TLDR AI)
+- [Training a text-to-image model for $21K](https://www.linum.ai/field-notes/pjit-21k) — Linium, a two-person research lab, is training generative video models from scratch to democratize animation access. Pyramid-JiT (P-JiT) is a pixel-space architecture that gets aggressive token reduction through a noise schedule that helps pixel-space models learn fine-grained detail.
+  The study pressure-tests how the architecture scales with longer training, on the path to larger image and video models, with sample generations published alongside.  (TLDR AI)
+- [Learnings from auditing public evaluations](https://www.primeintellect.ai/blog/auditing-public-evaluations) — The article walks through issues hit while publicly evaluating LLMs and the fixes that went into AUTOMATIONBENCH and OFFICEQA PRO V2. Ambiguous prose descriptions were replaced with JSON schemas for cleaner performance evaluation, and new grading systems improved accuracy.
+  It argues for a multi-layered monitoring system to prevent benchmark manipulation and to keep measurement of model capability honest.  (TLDR AI)
+- [DeepSeek plans to train its next-generation model on Huawei Ascend chips](https://www.geopolitechs.org/p/deepseek-plans-to-train-its-next) — DeepSeek intends to pretrain DeepSeek V5 on Huawei's Ascend accelerators, which until now have been used mainly for inference rather than pretraining.
+  A successful run would be a serious test of whether Chinese accelerators can carry full frontier pretraining, potentially reducing dependence on Nvidia and strengthening Huawei as an alternative.  (TLDR AI)
+
+## Engineering & Dev
+
+- [Scaling Git at OpenAI](https://links.tldrnewsletter.com/8ttrpd) — OpenAI built Pando, a Git-compatible backend that handles pushes to unrelated branches independently and reuses cached packfiles across fetches. Median push latency dropped nearly 80%, and it now serves close to a petabyte of Git data per day.
+  The tradeoff is weaker consistency across branches plus some redundant downloads, in exchange for horizontally scalable writes and reads that saturate client network connections.  (TLDR Dev)
+- [How software engineering is changing: a tale of two eras](https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing) — AI-native startups can ship faster than even fast-moving pre-AI startups because moving too fast now risks very little. The old constraints of software engineering have largely evaporated, letting teams move quickly but also break things.
+  The new constraints are context switching, lost shared context, tougher pacing, less design focus, and AI plan limits — and many existing tools and processes will crack under the shift.  (TLDR)
+- [Interpolative software](https://benjamincongdon.me/blog/2026/11/02/Interpolative-Software/) — Interpolative software sits solidly inside models' training distribution and can often be specified with a few sentences of prompting. Novel software is something that has fundamentally not existed before, and writing it with agents is hard because they were never trained on the task.
+  Not much software is genuinely novel — which is fine, since there is still enormous value in the interpolative kind.  (TLDR)
+- [Resisting cognitive surrender](https://knlb.dev/essays/surrender) — Uncritically accepting agent output grows technical debt while eroding the understanding you need to debug and maintain the system. Choose how much to delegate based on risk, stay involved in consequential decisions, and ask for small, comprehensible changes.
+  When delegating heavily, lean on independent observability, deterministic checks, and shadow traffic to verify behavior instead of trusting the agent's own account of what it did.  (TLDR Dev)
+- [The hidden latency inside your database](https://planetscale.com/blog/the-hidden-latency-inside-your-database) — Network-attached storage injects latency inside a database cluster even when app and DB sit close together. Local NVMe avoids that hop but demands deliberate replication and failover to keep durability.
+  Workloads that mostly fit in RAM may see little benefit, while frequent cache misses and IOPS ceilings make storage placement worth auditing.  (TLDR Dev)
+- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) — A Renault's clock settings were unreachable without a legitimate navigation SD card, turning a daylight-saving adjustment into a firmware reverse-engineering project. QEMU emulation revealed how a script parser's file writes plus Linux core-dump handling could chain into code execution.
+  The eventual fix: change the stored GPS time offset from 180 minutes to 120.  (TLDR Dev)
+- [How much do tokens really cost?](https://substack.hadley.nz/p/how-much-do-tokens-really-cost) — Running servers appears significantly cheaper than what providers charge, assuming high utilization capacity — but the framing changes with how you model utilization. (TLDR has the terser take: pricing looks sustainable because provider competition keeps pushing costs down.)  (TLDR, TLDR AI)
+- [Mac at any scale](https://namespace.so/blog/mac-at-any-scale) — Namespace explains the hardware, networking, virtualization, and VM-image distribution work behind running a fleet of Macs for cloud development and CI: custom Mac racks, macOS instances booting from scratch in seconds, and new Xcode versions available hours after Apple ships them.  (TLDR, TLDR Dev)
+- [The SaaS apocalypse started in October](https://mackgrenfell.com/writing/saas-growth-2026) — Revenue at the median SaaS company grew 0.20% in September, then shrank 0.41% the following month.  (TLDR)
+- [British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345) — Revolut runs GLM-5.3 on 56 Nvidia B200 GPUs in-house, a move it credits with a tenfold reduction in AI coding spend.  (TLDR)
+- [Auditioning engineering: software engineering interviews in the age of AI](https://tech.wmg.com/auditioning-engineering-4ca3d48bf457) — Warner Music Group encourages candidates to use AI while solving realistic API integration problems against a live, randomized test server. System-design interviews ask candidates to modify an existing system and infer causes from observed behavior.
+  The approach emphasizes technical judgment, though authoring new exercises and training senior system-design interviewers remain expensive.  (TLDR Dev)
+- [C++26 DIS failed, how does C++ survive?](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) — C++26's draft failed its ISO ballot amid objections to Contracts, leaving the committee to agree on a revised path and putting the release schedule in doubt.  (TLDR Dev)
+- [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html) — A Stockfish port on a 200 MHz Pentium Pro with 64 MB of RAM measures 3180 at 30 seconds per move. The experiment attributes most chess engine progress to better search and evaluation rather than faster hardware.
+  The ~3300 classical rating is extrapolated from shorter games, and readers can play the machine online.  (TLDR Dev)
+
+## Launches & Tools
+
+- [Baseten introduces Grid, Sandboxes, and Serverless Loops](https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier) — Baseten announced Grid for model routing and governance, resumable VM-isolated Sandboxes for agent execution, and GA of Loops for serverless supervised fine-tuning and RL.
+  The products link training, inference, and execution, with customers keeping ownership of trained weights.  (TLDR AI)
+- [Fireworks launches faster AI inference and enterprise tools](https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence) — At Forge, Fireworks showed Ultra-fast inference reaching up to 1,500 tokens/second, cheaper background processing, and Nexus for reaching multiple models inside existing tools.
+  It also added model evaluation, fine-tuning deployment, and enterprise-controlled infrastructure.  (TLDR AI)
+- [Gemini Notebook API](https://developers.google.com/notebook/docs) — A REST interface for programmatically creating and managing notebooks and sources in Gemini Notebook, turning web pages, YouTube videos, plain text, and Markdown into persistent notebooks.
+  The API and its MCP server are in early-access Public Preview, restricted to personal Google accounts — Workspace accounts are not yet supported.  (TLDR AI)
+- [Accelerating engineering for the physical world](https://links.tldrnewsletter.com/VOR8sd) — OpenAI is applying its models to mechanical and electrical engineering, from design through simulation to production. Engineers use models like GPT-6 Astra for device design, CAD model creation, and performance simulation, and work with partners such as Mazda on vehicle aerodynamics.  (TLDR AI)
+- [Agent state machines: building deterministic scaffolding for agents](https://links.tldrnewsletter.com/GLJTvf) — How state machines enforce agent permissions, approvals, retries, and completion criteria outside the model prompt.  (TLDR AI)
+- [Introducing Adaptive Dark Mode](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/) — Adaptive Dark Mode in Safari takes light websites and presents them as dark, rather than relying on sites to ship their own themes.  (TLDR)
+- [Office Engine](https://github.com/p10node/office-engine) — Embeds DOCX, XLSX, and PPTX viewing and editing in the browser through React or a web component. Progressive loading, Web Worker parsing, and virtualized views handle large files, while saves regenerate edited parts and preserve original bytes elsewhere.  (TLDR Dev)
+- [djs](https://github.com/earendil-works/djs) — A JavaScript/TypeScript engine written in Rust for agent-generated scripts inside a WebAssembly sandbox. It keeps the whole VM state in one byte array, so execution can pause between instructions, snapshot while waiting on tools, and resume elsewhere — deliberately omitting ES modules, Intl, and a JIT.  (TLDR Dev)
+- [Three-Live](https://github.com/google/three-live) — Compiles a declarative subset of Three.js into GLB and USDZ assets for web, Android, and Apple pipelines, running generated scripts under execution timeouts and geometry quotas. Apache-licensed, in Developer Preview, and not an officially supported Google product.  (TLDR Dev)
+- [ChatGPT is about to start making GIFs](https://links.tldrnewsletter.com/4GGEVD) — OpenAI merged animated GIF output into its image generation, produced by the Images API, which means it is coming to ChatGPT.  (TLDR AI)
+- [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) — A look at how jobs in software have evolved from the 1940s to the present.  (TLDR)
+- [HackerTV](https://hackertv.org/) — Turns videos recommended in Hacker News comments into shared, continuously scheduled TV channels with a retro interface.  (TLDR Dev)
+
+## Science & Longevity
+
+- [Neuralink's China rival targets obesity with 'electronic' GLP-1](https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss) — BrainCo, a Chinese neurotech company, is developing a wearable that suppresses appetite by stimulating the brain, aiming for market in two to three years, starting in China before a possible US launch.
+  BrainCo already sells brain-computer-interface headsets for autism, ADHD, and insomnia; its devices collect, decode, and stimulate neural signals.  (TLDR)
+- [The state of longevity](https://www.a16z.news/p/the-state-of-longevity) — The fringe biohacker movement has gone mainstream thanks to COVID and AI chatbots, with more people spending time, money, and energy managing their own health. The post surveys how people view health and how people at the cutting edge of health tech approach their own.
+  The biggest opportunities go to companies that help people act on and manage health over time.  (TLDR)
+- [Curiosity traps](https://www.autodidacts.io/curiosity-traps/) — Subtle details, footnotes, and Easter eggs in public work reward close attention and help people with shared interests find each other.  (TLDR Dev)
+
 ## 2026-11-03
 
 ## AI & Models
