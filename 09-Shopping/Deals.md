@@ -1,5 +1,27 @@
 # Deals
 
+## 2026-11-04
+- Macy's — Friends & Family: 30% off reg & reduced prices + 15% off beauty/fragrance + $20 Star Money per $100 — expires 11/3 — code FRIEND applied 🔔 [[Gift ideas]]
+- Macy's — Parade of Deals daily: $39.99 Coach hats, $49.99 Samsonite weekender, 50% off Shiseido cleansers — expires no date — macys.com 🔔 [[Gift ideas]]
+- Sephora — Savings Event on: 10% off everything for Beauty Insiders (extra 10% at Sephora at Kohl's) + free gift with purchase — no date — Beauty Insider login 🔔 [[Gift ideas]]
+- Fabletics — Members Only: up to 70% off incl. November new arrivals — no date — VIP/member pricing
+- Lumosity — 35% off Premium annual — no date — code NEWSLETTER-35-26
+- J.Crew Factory — flash: extra 70% off clearance, plus 12-hour extra 20% off orders $100+ — expires 11/3 — jcrewfactory.com
+- Michaels — Great Big Tree Spree: up to 50% off Christmas trees — no date — michaels.com
+- Michaels — Thanksgiving hosting must-haves + holiday DIY supplies on sale; new Cricut machines — no date — michaels.com
+- Michaels — new weekly offers + earn up to $50 in Bonus Rewards — no date — Michaels Rewards
+- Going — Montana roundtrip $177–$212 (Dec–Mar travel) — no date — fare deal
+- Going — Thailand roundtrip $831 (Nov / Jan–Mar / Aug travel) — no date — fare deal
+- Going — Hawaii: 4 new deals on saved destinations — no date — premium/member deals
+- Going — card offer: earn $250 bonus with no annual fee — expires 11/5 7am ET — apply via Going link
+- Nordstrom Rack — coats & jackets up to 60% off — no date — nordstromrack.com
+- Nordstrom Rack — new Eileen Fisher & ALICE + OLIVIA up to 60% off — no date — nordstromrack.com
+- Nordstrom Rack — designer deals: Off-White, Marc Jacobs & more — no date — Nordy Club early access
+- evo — up to 40% off Salomon, Arc'teryx, Atomic & Armada + last-season markdowns — no date — evo.com
+- Huel — 25% off subscription (always stocked, cancel anytime) — no date — huel.com
+- Dell — extra $50 in Dell Rewards on PC purchases $500+ — no date — Dell Rewards members
+- Chipotle — free guac reward for Rewards members — no date — Chipotle app
+
 ## 2026-11-03
 - IndiGo — up to 10% off + 5 kg extra baggage with new onboard menu — expires no date — goindigo.in
 - PointsYeah — business class to China from 100k United miles (102.5k Air Canada), 9+ seats open — expires no date — book direct with airline
