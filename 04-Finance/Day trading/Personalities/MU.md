@@ -22,6 +22,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-08-27 — New political hook: Trump hails Micron's $10B US research-lab investment ('one of the hottest companies in the world') — presidential attention/government-support now swings it alongside HBM supply-demand and the China-competition discount
 - 2026-10-13 — China-competition discount deepens: CXMT said it will launch a denser high-end server-memory product by year-end, moving the China threat from consumer/mobile onto Micron's core AI-datacenter server memory (MU gapped -5.6% and crossed below its 50d) — the CXMT hook now swings the server-memory franchise, not just consumer memory
 - 2026-10-28 — SK Hynix read-across reasserted over the CXMT discount: Hynix's record quarterly revenue (>100T won) gapped MU +3.6% back above its 50d, so the memory-cycle pricing signal from Korea is again the dominant swing factor even with the China-competition overhang live
+- 2026-11-05 — New macro hook on top of the memory cycle: the AI-regulation/'AI bubble' sell-off (SOX -12%) took MU -17.5% through its 200d with a -5.3% gap, so broad AI-valuation sentiment now swings it alongside HBM supply-demand and the China-competition discount
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -56,3 +57,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-30 — AUTO: opening gap -5.5%
 - 2026-11-03 — AUTO: opening gap +3.2%
 - 2026-11-04 — AUTO: opening gap -3.8%
+- 2026-11-05 — AUTO: -17.5% day (≥2× its typical range); opening gap -5.3%; crossed below its 200d average

@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - 2026-07-31 — Trades on AI accelerator demand and hyperscaler data-center capex (Amazon's $220B AI spend was the driver); Wall Street upgrades add fuel
 - 2026-09-08 — Management TAM framing is now a live driver: CFO's claim of a $3T addressable market by 2030 spiked the stock +6% and back above its 50d — same AI-capex story, but company-guided TAM numbers now move it
+- 2026-11-05 — New macro/regulatory hook: AI-regulation and 'AI bubble' fears drove a semis meltdown (SOX -12%, Nasdaq into correction, Dow -1,800) and AMD fell -17.3% through its 200d on 3.2× volume right after a record quarter — regulatory/valuation sentiment now swings it alongside the AI-capex and TAM story
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -48,3 +49,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-10-22 — AUTO: opening gap -5.2%; crossed below its 50d average
 - 2026-10-27 — AUTO: crossed above its 50d average
 - 2026-10-30 — AUTO: -10.9% day (≥2× its typical range); opening gap -10.2%; crossed below its 50d average
+- 2026-11-05 — AUTO: -17.3% day (≥2× its typical range); opening gap -7.4%; volume 3.2× normal; crossed below its 200d average

@@ -15,6 +15,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 
 ## What it trades on (narrative — maintain by hand)
 - 2026-08-18 — Trades on AI demand and the foundry cycle; new swing factor: AI-spending fears are hitting foundries (TSM slid >4% despite +45% revenue surge; peers UMC -7%, Tower -10%, GFS -7%)
+- 2026-11-05 — The AI-spending fear became an AI-regulation/'AI bubble' shock: SOX -12% on the day, TSM -10.8% on 3.8× volume with a -4% gap — regulatory/valuation sentiment is now a first-order driver of the foundry cycle, not just order flow
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -39,3 +40,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-02 — AUTO: crossed below its 200d average
 - 2026-11-03 — AUTO: crossed above its 200d average
 - 2026-11-04 — AUTO: crossed below its 200d average
+- 2026-11-05 — AUTO: -10.8% day (≥2× its typical range); opening gap -4.0%; volume 3.8× normal

@@ -16,6 +16,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 ## What it trades on (narrative — maintain by hand)
 - Pure AI-capex cycle: hyperscaler orders, supply constraints, China export rules
 - Highest beta of the group; the whole market's AI mood expresses through it
+- 2026-11-05 — New macro/regulatory hook: AI-regulation and 'AI bubble' fears produced the worst semis day since 2020 (SOX -12%, Dow -1,800, Nasdaq into correction) and NVDA fell -9.3% — AI-policy and valuation-debate sentiment now swings it alongside the capex cycle
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -35,3 +36,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-02 — AUTO: crossed below its 200d average
 - 2026-11-03 — AUTO: crossed above its 200d average
 - 2026-11-04 — AUTO: crossed below its 200d average
+- 2026-11-05 — AUTO: -9.3% day (≥2× its typical range)
