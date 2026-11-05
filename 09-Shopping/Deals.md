@@ -1,5 +1,22 @@
 # Deals
 
+## 2026-11-05
+- Kohl's — 20% off + up to 70% off new clearance markdowns — no date — coupon applies to select brands (kohls.com/details)
+- Fabletics — Onesies back in stock and on sale — no date — VIP sale pricing
+- DoorDash — New-flavor restaurant picks (Royal Biryani House, Wendy's, Jersey Mike's, MOD Pizza) — no date — delivery
+- Going — Cairo destination guide (no offer) — no date — newsletter
+- Going Flight Deals — Hawaii roundtrip $550 — travel Jan-Feb 2027 — flight deal
+- Fabletics — Reserve Card invite: 4x VIP Rewards + welcome gift after first purchase — no date — card application
+- H&M — 25% off flash sale + 30% off select styles in-store (Early Black Friday) — expires midnight ET — no code, app access
+- Atmos Rewards — Atmos Members Day: November offers, experiences, point bonuses — no date — members only
+- My Pandora — Free engraving on entire cart — no date — My Pandora members, online or in-store
+- UNiDAYS — Free app upgrade: student deals, giveaways, in-store savings — no date — app download
+- Etsy — Let the gifting begin: Top 100 Holiday Gifts + personalized picks — no date — gift guide
+- Life Time — Weekly wellness guide + membership tours — no date — no offer
+- Lake Washington Dermatology — November cosmetic specials; Nov 18 buy one $50 Botox gift card get one free — expires 11/18 — one day only, Alle members
+- Fandango — The Cat in the Hat opening weekend tickets + popcorn bucket bundle — expires 11/7 — limited time, while supplies last
+- NerdWallet — High-yield savings accounts up to 4.40% APY — no date — online banks
+
 ## 2026-11-04
 - Macy's — Friends & Family: 30% off reg & reduced prices + 15% off beauty/fragrance + $20 Star Money per $100 — expires 11/3 — code FRIEND applied 🔔 [[Gift ideas]]
 - Macy's — Parade of Deals daily: $39.99 Coach hats, $49.99 Samsonite weekender, 50% off Shiseido cleansers — expires no date — macys.com 🔔 [[Gift ideas]]
