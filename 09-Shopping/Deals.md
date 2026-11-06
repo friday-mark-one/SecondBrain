@@ -1,5 +1,48 @@
 # Deals
 
+## 2026-11-06
+- Tata Capital — Macro Insights: Fed holds rates; policy outlook commentary (no offer) — no date — newsletter
+- Nordstrom Rack — extra 25% off clearance online, extra 25% in stores Nov 6 — expires 11/6 — nordstromrack.com
+- Best Buy Visa (Citi) — 40% off select e-gift cards when redeeming points — no date — cardholders, redeem online
+- Nordstrom — sweater edit for the season (no offer) — no date — shop the collection
+- Macy's — exclusive 25% off handbags (Sam Edelman, Kenneth Cole, kate spade) — no date — macys.com
+- Target — Early Black Friday Sale on now — no date — Target Circle / same-day delivery
+- point.me — new points calculator for personalized card recs (no offer) — no date — tool
+- Cinemark — New & Now releases + Movie Rewards (29 points) — no date — weekly newsletter
+- MOD Pizza — new Aloha MODgherita & Thai MODule; back-to-school fundraiser sweepstakes — expires 11/15 — 4 prizes of $1,000 for nonprofits
+- Weee! — Crazy 8 deals ending soon, fill your grocery cart — no date — sayweee.com
+- Too Good To Go — new Surprise Bag picks near you — no date — app
+- My Pandora — Advent Calendar giveaway, ends today — expires 11/5 — enter via email link
+- Fabletics — VIP offer unlocked: pajamas on sale, discount auto-applied — expires 11/9 — VIP only, no code
+- Michaels — Lemax Christmas collectibles available now — no date — michaels.com
+- IndiGo BluChip — October account summary (Blu 3, 0 points) (no offer) — no date — statement
+- Macy's — Today Only Mega Flash: 50-60% off luggage (Samsonite from $99.99, Travelpro 65% off) — expires 11/5 — macys.com
+- Firestone — November EPIC Sales Event, up to $100 off — no date — reserve appointment online
+- NerdWallet — higher rates on high-yield savings accounts — no date — compare APYs
+- Hallmark — 2027 Christmas Cruise presale, book with code HCC2027 — presale opens 11/10 10am CT (48h) — celebritycruises
+- Chase Sapphire Preferred — put points toward travel (no offer) — no date — card promo
+- Going — India economy award flights from 60k roundtrip — no date — points/miles deal
+- Going — Italy economy award flights from 50k roundtrip — no date — points/miles deal
+- H&M — holiday gifting edit (no offer) — no date — hm.com
+- Nordstrom Rack — just landed: Longchamp + new TUMI luggage — no date — nordstromrack.com
+- Autopilot — Michael's Flagship Fund rebalanced (SGOV 27%, SONY sold) (no offer) — no date — free plan missed trades
+- Macy's — daily deals: $29.99 girls' coats, $39.99 faux-fur throw, 50-65% off men's coats & boots — no date — macys.com
+- Etsy — holiday gift edit (no offer) — no date — gift guide
+- Life Time — membership tours & concierge outreach (no offer) — no date — lifetime.life
+- HomeGoods — Hanukkah celebration decor & tabletop — no date — homegoods.com
+- Famous Footwear — BOGO 1/2 off in-store & online + free shipping for Rewards — no date — famousfootwear.com
+- Grubhub — Grubhub+ extended; up to 50% off (max $10) next 5 delivery orders — expires 11/18 — members only
+- NerdWallet — debt payoff article ($9,478 example) (no offer) — no date — content
+- Fandango — Focker In-Law tickets; promo window 11/5-12/7 — expires 12/7 — purchase via app
+- Macy's — Mega Flash Sale: up to 70% off toys (40-70% kids/baby, LEGO 15-40% off) — no date — macys.com
+- Michaels — Great Big Tree Spree: up to 50% off Christmas trees — expires 11/29 — starts 11/27, michaels.com
+- SBI NRI Services — October NRI newsletter (no offer) — no date — newsletter
+- Kohl's — 20% off coupon + up to 70% off new clearance markdowns — no date — kohls.com
+- Nordstrom Rack — Clear the Rack early access for Nordy Club members — no date — nordstromrack.com
+- Macy's — patterned sweater picks (no offer) — no date — style edit
+- Michaels — holiday must-haves for every aesthetic — no date — michaels.com
+- Michaels — 40% off Thanksgiving essentials — no date — michaels.com
+
 ## 2026-11-05
 - Kohl's — 20% off + up to 70% off new clearance markdowns — no date — coupon applies to select brands (kohls.com/details)
 - Fabletics — Onesies back in stock and on sale — no date — VIP sale pricing
