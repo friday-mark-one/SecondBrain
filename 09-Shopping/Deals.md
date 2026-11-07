@@ -1,5 +1,35 @@
 # Deals
 
+## 2026-11-07
+- Kohl's — up to 50% off early Black Friday deals + extra 20% off + $10 Kohl's Cash per $50 spent — expires no date — kohls.com
+- Fabletics — sitewide savings live (offer in email) — expires no date — fabletics.com
+- Macy's — 20% off rugs — expires no date — macys.com
+- MOD Pizza — 50% off one regular pizza or salad for veterans/active-duty — expires 11/11 — in-restaurant only, valid military ID
+- Too Good To Go — new Surprise Bag spots in Portland — expires no date — app
+- Macy's — One Day Sale: bedding from $21.99, sheets from $35, throws from $11.99, pillows from $9.99 — expires Sun 11/8 — macys.com
+- evo — Big Snow Sale up to 60% off past-season ski/snowboard gear — expires 11/9 — evo.com
+- Pandora — free engraving for My Pandora members — expires 11/11 — one use, eligible engravable items
+- Michaels — 50% off holiday must-haves — expires no date — michaels.com
+- Nordstrom — Prada & Louboutin designer edit (no offer) — expires no date — nordstrom.com
+- Weee! — Diwali week grocery deals — expires no date — sayweee.com
+- Macy's — Black Friday starts now: up to 70% off, sweaters from $19.99, new deals every Friday — expires no date — macys.com
+- NerdWallet — high-yield savings accounts up to 4.40% APY (no offer) — expires no date — nerdwallet.com
+- UNiDAYS — VIP early Black Friday student deals — expires no date — student verification, myunidays.com
+- Vida Integrated Health — now in-network with Aetna for physical therapy (no offer) — expires no date — thinkvida.com
+- Hallmark — Ho-Ho-Holiday Open House; 206 points balance — expires no date — hallmark.com
+- NerdWallet — cheapest car insurance comparison (no offer) — expires no date — nerdwallet.com
+- Macy's — daily deals: $499 diamond earrings, $189.99 leather jacket, 40% off designer, $12.99 beanies, 30% off fragrance — expires no date — macys.com
+- H&M — up to 25% off your order — expires no date — hm.com
+- Famous Footwear — Rewards members: free shipping + BOGO 1/2 off — expires no date — famousfootwear.com
+- Amica — Thanksgiving e-card; $1 donated to U.S. Hunger per share (no offer) — expires 11/27 — amica.com
+- Life Time — membership offer at Life Time Bellevue (no price) — expires no date — lifetime.life
+- Etsy — October bestsellers / cozy-season gift edit (no offer) — expires no date — etsy.com
+- Fandango — weekend movie guide (no offer) — expires no date — fandango.com
+- Nordstrom Rack — private sale: designer fragrance — expires no date — nordstromrack.com 🔔 [[Gift ideas]]
+- Macy's — One Day Sale + Bonus Days: 30-50% off new arrivals, 40-75% off fine jewelry — expires Sun 11/8 — macys.com
+- Michaels — Great Big Tree Spree: up to 50% off Christmas trees — expires no date — michaels.com
+- Kohl's — extra 20% off + today only $15 Kohl's Cash — expires 11/7 — kohls.com
+
 ## 2026-11-06
 - Tata Capital — Macro Insights: Fed holds rates; policy outlook commentary (no offer) — no date — newsletter
 - Nordstrom Rack — extra 25% off clearance online, extra 25% in stores Nov 6 — expires 11/6 — nordstromrack.com
