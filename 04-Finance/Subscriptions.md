@@ -15,13 +15,14 @@ Electricity bill $80 per month
 Google One $99 per year
 Costco membership $130 per year
 NordVPN $90 for 2 years
-Car title renewal $100 per year
+Car title renewal $500 per year
 Renters insurance $12 per month
 Auto insurance $1400 for 6 months
 Phone bill $100 per month
 Robinhood Gold $5 per month
 Leetcode $129
 ~~Going $50 per year~~
-Spotify $3 per month
+~~Spotify $3 per month~~
 Huel $108 every 6 weeks
 Claude $226 per year
+F45 $189 * 2 every 3 months
