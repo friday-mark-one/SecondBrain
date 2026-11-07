@@ -7,18 +7,13 @@ pinned: true
 
 - [ ] Diversify assets
 - [ ] Figure out tax for next year
-- [x] Secure bank account
-- [x] Secure gmail
 - [ ] Buy cap 
 - [ ] Yoga class
 - [ ] Mac mini update
 - [ ] Car seat belt not tight
-- [x] Wedding album check
-- [x] Cancel snowboard pass before Nov 15
 - [ ] Mira global entry 
 - [ ] 401k rollover
 - [ ] Mira
-	- [x] Merge SSN & ITIN on IRS 
 	- [ ] Update bofa with SSN (in person appointment)
 	- [ ] Apply for credit cards after Nov 10
 - [ ] Deal with EPF
