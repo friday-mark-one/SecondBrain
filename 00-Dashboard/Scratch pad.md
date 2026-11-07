@@ -56,6 +56,7 @@ DO NOT TOUCH THIS FILE unless explicitly asked to write to my scratch pad.
 	- [x] Augment items metadata for online ordering
 	- [x] checked items should move to the bottom
 	- [x] Move non food items out of food folder
+	- [ ] Nutritional info for meal planned week
 - [x] Move notion notes
 	- [x] Restaurant journal
 	- [x] Duplicate project ideas notes
