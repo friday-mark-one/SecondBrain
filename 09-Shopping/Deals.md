@@ -1,5 +1,35 @@
 # Deals
 
+## 2026-11-08
+- Macy's — 50-60% off men's designer suits, blazers & pants; $99.99+ Nautica suits one-day sale — expires no date — macys.com
+- Pandora — new holiday charms collection — expires no date — official.pandora.net
+- point.me — 4 things to do before swiping a new card; up to 300K bonus miles offer — expires no date — point.me
+- Fabletics — VIP sale on cozy go-to styles — expires no date — fabletics.com
+- Michaels — Hallmark holiday collection launch — expires no date — michaels.com
+- NerdWallet — personal loan rates as low as 5.99% — expires no date — nerdwallet.com
+- NORDSTROM — boot weather: new boot arrivals/sale — expires no date — nordstrom.com
+- Lyft — 30% off 3 rides, max $6/ride — expires no date — claim in app
+- Cinemark — November movie deals; Hunger Games early access Nov 18 — expires 2026-11-18 — cinemark.com
+- Macy's — 25% off designer fragrances (Gucci, Valentino & more) + Black Friday preview 🔔 [[Gift ideas]] — expires no date — macys.com
+- Buy Nothing Project — holiday wishlist / give-away newsletter, no purchase needed — expires no date — buynothingproject.org
+- NORDSTROM RACK — 60% off festive finishing touches — expires no date — nordstromrack.com
+- Chipotle Rewards — free guac reward to claim — expires no date — chipotle app
+- Macy's — daily deals: $89.99 Ninja blender, $69.99 Nike sherpa quarter-zip — expires no date — macys.com
+- IndiGo BluChip — bonus BluChip earning this Diwali — expires no date — goindigo.in
+- IndiGo / Kotak — credit card lifetime free, limited time — expires no date — goindigo.in
+- H&M — 15%, 20% or 25% off all weekend — expires this weekend (Nov 8) — hm.com
+- PointsYeah — 3 card picks incl. record-high 200K hotel card offer — expires no date — pointsyeah.com
+- Fandango — weekly movie deals — expires no date — fandango.com
+- Etsy — tablescaping feature (no discount) — expires no date — etsy.com
+- Pandora — free engraving offer — expires no date — official.pandora.net
+- NerdWallet — $500 bank sign-up bonus (WA banks) — expires no date — nerdwallet.com
+- Groupon — FEELartistic deal ready to claim — expires no date — groupon.com
+- J.Crew Factory — Early Cyber Sale: extra 30% off + 40% off everything — expires no date — jcrew.com
+- The Leela Palaces — Diwali offers newsletter (Nov 2026) — expires no date — theleela.com
+- Macy's — 40% off occasion dresses (sequins, velvet & more) — expires no date — macys.com
+- Michaels — Christmas trees on sale — expires no date — michaels.com
+- Kohl's — up to 50% off + extra 20% off + $10 Kohl's Cash per $50 — expires no date — kohls.com
+
 ## 2026-11-07
 - Kohl's — up to 50% off early Black Friday deals + extra 20% off + $10 Kohl's Cash per $50 spent — expires no date — kohls.com
 - Fabletics — sitewide savings live (offer in email) — expires no date — fabletics.com
