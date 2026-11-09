@@ -18,6 +18,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - Highest beta of the group; the whole market's AI mood expresses through it
 - 2026-11-05 — New macro/regulatory hook: AI-regulation and 'AI bubble' fears produced the worst semis day since 2020 (SOX -12%, Dow -1,800, Nasdaq into correction) and NVDA fell -9.3% — AI-policy and valuation-debate sentiment now swings it alongside the capex cycle
 - 2026-11-06 — Regime clarified: the 11-05 crash was a midterm-driven data-center-regulation scare (Democratic sweep → state permitting/oversight risk) and the +5.2% gap was a pure reflex bounce on softened Texas governor-elect messaging, no capex news — so state data-center policy headlines now whipsaw it both directions inside days, and gap risk is symmetric
+- 2026-11-09 — Leadership/security risk is now a live driver: the board opened an independent-directors probe into reports that Jensen Huang was the target of a foreign intelligence effort (relationship with ex-Megaspeed exec Alice Huang, reportedly believed by US intel to be MSS-recruited); Huang admitted infidelity and said he'll cooperate. NVDA gapped −7.3% on 3.7× volume while other chips rallied, and Congress wants a closed-door briefing by Nov 18 — CEO-fate headlines now swing it alongside the AI-capex cycle, right into the Nov 17 earnings.
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -39,3 +40,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-04 — AUTO: crossed below its 200d average
 - 2026-11-05 — AUTO: -9.3% day (≥2× its typical range)
 - 2026-11-06 — AUTO: opening gap +5.2%
+- 2026-11-09 — AUTO: opening gap -7.3%; volume 3.7× normal
