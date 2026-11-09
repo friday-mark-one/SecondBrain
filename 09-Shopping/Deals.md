@@ -1,5 +1,28 @@
 # Deals
 
+## 2026-11-09
+- NORDSTROM RACK — gift picks: UGG, Barefoot Dreams & more — expires no date — nordstromrack.com
+- Macy's — One Day Sale: 30% off Levi's, $69.99+ cashmere, boots from $29.99 — expires tonight (Nov 9) — macys.com
+- Costco — new finds for this week's visit (weekly drop) — expires no date — costco.com
+- J.Crew Factory — Early Cyber Sale: extra 60% off clearance + extra 30% off order — expires this weekend — jcrew.com
+- Pandora — holiday gifting picks (charms & jewelry) — expires no date — official.pandora.net
+- J.Crew Factory — final hours: extra 25% off (cardholder) — expires tonight — jcrew.com
+- Fabletics — 2026 Gift Guide on sale — expires no date — fabletics.com
+- Macy's — One Day Sale: 40-50% off wool/winter coats + $69.99+ cashmere — expires tonight — macys.com
+- Michaels Rewards — rewards members: exclusive offers open — expires no date — michaels.com
+- NerdWallet — car insurance cost calculator (no discount) — expires no date — nerdwallet.com
+- Macy's — daily deals: $25 UGG blankets, $49.99 cashmere crewneck, UGG Zora loafers — expires no date — macys.com
+- Weee! — 24-hour deals + grocery restocks — expires today — sayweee.com
+- H&M — up to 25% off + free shipping (RSVP required) — expires no date — hm.com
+- Walgreens — 20% off holiday décor + 50% off all photo — expires no date — walgreens.com
+- AquaTru — Black Friday up to 35% off purifiers, 20% off filters, 35% off shower — expires no date — aquatru.com
+- Going — best credit card offers, November 2026 — expires no date — going.com
+- Etsy — seasonal gift/deals picks (no discount) — expires no date — etsy.com
+- UNiDAYS — student savings season / Black Friday hub — expires no date — myunidays.com
+- Macy's — One Day Sale ends tonight: up to 65% off coats + 40-75% off fine jewelry — expires tonight — macys.com
+- Kohl's — ends tonight: up to 50% off early Black Friday + free shipping over $25 — expires tonight — kohls.com
+- Michaels — Great Big Tree Spree: up to 50% off Christmas trees — expires no date — michaels.com
+
 ## 2026-11-08
 - Macy's — 50-60% off men's designer suits, blazers & pants; $99.99+ Nautica suits one-day sale — expires no date — macys.com
 - Pandora — new holiday charms collection — expires no date — official.pandora.net
