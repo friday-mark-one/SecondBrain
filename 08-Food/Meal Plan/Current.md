@@ -1,66 +1,33 @@
-# Meal Plan — week of 2026-10-22
+# Meal Plan — week of 2026-11-11
 
-## Thu 10-22
+## Wed 11-11
 ### Lunch
-- [[Vegetable Pulao]]
-- [[Burani Raita]]
 ### Dinner
-- [[Matar Paneer Masala]]
 
-## Fri 10-23
+## Thu 11-12
 ### Lunch
-- [[Vegetable Pulao]]
-- [[Burani Raita]]
 ### Dinner
-- [[Matar Paneer Masala]]
 
-## Sat 10-24
+## Fri 11-13
 ### Lunch
-- [[Tofu Burji]]
 ### Dinner
-Date 
 
-## Sun 10-25
+## Sat 11-14
 ### Lunch
-- [[Vathakuzhambu]]
-- [[Potato poriyal]]
-- [[Coconut Thogaiyal]]
 ### Dinner
-- [[Tofu Burji]]
 
-## Mon 10-26
+## Sun 11-15
 ### Lunch
-- [[Vathakuzhambu]]
-- [[Potato poriyal]]
-- [[Coconut Thogaiyal]]
 ### Dinner
-- [[Tiffin Sambar]]
-- [[Idly]]
 
-## Tue 10-27
+## Mon 11-16
 ### Lunch
-- [[Vathakuzhambu]]
-- [[Beans poriyal]]
-- [[Coconut Thogaiyal]]
 ### Dinner
-- [[Tiffin Sambar]]
-- [[Idly]]
 
-## Wed 10-28
+## Tue 11-17
 ### Lunch
-- [[Curd Rice]]
-- [[Beans poriyal]]
-- [[Puliyodharai]]
-
 ### Dinner
-- [[Methi Mushroom Masala]]
 
-## Thu 10-29
-
+## Wed 11-18
 ### Lunch
-- [[Curd Rice]]
-- [[Beans poriyal]]
-- [[Puliyodharai]]
-
-### Dinner 
-- [[Methi Mushroom Masala]]
+### Dinner
