@@ -17,6 +17,7 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-07-31 — Trades on crypto market conditions and CLARITY Act regulatory clarity; now also on its own earnings path after a third straight quarterly loss
 - 2026-09-15 — Regulatory-clarity catalyst stalled: the Senate blocked the landmark digital-asset market-structure (CLARITY) bill, gapping crypto stocks (including COIN) lower and pushing COIN back below its 200d — the bill's legislative path now swings it more directly than the broad crypto tape
 - 2026-09-18 — Driver rotated from legislation to agency action: with CLARITY stalled in the Senate, the SEC advancing tokenized stocks (plus Armstrong signalling "another path") became the live positive catalyst — COIN +11.7% to reclaim its 200d — so SEC/tokenization headlines now move it nearer-term than the stalled bill
+- 2026-11-10 — Driver is now company-specific + tape, not policy: the slide to a fresh 52-week low is post-earnings (weak Oct 29 quarter, ~16% down since) compounded by Bitcoin's decline and a record Binance hack, with Morgan Stanley cutting to Underweight (Nov 2, $120 target) — so near-term it trades on its own earnings/take-rate trajectory, crypto price, and exchange-security headlines ahead of CLARITY/SEC catalysts
 
 ## Observations log (append-only)
 - 2026-07-27 — note created.
@@ -47,3 +48,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-02 — AUTO: new 52-week low
 - 2026-11-05 — AUTO: new 52-week low
 - 2026-11-06 — AUTO: new 52-week low
+- 2026-11-10 — AUTO: new 52-week low
