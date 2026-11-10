@@ -14,14 +14,13 @@ checked items automatically; unchecked ones stay for next time.
 
 Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
-- [ ] [[Milk]]
-- [ ] [[Roti]]
-- [ ] [[Cereal]]
-- [ ] [[Milk]]
-- [ ] [[Tofu]]
-- [ ] [[Seitan]]
-- [ ] [[Tempeh]]
-- [ ] [[Greek Yogurt]]
-- [ ] [[Edamame]]
-- [ ] [[Soya chunks]]
+- [x] [[Milk]]
+- [x] [[Roti]]
+- [x] [[Cereal]]
+- [x] [[Tofu]]
+- [x] [[Seitan]]
+- [x] [[Tempeh]]
+- [x] [[Greek Yogurt]]
+- [x] [[Edamame]]
+- [x] [[Soya chunks]]
 - [ ] [[Paneer]]
