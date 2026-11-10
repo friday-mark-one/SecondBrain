@@ -6,6 +6,8 @@ checked items automatically; unchecked ones stay for next time.
 
 - [ ] [[Oats]]
 - [ ] [[Blanched peanuts]]
+- [ ] [[Kabuli Channa]]
+- [ ] [[Himalayan pink salt]]
 
 
 ## Regulars
