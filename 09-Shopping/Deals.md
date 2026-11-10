@@ -1,5 +1,41 @@
 # Deals
 
+## 2026-11-10
+- Lumosity — 35% off Premium annual — no date — code NEWSLETTER-35-26
+- Fabletics — VIP exclusive: 65% off sitewide, $16-29 onesies, 50% off denim — expires 11/12 8:59AM PT — VIP only, no code
+- Macy's — Black Friday starts now: up to 70% off, new deals every Friday — no date — from $19.99
+- Going — new flight deals from saved destinations (Hawaii + 3 more) — no date — flight alerts
+- Weee! — new Indian grocery finds & restocks — no date — sayweee.com
+- MOD Pizza — free kids meal with MOD-size pizza or salad — no date — Sundays only, 12 & under
+- Pinterest — photobooth & pre-wedding pose ideas (no offer) — no date — recommendations
+- Michaels — holi-DIY head start + $5 rewards on $30+ — expires 11/14 — handmade holiday projects
+- Macy's — Good American new arrivals — no date — macys.com
+- NerdWallet — personal loans article, 26.4M borrowers (no offer) — no date — content
+- PointsYeah — biz class from 37k pts (Sevilla, Istanbul, Lisbon); Amex & C1 30% to Flying Club, Citi 40% to Miles&Smiles — no date — transfer bonuses
+- Sephora at Kohl's — last day: Beauty Insiders save 10% + $35 & under beauty gifts — expires tonight — join Beauty Insider
+- Macy's — 40% off Bulova; espresso machines under $100; 30-50% off Too Faced; Dyson $100-140 off; 40-65% off Lenox dining & dinnerware sets 🔔 [[Gift ideas]] — no date — macys.com
+- CardPointers — offer streak: 0 weeks; auto-add card offers — no date — CardPointers+ extension
+- UNiDAYS — win 1 of 10 $200 gift cards — no date — match-pairs game, student verification
+- NerdWallet — cheapest car insurance comparison (no offer) — no date — content
+- Groupon — one-time holiday benefit: up to 40% off app / 30% web — expires in 10 days — code BACKAGAIN
+- NORDSTROM RACK — extra 25% off jewelry & watches (EFFY) + new Stuart Weitzman — no date — nordstromrack.com
+- Life Time — rejoin offer / membership tour at Bellevue (no price) — no date — lifetime.life
+- H&M — red basics color drop — no date — hm.com
+- JetBlue — JetBlue Plus Card: 60,000 bonus pts ($600 award travel) — no date — $99 annual fee, pre-qualify
+- Uber — early booking promo: reserve 24h+ ahead — expires 11/16 8AM — select ride types
+- Etsy — 4 new "Ones to Watch" shops for festive season (no discount) — no date — email.etsy.com
+- ID.me Shop — up to 50% off early gifting: T-Mobile, HOKA, Oura Ring, Samsung — no date — student pricing
+- Autopilot — Michael's Flagship Fund rebalanced, NVDA up to 12.6% (no offer) — no date — free plan missed trades
+- LeetCode — $30 off annual subscription — expires 11/30 11:59PM PT — code THANKS2026
+- Fabletics — VIP sitewide sale last call: 50-70% off, $39 onesies, 2 for $39 pajamas — expires 11/9 2:59PM PT — no code
+- AquaTru — Black Friday up to 35% off purifiers/filters; build a bundle save 25% — no date — aquatru.com
+- Going — traveler rights holiday guide (no offer) — no date — In the Know newsletter
+- evo — up to 60% off snow gear last day; members 30% off one full-price item — expires tonight — code MEMBERS (11/7-11/12)
+- J.Crew Factory — Early Cyber Sale ends tonight: extra 60% off clearance + extra 30% off — expires tonight — jcrew.com
+- Pandora — holiday gifting picks, charms & jewelry — no date — official.pandora.net
+- Michaels — Countdown to Craftsmas + $5 rewards on $30+ — expires 11/14 — michaels.com
+- Kohl's — Exclusive Cardholder Event: save 30% (Sephora Savings Event ends tonight) — no date — cardholders only
+
 ## 2026-11-09
 - NORDSTROM RACK — gift picks: UGG, Barefoot Dreams & more — expires no date — nordstromrack.com
 - Macy's — One Day Sale: 30% off Levi's, $69.99+ cashmere, boots from $29.99 — expires tonight (Nov 9) — macys.com
