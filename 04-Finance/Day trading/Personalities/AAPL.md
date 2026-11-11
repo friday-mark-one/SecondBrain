@@ -44,3 +44,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-03 — AUTO: opening gap -3.8%; crossed below its 50d average
 - 2026-11-04 — AUTO: +5.3% day (≥2× its typical range); crossed above its 50d average; new 52-week high
 - 2026-11-09 — AUTO: new 52-week high
+- 2026-11-11 — AUTO: new 52-week high
