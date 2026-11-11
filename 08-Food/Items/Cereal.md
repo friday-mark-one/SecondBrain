@@ -1,6 +1,6 @@
 ---
 type: item
 store: Fred Meyer
-category: 
-preferred: "Ghost protein cereal"
+category:
+preferred: Ghost protein cereal peanut butter
 ---
