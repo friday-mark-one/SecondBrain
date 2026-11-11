@@ -1,5 +1,38 @@
 # Deals
 
+## 2026-11-11
+- Kohl's — LAST DAY: $10 off $25+ and 30% off (Kohl's Cash on decor) — expires Nov 10 — no code
+- Kohl's — stack 30% off + $10 off $25+ purchase — expires no date — no code
+- Macy's — Top Gifts guide; Charter Club cashmere from $59.99 — expires no date — no code 🔔 [[Gift ideas]] — gifts
+- Macy's — today only 50% off YSL Libre L'Eau Nue; Black Friday beauty 25-70% off — expires Nov 10 — no code 🔔 [[Gift ideas]] — perfume
+- Pandora — Black Friday early access starts Nov 11 — expires no date — no code
+- Pandora — free engraving with purchase, ending soon — expires no date — no code
+- Fabletics — early access sale, expires tonight — expires Nov 10 — member early access
+- Fabletics — Black Friday pricing early access (selected members) — expires no date — no code
+- Nordstrom Rack — Black Friday SCORE deals on top brands — expires no date — no code
+- H&M — up to 30% off 100s of knits — expires no date — no code
+- H&M — holiday gifting edit with @ameliagray & @delilahbelle — expires no date — no code
+- Michaels — hot holiday deals on festive finds — expires no date — no code
+- Michaels — Jonathan Adler x Michaels Hanukkah collection — expires no date — no code
+- Etsy — Hanukkah finds for all eight nights — expires no date — no code 🔔 [[Gift ideas]] — gifts
+- UNiDAYS — Black Friday student deals — expires no date — student discounts
+- Hallmark — 2027 Christmas Cruise presale, 48 hours — expires Nov 12 — presale
+- Going — Salt Lake City $267 roundtrip (Jan-Feb) — expires no date — flight deal
+- Going — With Points: AA Japan economy 50k roundtrip — expires no date — points deal
+- Going — Japan mistake fare $196; card 75k bonus = $115 Japan — expires no date — card offer
+- PointsYeah — 40% off Premium, code BF40 (first-time only) — expires no date — code BF40
+- Points Insider — award sales, first class from 13k miles, 40% off Premium — expires no date — newsletter
+- Huel — Black Edition 40g protein, from $2.65/meal — expires no date — no code
+- Lyft — 30% off 3 rides, ends soon — expires no date — no code
+- Weee! — Fresh Tuesday grocery deals — expires no date — no code
+- Firestone — EPIC Event: up to $100 off tires and services — expires Nov 10 — no code
+- NerdWallet — auto insurance savings up to $1,079/yr — expires no date — comparison
+- NerdWallet — high-yield savings up to 4.40% APY — expires no date — comparison
+- Chase Ink Business — $750 bonus cash back offer — expires no date — card offer
+- Chase Slate — 0% intro APR 21 months on balance transfers (pre-approved) — expires no date — card offer
+- Chase Sapphire Preferred — 5x points on Peloton — expires no date — card offer
+- Interactive Brokers — refer a friend: $200/referral + up to $1,000 IBKR stock — expires no date — referral
+
 ## 2026-11-10
 - Lumosity — 35% off Premium annual — no date — code NEWSLETTER-35-26
 - Fabletics — VIP exclusive: 65% off sitewide, $16-29 onesies, 50% off denim — expires 11/12 8:59AM PT — VIP only, no code
