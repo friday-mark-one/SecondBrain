@@ -1,5 +1,18 @@
 # Deals
 
+## 2026-11-12
+- Frontier Airlines — new First Class + Premium extra-legroom seats bookable, First bundles from $129 one way — expires no date — travel from Mar 5 2027
+- UNiDAYS — Singles' Day student deals: 25–70% off across brands — expires no date — student verification required
+- point.me — NYC→Barcelona 38K biz, 5K to London, 5 transfer bonuses — expires no date
+- DoorDash — spontaneous offers — expires no date — see app
+- Uber — 15% back on hotels — expires no date
+- Fabletics — unused member offer sitting in account — expires no date — check account
+- PointsYeah — business class from 45K pts; Premium 40% off — expires no date — code BF40
+- Pandora — up to 40% off Black Friday early access — expires Dec 1 — My Pandora login required
+- Going — Europe flights $434–$594 (Nov, Jan–May) — expires no date
+- H&M — up to 40% off everything, Black Friday members — expires no date — members only
+- Fabletics — 65% off Black Friday pricing — expires Nov 12 — today only
+
 ## 2026-11-11
 - Kohl's — LAST DAY: $10 off $25+ and 30% off (Kohl's Cash on decor) — expires Nov 10 — no code
 - Kohl's — stack 30% off + $10 off $25+ purchase — expires no date — no code
