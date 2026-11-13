@@ -34,3 +34,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-04 — AUTO: +4.9% day (≥2× its typical range)
 - 2026-11-09 — AUTO: crossed above its 50d average
 - 2026-11-12 — AUTO: crossed below its 50d average
+- 2026-11-13 — AUTO: crossed above its 50d average
