@@ -1,5 +1,48 @@
 # Deals
 
+## 2026-11-13
+- Climate Pledge Arena — November Greensheet: community fund, holiday events, Torrent home opener — no date — newsletter, no offer
+- Fabletics — Hot Holiday Deals just went live — no date — member early access
+- Macy's — Top 100 Gifts & Holiday Gift Guide; Charter Club cashmere from $59.99 — no date — no code
+- UNiDAYS — student deals, Black Friday early drop — no date — student verification
+- Educative — GTA 6 launch week course promo — no date — content/promo
+- Lyft — 30% off rides — no date — no code
+- Target — 3 days only: deals on home, style & beauty gifts — expires Nov 15 — no code
+- Cinemark — New & Now: releases and rewards — no date — no offer
+- Pandora — Black Friday live: up to 40% off — no date — no code
+- Michaels — Black Friday tree prices up to 70% off all trees — no date — no code
+- Macy's — 20% off Nike & top active brands — no date — no code
+- Macy's — 40–65% off dinnerware: Villeroy & Boch, Lenox — no date — no code 🔔 [[Gift ideas]]
+- T-Mobile — Pixel 11 Pro on us + more — no date — with new line/plan
+- Too Good To Go — everyday staples, reduce food waste — no date — app, no offer
+- Hello Interview — free Live Practice credits added to account — no date — account credit
+- HomeGoods — decor with personality, holiday shopping series — no date — no offer
+- NerdWallet — high-yield savings rates up — no date — comparison
+- Capital One Venture X — rewards & benefits update — no date — card info
+- Nordstrom Rack — shoes up to 60% off — no date — no code
+- Macy's — Happy Camp3r set $89.99; Michael Kors overcoat $159.99 — no date — gift picks
+- H&M — new winter staples — no date — new arrivals
+- Etsy — gifts for kids up to 40% off; Cyber Specials sneak peek — no date — no code
+- Life Time — class collection for members — no date — no offer
+- HomeGoods — homebody-approved gifts, savings included — no date — home gifts
+- Vida Integrated Health — blood sugar/A1C and bladder health newsletter — no date — no offer
+- Huel — community survey — no date — no offer
+- evo — member discount ends today — expires Nov 12 — members only
+- Macy's — trending tops, refreshed denim — no date — new arrivals
+- Macy's — Black Friday: 25 under $25, up to 70% off — no date — no code
+- Michaels — 40% off coupons — no date — coupons
+- Kohl's — exclusive 30% off — no date — no code
+- Noreen Goldwire DDS — visit review request — no date — no offer
+- Macy's — $39.99+ men's merino sweaters & winter accessories — no date — no code
+- Macy's — Bellevue Square Black Friday deals; LEGO Santa's Sleigh build Nov 14 12–3 — expires Nov 14 — in-store
+- Nordstrom Rack — Rothy's up to 40% off; rag & bone up to 60% off — no date — no code
+- Nordstrom Rack — extra 25% off clearance, last chance — no date — no code
+- Macy's — 30% off Clinique; $39.99 Tommy Hilfiger sherpa jacket — no date — no code
+- Michaels Custom Framing — Veterans Day tribute framing — expires Nov 11 — no offer
+- Chipotle — free chips & dip for veterans — expires Nov 11 — veterans only
+- Macy's — up to 65% off kitchen essentials — no date — no code 🔔 [[Gift ideas]]
+- Kohl's — last day: $10 off $25+ plus 30% off — expires Nov 11 — no code
+
 ## 2026-11-12
 - Frontier Airlines — new First Class + Premium extra-legroom seats bookable, First bundles from $129 one way — expires no date — travel from Mar 5 2027
 - UNiDAYS — Singles' Day student deals: 25–70% off across brands — expires no date — student verification required
