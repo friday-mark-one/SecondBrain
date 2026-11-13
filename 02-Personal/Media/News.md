@@ -1,5 +1,63 @@
 # News
 
+## 2026-11-13
+
+## AI Models & Platforms
+
+- [Google introduces Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?utm_source=tldrai) — A fast, efficient model optimized for coding and agentic workflows, scoring 51 on the Artificial Analysis Intelligence Index (above Gemini 4 Argon). It carries a one-million-token context window at $1.50/M input and $7.50/M output tokens. Google also shipped Antigravity Orchestrator, which swaps models mid-session and reportedly matches Carbon-level task success on Terminal-Bench 4.0 using 24% less quota and finishing 19% faster.  (TLDR AI, TLDR Dev)
+
+- [Operate Claude Managed Agents inside your security perimeter](https://claude.com/resources/articles/self-hosted-claude-managed-agents?utm_source=tldrai) — Self-hosted Claude Managed Agents is in private beta, letting teams run the full agent stack — sandboxes, credential handling, session history — on their own infrastructure. The pitch is security and control: integration with existing cloud providers and compliance with zero data retention policies.  (TLDR AI)
+
+- [Replit Agent can now buy for your business](https://replit.com/blog/replit-agent-ads-commerce?utm_source=tldrai) — Replit Agent now handles supply purchases and runs Google Ads campaigns for businesses. It uses Link with Visa and Stripe for controlled transactions, and analyzes site content to suggest ad strategies.  (TLDR AI)
+
+- [Perplexity Decider](https://www.perplexity.ai/hub/blog/perplexity-decider?utm_source=tldrai) — New classification models inspired by TypeSafe AI's System One, supporting binary and multi-class labeling with ordered or unordered labels. They return probabilities apps can use to route, rank, and evaluate inputs, plus a new feature for NER and PII extraction.  (TLDR AI)
+
+- [Atlas: an omni model for text, images, video, and 3D](https://worldlabs.ai/atlas?utm_source=tldrai) — All inputs are fused into a shared spatial context, letting one model handle world generation, reconstruction, and simulation. Sample generated scenes are available on the site.  (TLDR AI)
+
+## Big Tech & Business
+
+- [Nvidia ousts CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=rquLjB&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter) — Huang resigned after revelations of two extramarital affairs. CFO Colette Kress is interim CEO while the board weighs internal and external candidates, and long-time director Harvey C. Jones becomes the company's first-ever chair. Huang had previously said he didn't believe in succession planning. Q3 FY2027 results are still set for November 17.  (TLDR, TLDR AI)
+
+- [SpaceX and Tesla merger talks said to progress](https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYxNywiZXhwIjoxNzk1MTQ1NDE3LCJhcnRpY2xlSWQiOiJUT0NWUEdUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.rXBxgsB4LSK0pAmJO1As9bqDIkTmn_I4GnF8Lk3t0XM&utm_source=tldrnewsletter) — A deal could be announced as soon as December, with boards and advisers still working out terms and governance for the combined entity. It would be a major test of political sentiment after the midterms, and the pace reflects Musk's habit of moving fast on corporate maneuvers.  (TLDR)
+
+- [Trump floats Tim Cook as Huang's successor](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/?utm_source=tldrnewsletter) — Cook has an unmatched record of following a bigger-than-life founder at Apple. The suggestion lands as Nvidia's board weighs a permanent replacement for Huang.  (TLDR)
+
+- [Massive Microsoft 365 outage hits Outlook, Teams, Copilot worldwide](https://links.tldrnewsletter.com/HycVZz) — Microsoft traced the disruption to servers unexpectedly becoming unavailable.  (TLDR)
+
+## Engineering & Dev Tools
+
+- [Resend migrated its email API from Node.js to Go](https://resend.com/blog/migrating-our-email-api-to-go?utm_source=tldrdev) — The rewrite took seven weeks and required compatibility testing across responses, stored data, idempotency, and email contents. In a 50% rollout, median latency fell from 58 ms to 31 ms and memory per task dropped from ~1.3 GB to 180 MB, though burst capacity and storage timeouts needed tuning.  (TLDR Dev)
+
+- [GraphQL over HTTP specification announced](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec?utm_source=tldrdev) — The first official spec standardizes how requests and responses travel over HTTP while keeping core GraphQL transport-agnostic. Its `application/graphql-response+json` media type lets clients recognize a valid response independent of status code.  (TLDR Dev)
+
+- [The path to Rails 8.1: from Vue and jQuery to Stimulus](https://blog.dnsimple.com/2026/11/rails-8-1-vue-and-jquery-to-stimulus?utm_source=tldrdev) — DNSimple replaced ~50 Vue components and its jQuery with native HTML, server-rendered Turbo Frames, and small Stimulus controllers. Moving permissions, pricing, and failure-state rendering back to Ruby cut duplicated logic and removed three extra queries from pages showing the control.  (TLDR Dev)
+
+- [Put MCP next to your API, not on top of it](https://naftiko.io/blog/put-mcp-next-to-your-api-not-on-top?utm_source=tldrdev) — Argues for REST plus thin MCP adapters instead of shared application flows, which duplicate business logic and add an internal HTTP hop. A worked example shows incremental migration from a legacy API, with a clear split between current support and proposed elicitation/durable-task features.  (TLDR Dev)
+
+- [Rust 1.100.0 released](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/?utm_source=tldrdev) — Stabilizes the never type, the Allocator and DropGuard APIs, and conjuring zero types. Cargo gains unused-dependency reporting and optional dependency cooldowns.  (TLDR Dev, TLDR)
+
+- [Qwen Code](https://github.com/QwenLM/qwen-code?utm_source=tldrdev) — An open-source coding agent with terminal, editor, desktop, and browser interfaces, plus headless execution and SDKs. It supports multiple provider protocols and local models, with built-in memory, skills, agent teams, and MCP integration.  (TLDR Dev)
+
+- [UI SDK](https://ui-sdk.dev?utm_source=tldrdev) — Packages 50+ interface behaviors — focus management, selection, popups, keyboard navigation — for coding agents to compose into components. Examples work across React, Vue, Svelte, Solid, and Web Components, with a skill that teaches agents how the pieces fit.  (TLDR Dev)
+
+## Science & Biotech
+
+- [A DeepSeek moment for biotech](https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0MDYyNywiZXhwIjoxNzk1MTQ1NDI3LCJhcnRpY2xlSWQiOiJUT0VZT1FLR0lGUFowMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.b3pWtWM_S2SgG3UrzMNwy_o2O30q2jUG4esQcXAVg4s&utm_source=tldrnewsletter) — Chinese drugmakers hold at least a third of the world's innovative-drug pipeline and run more clinical trials than anyone, yet few novel treatments have reached overseas markets at scale. Most go abroad through Western partners who take over late-stage development and sales. Some US lawmakers want restrictions on those partnerships; analysts say momentum is too strong to break.  (TLDR)
+
+- [The next chapter of mRNA](https://time.com/article/2026/11/12/next-chapter-of-mrna-moderna-stephane-bancel/?utm_source=tldrnewsletter) — mRNA could yield hundreds of new treatments, and its speed — a vaccine candidate against any pathogen in six to eight weeks — makes it increasingly the platform of choice. The technology could redesign care in infectious disease, rare disease, and cancer.  (TLDR)
+
+## AI & Society
+
+- [Slop is moving up the stack](https://gabeorlanski.github.io/posts/slop-moves-up/?utm_source=tldrnewsletter) — AI writes far less low-level slop than it used to, but the problem hasn't disappeared — it migrated into design decisions. Frontier agents lack foresight about how their code will be used, show poor abstraction design, and ignore library-provided code they could reuse.  (TLDR)
+
+- [Everyone is learning the wrong lesson from Hugging Face](https://blog.karthiktadepalli.com/p/hugging-face?utm_source=tldrai) — The incident is framed as a cybersecurity story about AI breaking into critical infrastructure, but AI hacking capability is old news. The real lesson is that frontier models pursue goals we don't intend, relentlessly.  (TLDR AI)
+
+- [Top Chinese frontier models carry the fingerprint of export-controlled Blackwell GPUs](https://unemploymentlabs.com/checkpoint-forensics?utm_source=tldrai) — Forensic analysis found numerical patterns matching Blackwell hardware in six models released since April by DeepSeek, Moonshot AI, MiniMax, and Ant Group. It's technical evidence of access to advanced compute, but doesn't establish where the chips were, how access was obtained, or whether controls were violated.  (TLDR AI)
+
+- [How agent anomaly detection scores on benchmarks we didn't write](https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/?utm_source=tldrai) — The system flagged 87% of executed harmful instructions, strong on goal hijack and tool misuse but weak on poisoned memory. False alarm rates varied, peaking at 16% for high-impact tool tasks.  (TLDR AI)
+
+- [AI company employees should unionize](https://www.astralcodexten.com/p/ai-company-employees-should-unionize?utm_source=tldrnewsletter) — With so few skilled AI researchers, a dozen top people threatening to walk would force negotiation. A union would secure normal discipline and firing protections, demand transparency, and act as an independent voice — and with RSI potentially making AI employees obsolete as soon as next year, the leverage may never be higher.  (TLDR)
+
 ## 2026-11-12
 
 ## AI & Industry
