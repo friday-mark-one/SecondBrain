@@ -1,5 +1,27 @@
 # Deals
 
+## 2026-11-14
+- Kohl's — 30% off + Kohl's Cash — expires no date — rewards-exclusive coupons
+- BEWAKOOF — flat 25% off everything — expires 24 hours — code BK25
+- IndiGo BluChip — earn & redeem BluChips for free flights — expires no date — BluChip ID 671105411
+- Pandora — up to 40% off bestsellers (Black Friday sale) — expires no date — no code
+- Lenovo — tech & PC promo roundup — expires no date — no code
+- Going — Halifax / Nova Scotia $332 roundtrip (Jan-Mar) — expires no date — flight deal
+- evo — early Black Friday up to 50% off past-season gear, extra 10% off select packages — expires 11/16 — 🔔 [[Snowboard research & buy]]
+- NerdWallet — cheapest car insurance comparison — expires no date — ad
+- Going — Philippines $833-$872 roundtrip (Feb / May) — expires no date — flight deal
+- Autopilot — Michael's Flagship Fund rebalanced (NVDA moves) — expires no date — portfolio alert
+- Dell Rewards — extra $50 Rewards on $500+ PC purchase; member early Black Friday access 11/16 — expires 11/15 — members only
+- Life Time — membership & personal training promo (Bellevue) — expires no date — concierge Devin Riley
+- H&M — Black Friday preview up to 40% off; outerwear from $29.99 — expires no date — member prices
+- NerdWallet — high-yield savings up to 4.40% APY — expires no date — ad
+- Fandango — $5 early Black Friday deals + weekend movie tickets — expires no date — limited time
+- Chase Sapphire — J.P. Morgan advisor consultation offer confirmed — expires no date — no code
+- Pandora — up to 30% off select holiday gift sets — expires no date — online & in-store
+- evo — up to 60% off past-season ski & snowboard boots — expires 11/16 — 🔔 [[Snowboard research & buy]]
+- Fabletics — holiday deal on pants, tees, shorts & jackets — expires no date — VIP pricing
+- Kohl's — extra 40% off + limited-time deals (Super Saturday) — expires no date — rewards coupons
+
 ## 2026-11-13
 - Climate Pledge Arena — November Greensheet: community fund, holiday events, Torrent home opener — no date — newsletter, no offer
 - Fabletics — Hot Holiday Deals just went live — no date — member early access
