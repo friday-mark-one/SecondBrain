@@ -3,13 +3,13 @@
 > The stats section is auto-refreshed by the copilot (`personality AMD`) — it describes how this stock MOVES, to calibrate stops, dip entries, and earnings-week expectations. The narrative and observations sections are maintained by hand (or Friday): append dated entries, don't rewrite history.
 
 <!-- personality:generated:start -->
-Refreshed 2026-11-08 from 5.0y of daily data (1255 days).
-**Movement**: typical day ±6.1% (14d ATR) | current 20d volatility is at the 97% percentile of its own history | overnight gaps ≥1% on 52% of mornings (worst single gap -11.2%) | 2-day drops ≥2.1% (enough to threaten a fresh −15% stop at ~7× leverage) happened ~77×/year.
-**Trend habits**: above its 50-day average 48% of days | long-run drift +24.5%/yr over the sample.
+Refreshed 2026-11-15 from 5.0y of daily data (1255 days).
+**Movement**: typical day ±6.7% (14d ATR) | current 20d volatility is at the 98% percentile of its own history | overnight gaps ≥1% on 52% of mornings (worst single gap -11.2%) | 2-day drops ≥2.1% (enough to threaten a fresh −15% stop at ~7× leverage) happened ~77×/year.
+**Trend habits**: above its 50-day average 48% of days | long-run drift +29.6%/yr over the sample.
 **Baseline first** — EVERY overlapping 5-day window in this sample: +0.8%, positive 52% of the time. Read the two lines below as lift vs this, not as raw numbers.
-**Dip response** (after 2-day drops ≥3%, n=301, overlapping): next 5 days averaged +1.4%, positive 53% → lift vs baseline +0.6%.
-**Run continuation** (after 5-day gains ≥5%, n=335, overlapping): next 5 days averaged +1.4%, positive 56% → lift vs baseline +0.6%.
-**Analyst tape (12mo)**: 7 upgrades / 3 downgrades / 136 other actions.
+**Dip response** (after 2-day drops ≥3%, n=304, overlapping): next 5 days averaged +1.6%, positive 54% → lift vs baseline +0.8%.
+**Run continuation** (after 5-day gains ≥5%, n=332, overlapping): next 5 days averaged +1.4%, positive 56% → lift vs baseline +0.5%.
+**Analyst tape (12mo)**: 9 upgrades / 3 downgrades / 128 other actions.
 _Descriptive statistics only — expectations for stops, dips, and earnings weeks. No directional edge lives here (measured, Phases 0–11)._
 <!-- personality:generated:end -->
 

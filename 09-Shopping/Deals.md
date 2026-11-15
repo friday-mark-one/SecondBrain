@@ -1,5 +1,42 @@
 # Deals
 
+## 2026-11-15
+- Fabletics — Fall Mystery Box $69.95 (4–5 items, size/prefs picked by you) almost sold out — expires no date — VIP only
+- Going — Everett (PAE) → Kahului (OGG) Hawaii roundtrip, Dec 2026 & Mar–Apr 2027 — price lasts 2–3 days — flight deal
+- Nordstrom — up to $1,200 in Bonus Notes (UGG, Vince, Parfums de Marly) — expires 11/18 — Nordy Club exclusive, online + stores
+- Michaels — new Gilmore Girls & Harry Potter collegiate collections — expires no date — no code
+- Macy's — bedroom under $50: comforters from $21.99, sheets from $29.99, throws from $8.99 — expires no date — no code
+- Pandora — up to 40% off gold-plated jewelry (Black Friday) — expires no date — no code
+- LinkedIn News — 'Suggested top conversations' editorial digest — expires no date — newsletter, not a deal
+- Edmunds — hybrid rankings, luxury lease deals, F-150 $2,938 below sticker — expires no date — ad
+- Nordstrom Rack — 70% off top brands' best sellers + free shipping $39+ — expires 11/16 — no code
+- Educative — Black Friday reliability/traffic-spike newsletter, no offer — expires no date — ad
+- Macy's — $799 lab-grown diamond tennis necklace or bracelet + 50–60% off diamonds — expires today only — no code
+- H&M — member Black Friday preview up to 40% off women's + $10 e-gift card w/ $50+ gift card — expires no date — members only
+- Etsy — Olivia Rodrigo 'take me home' holiday gift edit — expires no date — no code
+- Pandora — up to 40% off Black Friday gifts — expires no date — no code
+- Fandango — $5 off 2+ tickets — expires 12/31/26 — code 6946-68X2F2-33CC; also Focker In-Law ticket+popcorn bundle
+- Nordstrom — Designer Clearance up to 40% off top brands — expires no date — online + stores
+- AquaTru — Black Friday sale on purifiers & replacement filter packs — expires no date — no code
+- Going — travel card offer: $300 travel credit + 75k bonus miles — expires limited time — needs $4,000 spend in 3 months
+- evo — early Black Friday up to 40–50% off past-season snow gear + extra 10% select packages — expires 11/16 — 🔔 [[Snowboard research & buy]]
+- Michaels — Black Friday prices: up to 70% off ALL trees (Great Big Tree Spree) — expires no date — no code
+- J.Crew Factory — 50% off everything + extra 25% off ($100–149.99 gets 15%) — expires 11/16 — no code
+- Macy's — men's boots $29.99+, 30% off BOSS/Florsheim/Cole Haan, 60–70% off designer blazers — expires no date — no code
+- Kohl's — Super Saturday extra 40% off + Kohl's Cash — expires no date — rewards-exclusive coupons
+- Michaels — up to 70% off all trees, Black Friday came early — expires no date — no code
+- Macy's — $25 fragrances + top gift ideas; select fragrances 30–50% off (Marc Jacobs & more) — expires no date — 🔔 [[Gift ideas]]
+- Michaels Custom Framing — 70% off all custom frames — expires no date — no code
+- Michaels — up to 70% off all trees before Tree Spree ends — expires no date — no code
+- Macy's — men's cashmere $59.99+ (Club Room), coats & jackets 50–70% off, wool overcoats from $99.99 — expires no date — no code
+- Macy's — $399 Serta mattress, up to $200 off Dyson, Nespresso from $99, Bose speakers under $150 — expires daily deal thru 11/26 — no code
+- Macy's — 1000s of new Black Friday deals, up to 70% off + select fragrances 30–50% off — expires no date — no code
+- Nordstrom Rack — up to 70% off Nordstrom new arrivals + free shipping $39+ — expires 11/16 — no code
+- Hallmark — free Just Because card (reg. $2.99) — expires 11/30/26 — code SUIC1190420312, in store & online
+- Chipotle — show your tattoo, get a BOGO entrée — expires today, one hour only — rewards members
+- J.Crew Factory — extra 25% off on top of 50% off everything; code LEAFY60 for 60% off clearance — expires 11/16
+- Kohl's — 30% off + earn Kohl's Cash — expires no date — no code
+
 ## 2026-11-14
 - Kohl's — 30% off + Kohl's Cash — expires no date — rewards-exclusive coupons
 - BEWAKOOF — flat 25% off everything — expires 24 hours — code BK25
