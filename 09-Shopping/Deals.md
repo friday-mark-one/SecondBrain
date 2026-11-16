@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-11-16
+- Kohl's — 30% off holiday gift list (select brands) — expires no date — coupon on qualifying brands, Kohl's Cash
+- SBI — YONO 2.0 / YONO Net Banking feedback survey — no date — no offer (survey invite)
+- Swarovski — Welcome to the Swarovski Club — expires no date — membership signup, no discount
+- Fabletics — VIP Hot Holiday Deals — expires Nov 16, 2:59 PM PT — auto-applied, no code; 550 pts available
+- Macy's — Black Friday top 17 top-drawer essentials — expires no date — bras $12.99, underwear 5 for $25, kids/socks
+- Costco — Holiday & Member-Only Savings — starts Nov 17 — member-only, no code
+- Fandango — Rate Ramayana (2026) — no date — feedback survey, no offer
+- Going — Seattle to Istanbul (Turkey) roundtrip $755 (was $1,185) — expires no date — new dates, flight deal
+- Hallmark — Big savings last hours (206 points) — expires Nov 15 — ornaments and cards
+- Michaels — Rewards members exclusive offers + trees up to 70% off — expires no date — rewards account
+- NerdWallet — Car insurance cost calculator / 3-quote compare — no date — no discount (tool)
+- Club Pilates Bothell — Buy $100 e-gift card, get $20 bonus card — expires Dec 31 — online only, 1 per transaction 🔔 [[Gift ideas]]
+- Nordstrom Rack — Up to 70% off new shoe markdowns — expires no date — no code
+- Macy's — Daily Deal: $50 Michael Kors bag, $49.99 Steve Madden puffer — expires no date — 25% off handbags, 60-65% off leather jackets
+- H&M — Up to 40% off premium knits — expires no date — no code
+- Hallmark — Fa-la-la-last call savings — expires no date — ornaments, cards
+- Famous Footwear — Extra 20% off rewards flash sale — expires no date — code GIFTLIFTOFF
+- Etsy — Fall plaids edit — expires no date — no code
+- HomeGoods — Holiday hosting checklist — expires no date — no code (guide)
+- Sephora — New from LANEIGE: Bouncy & Firm Hydrogel Eye Patch — expires no date — new launch
+- UNiDAYS — Mid-Nov perks: 25% off Grammarly Pro, 10% SharkNinja, up to 50% off Sephora sale, $20 Cash App — expires no date — student verification
+- Walgreens — $15 Walgreens Cash + 6 free same-day 5x7 photo cards — expires no date — myWalgreens account
+- Pandora — Holiday ornament charm — expires no date — no code
+- Kohl's — 40% off + Kohl's Cash — expires no date — coupon on qualifying brands
+- Michaels — Great Big Tree Spree + trees up to 70% off — expires no date — no code
+- Kohl's — 40% off holiday gifts + Kohl's Cash — expires no date — coupon on qualifying brands
+
 ## 2026-11-15
 - Fabletics — Fall Mystery Box $69.95 (4–5 items, size/prefs picked by you) almost sold out — expires no date — VIP only
 - Going — Everett (PAE) → Kahului (OGG) Hawaii roundtrip, Dec 2026 & Mar–Apr 2027 — price lasts 2–3 days — flight deal
