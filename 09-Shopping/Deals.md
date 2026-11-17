@@ -1,5 +1,42 @@
 # Deals
 
+## 2026-11-17
+- Kohl's — 30% off — expires no date — holiday gifts; see email for coupon terms
+- ANA — 11.11 fares final call + 20% off Japan eSIM, 10% off next ANA flight — expires no date — code via email
+- Michaels — festive decor + up to 70% off trees — expires no date — holiday style
+- point.me — Premium $150/yr (42% off), Standard $72/yr — expires limited time — code PREMIUMVIP
+- The Leela — Coorg Forest Sanctuary villa stay — expires no date — private pools, Ayurveda, pet-friendly
+- J.Crew Factory — extra 25% off + 50% off everything, 60–70% off select — expires 11/16 (hours left)
+- Pandora — up to 40% off select styles — expires 12/1 — also $15 off $150 via Klarna through 11/18
+- Macy's — $99.99 men's wool overcoat (Tommy Hilfiger) — expires no date — men's suit staples
+- evo — Early Black Friday: skis from $280, helmets/goggles from $55 — expires 11/16 tonight
+- Going — 40% off Elite — expires 11/30 (Cyber Monday) — code GOING40
+- Costco — Holiday Savings — expires 11/30 — laptops, tires, AT&T switch offers
+- Fabletics — VIP Hot Holiday Deals — expired 11/16 2:59 PM PT — auto-applied at checkout
+- Dell — Black Friday Early Access + 3X Dell Rewards on Alienware monitors — expires no date
+- IDMe Shop — 50% off BetterHelp therapy for students — expires no date
+- Hallmark — daily deals week: 10% off sale today, buy 3 cards get 1 free 11/17, more through 11/22 — expires 11/22
+- H&M — member survey, chance to win $50 gift card — expires no date
+- H&M — up to 40% off for Members — expires 11/16 (last day) — online only
+- NerdWallet — car insurance quote comparison — expires no date
+- Fandango — post-movie thank-you — expires no date — no offer
+- Macy's — $179.99 Cuisinart food processor + $24.99 GreenPan cookware — expires no date — Black Friday 25–70% off kitchen
+- Nordstrom Rack — extra 25% off watches; free shipping $39+ — expires 11/16 (last day)
+- Life Time — membership pricing + refresher tour (Bellevue) — expires no date
+- CardPointers — offer-streak nudge (0 weeks) — expires no date
+- Etsy — 2026 Design Award winners + gift guide — expires no date
+- Going — Seattle–DC nonstop $247 (Dec) + 40% off Elite code GOING40 — expires 11/30
+- PointsYeah — Hawaii flights from 12.5k pts; Premium 40% off code BF40 — expires no date
+- Macy's — $179 diamond studs + gifts for her — expires no date
+- Best Buy Visa (Citi) — $75 holiday shopping bonus — expires no date — activate in one click
+- Uber One — holiday deals: 15% back hotels (to 12/1), 20% off airport rides 11/24–30, Deal Drops 11/30
+- Michaels — up to 70% off trees + holiday decor — expires no date
+- NerdWallet — personal loan info — expires no date
+- UNiDAYS — student deals: 30–50% off + extra 10% at select brands — expires no date
+- Daily Harvest — $30 off $100+ subscription — expires 11/16 tonight — code EATWELL30
+- Macy's — up to 50% off toys (Barbie, Hot Wheels & more) — expires no date
+- VeSync — Black Friday up to 36% off — expires 11/30
+
 ## 2026-11-16
 - Kohl's — 30% off holiday gift list (select brands) — expires no date — coupon on qualifying brands, Kohl's Cash
 - SBI — YONO 2.0 / YONO Net Banking feedback survey — no date — no offer (survey invite)
