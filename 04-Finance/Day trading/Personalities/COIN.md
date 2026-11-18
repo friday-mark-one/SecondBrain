@@ -53,3 +53,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-13 — AUTO: new 52-week low
 - 2026-11-16 — AUTO: opening gap -6.5%; new 52-week low
 - 2026-11-17 — AUTO: new 52-week low
+- 2026-11-18 — AUTO: new 52-week low
