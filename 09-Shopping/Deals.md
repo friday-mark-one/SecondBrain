@@ -1,5 +1,38 @@
 # Deals
 
+## 2026-11-18
+- The Leela — Coorg Forest Sanctuary villa stay — expires no date — private pools, Ayurveda, hammam
+- Bellevue Badminton Club — Black Friday retail sale + court rental sale — expires Nov 30 (retail), Nov 27-29 (rentals) — club members
+- Fabletics — VIP deal unlocked ("You're in") — expires no date — shop VIP pricing
+- Macy's — up to 50% off kate spade new york handbags — expires no date — no code
+- evo — Black Friday new deals daily, up to 55% off — expires 11/27 — past-season snow gear
+- Genesis of Milford — 2027 G80 3.5T Prestige in stock, $83,783 — expires no date — dealer ad
+- UNiDAYS — Thanksgiving student deals 20-60% off fashion/tech — expires no date — student verification
+- J.Crew Factory — 50% off everything + extra 70% off clearance + free shipping — expires 11/17 (ending) — no code
+- Michaels — $5 rewards on $30+ purchase + holiday craft deals — expires no date — members
+- Summit at Snoqualmie — Ikon add-on $349 Base / $799 full with Alpental Plus — expires 11/18 — pass add-on
+- Fabletics — sale on recently viewed items — expires no date — member pricing
+- MOD Pizza — free kids meal with MOD pizza or salad — expires no date — Sundays only
+- Nordstrom — up to 60% off select full-price styles (party dresses) — expires no date — holiday edit
+- Chase Sapphire — J.P. Morgan advisor consultation confirmed — expires no date — no discount
+- Best Buy Visa — 10 giftable tech picks — expires no date — card financing
+- Etsy — personalized kids gifts (costumes, dolls) — expires no date — custom gifts
+- Hallmark — $4 savings coupon — expires no date — Crown Rewards
+- DERU Catering — Thanksgiving menu order — expires 11/18 9pm — pickup 11/25
+- Macy's — 30% off Carolina Herrera & Shiseido, 50-70% off Effy, $69.99 jewelry advent calendar — expires no date — Black Friday 25-70% off
+- H&M — early Black Friday up to 50% off online & in stores — expires no date — member prices
+- Nordstrom Rack — new markdowns up to 70% off — expires no date — free shipping $39+
+- HomeGoods — holiday entertaining up to 40% less — expires no date — glassware & decor
+- evo — Black Friday up to 55% off past-season snow gear — expires 11/27 — 🔔 [[Snowboard research & buy]]
+- NerdWallet — high-yield savings up to 4.40% APY — expires no date — rate roundup
+- Michaels — Elf on the Shelf restock + Scout Elf must-haves — expires no date — $5 rewards on $30+
+- J.Crew Factory — extra 70% off clearance + free shipping, 50% off site — expires 11/17 — no code
+- Pandora — charms under $50 + up to 40% off select styles — expires 12/1 — Black Friday
+- Macy's — 16-pc fragrance set $15 + exclusive deals — expires no date — 🔔 [[Gift ideas]]
+- Going — Seoul nonstop economy 38k-100k pts + $66 — expires no date — Feb-Oct 2027
+- Kohl's — save 30% + Kohl's Cash on hosting finds — expires no date — no code
+- Kohl's — save 30% + Kohl's Cash on hosting finds (dupe send) — expires no date — no code
+
 ## 2026-11-17
 - Kohl's — 30% off — expires no date — holiday gifts; see email for coupon terms
 - ANA — 11.11 fares final call + 20% off Japan eSIM, 10% off next ANA flight — expires no date — code via email
