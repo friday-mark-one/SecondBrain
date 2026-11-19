@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-11-19
+- Frontier Airlines — 2027 GoWild Annual Pass $399 — intro price through 4/30/27; travel through 12/31/27 — all-you-can-fly, $0.01 fares, no blackout dates
+- Macy's — coats & jackets under $100 (Calvin Klein & more) — expires no date — no code
+- evo — Black Friday sale up to 55% off + extra 10% off select ski/snowboard packages — expires 11/27 — Burton 20%, Wild Rye 25%, Anon 20%, Ortovox 20%, Giro 50% 🔔 [[Snowboard research & buy]]
+- Going — Hawaii price drop $513 roundtrip + 1 new deal — expires no date — saved-destination alert
+- UNiDAYS — Levi's up to 30% off select styles + extra 15% off — expires no date — student verification
+- J.Crew Factory — extra 30% off new arrivals (already 40% off) — expires 11/24 — no code
+- Michaels — holiday décor & craft sale + $5 rewards on $30+ — expires no date — Rewards members
+- T-Mobile — T-Life perks: 35% off Teleflora sitewide, free Little Caesars pizza with Crazy Combo — Teleflora by 11/24 4:59am ET — T-Mobile Tuesday
+- H&M — flash sale 25% off (up to 50% off online & in stores) — expires no date — member prices
+- Going — nonstop Italy (Rome) economy 40k-50k pts + $70 roundtrip — travel Dec 2026-May 2027 — Delta nonstop, Amex points
+- Uber — 15% back in Uber One credits on hotel bookings — expires 12/2 — Uber One members
+- UNiDAYS — Black Friday early access live — expires no date — student verification
+- Sephora at Kohl's — Cyber Week preview, up to 50% off beauty — coming soon — no code
+- Nordstrom Rack — Veronica Beard & Avec Les Filles up to 60% off; cold-weather gifts up to 60% off — expires no date — free shipping $39+
+- Lake Washington Dermatology — buy one $50 Botox gift card, get one free — Nov 18 only — Allē, while supplies last
+- Too Good To Go — Portland launch: local rescue spots — expires no date — app
+- Going — Singapore nonstop / Thailand $636-$699 roundtrip — travel May — Singapore Airlines, Scoot, AirAsia
+- Macy's — $39.99 All-Clad roaster, $39.99 Tommy Hilfiger sweater + 18 more under $50; extra 15% off Charter Club cashmere — extra 15% ends 11/19 — member exclusive 🔔 [[Gift ideas]]
+- Uber — $250K Delta gift card sweepstakes (5×$10K, 50×$1K, 1,000×$150) — through 12/1 — linked Uber One members
+- PointsYeah — Premium 40% off Black Friday, code BF40; business awards from 70k pts — expires no date — code BF40
+- Fabletics — $20 off next order for 8-minute survey — survey closes 11/23 — promo code after completion
+- Pandora — Black Friday up to 40% off — expires 12/1 — select styles
+- Macy's — 50% off Tarte & Armani fragrance, 30% off Shiseido — expires no date — no code
+- J.Crew Factory — 40% off 290 holiday new arrivals + extra 30% off order — expires 11/24 — no code
+- Michaels — Hanukkah décor: Jonathan Adler collab, candles, dreidels, gift wrap — expires no date — no code
+- Kohl's — extra 30% off with Kohl's card + gifts $25 & under — expires no date — cardholder
+
 ## 2026-11-18
 - The Leela — Coorg Forest Sanctuary villa stay — expires no date — private pools, Ayurveda, hammam
 - Bellevue Badminton Club — Black Friday retail sale + court rental sale — expires Nov 30 (retail), Nov 27-29 (rentals) — club members
