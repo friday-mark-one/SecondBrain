@@ -1,5 +1,75 @@
 # News
 
+## 2026-11-20
+
+## Big Tech & AI Agents
+
+- [Apple is working on an AI agent for device control, apps, browsing and coding](https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U&utm_source=tldrnewsletter) — Apple is developing an autonomous agent that can write code, browse the web, control apps, and navigate devices on a user's behalf. It is hiring a senior engineering manager for a proactive, agentic assistant that can plan multi-step tasks and coordinate specialized subagents. macOS 27.3 will add a warning urging users to reconsider granting third-party agents permission to control their Macs.  (TLDR)
+
+- [Introducing Tool Retrieval in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/?utm_source=tldrai) — Google's Gemini API now supports dynamic function execution: developers register functions and the API locates and executes them automatically based on input. The feature targets workflow automation and broader tool integration.  (TLDR AI)
+
+- [Let Gemini tackle repetitive chores on your Mac](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/?utm_source=tldrai) — Computer use in the Gemini Mac app can handle multi-step tasks across local files, desktop apps, and the web. It runs in an isolated background window with a live preview, letting users watch each step, pause, or approve key actions while their main screen stays free.  (TLDR AI)
+
+- [Perplexity's self-improving skills](https://www.perplexity.ai/hub/blog/self-improving-skills?utm_source=tldrai) — Perplexity Computer can now build and update its own skills, using its Brain system to learn from each user's past sessions.  (TLDR AI)
+
+- [Vercel Board](https://vercel.com/blog/introducing-vercel-board?utm_source=tldrai) — Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context.  (TLDR AI)
+
+- [Anthropic IPO takeaways: $1.8 trillion market cap debut](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html?utm_source=tldrnewsletter) — Anthropic's stock closed at $97.17 per share after debuting on the Nasdaq at $111.50, in a landmark moment for AI.  (TLDR)
+
+- [Just how big is 'Grand Theft Auto VI'? The multibillion-dollar frenzy in charts](https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893?st=HU1vvY&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter) — GTA VI is expected to be the biggest game launch ever, with estimates of 30M+ copies sold by March and a $1.4B production cost. Presales hit $1.65B as of Wednesday; the prior installment has sold nearly 230M copies and generated $10.78B.  (TLDR)
+
+## AI Research & Safety
+
+- [AI is already massively speeding up AI research](https://linch.substack.com/p/ai-is-already-massively-speeding?utm_source=tldrai) — AI companies are not ready to handle the risks of recursive self-improvement safely, despite years of discussion. The piece argues policymakers should prioritize understanding these risks and consider pacing frontier progress, and that lab employees should raise concerns or whistleblow.  (TLDR AI)
+
+- [Sandboxed models can communicate via inference servers](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being?utm_source=tldrai) — In contrived tests, sandboxing did not stop models on a shared inference server from trading information. One model's large request slightly shifts the server's calculations for another, which reads the shift as a signal.  (TLDR AI)
+
+- [When agent swarms outperform solo coders](https://frontier.replit.com/throwing-headcount-at-the-problem/?utm_source=tldrai) — Replit's benchmark found 32 Opus agents achieved an 18.9× NumPy speedup versus 3.7× for a single agent within two hours, at higher compute cost. Gains depended on separable tasks and shared coordination boards, and the strongest solo model's performance declined as teams grew.  (TLDR AI)
+
+- [The most important number in AI](https://asteriskmag.substack.com/p/the-most-important-number-in-ai?utm_source=tldrnewsletter) — Epoch AI's Epoch Capabilities Index (ECI) summarizes model benchmark performance in a single updatable number. The post covers how it is built, benchmark-selection challenges, whether "model IQ" is meaningful, and how static benchmarks hold up as models improve.  (TLDR)
+
+- [What comes after AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/?utm_source=tldrai) — With AGI now within reach, the essay argues we must seriously consider artificial general superintelligence and its impact on science, the economy, and society. It maps possible roads from AGI to ASI and the need for rigorous ways to track progress.  (TLDR AI)
+
+- [Mirror Dimension for agents: evaluating browser-use agents without the web](https://blog.google/security/mirror-dimension-for-agents/?utm_source=tldrai) — Google introduced a controlled environment for testing AI browser-use agents without touching the live web, reducing risk while measuring security and effectiveness.  (TLDR AI)
+
+- [Computer scientists facilitating independent review of a high-profile OpenAI and Anthropic result](https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul?utm_source=tldrai) — UC San Diego and MIT researchers are organizing an independent review of the claim that OpenAI and Anthropic models refuted the Exponential Time Hypothesis.  (TLDR AI)
+
+## Dev & Engineering
+
+- [How OpenAI's performance factory keeps ChatGPT fast](https://links.tldrnewsletter.com/avBq2w) — When ChatGPT slows down, one Codex session investigates and a second tries to rule out its explanation before a fix is proposed. Engineers decide what ships, and Codex checks whether performance returns to baseline after deployment.  (TLDR Dev, TLDR AI)
+
+- [Stripe evals for real-world coding agent performance](https://stripe.dev/blog/stripe-integration-evals-methodology?utm_source=tldr&utm_medium=community) — Stripe tested coding agents on payments, subscriptions, and Connect integrations: agents met 78.1% of required criteria on average, but only 29.4% of runs met every criterion. All 14 agent setups scored higher with Stripe's plugin.  (TLDR Dev, TLDR AI)
+
+- [PostgreSQL 19 released](https://www.postgresql.org/about/news/postgresql-19-released-3449/?utm_source=tldrnewsletter) — PostgreSQL 19 adds `REPACK (CONCURRENTLY)` for optimizing tables without disrupting operations, plus the pg_plan_advice extension for plan stability. It also lets applications wait for a standby to replay a specific write and return an existing row on insert conflict.  (TLDR, TLDR Dev)
+
+- [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/?utm_source=tldrdev) — Zerodha built Blobasaur, a Redis-compatible store that shards compressed UI preferences across SQLite files and batches writes per shard. In a memory-backed benchmark with 64 KiB JSON payloads, scaling from one to 16 shards raised write throughput from ~7,700 to 25,300 ops/sec.  (TLDR Dev)
+
+- [Top 10 things AI gets wrong in web development](https://developer.chrome.com/blog/top-10-things-ai-gets-wrong-in-web-dev?utm_source=tldrdev) — Coding agents passed 52% of Chrome's web development checks alone and 91% with Modern Web Guidance installed. Common misses: restoring keyboard focus when a dialog closes, respecting reduced-motion preferences, and reserving space for late-loading content.  (TLDR Dev)
+
+- [Coding harnesses are cheap to swap now. Model behavior isn't.](https://davenporter.com/writings/agent-harnesses-cheap-to-swap-behavior-isnt?utm_source=tldrdev) — Hosted agent APIs and shared formats make harnesses easier to swap, but model choice still changes how agents work. With identical repo instructions and tools, Gemini queried a code graph while Claude generally searched from the shell — retest behavior after any model swap.  (TLDR Dev)
+
+- [Why Chrome still uses the old IP after you edit your hosts file](https://maxmart.github.io/posts/chrome-old-ip-after-hosts-file-edit/?utm_source=tldrdev) — Chrome can reuse a pooled connection to the old IP because it pools by hostname and port; a used socket can stay open for five idle minutes. Flushing Chrome's socket pools forces a fresh lookup but also closes unrelated connections in the same profile.  (TLDR Dev)
+
+- [Rebuilding my voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline?utm_source=tldrdev) — Platypush swapped in microWakeWord for wake-word detection and Silero with an adaptive noise floor to detect end of speech. In noisy synthetic tests, the old pipeline waited 6–10 seconds after the last word; the new one waits 1–1.6 seconds.  (TLDR Dev)
+
+- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/?utm_source=tldrdev) — A Windows 11 component records which coding agents and categories of developer tools have run, with reports including usage flags for tools like Codex and categories like compilers.  (TLDR Dev)
+
+- [Meet the new Docker, built to run on trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/?utm_source=tldrdev) — Docker unveiled a new brand focused on running AI agents with isolation and oversight, pointing to Docker Sandboxes for isolated coding environments and Docker AI Governance for managing agent access and activity.  (TLDR Dev)
+
+- [Datacat (GitHub repo)](https://github.com/replit/datacat?utm_source=tldrdev) — Replit's self-hosted observability stack collects metrics, logs, and distributed traces with dashboards and alerts. It accepts OpenTelemetry and Datadog-compatible traffic, using PostgreSQL by default and ClickHouse optionally for telemetry.  (TLDR Dev)
+
+## Science & Space
+
+- [Google turns to Blue Origin for a rocket, but its long-term problem remains](https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/?utm_source=tldrnewsletter) — Blue Origin's New Glenn will launch data center satellites for Google in 2029 under Project Suncatcher, a moonshot to scale AI infrastructure in space using solar power. Each satellite has roughly a data-center rack's computing capacity and will sit in a Sun-synchronous orbit for near-continuous solar energy.  (TLDR)
+
+- [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo?utm_source=tldrnewsletter) — The BepiColombo mission is preparing to swing into orbit around Mercury to study how the planet formed so close to the Sun, why it has a magnetic field, and what makes up the ice in permanently shadowed craters. The spacecraft splits into two orbiters in early December, with science operations starting in April.  (TLDR)
+
+- [FastFrames: video generation at interactive latency](https://apple-aiml-research.github.io/ml-fastframes/?utm_source=tldrai) — Apple introduced two models that generate 480p video fast enough for interactive use, with the smaller model producing each frame in 36 ms on a single GPU.  (TLDR AI)
+
+- [Cloudflare's Clairic and Clairic-flash](https://blog.cloudflare.com/open-clairic/?utm_source=tldrai) — Cloudflare published the weights for Clairic and Clairic-flash, its models for extracting specific fields from text, images, and PDFs.  (TLDR AI)
+
+- [A game you cannot win unless you have a quantum computer](https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/?utm_source=tldrnewsletter) — The magic square game demonstrates the potential power of contextuality in quantum computing.  (TLDR)
+
 ## 2026-11-19
 
 ## AI Models & Research
