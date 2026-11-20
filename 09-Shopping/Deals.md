@@ -1,5 +1,28 @@
 # Deals
 
+## 2026-11-20
+- Kohl's — save 30% with Kohl's Card + Early Access Black Friday up to 50% off — expires no date — cardholder offer
+- Fabletics — 60% off everything — expires no date — VIP/member pricing
+- Macy's — appliances under $50 + $13.99 Cuisinart knives — expires no date — no code
+- Nordstrom — updated code for 15 free holiday cards — expires no date — Nordy Club members
+- Going — Hawaii price drop $513 roundtrip (saved destinations) — expires no date — flight deal
+- NerdWallet — SoFi up to $500 sign-up bonus (NerdWallet exclusive) — expires no date — new account offer
+- PointsYeah — Chase 40% transfer bonus to Virgin Atlantic + Amazon Black Friday travel picks — expires no date — transfer bonus
+- Going — Bali $693 roundtrip (May) — expires no date — Singapore Airlines
+- Macy's — 50% off cashmere gloves, scarves, hats & more — expires no date — no code
+- Going — nonstop Iceland $449 (Jan-Apr) — expires no date — Icelandair
+- Michaels — holiday décor & craft sale — expires no date — no code
+- Etsy — holiday gift picks (gifts, deals hub) — expires no date — no code 🔔 [[Gift ideas]]
+- Macy's — 50% off Godiva, 50% off LEGO sets, 40% off Swarovski + $19.99 cashmere-blend socks — today only (11/19) — member extra 15% off Charter Club
+- CardPointers — 50% off early Black Friday — expires Black Friday — code applied via link
+- ID.me Shop — up to 30% off Samsung, Tecovas, Columbia, Sam's Club, T-Mobile, Saucony — expires no date — student verification
+- Pandora Black Friday — up to 40% off + double points — expires no date — no code
+- evo — 20% off one full-price item — 5 days only — code SAVE20
+- Nordstrom Rack — New Balance private sale, shop-it-first early access — expires no date — Nordy Club
+- Macy's Black Friday — under $30 roasters + last-minute kitchen/hosting essentials — expires no date — no code
+- Michaels — all yarn on sale (cashmere, alpaca, bamboo) — expires no date — no code
+- Kohl's — Early Access Black Friday up to 50% off + save 30%; last day for Kohl's Cash — expires 11/19 — no code
+
 ## 2026-11-19
 - Frontier Airlines — 2027 GoWild Annual Pass $399 — intro price through 4/30/27; travel through 12/31/27 — all-you-can-fly, $0.01 fares, no blackout dates
 - Macy's — coats & jackets under $100 (Calvin Klein & more) — expires no date — no code
