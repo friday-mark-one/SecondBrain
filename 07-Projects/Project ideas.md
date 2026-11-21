@@ -48,6 +48,8 @@ pinned: true
 - [x] AI fashion store
 
 ### QoL ideas
+- [ ] Leetcode premium Chrome extension
+- [ ] Jetlag helper
 - [ ] AI that knows everything about me - Jarvis with home integration and rag llm
 - [ ] AI personal assistant
     - [ ] Custom trigger word to wake up / a chain on my neck with a button I can push to talk
