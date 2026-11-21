@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-11-21
+- Macy's — $50 off your Black Friday haul — expires 11/26 — online only, code ZZRYJKGLFVS3, exclusions apply
+- Fabletics — Priority Access doorbusters (sneak peek in account) — no date — members/VIP only
+- Macy's — Beauty deals: KIKO Milano, MAC, Burberry minis + fragrance gifts — no date — beauty gift sets 🔔 [[Gift ideas]]
+- Sea Maui — 25% off gift cards (any denomination) — expires 12/9 — code 25OFF, not for charters/Ohana Club
+- Meta — up to 25% off AI glasses and Meta Quest 3S — no date — Black Friday
+- Macy's — Win-Win Activewear Sale 25-50% off + 2x points — no date — Nike, Adidas, Under Armour, Columbia
+- Michaels — up to 70% off + free 9" poinsettia with any in-store purchase — no date — started today
+- Fandango — $5 off when you buy 2+ tickets — expires 12/31 — code 6946-68X2F2-33CC
+- Going — mistake fare Europe $260-$370 roundtrip (Condor) — no date — travel Jan-Sep, book soon
+- Lyft — 30% off 3 rides — expires 11/27 — max $6 off per ride, not valid for Wait & Save
+- Macy's — Daily deals: 40% off Lancôme, $19.99 Steve Madden accessories, $19.99 boots — no date — Parade of Deals
+- H&M — 20% off app orders — expires 11/21 — app only
+- Nordstrom Rack — all things UGG up to 50% off — no date — cozy season
+- Life Time — rejoin offer: first personal training session free — no date — members/non-members
+- Michaels Custom Framing — Black Friday deals on custom frames — no date — order early to beat the rush
+- The Leela / GHA DISCOVERY — double Tier Nights — expires 12/31 — stays 11/1-12/31, register first
+- Dell Rewards — Early Access + 3X Rewards — expires today — members only, hours left
+- Fabletics — Black Friday preview, entire site on sale — no date — limited-time
+- Hallmark — $4 bonus rewards + free card with purchase — expires 12/1 — codes SUIB1196940616 / SUIC1200924707, $8 rewards banked
+- evo — outerwear from $99 — no date — Black Friday outerwear sale
+- Macy's — NEW Black Friday deals: $19.99 boots, Charter Club cashmere from $49.99, 50% off fragrances — no date
+- Pandora — up to 50% off Black Friday — no date — sale expanded
+- point.me — Premium $150/yr (42% off), Standard $72/yr — expires 11/26 — members-only, free strategy call + $100 credit
+- Going — Europe roundtrip $409-$510 — no date — travel Jan-Apr
+- Michaels — Black Friday up to 70% off storewide — no date — no code
+- Kohl's — 30% off with your Kohl's Card + Early Access Black Friday deals — no date — cardholders
+
 ## 2026-11-20
 - Kohl's — save 30% with Kohl's Card + Early Access Black Friday up to 50% off — expires no date — cardholder offer
 - Fabletics — 60% off everything — expires no date — VIP/member pricing
