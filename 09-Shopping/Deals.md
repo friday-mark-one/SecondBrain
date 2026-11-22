@@ -1,5 +1,16 @@
 # Deals
 
+## 2026-11-22
+- Macy's — $7.99+ sheets + Black Friday home deals — no date — no code
+- Macy's — Black Friday toys: Barbie, Hot Wheels & more up to 50% off — no date — no code
+- Macy's — 40% off Estée Lauder fragrances + 50% off Levi's — expires 11/21 — Parade of Deals, today only 🔔 [[Gift ideas]]
+- Macy's — "Best Black Friday deals" sitewide — no date — no code
+- Michaels — Merry savings on holiday must-haves — no date — no code
+- Nordstrom Rack — up to 50% off gifts for everyone — no date — no code
+- Sephora — Cyber Week daily deals — no date — app exclusive
+- Kohl's — 30% off + Early Access Black Friday up to 50% off — expires 11/21 — cardholders
+- HomeGoods — hosting must-haves under $30 (Thanksgiving) — no date — no code
+
 ## 2026-11-21
 - Macy's — $50 off your Black Friday haul — expires 11/26 — online only, code ZZRYJKGLFVS3, exclusions apply
 - Fabletics — Priority Access doorbusters (sneak peek in account) — no date — members/VIP only
