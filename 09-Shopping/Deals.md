@@ -1,5 +1,36 @@
 # Deals
 
+## 2026-11-23
+- Kohl's — up to 50% off + extra 20% off, $15 Kohl's Cash per $50, free ship $25+ — expires no date — no code
+- Pinterest — recommended-search digest (Lippan art, desi wall decor) — no offer — no date
+- Weee! — breakfast breads & pastries picks — no date — shop the picks link
+- Summit at Snoqualmie — Black Friday discounts on lift tickets, private lessons & Nordic lessons; pre-season Flex Ticket Packs — expires Dec 2
+- Aroma Restaurant — Thanksgiving dinner + karaoke event invite — no date
+- H&M — must-have styles up to 50% off — no date
+- Fabletics — VIP Black Friday sneak-peek access expiring — expires no date
+- HomeGoods — holiday essentials on sale — no date
+- evo — up to 55% off past-season skis & snowboards — expires 11/27
+- Macy's — men's cashmere sweaters $59.99+ — no date
+- Michaels Rewards — free poinsettia with purchase + bonus reward offer — no date
+- Costco — new finds for this week's visit — no date
+- Macy's — Black Friday PJ sets up to 60% off — no date
+- Nordstrom Rack — designer finds sale — no date
+- Macy's — Parade of Deals: $99 huggie earrings, 30% off Armani fragrances, Black Friday 25–70% off — no date 🔔 [[Gift ideas]]
+- Hallmark — $15 off $100, online only — expires 11/22
+- Sephora — Cyber Week early access on the app (gift sets, perfume) — no date 🔔 [[Gift ideas]]
+- Target — Black Friday Weekly Ad live — no date
+- Etsy — holiday gifts & deals — no date
+- Norm Reeves Genesis Cerritos — buy 3 winter tires, get 4th for $1 — no date
+- UNiDAYS — pre-Black Friday student deals — no date
+- Groupon — FEELartistic deal waiting — no date
+- Pandora — last day member access up to 50% off — expires 11/22
+- H&M — Black Friday up to 50% off starts now — no date
+- NerdWallet — high-yield savings up to 4.40% APY — no date
+- Macy's — best beauty gift sets for Black Friday — no date 🔔 [[Gift ideas]]
+- Walgreens — holiday drinks/sips for gatherings — no date
+- Michaels — top BOGOs at Black Friday sale — no date
+- Kohl's — 20% off + tons of 50% off, $15 Kohl's Cash + free ship $25+ — no date — no code
+
 ## 2026-11-22
 - Macy's — $7.99+ sheets + Black Friday home deals — no date — no code
 - Macy's — Black Friday toys: Barbie, Hot Wheels & more up to 50% off — no date — no code
