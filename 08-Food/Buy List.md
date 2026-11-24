@@ -8,6 +8,11 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Blanched peanuts]]
 - [ ] [[Kabuli Channa]]
 - [ ] [[Himalayan pink salt]]
+- [ ] [[Ghee]]
+- [ ] [[Nurri]]
+- [ ] [[Garlic powder]]
+- [ ] [[Onion]]
+- [ ] [[Garlic]]
 
 
 ## Regulars
