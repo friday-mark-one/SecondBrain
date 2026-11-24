@@ -5,10 +5,13 @@ hint: general todo list
 pinned: true
 ---
 
+- [ ] Apartment hunt
 - [ ] Diversify assets
 - [ ] Figure out tax for next year
+- [ ] Do projects
+- [ ] PERM restart
 - [ ] Buy cap 
-- [ ] Yoga class
+- [ ] Change internet provider
 - [ ] Mac mini update
 - [ ] Car seat belt not tight
 - [ ] Mira global entry 

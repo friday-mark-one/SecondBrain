@@ -41,3 +41,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-03 — AUTO: crossed below its 50d average
 - 2026-11-04 — AUTO: crossed above its 50d average
 - 2026-11-18 — AUTO: volume 3.1× normal
+- 2026-11-24 — AUTO: new 52-week high
