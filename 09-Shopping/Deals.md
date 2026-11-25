@@ -1,5 +1,62 @@
 # Deals
 
+## 2026-11-25
+- Kohl's — Black Friday: up to 50% off + extra 20% off + $15 Kohl's Cash per $50 — no date — free shipping $25+
+- Pandora — up to 50% off select styles (Black Friday) — no date — select styles only
+- evo — up to 40% off past-season Arc'teryx — limited time — Black Friday sale
+- Going — gift cards 40% off + Elite 40% off w/ code GOING40 — ends Cyber Monday 11/30
+- Fandango — FanClub exclusive offer — no date — details in email
+- Fabletics — VIP sale final hours — no date — members only
+- point.me — Premium $150/yr (42% off) — ends Thu 11/26 midnight — members price, beats Black Friday
+- Chase Sapphire — refer a friend, earn up to 100,000 bonus points — no date
+- IDMe Shop — Black Friday preview: up to 40% off OGIO, On, Tommy Hilfiger — no date — students only
+- Dell Rewards — 2X Dell Rewards points on everything (Black Friday) — no date
+- Vida Integrated Health — Thanksgiving recipes + holiday hours — no promo
+- Going Flight Deals — Madrid, Spain $650 roundtrip — Sep travel — GOING40 40% off Elite thru 11/30
+- NerdWallet — debt-consolidation loan article ($9,478 example) — no promo
+- Life Time — Thanksgiving-week fitness classes — no promo
+- H&M — up to 50% off knitwear — no date
+- Etsy — up to 60% off Cyber Specials gifts — no date — small shops 🔔 [[Gift ideas]]
+- Sephora at Kohl's — Cyber Week up to 50% off beauty + 30% off top brands — no date 🔔 [[Gift ideas]]
+- MOD Pizza — Rewards: 2 regular pizzas + CinnaMOD for $28 — Week 1 of 6 — rewards members
+- Going — traveler gift guide — no promo — 40% off Elite thru 11/30
+- Going Flight Deals — Paris $559 roundtrip — Jan–Apr travel — code GOING40 ends 11/30
+- Cigna — appointment feedback survey (Dr. Goldwire) — no promo
+- PointsYeah — biz class to Europe from 21k pts w/ transfer bonus — no date
+- Cinemark — 50% off Movie Club 3 months — code aq26-5033-driz9czj8m — valid thru 11/30/26
+- Pandora — holiday favorites up to 50% off — no date — festive/gift pieces
+- NerdWallet — high-yield savings up to 4.40% APY — no promo
+- Genesis — GV90 behind-the-scenes content — no promo
+- H&M — activewear from $9.99 — no date
+- CardPointers — offer-streak nudge + auto-add offers extension — no promo
+- Pinterest — Madhubani/Pichwai wall-art ideas — no promo
+- Weee! — new arrivals — no date — no promo
+- Educative — System Design course update — no promo
+- Kohl's — up to 50% off + extra 20% off + $15 Kohl's Cash per $50 — no date
+- point.me — Premium 42% off members price — ends Thu 11/26 midnight
+- The Leela — brand/experience story — no promo
+- JetBlue Vacations — up to $800 off flight + hotel packages — Black Friday, no date
+- Fandango — Christmas movie promo — no date — details in email
+- evo — Black Friday up to 55% off select gear (Smith 20%, Salomon 25%, Arc'teryx 40%) — no date
+- Too Good To Go — Portland Surprise Bags — no date
+- Pandora — up to 50% off everyday jewelry (Black Friday) — no date
+- H&M — denim from $19.99 — no date
+- Linux Foundation — up to 65% off training/certs/bundles — Nov 27–Dec 4
+- Uber One — 20% off 2 premium airport rides — no date — members only
+- MOD Pizza — free kids meal w/ MOD-size pizza or salad — Sundays only — no date
+- Wispr Flow — Canto-2 model rollout — no promo
+- Etsy — up to 60% off gifts for pets (Cyber Specials) — no date
+- Meta — up to 25% off Black Friday (holiday helper) — no date
+- Going Flight Deals — Auckland NZ economy 70k–80k pts RT + $80–143 — travel Nov'26–Oct'27
+- Summit at Snoqualmie — 20% off private ski/snowboard/Nordic lessons — no date — book early
+- point.me — 75K-mile card offer ending soon — no date
+- H&M — up to 50% off party wear — no date
+- CardPointers — $10 DoorDash credit expires Mon (Chase Sapphire Preferred) + 50% off app — no date
+- Fabletics — Black Friday VIP upgrade offer — no date
+- Lumosity — BRIGHT-Mind clinical trial results — no promo
+- Slopes × Insta360 — winter vertical challenge/rewards — no promo
+- Weee! — broth recipe / new items — no promo
+
 ## 2026-11-23
 - Kohl's — up to 50% off + extra 20% off, $15 Kohl's Cash per $50, free ship $25+ — expires no date — no code
 - Pinterest — recommended-search digest (Lippan art, desi wall decor) — no offer — no date
