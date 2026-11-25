@@ -33,3 +33,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-11 — AUTO: new 52-week high
 - 2026-11-18 — AUTO: +4.6% day (≥2× its typical range); new 52-week high
 - 2026-11-24 — AUTO: new 52-week high
+- 2026-11-25 — AUTO: new 52-week high
