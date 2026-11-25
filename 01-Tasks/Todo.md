@@ -5,6 +5,7 @@ hint: general todo list
 pinned: true
 ---
 
+- [ ] Masters final presentation 
 - [ ] Apartment hunt
 - [ ] Diversify assets
 - [ ] Figure out tax for next year
