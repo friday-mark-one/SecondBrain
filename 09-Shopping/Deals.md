@@ -1,5 +1,46 @@
 # Deals
 
+## 2026-11-26
+- Kohl's — Black Friday: up to 50% off + save 20% + $15 Kohl's Cash per $50; extra 10% off home w/ Rewards — no date — doorbusters 3 days
+- Aroma — Thanksgiving weekend: lunch buffet $24.99, Family Feast $99 (serves 5–8), $100 eGift card for $75 — Nov 26–29 — gift card online only
+- Famous Footwear — early Black Friday deals on best brands — no date
+- Grok (xAI) — Black Friday: Grok Bot + 2 months Premium for $30 — ends Dec 1
+- Macy's — Black Friday jewelry: $99 sapphire bracelet, up to 75% off gold, 50–60% off diamond — no date
+- J.Crew Factory — Black Friday 50–70% off everything sitewide; 40% off new arrivals + extra 30% — no date
+- MOD Pizza — buy $35 gift card, get free regular pizza/salad + 16oz drink coupon — gift card offer thru 1/3/27; coupon 1/4–1/24/27
+- H&M — holiday deals up to 50% off bestsellers & gifts — no date
+- point.me — NYC–Paris 37.5K biz / London 7K pts + 6 transfer bonuses — no date
+- Lenovo — Black Friday doorbusters dropped early — no date
+- Fabletics — Black Friday VIP offer upgraded + cart on sale — no date — members only
+- Macy's — up to 60% off holiday table/kitchen for Black Friday — no date
+- Pandora — up to 50% off select styles; silver from $25, gold-plated from $30, gift sets 30% off + double points — 11/23–12/1
+- Costco Same-Day (Instacart) — Thanksgiving stock-up; up to 3.5% savings for Instacart+ — no date
+- Michaels — Black Friday up to 70% off storewide + doorbusters; 30% off holiday décor w/ coupon; finds under $5 — no date
+- Frontier Airlines — card offer up to 60,000 bonus miles (50K + 10K AU) — no date
+- Going — Europe flights $509–584 RT (Dec–May) + 40% off Elite w/ code GOING40 — ends Cyber Monday 11/30
+- Macy's — daily deal 50% off Rabanne fragrance + $150 Michael Kors bag w/ purchase; 25–70% off designer — no date
+- PointsYeah — 40% off Premium w/ code BF40 (first-time Premium) — thru Dec 1
+- Nordstrom Rack — extra 40% off clearance; extra 35% off select full-price women's boots; extra 25% off Bony Levy — limited time
+- Etsy — Cyber Specials up to 60% off handpicked gifts — no date 🔔 [[Gift ideas]]
+- IDMe Shop — early Black Friday: 25% off movie tix, 30% off Reebok/Samsung & more — no date — students
+- evo — 30% off current-season gear (outerwear/ski) at Black Friday prices — no date
+- Macy's — PJs from $11.99 + Black Friday deals — no date
+- point.me — Premium $150/yr (normally $260) w/ code PREMIUMVIP + free points consult — ends Thu 11/26 midnight
+- Macy's — 50% off fragrance/beauty BF deals + 40% off 25 Days of Beauty advent calendar — no date
+- Macy's — $19.99 women's boots + up to 70% off BF deals — no date
+- Chipotle Rewards — BOGO entrée — no date
+- Macy's — 21 Black Friday coat deals under $100 — no date
+- HomeGoods — Black Friday savings, stores open 8am — no date
+- Hallmark — Cyber Sale: $4 coupon inside; Crown Rewards free card (7 days left) — no date
+- Macy's — Lenox bedding from $24.99, robes $39.99, towels $7.99 + BF deals — no date
+- Sephora — Cyber Week beauty deals — no date 🔔 [[Gift ideas]]
+- Macy's — up to 50% off COACH, Michael Kors, kate spade & more — no date
+- Macy's — $19.99 kids' jackets + Carter's, Nike & more up to 60% off — no date
+- Lyft — 30% off 3 rides — ends soon
+- Sephora at Kohl's — Cyber Week up to 50% off beauty + 30% off top brands — no date 🔔 [[Gift ideas]]
+- Macy's — $49.99 UGG travel set, $25 fragrance sampler sets, Samsonite 50–65% off — no date 🔔 [[Gift ideas]]
+- Macy's — 12 BF deals: 75% off diamonds, 50% off fragrance, Dyson Airwrap $100–150 off, Pandora 30–50% off — no date
+
 ## 2026-11-25
 - Kohl's — Black Friday: up to 50% off + extra 20% off + $15 Kohl's Cash per $50 — no date — free shipping $25+
 - Pandora — up to 50% off select styles (Black Friday) — no date — select styles only
