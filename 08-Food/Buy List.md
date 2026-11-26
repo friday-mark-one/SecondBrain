@@ -14,6 +14,7 @@ checked items automatically; unchecked ones stay for next time.
 - [ ] [[Onion]]
 - [ ] [[Garlic]]
 - [ ] [[Roasted edamame]]
+- [ ] [[Coconut Water]]
 
 
 ## Regulars
