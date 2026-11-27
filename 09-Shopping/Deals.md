@@ -1,5 +1,33 @@
 # Deals
 
+## 2026-11-27
+- Weee! — Sauces & seasonings picks (weekly edit) — no date — no code, shop link in email
+- point.me — Black Friday: Premium $156 through Monday — expires 11/30 — link in email
+- Lenovo — Black Friday Doorbusters up to 51% off, laptops under $350 + 2X Rewards sitewide — no date — no code
+- ID.me Shop — Black Friday offers just dropped — no date — limited time, verify with ID.me
+- Fabletics — Black Friday early access — no date — member/VIP pricing
+- evo — Black Friday up to 55% off select gear, new deals daily — expires 11/28 — no code
+- H&M — Holiday PJ deals up to 60% off — no date — no code
+- point.me — Final hours: Premium $150, ends at midnight — expires 11/27 — link in email
+- Going — New Hawaii dates + 1 new deal on saved destinations — no date — members-only fares
+- Pandora — Black Friday deals continue — no date — no code
+- UNiDAYS — Black Friday student deals live — no date — student verification required
+- H&M — Sweater deals from $12.99 — no date — no code
+- Summit at Snoqualmie — Day tickets from $58, night tickets from $30 + ticket packs/private lesson savings — no date — buy online
+- Points Insider (PointsYeah) — Black Friday / Cyber Monday / Travel Tuesday points & transfer bonus roundup — no date — links in email
+- Lumosity — 50% off Lumosity Premium — no date — code BLACK-FRIDAY-EMAIL-50
+- Target — New Black Friday deals added — no date — no code
+- Pandora — Up to 50% off select styles, further reduced — no date — no code
+- The Leela — Joy of the Season festive escape offer — no date — book direct
+- Fabletics — Black Friday live, stock up before sellouts — no date — member pricing
+- Fandango — $5 off when you buy 2+ tickets — expires 12/31/2026 — code 6946-68X2F2-33CC
+- Lenovo — Fresh deals up to 50% off + 6% back in Rewards, free shipping — expires 11/27 (today only bonus)
+- evo — Black Friday ends tomorrow, up to 55% off — expires 11/28 — no code
+- H&M — Up to 60% off everything, online now — no date — no code
+- point.me — Final day of best Premium deal ever — expires 11/27 — link in email
+- Kohl's — Doorbusters 3 days only + 20% off, up to 50% off BF deals — expires 11/28 — code in email
+- ANA — Fly More. Pay Less. fare sale — no date — fares ex-India, links in email
+
 ## 2026-11-26
 - Kohl's — Black Friday: up to 50% off + save 20% + $15 Kohl's Cash per $50; extra 10% off home w/ Rewards — no date — doorbusters 3 days
 - Aroma — Thanksgiving weekend: lunch buffet $24.99, Family Feast $99 (serves 5–8), $100 eGift card for $75 — Nov 26–29 — gift card online only
