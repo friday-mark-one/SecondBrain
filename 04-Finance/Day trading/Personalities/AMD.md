@@ -61,3 +61,4 @@ _Descriptive statistics only — expectations for stops, dips, and earnings week
 - 2026-11-24 — AUTO: opening gap -6.2%; crossed below its 200d average
 - 2026-11-25 — AUTO: opening gap -7.4%
 - 2026-11-26 — AUTO: opening gap -7.4%
+- 2026-11-27 — AUTO: opening gap +3.4%
