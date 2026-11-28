@@ -1,5 +1,43 @@
 # Deals
 
+## 2026-11-28
+- Macy's — Black Friday up to 70% off (ends today 11/28): 20 under $20, $19.99 boots, 30% Polo Ralph Lauren, 60% off diamond jewelry, $25 UGG blankets, 50% LEGO, 40% Swarovski — expires 11/28 — in-store & online
+- Macy's — $15 fragrance discovery sets / $25 perfume samplers — expires 11/28 — 🔔 [[Gift ideas]]
+- Macy's — $29.99 lab-grown diamond studs with $25 purchase — expires 11/28 — one per customer, while supplies last
+- Macy's — 25-40% off COACH handbags, UGG slippers/booties under $100 — expires 11/28 — no code
+- Capital One Shopping — single-use offers: $45 Best Buy gift card, Walmart offer — expires 11/30 — targeted, terms apply
+- Educative — Unlimited 60%+ off Black Friday, ends Sunday — expires 11/29 — via email link
+- evo — up to 55% off select snow gear (ends today) + 4-day bonus points redemption — expires 11/28 — 🔔 [[Shopping research]]
+- Lenovo — Black Friday doorbusters: PCs up to $870 off — no date — no code
+- AquaTru — Black Friday up to 35% off; filters 20%, shower 35%, purifiers/bundles up to 25% — no date — no code
+- ID.me Shop — Student Black Friday up to 70% off (OGIO 40%, YETI/On 30%, Nikon 20%) — no date — verify with ID.me
+- Famous Footwear — Black Friday BOGO + free squishy toy in-store — no date — no code
+- H&M — up to 60% off everything, online & in stores — no date — no code
+- Fabletics — Black Friday sale live — no date — member/VIP pricing
+- J.Crew Factory — 50-70% off everything + extra 20% off + free shipping, no exclusions — no date — no code
+- Pandora — up to 50% off, styles under $50 — no date — no code
+- Michaels — 60% off in-email + Black Friday price drops/BOGO — no date — no code
+- SuperGrok — 2 months Premium for $30 (2-for-1) — no date — via email link
+- Going — 40% off Elite, code GOING40, ends Cyber Monday — expires 11/30 — code GOING40
+- PointsYeah — Premium 40% off, code BF40, through Dec 1 — expires 12/1 — first-time members only
+- point.me — Premium 40% off / $156 through Monday — expires 11/30 — link in email
+- CardPointers — 50% off lifetime (save $150) Black Friday — no date — link in email
+- Vida Integrated Health — 20% off supplements, Nov 27-Dec 2, free shipping $50+ — expires 12/2 — Fullscript store
+- Lake Washington Dermatology — 20% off all online products — no date — no code
+- Walgreens — $7 rewards + 75% off same-day 16x20 canvas prints — no date — no code
+- Hallmark — 20% off online + $4 offer — no date — no code
+- Kohl's — doorbusters + 20% off + $15 Kohl's Cash — no date — no code
+- Nordstrom Rack — extra 40% off clearance; Off-White private sale extra 20% — no date — no code
+- Sephora — Black Friday 50% off + Cyber Week daily deals — no date — no code
+- Etsy — up to 60% off creative finds — no date — no code
+- Meta — up to 25% off AI glasses — no date — no code
+- Google Play — up to $700 off Galaxy/Pixel devices + gift card deals — no date — no code
+- Xfinity — free premium 5G phone with iPhone pre-order — no date — no code
+- Frontier — GoWild $399 all-you-can-fly + 10k elite status pts; renew $499 — expires 12/7 — new passholders
+- Cinemark — Black Friday movie deals — no date — members only
+- Yuan Spa — Black Friday Yuan Cash starts today — no date — no code
+- UNiDAYS — Black Friday student deals — no date — student verification required
+
 ## 2026-11-27
 - Weee! — Sauces & seasonings picks (weekly edit) — no date — no code, shop link in email
 - point.me — Black Friday: Premium $156 through Monday — expires 11/30 — link in email
