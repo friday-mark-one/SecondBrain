@@ -3,8 +3,8 @@
 ## Costco
 - [x] [[Toor Dal]] — *toor dal (split pigeon peas)* — Sambar (¾ cup, cooked)
 - [x] [[Capsicum]] — *Bell pepper* — Sambar (2)
-- [ ] [[Power Crunch]] — *Power Crunch protein wafer bars* — One-off
-- [ ] [[Nurri]] — *Vanilla Nurri* — One-off
+- [x] [[Power Crunch]] — *Power Crunch protein wafer bars* — One-off
+- [x] [[Nurri]] — *Vanilla Nurri* — One-off
 - [x] [[Coconut Water]] — *Kirkland organic coconut water* — One-off
 - [x] [[Ghee]] — *ghee* — One-off
 - [x] [[Roasted edamame]] — *roasted edamame* — Regulars
@@ -30,12 +30,13 @@
 - [x] [[Drumstick]] — *moringa drumsticks* — Sambar (optional)
 - [x] [[Tamarind paste]] — *tamarind paste* — Sambar (~150 ml tamarind water), Peanut Chutney (2 spoons)
 - [x] [[Channa dal]] — *chana dal* — Beans poriyal (1 tsp)
-- [ ] [[Green chilli]] — *Thai green chillies* — Beans poriyal (or dry red chili, as per requirement), Peanut Chutney (8)
+- [x] [[Green chilli]] — *Thai green chillies* — Beans poriyal (or dry red chili, as per requirement), Peanut Chutney (8)
 - [x] [[Curry powder]] — *curry powder* — Beans poriyal (as required)
 - [x] [[Blanched peanuts]] — *blanched peanuts* — Peanut Chutney (1.3 cups, roasted)
 - [x] [[Roasted gram]] — *roasted chana dal* — Peanut Chutney (~⅓ of peanuts)
 - [x] [[Garlic]] — *Frozen peeled garlic* — Peanut Chutney (6 cloves), One-off
 - [x] [[Coconut]] — *Frozen coconut* — Peanut Chutney (3 spoons)
+- [x] [[Curd]] — *plain low fat yogurt* — Regulars
 - [x] [[Roti]] — *Uncooked phulka roti* — Regulars
 
 ## Whole foods

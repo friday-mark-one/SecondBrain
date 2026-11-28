@@ -17,6 +17,7 @@ checked items automatically; unchecked ones stay for next time.
 Persistent menu — checked Regulars are unticked by the sweep, never removed.
 
 - [ ] [[Milk]]
+- [x] [[Curd]]
 - [x] [[Roti]]
 - [ ] [[Cereal]]
 - [ ] [[Tofu]]
